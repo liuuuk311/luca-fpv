@@ -5,7 +5,7 @@ import { darken } from 'polished';
 
 export const ContactContainer = styled.div`
   background-color: ${navy};
-  padding: 50px 20px;
+  padding: 50px 0px;
   width: 100%;
 `;
 

@@ -7,7 +7,6 @@ module.exports = {
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
-    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -49,6 +48,7 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
-    `gatsby-plugin-react-helmet`
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-styled-components`
   ],
 }
