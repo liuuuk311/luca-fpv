@@ -20,6 +20,7 @@ const LogoImg = styled.div`
   color: ${white};
   display: flex;
   font-size: 36px;
+  font-family: Arial, sans-serif;
   font-weight: 500;
   height: 80px;
   justify-content: center;
