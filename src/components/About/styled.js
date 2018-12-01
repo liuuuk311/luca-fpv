@@ -42,6 +42,7 @@ export const AboutContent = styled.div`
 export const AboutTitle = styled.h2`
   font-size: 24px;
   color: ${black};
+  margin-top: 0;
   margin-bottom: 15px;
 `;
 

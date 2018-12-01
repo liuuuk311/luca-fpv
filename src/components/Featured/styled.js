@@ -81,6 +81,7 @@ export const FeaturedCtaTitle = styled.h4`
   line-height: 20px;
   font-weight: 400;
   display: block;
+  margin-top: 0;
   margin-bottom: 0;
   text-align: left;
 `;

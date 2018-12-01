@@ -72,7 +72,8 @@ export const FeaturedPostTitle = styled.h3`
   color: ${black};
   font-size: 28px;
   margin-bottom: 6px;
-`
+  margin-top: 0;
+`;
 
 export const FeaturedPostDate = styled.span`
   display: block;

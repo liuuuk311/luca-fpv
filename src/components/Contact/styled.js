@@ -77,6 +77,10 @@ export const ContactButton = styled.button`
   transition: background-color ease-in-out 0.2s;
   width: 100%;
 
+  @media(min-width: ${mediumBp}){
+    min-width: 430px;
+  }
+
   &:hover, &:hover {
     background-color: ${darken(0.1, sky)};
     text-decoration: none;

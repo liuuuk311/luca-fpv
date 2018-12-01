@@ -43,6 +43,7 @@ export const TwitterCtaTitle = styled.h4`
 `;
 
 export const TwitterCtaDescription = styled.p`
+  margin-top: 0;
   font-size: 18px;
   line-height: 22px;
   margin-bottom: 16px;

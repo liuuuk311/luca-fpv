@@ -91,6 +91,7 @@ export const HeroTitle = styled.h1`
 `;
 
 export const HeroDescription = styled.p`
+  margin-top: 0;
   color: ${white};
   font-size: 16px;
   line-height: 25px;
