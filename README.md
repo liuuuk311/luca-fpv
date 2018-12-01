@@ -1,11 +1,14 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# Kyle McDonald's Personal Site
+Built with React + Gatsby
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+## Boilerplate
+This repo was originally created from [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-Or [view the live demo here](https://gatsby-starter-blog-demo.netlify.com/).
+## Installing
+`npm install`
 
 ## Running in development
-`gatsby develop`
+`npm run dev`
+
+## Running production build
+`npm run build`
