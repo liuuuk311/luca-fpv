@@ -27,6 +27,9 @@ export const AboutContentContainer = styled.div`
 
 export const AboutContent = styled.div`
   background-color: ${white};
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   order: 1;
   padding: 40px;
   width: 100%;
@@ -45,7 +48,8 @@ export const AboutTitle = styled.h2`
 export const AboutDescription = styled.p`
   font-size: 16px;
   color: ${black};
-  line-height: 24px;
+  line-height: 26px;
+  margin-bottom: 0;
 `;
 
 export const AboutImageContainer = styled.div`

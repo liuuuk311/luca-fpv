@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import { Link } from 'gatsby';
 
 import { sky, white } from '../utils/colors';
 import { mediumBp } from '../utils/variables';
@@ -45,11 +46,13 @@ const LogoImg = styled.div`
 class Logo extends Component {
   render() {
     return (
-      <LogoAside>
-        <LogoImg>
-          K
-        </LogoImg>
-      </LogoAside>
+      <Link to="/">
+        <LogoAside>
+          <LogoImg>
+              K
+          </LogoImg>
+        </LogoAside>
+      </Link>
     );
   }
 }

@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { white, black, navy } from '../../utils/colors';
+import { white, black, navy, sky } from '../../utils/colors';
 import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../../utils/variables';
 
 export const ImageContainer = styled.div`
@@ -18,12 +18,12 @@ export const ImageContainer = styled.div`
 export const BlogContainer =  styled.div`
   background-color: ${white};
   font-family: Arial, Helvetica, sans-serif;
-  margin: -80px 20px 0;
+  margin: -80px 20px 20px;
   max-width: 1300px;
   position: relative;
 
   @media(min-width: ${mediumBp}){
-    margin: -80px auto 0;
+    margin: -80px auto 40px;
   }
 `;
 
@@ -67,9 +67,18 @@ export const BlogAuthor = styled.div`
 export const BlogContent = styled.div`
   font-size: 18px;
   line-height: 26px;
-  padding: 20px 10px;
+  padding: 20px 20px;
 
   @media(min-width: ${mediumBp}){
-    padding: 20px 60px
+    padding: 40px 60px 20px 60px;
+  }
+
+  a {
+    color: ${sky};
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 `

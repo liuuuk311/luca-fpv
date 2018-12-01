@@ -9,11 +9,10 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 import { AccessibleText } from '../ScreenReader';
+import Logo from '../Logo';
 
 import {
   HeroContainer,
-  HeroAside,
-  HeroLogo,
   HeroList,
   HeroListItem,
   HeroContent,
@@ -29,10 +28,16 @@ class Hero extends Component {
   }
 
   componentDidMount(){
-    window.addEventListener('scroll', () => {
-      let position = (window.scrollY / 4.2) / 100;  
-      this.container.current.style.opacity = 1 - position;
-    });
+    window.addEventListener('scroll', this.handleScroll);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll)
+  }
+
+  handleScroll = () => {
+    let position = (window.scrollY / 4.2) / 100;  
+    this.container.current.style.opacity = 1 - position;
   }
 
   render() {
@@ -76,11 +81,7 @@ class Hero extends Component {
           </HeroListItem>
         </HeroList>
 
-        <HeroAside>
-          <HeroLogo>
-            K
-          </HeroLogo>
-        </HeroAside>
+        <Logo/>
 
         <HeroContent>
           <HeroTitle>

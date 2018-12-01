@@ -51,35 +51,44 @@ export const FeaturedLink = styled.a`
 
 export const FeaturedDescription = styled.p`
   font-size: 16px;
-  line-height: 24px;
+  line-height: 26px;
 `;
 
 export const FeaturedCta = styled.div`
   background-color: ${sky};
   color: ${white};
   font-size: 18px;
-  flex-direction: row;
   height: 250px;
   padding: 20px 40px;
   width: 100%;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 
   @media(min-width: ${largeBp}){
     height: auto;
     width: 30%;
   }
+
+  form {
+    margin: 0 0 8px 0;
+  }
 `;
 
 export const FeaturedCtaTitle = styled.h4`
-  font-size: 24px;
-  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
   display: block;
   margin-bottom: 0;
-  text-align: center;
+  text-align: left;
 `;
 
 export const FeaturedCtaSubtitle = styled.span`
+  font-size: 14px;
   display: block;
-  text-align: center;
+  text-align: left;
   width: 100%;
 `;
 

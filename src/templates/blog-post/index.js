@@ -7,6 +7,8 @@ import Layout from '../../components/Layout'
 import { rhythm, scale } from '../../utils/typography'
 
 import Logo  from '../../components/Logo';
+import Footer from '../../components/Footer';
+import TwitterCta from '../../components/TwitterCta';
 
 import {
   ImageContainer,
@@ -31,7 +33,9 @@ class BlogPostTemplate extends React.Component {
           htmlAttributes={{ lang: 'en' }}
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
-        />
+        >
+          <style>{` body { font-family: Arial, sans-serif }`}</style>
+        </Helmet>
         <Logo/>
         <ImageContainer image={post.frontmatter.bg}/>
         <BlogContainer>
@@ -46,10 +50,10 @@ class BlogPostTemplate extends React.Component {
           <BlogAuthor>
             {this.props.data.site.siteMetadata.author}
           </BlogAuthor>
-          <BlogContent  dangerouslySetInnerHTML={{ __html: post.html }} /> 
-
-          
+          <BlogContent  dangerouslySetInnerHTML={{ __html: post.html }} />           
+          <TwitterCta/>
         </BlogContainer>
+        <Footer/>
       </Layout>
     )
   }

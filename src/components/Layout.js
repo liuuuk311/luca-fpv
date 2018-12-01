@@ -59,7 +59,6 @@ class Layout extends React.Component {
           marginLeft: 'auto',
           marginRight: 'auto',
           backgroundColor: gray,
-          paddingBottom: '40px'
         }}
       >
         {header}

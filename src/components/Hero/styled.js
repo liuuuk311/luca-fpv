@@ -22,41 +22,6 @@ export const HeroContainer = styled.div`
   }
 `;
 
-export const HeroAside = styled.div`
-  max-width: 120px;
-  width: 10%;
-`;
-
-export const HeroLogo = styled.div`
-  animation: logoFlyIn 0.7s;
-  align-items: center;
-  background-color: ${sky};
-  color: ${white};
-  display: flex;
-  font-size: 36px;
-  font-weight: 500;
-  height: 80px;
-  justify-content: center;
-  width: 80px;
-
-  @media(min-width: ${mediumBp}){
-    font-size: 48px;
-    height: 120px;
-    width: 120px;
-  }
-
-  @keyframes logoFlyIn {
-    0% {
-      transform: translateX(-500px);
-    }
-
-    100%  {
-      transform: translateX(0);
-    
-    }
-  }
-`;
-
 export const HeroList = styled.ul`
   display: flex;
   flex-direction: row;
@@ -101,8 +66,12 @@ export const HeroContent = styled.div`
   width: 90%;
   z-index: 5;
 
+  @media(max-width: ${mediumBp}){
+    margin-top: 80px;
+  }
+
   @media(min-width: ${mediumBp}){
-    padding: 0 0 0 10%;
+    padding: 0 0 0 15%;
   }
 `;
 
