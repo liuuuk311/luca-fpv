@@ -10,7 +10,7 @@ After writing a few articles on Medium I found that I didn't get much out of it.
 
 
 ##How my blog is built now
-I've decided to use [GatsbyJS](https://www.gatsbyjs.org/) for my blog which involved a full migration of my site to [React](https://reactjs.org/). I've been using React on a lot of projects lately, like [IronMic](https://ironmic.fm) and [IdeaScratch](https://ideascratch.com]). I really like the React ecosystem and the ease of use of Gatsby is insanely great for my workflow. Being able to write articles locally in my code editor is something I've been wanting for awhile but just have never gotten around to it. Gatsby/React paired with my host [Netlify](https://netlify.com) is like a match made in heaven too, being able to push up on my [GitHub](https://github.com/kylemcd) and everything just happening by itself is so satisfying
+I've decided to use [GatsbyJS](https://www.gatsbyjs.org/) for my blog which involved a full migration of my site to [React](https://reactjs.org/). I've been using React on a lot of projects lately, like [IronMic](https://ironmic.fm) and [IdeaScratch](https://ideascratch.com). I really like the React ecosystem and the ease of use of Gatsby is insanely great for my workflow. Being able to write articles locally in my code editor is something I've been wanting for awhile but just have never gotten around to it. Gatsby/React paired with my host [Netlify](https://netlify.com) is like a match made in heaven too, being able to push up on my [GitHub](https://github.com/kylemcd) and everything just happening by itself is so satisfying
 
 
 ##So what can you expect from this new blog?
