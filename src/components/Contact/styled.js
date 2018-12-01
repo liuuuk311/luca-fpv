@@ -5,8 +5,7 @@ import { darken } from 'polished';
 
 export const ContactContainer = styled.div`
   background-color: ${navy};
-  padding: 50px 0px;
-  width: 100%;
+  padding: 50px 20px;
 `;
 
 export const ContactFormContainer = styled.div`
@@ -77,10 +76,6 @@ export const ContactButton = styled.button`
   padding: 18px 0;
   transition: background-color ease-in-out 0.2s;
   width: 100%;
-
-  @media(min-width: ${mediumBp}){
-    min-width: 430px;
-  }
 
   &:hover, &:hover {
     background-color: ${darken(0.1, sky)};
