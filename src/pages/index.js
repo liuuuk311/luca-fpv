@@ -55,7 +55,7 @@ class HomePage extends Component {
         <Helmet 
           title="Kyle McDonald"
         >
-        <style>{`body { background-color: ${navy}; }`}</style>
+        <style>{`body { background-color: ${navy}; margin: 0 !important }`}</style>
         </Helmet>
         <Hero/>
         <Content>

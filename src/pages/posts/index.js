@@ -20,7 +20,9 @@ class AllPosts extends Component {
       <MainContainer>
         <Helmet 
           title="Posts | Kyle McDonald"
-        />
+        >
+          <style>{`body { margin: 0 !important }`}</style>
+        </Helmet>
         <Logo />
         <ContentTitleContainer>
           <ContentTitle>

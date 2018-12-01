@@ -32,7 +32,7 @@ class BlogPostTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         >
-          <style>{` body { font-family: Arial, sans-serif }`}</style>
+          <style>{` body { font-family: Arial, sans-serif; margin: 0 !important }`}</style>
         </Helmet>
         <Logo/>
         <ImageContainer image={post.frontmatter.bg}/>
