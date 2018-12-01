@@ -1,6 +1,7 @@
 ---
 title: New Beginnings
 date: "2015-05-28T22:40:32.169Z"
+bg: "https://images.unsplash.com/photo-1516655855035-d5215bcb5604?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5da3abb226e19a58e7391bc6bde89d81&auto=format&fit=crop&w=1350&q=80"
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

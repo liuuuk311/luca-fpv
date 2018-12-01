@@ -7,13 +7,18 @@ export const AboutContainer = styled.div`
   background-color: ${gray};
   display: flex;
   justify-content: center;
-  padding: 60px 0;
+  padding: 20px 0;
+
+  @media(min-width: ${mediumBp}){
+    padding: 60px 0;
+  }
 `;
 
 export const AboutContentContainer = styled.div`
   max-width: ${globalMw};
   display: flex;
   flex-direction: column;
+  margin: 0 20px;
 
   @media(min-width: ${mediumBp}){
     flex-direction: row;
@@ -61,6 +66,7 @@ export const AboutImageContainer = styled.div`
 export const AboutImage = styled.img`
   border: 8px solid ${gray};
   height: auto;
+  margin: 0;
   width: 75%;
 `;
 

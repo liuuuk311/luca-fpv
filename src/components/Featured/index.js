@@ -9,7 +9,10 @@ import {
   FeaturedDescription,
   FeaturedCta,
   FeaturedCtaTitle,
-  FeaturedCtaLink
+  FeaturedCtaLabel,
+  FeaturedCtaInput,
+  FeaturedCtaButton,
+  FeaturedCtaSubtitle,
 } from './styled';
 
 class Featured extends Component {
@@ -47,11 +50,15 @@ class Featured extends Component {
 
         <FeaturedCta>
           <FeaturedCtaTitle>
-            Let's do something together
+            Join my newsletter
           </FeaturedCtaTitle>
-          <FeaturedCtaLink>
-            Get in touch
-          </FeaturedCtaLink>
+          <form>
+            <FeaturedCtaLabel for="email">Email</FeaturedCtaLabel>
+            <FeaturedCtaInput id="email"/>
+          </form>
+          <FeaturedCtaSubtitle>
+            Don't worry, no spam ever here
+          </FeaturedCtaSubtitle>
         </FeaturedCta>
 
       </FeaturedContainer>

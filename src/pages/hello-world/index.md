@@ -1,6 +1,7 @@
 ---
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
+bg: "https://images.unsplash.com/photo-1516655855035-d5215bcb5604?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5da3abb226e19a58e7391bc6bde89d81&auto=format&fit=crop&w=1350&q=80"
 ---
 
 This is my first post on my new fake blog! How exciting!

@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import styled from 'styled-components';
+import Helmet from 'react-helmet'
 
 // Component Import
 import Hero from '../components/Hero';
@@ -37,12 +38,13 @@ export const Content = styled.div`
   }
 `;
 
-
-
 class HomePage extends Component {
   render() {
     return (
       <Fragment>
+        <Helmet 
+          title="Kyle McDonald"
+        />
         {/* Gotta find a better way to do this */}
         <style>
           {'body { font-family: Arial !important; background-color: #032C57;}'}
