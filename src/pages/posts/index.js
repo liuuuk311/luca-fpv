@@ -11,7 +11,7 @@ import {
   ContentContainer,
   ContentTitleContainer,
   ContentTitle
-} from './styled';
+} from '../../components/BlogPostStyles';
 
 class AllPosts extends Component {
   render() {

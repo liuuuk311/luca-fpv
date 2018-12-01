@@ -2,9 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 
-import Bio from '../../components/Bio'
 import Layout from '../../components/Layout'
-import { rhythm, scale } from '../../utils/typography'
 
 import Logo  from '../../components/Logo';
 import Footer from '../../components/Footer';
@@ -18,7 +16,7 @@ import {
   BlogTitle, 
   BlogAuthor,
   BlogContent
-} from './styled';
+} from '../../components/BlogStyles';
 
 class BlogPostTemplate extends React.Component {
   render() {

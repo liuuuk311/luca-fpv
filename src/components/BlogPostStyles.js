@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import { gray, white, navy } from '../../utils/colors';
-import { globalMw, mediumBp } from '../../utils/variables';
+import { gray, white, navy } from '../utils/colors';
+import { globalMw, mediumBp } from '../utils/variables';
 
 export const MainContainer = styled.div`
   font-family: Arial !important; 

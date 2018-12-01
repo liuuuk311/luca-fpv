@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import { white, black, navy, sky } from '../../utils/colors';
-import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../../utils/variables';
+import { white, black, navy, sky } from '../utils/colors';
+import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../utils/variables';
 
 export const ImageContainer = styled.div`
   background-image: url('${props => props.image}');
