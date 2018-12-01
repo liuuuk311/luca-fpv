@@ -17,7 +17,7 @@ When releasing something to the world you are at the mercy of the consumer. If t
 
 ## You will get a ton of traffic
 
-There is nothing more exciting then seeing people use something you’ve built. This takes it to the next level, there are a **ton **of people using what you built. So first off, make sure your servers are ready. There is nothing worse that could happen then to launch something and your servers go down because the traffic is too much for them. Even if you beef up your servers just for launch day and then wind them down once traffic stabilizes, it is definitely worth the effort.
+There is nothing more exciting then seeing people use something you’ve built. This takes it to the next level, there are a **ton** of people using what you built. So first off, make sure your servers are ready. There is nothing worse that could happen then to launch something and your servers go down because the traffic is too much for them. Even if you beef up your servers just for launch day and then wind them down once traffic stabilizes, it is definitely worth the effort.
 
 The biggest thing to keep in mind about the traffic from Product Hunt is that most of these users aren’t your target audience. Don’t set your expectations that every user that visits on launch day could be a potential user, cause frankly they’re not. Personally I had this problem and was really bummed when we didn’t get the amount of conversions I had set in my mind.
 
