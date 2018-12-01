@@ -6,6 +6,7 @@ import { darken } from 'polished';
 export const ContactContainer = styled.div`
   background-color: ${navy};
   padding: 50px 20px;
+  width: 100%;
 `;
 
 export const ContactFormContainer = styled.div`
