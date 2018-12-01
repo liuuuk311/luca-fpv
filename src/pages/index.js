@@ -1,72 +1,62 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
-import Helmet from 'react-helmet'
+import React, { Component, Fragment } from 'react';
+import styled from 'styled-components';
 
-import Bio from '../components/Bio'
-import Layout from '../components/Layout'
-import { rhythm } from '../utils/typography'
+// Component Import
+import Hero from '../components/Hero';
+import Featured from '../components/Featured';
+import About from '../components/About';
+import Contact from '../components/Contact';
+import Footer from '../components/Footer';
+import { 
+  mobileHeroHeight, 
+  desktopHeroHeight,
+  mediumBp
+} from '../utils/variables';
 
-class BlogIndex extends React.Component {
+export const Content = styled.div`
+  animation: flyin 0.8s;
+  margin-top: ${mobileHeroHeight};
+  z-index: 10;
+
+  @media(min-width: ${mediumBp}){
+    margin-top: ${desktopHeroHeight};
+  }
+
+  @keyframes flyin {
+    0% {
+      transform: translateY(1000px)
+    }
+
+    70% {
+      transform: translateY(-15px);
+    }
+
+    100% {
+      transform: translateY(0);
+    }
+  }
+`;
+
+
+
+class HomePage extends Component {
   render() {
-    const { data } = this.props;
-    const siteTitle = data.site.siteMetadata.title
-    const siteDescription = data.site.siteMetadata.description
-    const posts = data.allMarkdownRemark.edges
-
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <Helmet
-          htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
-          title={siteTitle}
-        />
-        <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-            </div>
-          )
-        })}
-      </Layout>
-    )
+      <Fragment>
+        {/* Gotta find a better way to do this */}
+        <style>
+          {'body { font-family: Arial !important; background-color: #032C57;}'}
+        </style>
+        <Hero/>
+        <Content>
+          <Featured/>
+          <About/>
+          <Contact/>
+          <Footer/>
+        </Content>
+      </Fragment>
+    );
   }
 }
 
-export default BlogIndex
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-          }
-        }
-      }
-    }
-  }
-`
+export default HomePage;
