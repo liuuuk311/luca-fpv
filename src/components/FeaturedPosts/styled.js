@@ -16,6 +16,7 @@ export const FeaturedPostsContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  height: 100%;
   flex-wrap: wrap;
   margin: 0 auto;
   max-width: ${globalMw};
@@ -30,6 +31,7 @@ export const FeaturedPostsContainer = styled.div`
 export const FeaturedPost = styled.div`
   background-color: ${gray};
   color: ${black};
+  cursor: pointer;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -43,6 +45,7 @@ export const FeaturedPost = styled.div`
     flex: 0 1 49%;
     margin-bottom: 25px;
     padding: 30px;
+    min-height: 150px;
   }
 
   ${props => props.fullwidth === true && css`
@@ -62,13 +65,10 @@ export const FeaturedPost = styled.div`
     background-color: ${darken(0.1, gray)};
   }
 
-  &:last-child {
-    margin-bottom: 0;
-  }
-
 `;
 
 export const FeaturedPostTitle = styled.h3`
+  display: block;
   color: ${black};
   font-size: 28px;
   margin-bottom: 6px;
@@ -79,7 +79,7 @@ export const FeaturedPostDate = styled.span`
   display: block;
   color: ${black};
   text-transform: uppercase;
-  margin-top: 18px;
+  margin-top: auto;
 `;
 
 export const FeaturedButtonContainer = styled.div`

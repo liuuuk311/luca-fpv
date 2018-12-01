@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'gatsby';
+import { navigate, Link } from 'gatsby';
 
 import {
   FeaturedPostsMainContainer,
@@ -22,15 +22,16 @@ class FeaturedPosts extends Component {
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
-              <FeaturedPost key={node.fields.slug} fullwidth={fullwidth}>
-                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
+              <FeaturedPost key={node.fields.slug} fullwidth={fullwidth}
+                onClick={(() => navigate(node.fields.slug))}>
+                {/* <Link style={{ boxShadow: 'none' }} to={node.fields.slug}> */}
                   <FeaturedPostTitle>
                     {title}
                   </FeaturedPostTitle>
                   <FeaturedPostDate>
                     {node.frontmatter.date}
                   </FeaturedPostDate>
-                </Link>
+                {/* </Link> */}
               </FeaturedPost>
             )
           })}
