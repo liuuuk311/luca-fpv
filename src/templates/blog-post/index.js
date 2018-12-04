@@ -33,6 +33,10 @@ class BlogPostTemplate extends React.Component {
           title={`${post.frontmatter.title} | ${siteTitle}`}
         >
           <style>{` body { font-family: Arial, sans-serif; margin: 0 !important }`}</style>
+          <meta property="og:title" content={`${post.frontmatter.title}`} />
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://kylemcd.com" />
+          <meta property="og:image" content={post.frontmatter.bg}  />
         </Helmet>
         <Logo/>
         <ImageContainer image={post.frontmatter.bg}/>
