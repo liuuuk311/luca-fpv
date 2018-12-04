@@ -1,7 +1,7 @@
 ---
 title: Why I build in the open
 date: "2018-12-03T22:40:32.169Z"
-bg: "https://images.unsplash.com/photo-1528660493888-ab6f4761e036?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4868cc90c3c515fb1316574d9aff1640&auto=format&fit=crop&w=1350&q=80"
+bg: "https://images.unsplash.com/photo-1530258422663-6749b47598fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1372&q=80"
 ---
 
 I would classify myself as an extrovert (ENFJ more specifically) and building products as an extrovert can sometimes be tasking. Sitting in a dark room alone pecking away at the keyboard is absolutely frightening to me. Because of this I always burn out on building stuff, have a bunch of half baked projects, and am never satisfied with what I've accomplished. But recently I've discovered how beneficial it is for me to build products in the open. For me this means tweeting about progress, logging tasks on [Makerlog](https://getmakerlog.com), and live streaming on my [Twitch](https://twitch.tv/kylemcd27). 
