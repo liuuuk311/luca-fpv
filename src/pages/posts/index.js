@@ -21,6 +21,10 @@ class AllPosts extends Component {
         <Helmet 
           title="Posts | Kyle McDonald"
         >
+          <meta charset="UTF-8" />
+          <meta name="description" content="Kyle McDonald's Personal Site" />
+          <meta name="keywords" content="Maker, HTML, Developer, Engineer" />
+          <meta name="author" content="Kyle McDonald" />
           <style>{`body { margin: 0 !important }`}</style>
         </Helmet>
         <Logo />
