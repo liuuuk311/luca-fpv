@@ -7,14 +7,26 @@ export const TwitterCtaContainer = styled.div`
   align-items: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between; 
   padding: 20px;
 
   @media(min-width: ${mediumBp}){
     flex-direction: row;
-    padding: 40px;
+    padding: 40px 60px;
   }
 `
+
+export const TwitterProfileContainer = styled.div`
+ align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+   @media(min-width: ${mediumBp}){
+    flex-direction: row;
+    padding: 40px;
+  }
+`;
 
 export const TwitterCtaImage = styled.img`
   border: 8px solid ${gray};
