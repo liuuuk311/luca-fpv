@@ -1,7 +1,7 @@
 ---
 title: My Development Flow
 date: "2018-12-09T22:40:32.169Z"
-bg: "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4868cc90c3c515fb1316574d9aff1640&auto=format&fit=crop&w=1350&q=80"
+bg: "https://images.unsplash.com/photo-1482685945432-29a7abf2f466?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80"
 ---
 
 I find that learning about how other people do things is so beneficial to optimizing my own processes. So with that being said, I figured I'd share my development flow with everyone. To preface, I wouldn't say that my process is wildly different then a "normal" developers flow, but maybe I can show someone something cool that they didn't know about.
