@@ -66,7 +66,7 @@ export const BlogAuthor = styled.div`
 
 export const BlogContent = styled.div`
   font-size: 18px;
-  line-height: 26px;
+  line-height: 30px;
   padding: 20px 20px;
 
   @media(min-width: ${mediumBp}){
