@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import { navy, white, black, gray } from '../../utils/colors';
+import { navy, white, black, gray, sky } from '../../utils/colors';
 import { mediumBp, globalMw } from '../../utils/variables';
 
 export const AboutContainer = styled.div`
   align-items: center;
-  background-color: ${gray};
+  background-color: ${sky};
   display: flex;
   justify-content: center;
   padding: 20px 0;
@@ -26,7 +26,7 @@ export const AboutContentContainer = styled.div`
 `;
 
 export const AboutContent = styled.div`
-  background-color: ${white};
+  background-color: ${navy};
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -41,14 +41,14 @@ export const AboutContent = styled.div`
 `;
 export const AboutTitle = styled.h2`
   font-size: 24px;
-  color: ${black};
+  color: ${white};
   margin-top: 0;
   margin-bottom: 15px;
 `;
 
 export const AboutDescription = styled.p`
   font-size: 16px;
-  color: ${black};
+  color: ${white};
   line-height: 26px;
   margin-bottom: 0;
 `;

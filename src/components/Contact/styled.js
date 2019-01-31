@@ -4,7 +4,7 @@ import { mediumBp } from '../../utils/variables';
 import { darken } from 'polished';
 
 export const ContactContainer = styled.div`
-  background-color: ${navy};
+  background-color: ${sky};
   padding: 50px 20px;
 `;
 
@@ -66,7 +66,7 @@ export const ContactTextArea = styled.textarea`
 `;
 
 export const ContactButton = styled.button`
-  background-color: ${sky};
+  background-color: ${navy};
   border: none;
   color: ${white};
   cursor: pointer;
@@ -78,7 +78,7 @@ export const ContactButton = styled.button`
   width: 100%;
 
   &:hover, &:hover {
-    background-color: ${darken(0.1, sky)};
+    background-color: ${darken(0.1, navy)};
     text-decoration: none;
     outline: none;
   }

@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import { gray, white, navy } from '../utils/colors';
+import { gray, white, navy, sky } from '../utils/colors';
 import { globalMw, mediumBp } from '../utils/variables';
 
 export const MainContainer = styled.div`
   font-family: Arial !important; 
-  background-color: ${gray};
+  background-color: ${navy};
   padding: 100px 0px;
 
   @media(min-width: ${mediumBp}){
@@ -14,7 +14,8 @@ export const MainContainer = styled.div`
 `;
 
 export const ContentContainer = styled.div`
-  background-color: ${white};
+  background-color: ${sky};
+  color: ${white};
   margin:  0 20px 40px 20px;
   max-width: ${globalMw};
   padding: 0 10px;
@@ -35,7 +36,7 @@ export const ContentTitleContainer = styled.div`
 `;
 
 export const ContentTitle = styled.h2`
-  background-color: ${navy};
+  background-color: ${sky};
   color: ${white};
   font-size: 32px;
   font-weight: 500;

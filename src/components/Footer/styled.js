@@ -1,10 +1,11 @@
 import styled from 'styled-components';
-import { white, black } from '../../utils/colors';
+import { white, black, navy, gray } from '../../utils/colors';
 import { mediumBp } from '../../utils/variables';
+import { darken } from 'polished';
 
 export const FooterContainer = styled.div`
   align-items: center;
-  background-color: ${white};
+  background-color: ${navy};
   display: flex;
   flex-direction: column;
   padding: 15px 20px;
@@ -16,7 +17,7 @@ export const FooterContainer = styled.div`
 `;
 
 export const FooterCopy = styled.div`
-  color: ${black};
+  color: ${white};
   font-size: 16px;
 `;
 
@@ -42,9 +43,13 @@ export const FooterIconListItem = styled.li`
 `;
 
 export const FooterIconLink = styled.a`
-  color: ${black};
+  color: ${white};
   display: block;
   font-size: 20px;
   cursor: hover;
-  border-bottom: 1px solid ${white};
+  transition: 0.2s ease-in-out;
+
+  &:hover, &:focus{
+    color: ${darken(0.2, white)}
+  }
 `;

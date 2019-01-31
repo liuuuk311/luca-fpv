@@ -44,7 +44,7 @@ const Content = styled.div`
 
 export const MainContainer = styled.div`
   font-family: Arial !important; 
-  background-color: #032C57;
+  background-color: #202124;
 `
 
 class HomePage extends Component {

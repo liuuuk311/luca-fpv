@@ -1,6 +1,7 @@
 import styled from 'styled-components';
-import { white, black, navy, sky } from '../utils/colors';
+import { white, black, navy, sky, gray } from '../utils/colors';
 import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../utils/variables';
+import { darken } from 'polished'
 
 export const ImageContainer = styled.div`
   background-image: url('${props => props.image}');
@@ -16,10 +17,10 @@ export const ImageContainer = styled.div`
 `;
 
 export const BlogContainer =  styled.div`
-  background-color: ${white};
+  background-color: ${navy};
   font-family: Arial, Helvetica, sans-serif;
   margin: -80px 20px 20px;
-  max-width: 1300px;
+  max-width: 800px;
   position: relative;
 
   @media(min-width: ${mediumBp}){
@@ -36,7 +37,7 @@ export const BlogDateContainer = styled.div`
 `;
 
 export const BlogDate = styled.span`
-  background-color: ${navy};
+  background-color: ${sky};
   color: ${white};
   font-size: 12px;
   padding: 8px 16px;
@@ -44,7 +45,7 @@ export const BlogDate = styled.span`
 `;
 
 export const BlogTitle = styled.h1`
-  color: ${black};
+  color: ${white};
   display: block;
   font-size: 44px;
   line-height: 50px;
@@ -59,12 +60,14 @@ export const BlogTitle = styled.h1`
 `;
 
 export const BlogAuthor = styled.div`
+color: ${white};
   font-size: 20px;
   text-align: center;
   margin-top: 20px;
 `;
 
 export const BlogContent = styled.div`
+color: ${white};
   font-size: 18px;
   line-height: 30px;
   padding: 20px 20px;
@@ -74,10 +77,11 @@ export const BlogContent = styled.div`
   }
 
   a {
-    color: ${sky};
-    text-decoration: none;
+    color: ${gray};
+    text-decoration: underline;
 
     &:hover {
+      color: ${darken(0.2, gray)};
       text-decoration: underline;
     }
   }

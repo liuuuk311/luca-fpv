@@ -1,11 +1,11 @@
 import styled, { css } from 'styled-components';
-import { white, gray, black, sky } from '../../utils/colors';
+import { white, gray, black, sky, navy } from '../../utils/colors';
 import { globalMw, mediumBp } from '../../utils/variables';
 import { darken } from 'polished';
 
 
 export const FeaturedPostsMainContainer = styled.div`
-  background-color: ${white};
+  /* background-color: ${navy}; */
 
   a {
     text-decoration: none;
@@ -29,8 +29,8 @@ export const FeaturedPostsContainer = styled.div`
 `;
 
 export const FeaturedPost = styled.div`
-  background-color: ${gray};
-  color: ${black};
+  background-color: ${sky};
+  color: ${white};
   cursor: pointer;
   display: flex;
   flex-direction: column;
@@ -62,14 +62,13 @@ export const FeaturedPost = styled.div`
   }
 
   &:hover {
-    background-color: ${darken(0.1, gray)};
+    background-color: ${darken(0.1, sky)};
   }
 
 `;
 
 export const FeaturedPostTitle = styled.h3`
   display: block;
-  color: ${black};
   font-size: 28px;
   margin-bottom: 6px;
   margin-top: 0;
@@ -77,7 +76,6 @@ export const FeaturedPostTitle = styled.h3`
 
 export const FeaturedPostDate = styled.span`
   display: block;
-  color: ${black};
   text-transform: uppercase;
   margin-top: auto;
 `;

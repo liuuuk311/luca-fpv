@@ -1,9 +1,9 @@
 import styled from 'styled-components';
-import { white, black, gray } from '../../utils/colors';
+import { white, black, gray, sky } from '../../utils/colors';
 import { mediumBp } from '../../utils/variables';
 
 export const TwitterCtaContainer = styled.div`
-  border-top: 1px solid ${gray};
+  border-top: 1px solid ${sky};
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -19,6 +19,7 @@ export const TwitterCtaContainer = styled.div`
 export const TwitterProfileContainer = styled.div`
  align-items: center;
   display: flex;
+  color: ${white};
   flex-direction: column;
   justify-content: center;
 

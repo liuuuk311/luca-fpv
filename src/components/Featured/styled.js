@@ -1,10 +1,11 @@
 import styled from 'styled-components';
-import { navy, white, sky, black, gray } from '../../utils/colors';
+import { navy, white, sky, black, gray, lightGray } from '../../utils/colors';
 import { largeBp } from '../../utils/variables';
 import { darken } from 'polished';
 
 export const FeaturedContainer = styled.div`
-  background-color: ${white};
+  background-color: ${sky};
+  color: ${white};
   display: flex;
   flex-direction: column;
 
@@ -14,7 +15,7 @@ export const FeaturedContainer = styled.div`
 `;
 
 export const FeaturedSite = styled.div`
-  color: ${black};
+  color: ${white};
   padding: 30px 40px;
   width: 100%;
 
@@ -36,8 +37,8 @@ export const FeaturedTitle = styled.h2`
 `;
 
 export const FeaturedLink = styled.a`
-  color: ${black};
-  border-bottom: 1px solid ${white};
+  color: ${white};
+  border-bottom: 1px solid ${lightGray};
   font-size: 12px;
   text-decoration: none;
   text-transform: uppercase;
