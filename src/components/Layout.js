@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { navy, black } from '../utils/colors'
+import { navy, sky } from '../utils/colors'
 
 import { rhythm, scale } from '../utils/typography'
 
@@ -12,7 +12,7 @@ class Layout extends React.Component {
 
     return(
       <div style={{
-              backgroundColor: black,
+              backgroundColor: sky,
             }}>
         {children}
       </div>
