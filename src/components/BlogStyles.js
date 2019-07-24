@@ -79,11 +79,11 @@ color: ${white};
   }
 
   a {
-    color: ${gray};
+    color: #4F86C6;
     text-decoration: underline;
 
     &:hover {
-      color: ${darken(0.2, gray)};
+      color: ${darken(0.2, '#4F86C6')};
       text-decoration: underline;
     }
   }

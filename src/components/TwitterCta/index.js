@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { TwitterFollowButton } from 'react-twitter-embed';
-import Script from 'react-load-script';
 
 import {
   TwitterCtaContainer,
@@ -13,24 +12,9 @@ import {
 
 class TwitterCta extends Component {
   
-  state = {
-    scriptLoaded: false
-  }
-
-  handleScriptCreate() {
-    this.setState({ scriptLoaded: false })
-  }
-   
-  handleScriptError() {
-    this.setState({ scriptError: true })
-  }
-   
-  handleScriptLoad() {
-    this.setState({ scriptLoaded: true })
-  }
 
   render() {
-    const { scriptLoaded } = this.state;
+  
     return (
       <TwitterCtaContainer>
         <TwitterProfileContainer>
@@ -47,13 +31,6 @@ class TwitterCta extends Component {
             />
           </TwitterCtaContent>
         </TwitterProfileContainer>
-        {scriptLoaded && <div id="codefund_ad"></div>}
-        <Script
-          url="https://codefund.io/scripts/e0eb3bf9-38b2-41b0-bc97-1f16e94abb38/embed.js"
-          onCreate={this.handleScriptCreate.bind(this)}
-          onError={this.handleScriptError.bind(this)}
-          onLoad={this.handleScriptLoad.bind(this)}
-        />
       </TwitterCtaContainer>
     );
   }
