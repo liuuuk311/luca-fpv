@@ -1,6 +1,6 @@
 ---
 title: Centering literally everything with CSS
-date: "2019-7-24T22:40:32.169Z"
+date: "2019-07-24T22:40:32.169Z"
 bg: "https://images.unsplash.com/photo-1501619521425-4172740edc9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1936&q=80"
 ---
 
