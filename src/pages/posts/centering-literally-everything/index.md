@@ -1,7 +1,7 @@
 ---
 title: Centering literally everything with CSS
 date: "2019-7-24T22:40:32.169Z"
-bg: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ae2d32767e7488a5e5cb070c4457b519&auto=format&fit=crop&w=1350&q=80"
+bg: "https://images.unsplash.com/photo-1501619521425-4172740edc9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1936&q=80"
 ---
 
 I've always noticed a common theme amongst the dev community when it comes to "centering things" and that common theme is that... "it's hard". But the thing is... it's really not. In this article, I'll show you my _go-to_ method when it comes to centering anything. Of course, there are tons of other ways to center things, not denying that, but this is the way I found to consistently work for me.
