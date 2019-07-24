@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 import { white, black, navy, sky, gray } from '../utils/colors';
 import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../utils/variables';
-import { darken } from 'polished'
+import { darken } from 'polished';
+import prismTheme from './prismTheme';
 
 export const ImageContainer = styled.div`
   background-image: url('${props => props.image}');
@@ -67,6 +68,7 @@ color: ${white};
 `;
 
 export const BlogContent = styled.div`
+${prismTheme}
 color: ${white};
   font-size: 18px;
   line-height: 30px;
