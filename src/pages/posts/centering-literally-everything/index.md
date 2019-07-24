@@ -27,7 +27,7 @@ Centering text horizontally is super easy. Declare your display rule as flex (di
 }
 ```
 &nbsp;
-#### Example
+#### In Action
 
 <style type="text/css">
   .center-text {
@@ -60,7 +60,7 @@ Centering text vertically is just as simple as the horizontal centering. For thi
 }
 ```
 &nbsp;
-#### Example
+#### In Action
 
 <style type="text/css">
   .center-text-vertically {
@@ -95,7 +95,7 @@ The pinacle of centering text... to accomplish this we just combine the last two
 }
 ```
 &nbsp;
-#### Example
+#### In Action
 
 <style type="text/css">
   .center-text-vertically-horizontally {
@@ -127,7 +127,7 @@ Apply the same rules we used on text and there you go, we have a centered elemen
     </div>
   </div>
 ```
-
+&nbsp;
 #### CSS
 ```css
   .center-element-horizontal-parent{
@@ -139,8 +139,8 @@ Apply the same rules we used on text and there you go, we have a centered elemen
     width: 100px; /* This is a fabricated width, this will definitely change for you. */
   }
 ```
-
-#### Example
+&nbsp;
+#### In Action
 <style type="text/css">
  .center-element-horizontal-parent{
     display: flex;
@@ -173,6 +173,7 @@ Apply the same rules we used on text and there you go, we have a centered elemen
   </div>
 ```
 
+&nbsp;
 #### CSS
 ```css
   .center-element-vertical-parent{
@@ -185,8 +186,8 @@ Apply the same rules we used on text and there you go, we have a centered elemen
     width: 100px; /* This is a fabricated width, this will definitely change for you. */
   }
 ```
-
-#### Example
+&nbsp;
+#### In Action
 <style type="text/css">
  .center-element-vertical-parent{
     align-items: center;
@@ -219,7 +220,7 @@ Apply the same rules we used on text and there you go, we have a centered elemen
     </div>
   </div>
 ```
-
+&nbsp;
 #### CSS
 ```css
   .center-element-vertical-horizontal-parent{
@@ -233,8 +234,8 @@ Apply the same rules we used on text and there you go, we have a centered elemen
     width: 100px; /* This is a fabricated width, this will definitely change for you. */
   }
 ```
-
-#### Example
+&nbsp;
+#### In Action
 <style type="text/css">
  .center-element-vertical-horizontal-parent{
     align-items: center;
