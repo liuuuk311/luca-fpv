@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { white, black, navy, sky, gray } from '../utils/colors';
+import { white, black, navy, sky, gray, lightGray } from '../utils/colors';
 import { mobileHeroHeight, desktopHeroHeight, mediumBp } from '../utils/variables';
 import { darken } from 'polished';
 import prismTheme from './prismTheme';
@@ -86,5 +86,11 @@ color: ${white};
       color: ${darken(0.2, '#4F86C6')};
       text-decoration: underline;
     }
+  }
+
+  blockquote {
+    border-left: 5px solid ${lightGray};
+    margin-left: 0;
+    padding-left: 2em;
   }
 `
