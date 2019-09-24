@@ -37,14 +37,14 @@ class Featured extends Component {
         <FeaturedSite>
           <FeaturedTop>
             <FeaturedTitle>
-              BrandSearch
+              git reset
             </FeaturedTitle>
-            <FeaturedLink href="https://brand.sh" target="_blank"  rel="noopener">
+            <FeaturedLink href="https://gitreset.com" target="_blank"  rel="noopener">
               Visit Site
             </FeaturedLink>
           </FeaturedTop>
           <FeaturedDescription>
-          BrandSearch is a search engine for different brands style guides. The site gives you easy access to their colors, assets, and other key information you should know. This was a weekend project that was released successfully on Product Hunt.
+            git reset is a fresh take on podcasting in the web development world. I focus on asking fun and ridiculous questions to guests about web development and tech. 
           </FeaturedDescription>
         </FeaturedSite>
 
