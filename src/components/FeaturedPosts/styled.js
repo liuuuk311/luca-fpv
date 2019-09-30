@@ -5,7 +5,6 @@ import { darken } from 'polished';
 
 
 export const FeaturedPostsMainContainer = styled.div`
-  /* background-color: ${navy}; */
 
   a {
     text-decoration: none;

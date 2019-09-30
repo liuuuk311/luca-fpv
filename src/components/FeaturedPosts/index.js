@@ -24,14 +24,12 @@ class FeaturedPosts extends Component {
             return (
               <FeaturedPost key={node.fields.slug} fullwidth={fullwidth}
                 onClick={(() => navigate(node.fields.slug))}>
-                {/* <Link style={{ boxShadow: 'none' }} to={node.fields.slug}> */}
                   <FeaturedPostTitle>
                     {title}
                   </FeaturedPostTitle>
                   <FeaturedPostDate>
                     {node.frontmatter.date}
                   </FeaturedPostDate>
-                {/* </Link> */}
               </FeaturedPost>
             )
           })}
