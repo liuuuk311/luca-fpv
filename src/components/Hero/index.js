@@ -80,9 +80,7 @@ class Hero extends Component {
             </a>
           </HeroListItem>
         </HeroList>
-
         <Logo/>
-
         <HeroContent>
           <HeroTitle>
             Business oriented developer with an entrepreneurial spirit
