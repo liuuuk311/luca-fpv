@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import { 
   faTwitter, 
   faProductHunt, 
@@ -21,7 +22,7 @@ import {
 class Footer extends Component {
 
   state = {
-    year: null,
+    year: null
   }
 
   componentWillMount(){
