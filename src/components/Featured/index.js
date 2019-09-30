@@ -44,7 +44,7 @@ class Featured extends Component {
             </FeaturedLink>
           </FeaturedTop>
           <FeaturedDescription>
-            git reset is a fresh take on podcasting in the web development world. I focus on asking fun and ridiculous questions to guests about web development and tech. 
+            git reset is a fresh take on podcasting in the web development world. I focus on asking fun and ridiculous questions to guests about web development and tech. New episodes are released weekly on Tuesdays!!
           </FeaturedDescription>
         </FeaturedSite>
 
