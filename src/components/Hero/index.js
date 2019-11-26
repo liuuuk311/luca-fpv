@@ -1,15 +1,15 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { 
-  faTwitter, 
-  faProductHunt, 
-  faGithub, 
-  faDribbble
-} from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faTwitter,
+  faProductHunt,
+  faGithub,
+  faDribbble,
+} from '@fortawesome/free-brands-svg-icons'
 
-import { AccessibleText } from '../ScreenReader';
-import Logo from '../Logo';
+import { AccessibleText } from '../ScreenReader'
+import Logo from '../Logo'
 
 import {
   HeroContainer,
@@ -17,18 +17,17 @@ import {
   HeroListItem,
   HeroContent,
   HeroTitle,
-  HeroDescription
-} from './styled';
+  HeroDescription,
+} from './styled'
 
 class Hero extends Component {
-
-  constructor(props){
-    super(props);
-    this.container = React.createRef();
+  constructor(props) {
+    super(props)
+    this.container = React.createRef()
   }
 
-  componentDidMount(){
-    window.addEventListener('scroll', this.handleScroll);
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll)
   }
 
   componentWillUnmount() {
@@ -36,8 +35,8 @@ class Hero extends Component {
   }
 
   handleScroll = () => {
-    let position = (window.scrollY / 4.2) / 100;  
-    this.container.current.style.opacity = 1 - position;
+    let position = window.scrollY / 4.2 / 100
+    this.container.current.style.opacity = 1 - position
   }
 
   render() {
@@ -45,54 +44,59 @@ class Hero extends Component {
       <HeroContainer ref={this.container}>
         <HeroList>
           <HeroListItem>
-            <a href="https://www.twitter.com/designbykyle" target="_blank" rel="noopener">
-              <AccessibleText>
-                Twitter
-              </AccessibleText>
+            <a
+              href="https://www.twitter.com/designbykyle"
+              target="_blank"
+              rel="noopener"
+            >
+              <AccessibleText>Twitter</AccessibleText>
               <FontAwesomeIcon icon={faTwitter} />
             </a>
           </HeroListItem>
 
           <HeroListItem>
-            <a href="https://www.producthunt.com/@hustlinhack" target="_blank" rel="noopener">
-              <AccessibleText>
-                Product Hunt
-              </AccessibleText>
+            <a
+              href="https://www.producthunt.com/@hustlinhack"
+              target="_blank"
+              rel="noopener"
+            >
+              <AccessibleText>Product Hunt</AccessibleText>
               <FontAwesomeIcon icon={faProductHunt} />
             </a>
           </HeroListItem>
 
-           <HeroListItem>
+          <HeroListItem>
             <a href="https://github.com/KyleMCD" target="_blank" rel="noopener">
-              <AccessibleText>
-                GitHub
-              </AccessibleText>
+              <AccessibleText>GitHub</AccessibleText>
               <FontAwesomeIcon icon={faGithub} />
             </a>
           </HeroListItem>
 
-           <HeroListItem>
-            <a href="https://dribbble.com/KyleMCD" target="_blank" rel="noopener">
-              <AccessibleText>
-                Dribbble
-              </AccessibleText>
+          <HeroListItem>
+            <a
+              href="https://dribbble.com/KyleMCD"
+              target="_blank"
+              rel="noopener"
+            >
+              <AccessibleText>Dribbble</AccessibleText>
               <FontAwesomeIcon icon={faDribbble} />
             </a>
           </HeroListItem>
         </HeroList>
-        <Logo/>
+        <Logo />
         <HeroContent>
           <HeroTitle>
             Business oriented developer with an entrepreneurial spirit
           </HeroTitle>
           <HeroDescription>
-            I am a Windy City based developer currently pushing code at Designory. In my freetime I enjoy exploring the great outdoors, reading a good book, or working on fun projects.
+            I am a Windy City based developer currently pushing code at Foxtrot.
+            In my freetime I enjoy exploring the great outdoors, reading a good
+            book, or working on fun projects.
           </HeroDescription>
         </HeroContent>
-
       </HeroContainer>
-    );
+    )
   }
 }
 
-export default Hero;
+export default Hero
