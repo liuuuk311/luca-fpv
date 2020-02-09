@@ -1,6 +1,10 @@
-export const navy = '#202124';
-export const sky = '#2E2F31';
-export const black = '#404040';
-export const gray = '#E3E3E3';
-export const white = '#ffffff';
-export const lightGray = "#656668";
+
+const colors = {
+    black: '#2e2e2e',
+    white: '#ffffff',
+    darkGray: '#5e5e5e',
+    lightGray: '#e6e6e6',
+    personality: '#77AF9C'
+}
+
+export default colors;
