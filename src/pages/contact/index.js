@@ -16,7 +16,7 @@ import {
     Textarea
 } from '../../components/PageStyles/ContactStyles';
 
-const Contact = ({ locatiom }) => {
+const Contact = ({ location }) => {
     return (
         <Default
             location={location}
