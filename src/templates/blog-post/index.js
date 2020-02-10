@@ -28,6 +28,11 @@ const BlogPost = ({ data, location }) => {
                 title,
                 date
             },
+            fields : {
+                readingTime : {
+                    text
+                }
+            },
             excerpt,
             html
         }
@@ -76,7 +81,7 @@ const BlogPost = ({ data, location }) => {
                 <PostContainer>
                     <Info>
                         <Date>
-                            {date}
+                            {date} &nbsp;&middot;&nbsp; {text}
                         </Date>
                         <Title>
                             {title}
@@ -108,6 +113,11 @@ export const pageQuery = graphql`
       id
       excerpt
       html
+      fields {
+          readingTime {
+              text
+          }
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

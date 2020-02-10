@@ -20,6 +20,9 @@ const HomePostList = () => {
               excerpt
               fields {
                 slug
+                readingTime {
+                  text
+                }
               }
               frontmatter {
                 date(formatString: "MMMM DD, YYYY")
@@ -32,17 +35,17 @@ const HomePostList = () => {
     `)
 
     const posts = data.allMarkdownRemark.edges;
-
+console.log(posts);
     return (
         <Container>
             <PostList>
                 {posts.map(( node, index ) => {
-                    const { node : { excerpt, frontmatter : { title, date }, fields : { slug } } } = node;
+                    const { node : { excerpt, frontmatter : { title, date }, fields : { slug, readingTime : { text } } } } = node;
                     return (
                         <PostListItem>
                             <Link to={`${slug}`} key={index}>
                                 <Date>
-                                    {date}
+                                    {date} &nbsp;&middot;&nbsp; {text}
                                 </Date>
                                 <Heading>
                                     {title}
