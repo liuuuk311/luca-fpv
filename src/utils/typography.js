@@ -10,7 +10,7 @@ Wordpress2016.overrideThemeStyles = () => ({
 delete Wordpress2016.googleFonts
 
 const typography = new Typography(({
-  headerFontFamily: ["Roboto", "sans-serif"],
+  headerFontFamily: ["Lato", "sans-serif"],
   bodyFontFamily: ["Avenir Next", "sans-serif"]
 }))
 

@@ -8,19 +8,47 @@ export const Container = styled.div`
     margin: 0 auto;
     max-width: 1248px;
     padding: 24px 16px;
-    position: fixed;
+    position: sticky;
     top: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    margin-right: 0;
     width: calc(100% - 32px);
+    z-index: 50;
 
     ${media.medium`
+        transform: translateX(16px);
         padding: 48px 16px;
+        margin-right: auto;
     `}
 `;
 
-export const Offset = styled.div`
-    margin-bottom: 150px;
+export const ContentContainer = styled.div`
+    align-items: center;
+    background-color: ${colors.white};
+    border: 1px solid ${colors.white};
+    border-radius: 4px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px;
+    transition: 0.3s ease-in-out;
+    z-index: 5;
+
+    &:hover, &:focus {
+        background-color: ${colors.white};
+        border: 1px solid ${colors.lightGray};
+        box-shadow: 0px 0px 4px rgba(0,0,0,0.05);
+    }
+
+    ${props => props.isSticky && css`
+        background-color: ${colors.white};
+        border: 1px solid ${colors.lightGray};
+    `}
+
+    ${props => props.isActive && css`
+        background-color: ${colors.white};
+        border: 1px solid ${colors.lightGray};
+        border-radius: 4px 4px 0 4px;
+        box-shadow: 0px 0px 4px rgba(0,0,0,0.05);
+    `}
 `;
 
 export const HomeLink = styled.div`
@@ -67,10 +95,10 @@ export const HamburgerButton = styled.button`
     height: calc(21px + 16px);
     transition: border-color linear 0.4s;
     padding: 8px;
-    width: calc(30px + 16px);
+    width: calc(25px + 16px);
 
     &:hover {
-        border-color: ${colors.lightGray} !important;
+        border-color: ${colors.lightGray};
     }
 
     &:focus {
@@ -78,9 +106,8 @@ export const HamburgerButton = styled.button`
     }
 
     ${props => props.isActive && css`
-        border-color: ${colors.black} !important;
-        border-radius: 4px 4px 0 0;
-        border-bottom: 1px solid ${colors.white} !important;
+        border-color: ${colors.lightGray};
+        border-radius: 4px;
     `}
 `;
 
@@ -134,39 +161,48 @@ export const HamburgerIcon = styled.span`
 `;
 
 const AnimateList = keyframes`
-        0% {
-            transform: scaleX(0.4) scaleY(0.4) translateY(-60px);
-            opacity: 0;
-        }
+    0% {
+        transform: translateY(-80px);
+        opacity: 0;
+    }
 
-        70% {
-            transform: scaleX(1) scaleY(1) translateY(0);
-            opacity: 1;
-        }
+    70% {
+        transform:  translateY(0);
+        opacity: 1;
+    }
 `;
 
 export const ListContainer = styled.ul`
-    border: 1px solid ${colors.black};
-    border-radius: 4px 0 4px 4px;
+    border-width: 1px 1px 1px 1px;
+    border-color: ${colors.lightGray};
+    border-style: solid;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.05);
     list-style: none;
     margin: 0;
     opacity: 0;
     padding: 0;
     pointer-events: none;
     position: absolute;
-    top: 84px;
+    top: 94px;
+    right: 16px;
     transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-    transform: scaleX(0) scaleY(0);
+    transform: translateY(-100px);
     transform-origin: 100% 0%;
     width: 200px;
     z-index: -1;
+
+    ${media.medium`
+        top: 118px;
+        right: 16px;
+    `}
     
     ${props => props.isActive && css`
-        animation: ${AnimateList} 0.5s;
+        /* animation: ${AnimateList} 0.5s; */
         opacity: 1;
         pointer-events: all;
-        transform: scaleX(1) scaleY(1);
-        z-index: 5;
+        transform: translateY(0px);
+        z-index: 3;
     `}  
 `;
 
@@ -175,10 +211,6 @@ export const ListItem = styled.li`
     border-bottom: 1px solid ${colors.lightGray};
     margin: 0;
     transition: background-color 0.3s ease-in-out;
-
-    &:first-child {
-        border-radius: 4px 4px 0 0;
-    }
 
     &:last-child {
         border: none;

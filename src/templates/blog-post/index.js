@@ -1,22 +1,26 @@
-import React from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import Helmet from 'react-helmet';
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql } from 'gatsby';
 
 import {
-    Navigation
+    Default,
+    TwitterPromo
 } from '../../components';
 
 import  {
     Container,
+    PostContainer,
+    NavigationContainer,
+    NavigationHeading,
+    NavigationLink,
     Info,
     Title,
     Date,
     Post
-} from './styled';
+} from '../../components/PageStyles/BlogStyles';
 
-const BlogPost = ({ data, pageContext, location }) => {
+const BlogPost = ({ data }) => {
 
-    console.log(data);
 
     const {
         markdownRemark: {
@@ -26,25 +30,61 @@ const BlogPost = ({ data, pageContext, location }) => {
             },
             html
         }
-     } = data;
+    } = data;
+
+    const post = useRef(null);
+
+    const [ headings, setHeadings ] = useState(null);
+
+    useEffect(() => {
+        const postDiv = post.current;
+
+        const headingsRaw = postDiv.querySelectorAll('h1, h2, h3');
+        const headings = [...headingsRaw].map(heading => ({text: heading.innerText, heading }));
+
+        setHeadings(headings)
+    }, [])
+
+    const handleNavigationClick = element => {
+        element.scrollIntoView({behavior: "smooth", block: "start"});
+    }
+
     return (
-        <div>
+        <Default>
             <Helmet
                 title={title}
             />
-            <Navigation/>
             <Container>
-                <Info>
-                    <Date>
-                        Kyle McDonald &nbsp;&nbsp; {date}
-                    </Date>
-                    <Title>
-                        {title}
-                    </Title>
-                </Info>
-                <Post dangerouslySetInnerHTML={{ __html: html}}/>
+                <NavigationContainer>
+                    <NavigationHeading>
+                        Quick Navigate
+                    </NavigationHeading>
+                    {headings && headings.map((heading, index) => (
+                        <NavigationLink
+                            onClick={() => handleNavigationClick(heading.heading)}
+                            key={index}
+                        >
+                            {heading.text}
+                        </NavigationLink>
+                    ))}
+                </NavigationContainer>
+                <PostContainer>
+                    <Info>
+                        <Date>
+                            {date}
+                        </Date>
+                        <Title>
+                            {title}
+                        </Title>
+                    </Info>
+                    <Post 
+                        dangerouslySetInnerHTML={{ __html: html}}
+                        ref={post}
+                    />
+                    <TwitterPromo/>
+                </PostContainer>
             </Container>
-        </div>
+        </Default>
     );
 }
 
@@ -70,4 +110,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

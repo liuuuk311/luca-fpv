@@ -3,22 +3,21 @@ import React from 'react';
 import {
     HomeHero,
     HomePostList,
-    Navigation
+    Default
 } from '../components';
 
 import {
     TopContainer
-} from './styled';
+} from '../components/PageStyles/HomeStyles';
 
 const Homepage = () => {
     return (
-        <div>
-            <Navigation/>
+        <Default>
             <TopContainer>
                 <HomeHero/>
                 <HomePostList/>
             </TopContainer>
-        </div>
+        </Default>
     );
 }
 

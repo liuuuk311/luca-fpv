@@ -1,9 +1,9 @@
-import React, { useState, Fragment } from 'react';
+import React, { useEffect, useState, Fragment } from 'react';
 import { Link } from 'gatsby';
 
 import {
     Container,
-    Offset,
+    ContentContainer,
     HomeLink,
     HamburgerButton,
     HamburgerIcon,
@@ -14,6 +14,25 @@ import {
 const Navigation = () => {
     
     const [ isActive, setIsActive ] = useState(false);
+    const [ isSticky, setIsSticky ] = useState(false);
+
+    useEffect(() => {
+        document.addEventListener('scroll', handleSticky);
+
+        return () => {
+            document.removeEventListener('scroll', handleSticky);
+        }
+    }, [])
+
+    const handleSticky = () => {
+        const scrollPosition = window.scrollY;
+
+        if(scrollPosition > 50){
+            setIsSticky(true)
+        } else {
+            setIsSticky(false)
+        }
+    }
 
     const handleHamburgerClick = () => {
         setIsActive(!isActive)
@@ -22,21 +41,26 @@ const Navigation = () => {
     return (
         <Fragment>
             <Container>
-                <HomeLink>
-                    <Link to="/">
-                        Kyle McDonald
-                    </Link>
-                </HomeLink>
-                <HamburgerButton
-                    onClick={handleHamburgerClick}
+                <ContentContainer
+                    isSticky={isSticky}
                     isActive={isActive}
                 >
-                    <HamburgerIcon
+                    <HomeLink>
+                        <Link to="/">
+                            Kyle McDonald
+                        </Link>
+                    </HomeLink>
+                    <HamburgerButton
+                        onClick={handleHamburgerClick}
                         isActive={isActive}
                     >
-                        <span/>
-                    </HamburgerIcon>
-                </HamburgerButton>
+                        <HamburgerIcon
+                            isActive={isActive}
+                        >
+                            <span/>
+                        </HamburgerIcon>
+                    </HamburgerButton>
+                </ContentContainer>
                 <ListContainer
                     isActive={isActive}
                 >
@@ -57,7 +81,6 @@ const Navigation = () => {
                     </ListItem>
                 </ListContainer>
             </Container>
-            <Offset/>
         </Fragment>
     );
 }
