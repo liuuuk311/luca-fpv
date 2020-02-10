@@ -33,8 +33,6 @@ const BlogPost = ({ data }) => {
         }
     } = data;
 
-    console.log(data);
-
     const post = useRef(null);
 
     const [ headings, setHeadings ] = useState(null);
