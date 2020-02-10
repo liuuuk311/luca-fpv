@@ -53,6 +53,7 @@ const Navigation = () => {
                     <HamburgerButton
                         onClick={handleHamburgerClick}
                         isActive={isActive}
+                        aria-label="Hamburger Menu"
                     >
                         <HamburgerIcon
                             isActive={isActive}

@@ -17,7 +17,7 @@ const Homepage = ({ location }) => {
         >
             <Helmet>
                 <title>Kyle McDonald</title>
-                <meta name="description" contnet="Personal site for the Chicago-based Software Engineer"/>
+                <meta name="description" content="Personal site for the Chicago-based Software Engineer"/>
             </Helmet>
             <TopContainer>
                 <HomeHero/>

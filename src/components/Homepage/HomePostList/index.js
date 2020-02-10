@@ -39,8 +39,8 @@ const HomePostList = () => {
                 {posts.map(( node, index ) => {
                     const { node : { excerpt, frontmatter : { title, date }, fields : { slug } } } = node;
                     return (
-                        <Link to={`${slug}`} key={index}>
-                            <PostListItem>
+                        <PostListItem>
+                            <Link to={`${slug}`} key={index}>
                                 <Date>
                                     {date}
                                 </Date>
@@ -50,8 +50,8 @@ const HomePostList = () => {
                                 <Preview>
                                     {excerpt}
                                 </Preview>
-                            </PostListItem>
-                        </Link>
+                           </Link>
+                        </PostListItem>
                     )
                 })}
             </PostList>

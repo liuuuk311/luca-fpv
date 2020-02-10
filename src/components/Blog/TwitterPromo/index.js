@@ -12,7 +12,7 @@ import {
 const TwitterPromo = () => {
     return (
         <Container>
-            <Avatar src="/avatar.png" alt="Picture of Kyle McDonald"/>
+            <Avatar src="/avatar.jpg" alt="Picture of Kyle McDonald"/>
             <Content>
                 <Heading>
                     Thanks for reading!

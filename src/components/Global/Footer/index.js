@@ -19,7 +19,7 @@ const Footer = () => {
                     <SocialListLink 
                         href="https://twitter.com/designbykyle"
                         target="_blank"
-                        rel="nofollow"
+                        rel="noopener"
                     >
                         Twitter
                     </SocialListLink>
@@ -28,7 +28,7 @@ const Footer = () => {
                     <SocialListLink 
                         href="https://github.com/kylemcd"
                         target="_blank"
-                        rel="nofollow"
+                        rel="noopener"
                     >
                         GitHub
                     </SocialListLink>
@@ -37,7 +37,7 @@ const Footer = () => {
                     <SocialListLink 
                         href="https://linkedin.com/in/kylemcd1/"
                         target="_blank"
-                        rel="nofollow"
+                        rel="noopener"
                     >
                         Linkedin
                     </SocialListLink>

@@ -20,9 +20,9 @@ const HomeNewsletter = () => {
                 To stay up to date on my projects and posts, drop your email below.
             </Paragraph>
             <form action="https://kylemcd.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
-                <Label htmlFor="email">Email</Label>
+                <Label htmlFor="mce-EMAIL">Email</Label>
                 <FieldContainer>
-                    <Field id="email" name="EMAIL" id="mce-EMAIL" required/>
+                    <Field name="EMAIL" id="mce-EMAIL" required/>
                     <Button type="submit">Go!</Button>
                 </FieldContainer>
             </form>

@@ -12,7 +12,13 @@ export const PostList = styled.ul`
 
 
     a {
+        display: block;
+        padding: 16px;
         text-decoration: none;
+
+        ${media.medium`
+            padding: 24px;
+        `}
     }   
 `;
 
@@ -20,12 +26,7 @@ export const PostListItem = styled.li`
     border: 1px solid ${colors.lightGray};
     border-radius: 4px;
     display: block;
-    padding: 16px;
     transition: background-color 0.3s ease-in-out;
-
-    ${media.medium`
-        padding: 24px;
-    `}
 
     &:hover {
         background-color: ${colors.lightGray};
