@@ -10,9 +10,11 @@ import {
     TopContainer
 } from '../components/PageStyles/HomeStyles';
 
-const Homepage = () => {
+const Homepage = ({ location }) => {
     return (
-        <Default>
+        <Default
+            location={location}
+        >
             <Helmet>
                 <title>Kyle McDonald</title>
                 <meta name="description" contnet="Personal site for the Chicago-based Software Engineer"/>

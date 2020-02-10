@@ -7,7 +7,9 @@ import {
 } from '../../../components';
 
 const Default = props => {
-    const { children } = props;
+    const { children, location } = props;
+    const url = location.href ? location.href : '';
+
     return (
         <div>
             <Helmet>

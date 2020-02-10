@@ -16,9 +16,11 @@ import {
     Textarea
 } from '../../components/PageStyles/ContactStyles';
 
-const Contact = () => {
+const Contact = ({ locatiom }) => {
     return (
-        <Default>
+        <Default
+            location={location}
+        >
             <Helmet>
                 <title>Contact | Kyle McDonald</title>
                 <meta name="description" content="Get in contact with Kyle McDonald"/>

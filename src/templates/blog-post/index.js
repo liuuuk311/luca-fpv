@@ -19,7 +19,7 @@ import  {
     Post
 } from '../../components/PageStyles/BlogStyles';
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, location }) => {
 
 
     const {
@@ -51,7 +51,9 @@ const BlogPost = ({ data }) => {
     }
 
     return (
-        <Default>
+        <Default
+            location={location}
+        >
             <Helmet>
                 <title>{title}</title>
                 <meta name="description" content={excerpt}/>

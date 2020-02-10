@@ -39,7 +39,7 @@ const HomePostList = () => {
                 {posts.map(( node, index ) => {
                     const { node : { excerpt, frontmatter : { title, date }, fields : { slug } } } = node;
                     return (
-                        <Link to={`/${slug}`} key={index}>
+                        <Link to={`${slug}`} key={index}>
                             <PostListItem>
                                 <Date>
                                     {date}
