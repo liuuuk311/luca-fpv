@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { colors, fonts, media} from '../../utils';
+import prismTheme from '../prismTheme';
 
 export const Container = styled.div`
     display: flex;
@@ -70,4 +71,13 @@ export const Post = styled(fonts.Body)`
     a {
         color: ${colors.personality};
     }
+
+
+    blockquote {
+        border-left: 5px solid ${colors.lightGray};
+        margin-left: 0;
+        padding-left: 2em;
+    }
+    
+    ${prismTheme}
 `;
