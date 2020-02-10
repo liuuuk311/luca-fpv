@@ -44,8 +44,8 @@ export const Eyebrow = styled.h3`
 `;
 
 export const Body = styled.p`
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 26px;
 `;
 
 const fonts = {

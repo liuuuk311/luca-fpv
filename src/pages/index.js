@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Helmet from 'react-helmet';
 import {
     HomeHero,
     HomePostList,
@@ -13,6 +13,10 @@ import {
 const Homepage = () => {
     return (
         <Default>
+            <Helmet>
+                <title>Kyle McDonald</title>
+                <meta name="description" contnet="Peronal site for the Chicago-based Software Engineer"/>
+            </Helmet>
             <TopContainer>
                 <HomeHero/>
                 <HomePostList/>

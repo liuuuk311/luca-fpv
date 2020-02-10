@@ -1,7 +1,12 @@
 import React from 'react';
 
 import {
+    HomeNewsletter
+} from '../../../components';
+
+import {
     Container,
+    Avatar,
     Heading,
     Paragraph
 } from './styled';
@@ -9,12 +14,17 @@ import {
 const HomeHero = () => {
     return (
         <Container>
+            <Avatar src="/avatar.png" alt="Picture of Kyle McDonald"/>
             <Heading>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Hey there!
             </Heading>
             <Paragraph>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pharetra elit ut enim pulvinar, et scelerisque nisi dignissim. In vitae turpis tortor. Pellentesque condimentum sollicitudin enim, at convallis lacus rutrum id. Sed sodales ipsum nec tellus imperdiet, sit amet consectetur lectus semper. Curabitur commodo ex id dui aliquam, suscipit dictum ex pharetra. Etiam finibus purus velit, id feugiat justo eleifend sit amet. Suspendisse id fringilla leo, eget varius elit.
+                I'm Kyle McDonald, a Software Engineer based in Chicago, where I am currently pushing code at <a href="https://foxtrotco.com" target="_blank" rel="nofollow">Foxtrot</a>. My main focus is the front-end, where I love to write beautiful applications in React. 
+                <br/><br/>
+                This is where I write my long-form thoughts about development, business, and whatever else piques my interest. For my day-to-day ramblings, be sure to follow me over on <a href="https://twitter.com/designbykyle" target="_blank" rel="nofollow">Twitter</a>.
             </Paragraph>
+
+            <HomeNewsletter/>
         </Container>
     );
 }

@@ -28,9 +28,12 @@ const BlogPost = ({ data }) => {
                 title,
                 date
             },
+            excerpt,
             html
         }
     } = data;
+
+    console.log(data);
 
     const post = useRef(null);
 
@@ -51,9 +54,11 @@ const BlogPost = ({ data }) => {
 
     return (
         <Default>
-            <Helmet
-                title={title}
-            />
+            <Helmet>
+                <title>{title}</title>
+                <meta name="description" content={excerpt}/>
+                <meta name="author" content="Kyle McDonald" />
+            </Helmet>
             <Container>
                 <NavigationContainer>
                     <NavigationHeading>

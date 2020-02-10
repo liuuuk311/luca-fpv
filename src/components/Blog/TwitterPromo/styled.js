@@ -11,6 +11,8 @@ export const Container = styled.div`
 `;
 
 export const Avatar = styled.img`
+    border-radius: 50%;
+    display: block;
     max-width: 110px;
     width: 100%;
 `;
