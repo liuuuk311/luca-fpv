@@ -16,7 +16,7 @@ const Default = props => {
                 <meta property="og:title" content="Kyle McDonald"/>
                 <meta property="og:description" content="Personal site for the Chicago-based Software Engineer"/>
                 <meta property="og:image" content="https://kylemcd.com/avatar.png"/>
-                <meta property="og:url" content={window.location.href}/>
+                <meta property="og:url" content={url}/>
 
                 <meta name="twitter:title" content="Kyle McDonald"/>
                 <meta name="twitter:description" content="Personal site for the Chicago-based Software Engineer"/>"/>
