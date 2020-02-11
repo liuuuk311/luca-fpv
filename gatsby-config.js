@@ -7,6 +7,7 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
+    `gatsby-plugin-printer`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

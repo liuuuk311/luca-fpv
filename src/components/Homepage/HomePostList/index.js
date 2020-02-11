@@ -35,7 +35,7 @@ const HomePostList = () => {
     `)
 
     const posts = data.allMarkdownRemark.edges;
-console.log(posts);
+
     return (
         <Container>
             <PostList>

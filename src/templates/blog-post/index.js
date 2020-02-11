@@ -30,6 +30,7 @@ const BlogPost = ({ data, location }) => {
                 date
             },
             fields : {
+                slug,
                 readingTime : {
                     text
                 }
@@ -56,6 +57,13 @@ const BlogPost = ({ data, location }) => {
         element.scrollIntoView({behavior: "smooth", block: "start"});
     }
 
+    const getOgSlug = slug => {
+        const slugSplit = slug.split('/')
+        const ogSlug = slugSplit[slugSplit.length - 2]
+
+        return ogSlug;
+    }
+    
     return (
         <Default
             location={location}
@@ -68,10 +76,11 @@ const BlogPost = ({ data, location }) => {
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
                 <meta property="og:url" content={url}/>
+                <meta property="og:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
 
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
-                <meta name="twitter:image" content="https://kylemcd.com/avatar.png"/>
+                <meta name="twitter:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
                 <meta name="twitter:card" content="summary"/>
             </Helmet>
             <Container>
@@ -125,6 +134,7 @@ export const pageQuery = graphql`
       excerpt
       html
       fields {
+          slug
           readingTime {
               text
           }
