@@ -75,7 +75,7 @@ const BlogPost = ({ data, location }) => {
 
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
-                <meta property="og:url" content={url}/>
+                <meta property="og:url" content={`https://kylemcd.com/posts/${getOgSlug(slug)}`}/>
                 <meta property="og:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
 
                 <meta name="twitter:title" content={title}/>
