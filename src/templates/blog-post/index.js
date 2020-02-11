@@ -88,7 +88,8 @@ const BlogPost = ({ data, location }) => {
                         </Title>
                     </Info>
                     <Post 
-                        dangerouslySetInnerHTML={{ __html: html}}
+                        dangerouslySetInnerHTML={{ __html: `<div>${html}</div>` }}
+                        as="div"
                         ref={post}
                     />
                     <TwitterPromo/>
