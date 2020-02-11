@@ -81,7 +81,7 @@ const BlogPost = ({ data, location }) => {
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
                 <meta name="twitter:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
-                <meta name="twitter:card" content="summary"/>
+                <meta name="twitter:card" content="summary_large_image"/>
             </Helmet>
             <Container>
                 <NavigationContainer>
