@@ -21,6 +21,7 @@ import  {
 
 const BlogPost = ({ data, location }) => {
 
+    const url = location.href ? location.href : '';
 
     const {
         markdownRemark: {
@@ -63,6 +64,15 @@ const BlogPost = ({ data, location }) => {
                 <title>{title}</title>
                 <meta name="description" content={excerpt}/>
                 <meta name="author" content="Kyle McDonald" />
+
+                <meta property="og:title" content={title}/>
+                <meta property="og:description" content={excerpt}/>
+                <meta property="og:url" content={url}/>
+
+                <meta name="twitter:title" content={title}/>
+                <meta name="twitter:description" content={excerpt}/>
+                <meta name="twitter:image" content="https://kylemcd.com/avatar.png"/>
+                <meta name="twitter:card" content="summary"/>
             </Helmet>
             <Container>
                 <NavigationContainer>
