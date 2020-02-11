@@ -70,6 +70,7 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
     "start": "npm run develop",
+    "start-prod": "gatsby serve",
     "clean": "gatsby clean",
     "build": "gatsby clean && gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
