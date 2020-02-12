@@ -65,14 +65,14 @@ const Navigation = () => {
                 <ListContainer
                     isActive={isActive}
                 >
-                    {/* <ListItem>
-                        <Link to="/">
-                            Uses
-                        </Link>
-                    </ListItem>*/}
                     <ListItem>
                         <Link to="/posts">
                             Posts
+                        </Link>
+                    </ListItem>
+                    <ListItem>
+                        <Link to="/uses">
+                            Uses
                         </Link>
                     </ListItem>
                     <ListItem>
