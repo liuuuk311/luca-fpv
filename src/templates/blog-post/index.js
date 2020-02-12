@@ -3,6 +3,15 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 
 import {
+    TwitterShareButton,
+    TwitterIcon,
+    LinkedinIcon,
+    LinkedinShareButton,
+    RedditShareButton,
+    RedditIcon
+} from 'react-share';
+
+import {
     Default,
     TwitterPromo,
     RecommendedArticles
@@ -16,6 +25,7 @@ import  {
     QuickNavigationContainer,
     NavigationHeading,
     NavigationLink,
+    ShareButtons,
     Info,
     Title,
     Date,
@@ -123,6 +133,26 @@ const BlogPost = ({ data, location }) => {
                         as="div"
                         ref={post}
                     />
+                    <ShareButtons>
+                        <TwitterShareButton
+                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            title={title}
+                        >
+                            <TwitterIcon size={24} round={true}/>
+                        </TwitterShareButton>
+                        <LinkedinShareButton
+                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            title={title}
+                        >
+                            <LinkedinIcon size={24} round={true}/>
+                        </LinkedinShareButton>
+                        <RedditShareButton
+                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            title={title}
+                        >
+                            <RedditIcon size={24} round={true}/>
+                        </RedditShareButton>
+                    </ShareButtons>
                     <TwitterPromo/>
                     <RecommendedArticles slug={slug}/>
                     <NewsletterContainer>

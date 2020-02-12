@@ -6,7 +6,6 @@ export const Container = styled.div`
     border-top: 1px solid ${colors.lightGray};
     display: flex;
     justify-content: center;
-    margin-top: 36px;
     padding-top: 36px;
 `;
 

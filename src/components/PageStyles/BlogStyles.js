@@ -71,8 +71,28 @@ export const PostContainer = styled.div`
 
 export const Info = styled.div`
     border-bottom: 1px solid ${colors.lightGray};
-    margin-bottom: 16px;
     padding-bottom: 16px;
+    margin-bottom: 16px;
+`;
+
+export const ShareButtons = styled.div`
+    align-items: center;
+    display: flex;
+    border-top: 1px solid ${colors.lightGray};
+    padding: 16px 0;
+
+    span {
+        margin-right: 8px;
+    }
+
+    button {
+        margin-right: 8px;
+        height: 24px;
+
+        &:focus {
+            outline: none;
+        }
+    }
 `;
 
 export const Title = styled(fonts.Billboard)`
