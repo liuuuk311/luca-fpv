@@ -9,10 +9,8 @@ export const Container = styled.div`
 `;
 
 export const NavigationContainer = styled.div`
-    display: none;
 
     ${media.large`
-        display: block
         height: 100%;
         padding-right: 16px;
         position: sticky;
@@ -20,6 +18,29 @@ export const NavigationContainer = styled.div`
         width: calc(300px - 16px);
         z-index: 60;
     `}
+`;
+
+export const QuickNavigationContainer = styled.div`
+    display: none;
+
+    ${media.large`
+        display: block;
+    `}
+`;
+
+export const NewsletterContainer = styled.div`
+    border: 1px solid ${colors.lightGray};
+    border-radius: 4px;
+    margin-top: 8px;
+    padding: 16px;
+
+    form {
+        margin: 0;
+    }
+
+    p {
+        margin-bottom: 12px;
+    }
 `;
 
 export const NavigationHeading = styled(fonts.Eyebrow)`
@@ -80,4 +101,55 @@ export const Post = styled(fonts.Body)`
     }
     
     ${prismTheme}
+`;
+
+export const Heading = styled(fonts.SubHeading)`
+    border-radius: 4px 4px 0 0;
+    color: ${colors.black};
+    margin: 0 0 8px 0;
+`;
+
+export const Paragraph = styled(fonts.Body)`
+    color: ${colors.darkGray};
+`;
+
+export const Label = styled.label`
+    color: ${colors.darkGray};
+    font-size: 14px;
+`;
+
+export const FieldContainer = styled.div`
+    display: flex;
+    width: 100%;
+`;
+
+export const Field = styled.input`
+    appearance: none;
+    border: 1px solid ${colors.lightGray};
+    border-radius: 4px 0 0 4px;
+    font-size: 16px;
+    padding: 12px 16px;
+    transition: border-color 0.3s ease-in-out;
+    width: 100%;
+
+    &:hover, &:focus {
+        border-color: ${colors.personality};
+        outline: none;
+    }
+`;
+
+export const Button = styled.button`
+    appearance: none;
+    background-color: ${colors.white};
+    border: 1px solid ${colors.lightGray};
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    padding: 12px 16px;
+    transition: background-color 0.3s ease-in-out;
+
+    &:hover, &:focus {
+        background-color: ${colors.lightGray};
+        outline: none;
+    }
 `;

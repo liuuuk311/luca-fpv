@@ -12,12 +12,21 @@ import  {
     Container,
     PostContainer,
     NavigationContainer,
+    NewsletterContainer,
+    QuickNavigationContainer,
     NavigationHeading,
     NavigationLink,
     Info,
     Title,
     Date,
-    Post
+    Post,
+    // Newsletter stuff
+    Heading,
+    Paragraph,
+    Label,
+    Field,
+    FieldContainer,
+    Button
 } from '../../components/PageStyles/BlogStyles';
 
 const BlogPost = ({ data, location }) => {
@@ -86,17 +95,19 @@ const BlogPost = ({ data, location }) => {
             </Helmet>
             <Container>
                 <NavigationContainer>
-                    <NavigationHeading>
-                        Quick Navigate
-                    </NavigationHeading>
-                    {headings && headings.map((heading, index) => (
-                        <NavigationLink
-                            onClick={() => handleNavigationClick(heading.heading)}
-                            key={index}
-                        >
-                            {heading.text}
-                        </NavigationLink>
-                    ))}
+                    <QuickNavigationContainer>
+                        <NavigationHeading>
+                            Quick Navigate
+                        </NavigationHeading>
+                        {headings && headings.map((heading, index) => (
+                            <NavigationLink
+                                onClick={() => handleNavigationClick(heading.heading)}
+                                key={index}
+                            >
+                                {heading.text}
+                            </NavigationLink>
+                        ))}
+                    </QuickNavigationContainer>
                 </NavigationContainer>
                 <PostContainer>
                     <Info>
@@ -114,6 +125,21 @@ const BlogPost = ({ data, location }) => {
                     />
                     <TwitterPromo/>
                     <RecommendedArticles slug={slug}/>
+                    <NewsletterContainer>
+                        <Heading>
+                            Well if you made it this far...
+                        </Heading>
+                        <form action="https://kylemcd.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
+                            <Paragraph>
+                                You should probably subscribe to my newsletter
+                            </Paragraph>
+                            <Label htmlFor="mce-EMAIL">Email</Label>
+                            <FieldContainer>
+                                <Field name="EMAIL" id="mce-EMAIL" required/>
+                                <Button type="submit">Go!</Button>
+                            </FieldContainer>
+                        </form>
+                    </NewsletterContainer>
                 </PostContainer>
             </Container>
         </Default>
