@@ -69,12 +69,12 @@ const Navigation = () => {
                         <Link to="/">
                             Uses
                         </Link>
-                    </ListItem>
+                    </ListItem>*/}
                     <ListItem>
-                        <Link to="/">
+                        <Link to="/posts">
                             Posts
                         </Link>
-                    </ListItem> */}
+                    </ListItem>
                     <ListItem>
                         <Link to="/contact">
                             Contact
