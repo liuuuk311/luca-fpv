@@ -4,7 +4,8 @@ import { graphql } from 'gatsby';
 
 import {
     Default,
-    TwitterPromo
+    TwitterPromo,
+    RecommendedArticles
 } from '../../components';
 
 import  {
@@ -112,6 +113,7 @@ const BlogPost = ({ data, location }) => {
                         ref={post}
                     />
                     <TwitterPromo/>
+                    <RecommendedArticles slug={slug}/>
                 </PostContainer>
             </Container>
         </Default>
