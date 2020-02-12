@@ -88,7 +88,7 @@ const Uses = ({ location }) => {
                     (Only the interesting ones)<br/><br/>
                     <ul>
                         <li>Music: <a target="_blank" rel="noopener" href="https://www.spotify.com/">Spotify</a> for jamming out, <a target="_blank" rel="noopener" href="https://www.endel.io/">Endel</a> for deep work</li>
-                        <li>Spending Tracker: <a target="_blank" rel="noopener" href="https://emma-app.com">Emma</a> </li>
+                        <li>Spending Tracker: <a target="_blank" rel="noopener" href="https://emma.to/kylemcdonald">Emma</a> </li>
                         <li>Food Delivery (Shameless Plug): <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/foxtrot-delivery-market/id680745992">Foxtrot</a></li>
                     </ul>
 
