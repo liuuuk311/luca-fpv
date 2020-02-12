@@ -39,7 +39,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener"
                     >
-                        Linkedin
+                        LinkedIn
                     </SocialListLink>
                 </SocialListItem>
             </SocialList>
