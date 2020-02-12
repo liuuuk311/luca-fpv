@@ -47,11 +47,11 @@ const Uses = ({ location }) => {
                     </SubHeading>
 
                         <ul>
-                        <li>Laptop: <a target="_blank" rel="noopener" href="https://computers.woot.com/offers/apple-15-intel-core-i7-macbook-pro-2018z-2028">2018 &ndash; 15" Macbook Pro - Space Gray</a></li>
-                        <li>Keyboard: <a target="_blank" rel="noopener" href="https://www.keychron.com/products/keychron-k2-mechanical-keyboard">Keychron K2 Mechanical Keyboard</a></li>
-                        <li>Trackpad (No mouse): <a target="_blank" rel="noopener" href="https://www.apple.com/shop/product/MRMF2LL/A/magic-trackpad-2-space-gray">Apple Magic Trackpad 2 - Space Gray</a></li>
-                        <li>Phone: <a target="_blank" rel="noopener" href="https://www.apple.com/shop/product/FQA52LL/A/Refurbished-iPhone-X-64GB-Space-Gray">iPhone X - Space Gray - 256 GB</a></li>
-                        <li>Headphones: <a target="_blank" rel="noopener" href="https://www.apple.com/shop/product/MV7N2/airpods-with-charging-case">Air Pods (1st Gen)</a> for commuting, and <a target="_blank" rel="noopener" href="https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html">Bose QC35 II - Black</a> for work</li>
+                        <li>Laptop: <a target="_blank" rel="noopener" href="https://amzn.to/38nuRhV">2018 &ndash; 15" Macbook Pro - Space Gray</a></li>
+                        <li>Keyboard: <a target="_blank" rel="noopener" href="https://amzn.to/31OZ7jc">Keychron K2 Mechanical Keyboard</a></li>
+                        <li>Trackpad (No mouse): <a target="_blank" rel="noopener" href="https://amzn.to/39yeHTh">Apple Magic Trackpad 2 - Space Gray</a></li>
+                        <li>Phone: <a target="_blank" rel="noopener" href="https://amzn.to/2SoxmuV">iPhone X - Space Gray - 256 GB</a></li>
+                        <li>Headphones: <a target="_blank" rel="noopener" href="https://amzn.to/2SnREo8">Air Pods (1st Gen)</a> for commuting, and <a target="_blank" rel="noopener" href="https://amzn.to/2uInSBz">Bose QC35 II - Black</a> for work</li>
                     </ul>
 
 
