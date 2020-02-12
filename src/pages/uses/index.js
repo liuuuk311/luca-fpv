@@ -30,7 +30,6 @@ const Uses = ({ location }) => {
                 <SubHeading>
                     Editor + Terminal
                 </SubHeading>
-
                 <Body>
                     <ul>
                         <li>IDE: <a target="_blank" rel="noopener" href="https://code.visualstudio.com/">Visual Studio Code</a></li>
@@ -54,16 +53,43 @@ const Uses = ({ location }) => {
                         <li>Headphones: <a target="_blank" rel="noopener" href="https://amzn.to/2SnREo8">Air Pods (1st Gen)</a> for commuting, and <a target="_blank" rel="noopener" href="https://amzn.to/2uInSBz">Bose QC35 II - Black</a> for work</li>
                     </ul>
 
+                    <SubHeading>
+                        Gear
+                    </SubHeading>
+                    <ul>
+                        <li>Backpack: <a target="_blank" rel="noopener" href="https://www.mountainsteals.com/product/topo-designs-rover-pack_10421500">Topo Rover Pack (Olive/Navy)</a></li>
+                        <li>Watch:</li>
+                        <ul>
+                            <li>Dumb Watch: <a target="_blank" rel="noopener" href="https://amzn.to/37l8gl0">Vincero Chrono S</a></li>
+                            <li>Smart Watch: <a target="_blank" rel="noopener" href="https://amzn.to/2w7Gprj">Apple Watch (Space Gray)</a></li>
+                        </ul>
+                        <li>Cup: weird, but I love this thing... <a target="_blank" rel="noopener" href="https://amzn.to/39vQcWJ">Yeti Rambler</a></li>
+                    </ul>
 
+                    <SubHeading>
+                        Smart Home
+                    </SubHeading>
+                    <ul>
+                        <li>Soundbar: <a target="_blank" rel="noopener" href="https://amzn.to/2SoL5BX">Sonos Beam</a></li>
+                        <li>Other Speakers: <a target="_blank" rel="noopener" href="https://amzn.to/38mL0o1">IKEA Symfonisk</a> paired with this handy dandy gadget: <a target="_blank" rel="noopener" href="https://amzn.to/2SJQ4fk">IKEA symfonisk Sound Remote</a></li>
+                    </ul>
                     <SubHeading>
                         Desktop Apps
                     </SubHeading>
-
-                     <ul>
+                    <ul>
                         <li>Web Browser: <a target="_blank" rel="noopener" href="https://www.google.com/chrome/">Google Chrome</a></li>
                         <li>Window Managment: <a target="_blank" rel="noopener" href="https://www.spectacleapp.com/">Spectacle</a></li>
-                        <li>Note Taking: combination of <a target="_blank" rel="noopener" href="https://notion.so">Notion</a> and <a target="_blank" rel="noopener" href="https://roamresearch.com/">Roam</a></li>
+                        <li>Notes: combination of <a target="_blank" rel="noopener" href="https://notion.so">Notion</a> and <a target="_blank" rel="noopener" href="https://roamresearch.com/">Roam</a></li>
+                    </ul>
+
+                    <SubHeading>
+                        Mobile Apps
+                    </SubHeading>
+                    (Only the interesting ones)<br/><br/>
+                    <ul>
                         <li>Music: <a target="_blank" rel="noopener" href="https://www.spotify.com/">Spotify</a> for jamming out, <a target="_blank" rel="noopener" href="https://www.endel.io/">Endel</a> for deep work</li>
+                        <li>Spending Tracker: <a target="_blank" rel="noopener" href="https://emma-app.com">Emma</a> </li>
+                        <li>Food Delivery (Shameless Plug): <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/foxtrot-delivery-market/id680745992">Foxtrot</a></li>
                     </ul>
 
                     <br/>
