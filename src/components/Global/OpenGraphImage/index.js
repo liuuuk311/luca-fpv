@@ -19,9 +19,9 @@ const OpenGraphImage = props => {
                 backgroundColor: '#1c7380',
                 borderRadius: '4px',
                 color: 'white',
-                fontSize: '56px',
+                fontSize: '36px',
                 fontWeight: '600',
-                lineHeight: '72px',
+                lineHeight: '44px',
                 padding: '24px',
                 width: 'calc(100% - 48px)'
             }}>
