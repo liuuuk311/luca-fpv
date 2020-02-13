@@ -79,7 +79,7 @@ const Uses = ({ location }) => {
                     <ul>
                         <li>Web Browser: <a target="_blank" rel="noopener" href="https://www.google.com/chrome/">Google Chrome</a></li>
                         <li>Window Managment: <a target="_blank" rel="noopener" href="https://www.spectacleapp.com/">Spectacle</a></li>
-                        <li>Notes: combination of <a target="_blank" rel="noopener" href="https://notion.so">Notion</a> and <a target="_blank" rel="noopener" href="https://roamresearch.com/">Roam</a></li>
+                        <li>Notes: combination of <a target="_blank" rel="noopener" href="https://www.notion.so/?r=fbaf3df1cbff427da6a6890f06126a34">Notion</a> and <a target="_blank" rel="noopener" href="https://roamresearch.com/">Roam</a></li>
                     </ul>
 
                     <SubHeading>
