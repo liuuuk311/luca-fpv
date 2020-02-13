@@ -7,7 +7,14 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
-    `gatsby-plugin-printer`,
+    {
+      resolve: `gatsby-plugin-printer`,
+      options: {
+        puppeteerLaunchOptions: {
+          headless: true
+        }
+      }
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
