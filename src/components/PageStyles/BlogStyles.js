@@ -67,6 +67,13 @@ export const PostContainer = styled.div`
     ${media.medium`
         margin: 0 auto;
     `}
+
+    img {
+        display: block;
+        margin:  auto;
+        padding: 24px 0;
+        width: 80%;
+    }
 `;
 
 export const Info = styled.div`
