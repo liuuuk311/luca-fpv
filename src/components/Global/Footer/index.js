@@ -12,7 +12,7 @@ const Footer = () => {
     return (
         <Container>
             <Copyright>
-                &copy; {new Date().getFullYear()} &mdash; Kyle McDonald 
+                &copy; 2011-{new Date().getFullYear()} &mdash; Kyle McDonald 
             </Copyright>
             <SocialList>
                 <SocialListItem>
