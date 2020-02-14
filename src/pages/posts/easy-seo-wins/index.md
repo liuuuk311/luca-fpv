@@ -35,5 +35,7 @@ Schema structures are less common and depend on if your site content makes sense
 
 One schema type I've used and had success with is product data. I'm able to feed Google pricing, stock, ratings, and more, which helps users get "richer" content in their search results. So, if you have content that fits into a schema type, use it, it will pay off immensely. 
 
+##Finishing up
+While these are some "easy wins" you can implement to increase your organic search traffic, at the end of the day, content is king. If you'd like to read more about this, I'd suggest checkout out [Harry Dry's SEO Articles](https://marketingexamples.com/seo), the one about [long tail keywords](https://marketingexamples.com/seo/dominate-long-tail-keywords) being the one I find the most revealing. 
 
-... TODO, conclusion
+If you find yourself still struggling to gain organic search traffic, reach out to me on [Twitter](https://twitter.com/designbykyle), where I'd be more than happy to help you out!
