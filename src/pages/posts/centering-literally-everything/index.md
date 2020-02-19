@@ -6,7 +6,7 @@ bg: "https://images.unsplash.com/photo-1501619521425-4172740edc9c?ixlib=rb-1.2.1
 
 I've always noticed a common theme amongst the dev community when it comes to "centering things" and that common theme is that... "it's hard". But the thing is... it's really not. In this article, I'll show you my _go-to_ method when it comes to centering anything. Of course, there are tons of other ways to center things, not denying that, but this is the way I found to consistently work for me.
 
-# Text
+## Text
 In this section I will cover how to center text itself, i.e. not 'text-align: center' as that is more presentational, but actually centering text inside of an element.
 
 ### Centering Text Horizontally
@@ -258,6 +258,6 @@ Apply the same rules we used on text and there you go, we have a centered elemen
 </div>
 
 &nbsp;
-# Conclusion
+## Conclusion
 
 As you see, centering stuff with CSS really isn't _that_ hard. Of course you'll run into examples that may not fit this mold, but from experience, this will solve 90% of your centering problems. If you *do* run into an instance where this mold doesn't work for you [tweet at me](https://twitter.com/designbykyle), I'd be happy to help.

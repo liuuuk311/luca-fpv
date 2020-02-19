@@ -67,8 +67,27 @@ const BlogPost = ({ data, location }) => {
     useEffect(() => {
         const postDiv = post.current;
 
-        const headingsRaw = postDiv.querySelectorAll('h1, h2, h3');
-        const headings = [...headingsRaw].map(heading => ({text: heading.innerText, heading }));
+        const headingsRaw = postDiv.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        const headings = [...headingsRaw].map(heading => {
+            let indentLevel = 0;
+            const tagName = heading.tagName;
+
+            if(tagName === 'H3'){
+                indentLevel = 1
+            } else if(tagName === 'H4'){
+                indentLevel = 2
+            } else if(tagName === 'H5'){
+                indentLevel = 3
+            } else if(tagName === 'H6'){
+                indentLevel = 4
+            }
+
+            return {
+                text: heading.innerText, 
+                heading,
+                indentLevel
+            }
+        });
 
         setHeadings(headings)
     }, [])
@@ -112,6 +131,7 @@ const BlogPost = ({ data, location }) => {
                         {headings && headings.map((heading, index) => (
                             <NavigationLink
                                 onClick={() => handleNavigationClick(heading.heading)}
+                                indentLevel={heading.indentLevel}
                                 key={index}
                             >
                                 {heading.text}

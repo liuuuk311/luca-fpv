@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 import { colors, fonts, media} from '../../utils';
 import prismTheme from '../prismTheme';
 
@@ -25,6 +25,9 @@ export const QuickNavigationContainer = styled.div`
 
     ${media.large`
         display: block;
+        max-height: 100vh;
+        overflow-y: auto;
+        height: 100%;
     `}
 `;
 
@@ -57,6 +60,22 @@ export const NavigationLink = styled.a`
     cursor: pointer;
     display: block;
     margin-bottom: 8px;
+    margin-left: ${props => props.indentLevel * 8}px;
+
+    ${props => props.indentLevel > 0 && css`
+        text-indent: -12px;
+        padding-left: 12px;
+        
+        &:before {
+            content: '';
+            background-color: ${colors.black};
+            display: inline-block;
+            height: 1px;
+            transform: translateY(-5px);
+            margin-right: 4px;
+            width: 8px;
+        }
+    `}
 `;
 
 export const PostContainer = styled.div`
