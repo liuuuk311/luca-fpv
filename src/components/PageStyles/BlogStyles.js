@@ -120,6 +120,10 @@ export const Post = styled(fonts.Body)`
         color: ${colors.personality};
     }
 
+    p {
+        line-height: 30px;
+    }
+
 
     blockquote {
         border-left: 5px solid ${colors.lightGray};
