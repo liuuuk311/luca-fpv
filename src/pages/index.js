@@ -17,7 +17,7 @@ const Homepage = ({ location }) => {
         >
             <Helmet>
                 <title>Luca FPV</title>
-                <meta name="description" content="Luca FPV è il blog di Luca Palonca"/>
+                <meta name="description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
             </Helmet>
             <TopContainer>
                 <HomeHero/>
