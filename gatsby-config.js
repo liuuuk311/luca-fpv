@@ -3,7 +3,7 @@ module.exports = {
     title: 'Luca FPV',
     author: 'Luca',
     description: 'Un blog alla scoperta del mondo FPV',
-    siteUrl: 'https://kylemcd.com',
+    siteUrl: 'http://lucafpv.com',
   },
   pathPrefix: '/',
   plugins: [
@@ -49,11 +49,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Kyle McDonald`,
-        short_name: `kylemcd`,
+        name: `Luca FPV`,
+        short_name: `Luca FPV`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#eda550`,
         display: `minimal-ui`,
         icon: `src/assets/favicon.png`,
       },

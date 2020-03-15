@@ -114,12 +114,12 @@ const BlogPost = ({ data, location }) => {
 
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
-                <meta property="og:url" content={`https://kylemcd.com/posts/${getOgSlug(slug)}`}/>
-                <meta property="og:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
+                <meta property="og:url" content={`http://lucafpv.com/posts/${getOgSlug(slug)}`}/>
+                <meta property="og:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
 
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
-                <meta name="twitter:image" content={`https://kylemcd.com/og-images/blog/${getOgSlug(slug)}.png`}/>
+                <meta name="twitter:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
                 <meta name="twitter:card" content="summary_large_image"/>
             </Helmet>
             <Container>
@@ -155,19 +155,19 @@ const BlogPost = ({ data, location }) => {
                     />
                     <ShareButtons>
                         <TwitterShareButton
-                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <TwitterIcon size={24} round={true}/>
                         </TwitterShareButton>
                         <LinkedinShareButton
-                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <LinkedinIcon size={24} round={true}/>
                         </LinkedinShareButton>
                         <RedditShareButton
-                            url={`https://kylemcd.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <RedditIcon size={24} round={true}/>
@@ -179,7 +179,7 @@ const BlogPost = ({ data, location }) => {
                         <Heading>
                             Se sei arrivato fino qua...
                         </Heading>
-                        <form action="https://kylemcd.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
+                        <form action="http://lucafpv.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                             <Paragraph>
                                 Probabilmente dovresti iscriverti alla mia Newsletter 👇
                             </Paragraph>
