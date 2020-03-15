@@ -59,7 +59,7 @@ const BlogPost = ({ data, location }) => {
             html
         }
     } = data;
-
+    
     const post = useRef(null);
 
     const [ headings, setHeadings ] = useState(null);
@@ -67,7 +67,7 @@ const BlogPost = ({ data, location }) => {
     useEffect(() => {
         const postDiv = post.current;
 
-        const headingsRaw = postDiv.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        const headingsRaw = postDiv.querySelectorAll('h1, h2');
         const headings = [...headingsRaw].map(heading => {
             let indentLevel = 0;
             const tagName = heading.tagName;
@@ -110,7 +110,7 @@ const BlogPost = ({ data, location }) => {
             <Helmet>
                 <title>{title}</title>
                 <meta name="description" content={excerpt}/>
-                <meta name="author" content="Kyle McDonald" />
+                <meta name="author" content="Luca Palonca" />
 
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
@@ -126,7 +126,7 @@ const BlogPost = ({ data, location }) => {
                 <NavigationContainer>
                     <QuickNavigationContainer>
                         <NavigationHeading>
-                            Quick Navigate
+                            Indice
                         </NavigationHeading>
                         {headings && headings.map((heading, index) => (
                             <NavigationLink
@@ -142,7 +142,7 @@ const BlogPost = ({ data, location }) => {
                 <PostContainer>
                     <Info>
                         <Date>
-                            {date} &nbsp;&middot;&nbsp; {text}
+                            {date} &nbsp;&middot;&nbsp; {text.replace('read', '')}
                         </Date>
                         <Title>
                             {title}
@@ -177,16 +177,16 @@ const BlogPost = ({ data, location }) => {
                     <RecommendedArticles slug={slug}/>
                     <NewsletterContainer>
                         <Heading>
-                            Well if you made it this far...
+                            Se sei arrivato fino qua...
                         </Heading>
                         <form action="https://kylemcd.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                             <Paragraph>
-                                You should probably subscribe to my newsletter
+                                Probabilmente dovresti iscriverti alla mia Newsletter 👇
                             </Paragraph>
                             <Label htmlFor="mce-EMAIL">Email</Label>
                             <FieldContainer>
                                 <Field name="EMAIL" id="mce-EMAIL" required/>
-                                <Button type="submit">Go!</Button>
+                                <Button type="submit">Invia</Button>
                             </FieldContainer>
                         </form>
                     </NewsletterContainer>
@@ -200,28 +200,28 @@ export default BlogPost;
 
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+query BlogPostBySlug($slug: String!) {
     site {
       siteMetadata {
         title
         author
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(fields: {slug: {eq: $slug}, readingTime: {}}) {
       id
       excerpt
       html
       fields {
-          slug
-          readingTime {
-              text
-          }
+        slug
+        readingTime {
+            text
+        }
       }
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
-        bg
+        date(formatString: "DD MMMM YYYY", locale: "it")
       }
     }
   }
+  
 `;

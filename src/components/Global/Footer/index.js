@@ -12,34 +12,25 @@ const Footer = () => {
     return (
         <Container>
             <Copyright>
-                &copy; 2011-{new Date().getFullYear()} &mdash; Kyle McDonald 
+                &copy; {new Date().getFullYear()} &mdash; Luca Palonca 
             </Copyright>
             <SocialList>
                 <SocialListItem>
                     <SocialListLink 
-                        href="https://twitter.com/designbykyle"
+                        href="https://www.instagram.com/luca.fpv/"
+                        target="_blank"
+                        rel="noopener"
+                    >
+                        Instagram
+                    </SocialListLink>
+                </SocialListItem>
+                <SocialListItem>
+                    <SocialListLink 
+                        href="https://twitter.com/liuuuk311"
                         target="_blank"
                         rel="noopener"
                     >
                         Twitter
-                    </SocialListLink>
-                </SocialListItem>
-                <SocialListItem>
-                    <SocialListLink 
-                        href="https://github.com/kylemcd"
-                        target="_blank"
-                        rel="noopener"
-                    >
-                        GitHub
-                    </SocialListLink>
-                </SocialListItem>
-                <SocialListItem>
-                    <SocialListLink 
-                        href="https://linkedin.com/in/kylemcd1/"
-                        target="_blank"
-                        rel="noopener"
-                    >
-                        LinkedIn
                     </SocialListLink>
                 </SocialListItem>
             </SocialList>

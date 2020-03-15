@@ -16,8 +16,8 @@ const Homepage = ({ location }) => {
             location={location}
         >
             <Helmet>
-                <title>Kyle McDonald</title>
-                <meta name="description" content="Personal site for the Chicago-based Software Engineer"/>
+                <title>Luca FPV</title>
+                <meta name="description" content="Luca FPV è il blog di Luca Palonca"/>
             </Helmet>
             <TopContainer>
                 <HomeHero/>

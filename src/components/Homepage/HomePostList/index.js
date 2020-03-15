@@ -6,6 +6,7 @@ import {
     PostList,
     PostListItem,
     Date,
+    Tag,
     Heading,
     Preview
 } from './styled';
@@ -17,7 +18,6 @@ const HomePostList = () => {
         allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC, }) {
           edges {
             node {
-              excerpt
               fields {
                 slug
                 readingTime {
@@ -25,8 +25,10 @@ const HomePostList = () => {
                 }
               }
               frontmatter {
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD MMMM YYYY", locale:"it")
                 title
+                excerpt
+                tags
               }
             }
           }
@@ -40,12 +42,14 @@ const HomePostList = () => {
         <Container>
             <PostList>
                 {posts.map(( node, index ) => {
-                    const { node : { excerpt, frontmatter : { title, date }, fields : { slug, readingTime : { text } } } } = node;
+                    const { node : { frontmatter : { title, date, excerpt, tags}, fields : { slug, readingTime : { text } } } } = node;
                     return (
                         <PostListItem>
                             <Link to={`${slug}`} key={index}>
                                 <Date>
-                                    {date} &nbsp;&middot;&nbsp; {text}
+                                    {date} &nbsp;&middot;&nbsp; 
+                                    {text.replace('read', '')} &nbsp;&middot;&nbsp; 
+                                    {tags.map( (tag) => <Tag>#{tag} </Tag>)}
                                 </Date>
                                 <Heading>
                                     {title}

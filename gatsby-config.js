@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kyle McDonald',
-    author: 'Kyle McDonald',
-    description: 'Personal blog for Kyle McDonald',
+    title: 'Luca FPV',
+    author: 'Luca',
+    description: 'Un blog alla scoperta del mondo FPV',
     siteUrl: 'https://kylemcd.com',
   },
   pathPrefix: '/',

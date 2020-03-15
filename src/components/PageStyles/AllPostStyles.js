@@ -48,6 +48,12 @@ export const Date = styled(fonts.Eyebrow)`
     margin: 0;
 `;
 
+export const Tag = styled(fonts.Eyebrow)`
+    color: ${colors.personality};
+    display: inline;
+    margin: 0;
+`;
+
 export const Heading = styled(fonts.Heading)`
     color: ${colors.black};
     margin: 8px 0 16px 0;

@@ -14,14 +14,14 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-            <Avatar src="/avatar.jpg" alt="Picture of Kyle McDonald"/>
+            {/* <Avatar src="/avatar.jpg" alt="Picture of Kyle McDonald"/> */}
             <Heading>
-                Hey there!
+                Ciao!
             </Heading>
             <Paragraph>
-                I'm Kyle McDonald, a Software Engineer based in Chicago, where I am currently pushing code at <a href="https://foxtrotco.com" target="_blank" rel="noopener">Foxtrot</a>. My main focus is the front-end, where I love to write beautiful applications in React. 
+                Mi chiamo Luca e sono un'appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
                 <br/><br/>
-                This is where I write my long-form thoughts about development, business, and whatever else piques my interest. For my day-to-day ramblings, be sure to follow me over on <a href="https://twitter.com/designbykyle" target="_blank" rel="noopener">Twitter</a>.
+                Qui potrai trovare articoli, tutorial e recensioni sul tema dei droni FPV. 
             </Paragraph>
 
             <HomeNewsletter/>

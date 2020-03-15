@@ -6,9 +6,9 @@ export const Container = styled.div`
     display: flex;
     justify-content: flex-end;
     margin: 0 auto;
-    max-width: 1248px;
+    max-width: 1400px;
     padding: 24px 16px;
-    position: sticky;
+    position: relative;
     top: 0;
     margin-right: 0;
     width: calc(100% - 32px);
@@ -20,6 +20,7 @@ export const Container = styled.div`
         margin-right: auto;
     `}
 `;
+
 
 export const ContentContainer = styled.div`
     align-items: center;

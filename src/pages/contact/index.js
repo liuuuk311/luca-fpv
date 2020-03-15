@@ -22,19 +22,19 @@ const Contact = ({ location }) => {
             location={location}
         >
             <Helmet>
-                <title>Contact | Kyle McDonald</title>
+                <title>Contattami | Luca FPV</title>
                 <meta name="description" content="Get in contact with Kyle McDonald"/>
             </Helmet>
             <Container>
                 <Heading>
-                    Get in touch!
+                    Scrivimi!
                 </Heading>
                 <Paragraph>
-                    Whether it's for a project or just to stop and say "Hi!", use this form.
+                    Se vuoi collaborare, farmi una domanda oppure semplicemente salutarmi, riempi il form 👇
                 </Paragraph>
-                <form method="POST" action="https://formspree.io/hello@kylemcd.com">
+                <form method="POST" action="">
                     <InputGroup>
-                        <Label htmlFor="name">Name</Label>
+                        <Label htmlFor="name">Nome</Label>
                         <Field name="name" id="name" type="text" required/>
                     </InputGroup>
                     <InputGroup>
@@ -42,10 +42,10 @@ const Contact = ({ location }) => {
                         <Field name="email" id="email" type="email" required/>
                     </InputGroup>
                     <InputGroup>
-                        <Label htmlFor="message">Message</Label>
+                        <Label htmlFor="message">Messaggio</Label>
                         <Textarea name="message" required></Textarea>
                     </InputGroup>
-                    <Button type="submit">Let's Go!</Button>
+                    <Button type="submit">Invia!</Button>
                 </form>
             </Container>
         </Default>

@@ -12,17 +12,17 @@ import {
 const TwitterPromo = () => {
     return (
         <Container>
-            <Avatar src="/avatar.jpg" alt="Picture of Kyle McDonald"/>
+            <Avatar src="/luca.gif" alt="Foto di Luca"/>
             <Content>
                 <Heading>
-                    Thanks for reading!
+                    🙌 Grazie per aver letto questo articolo!
                 </Heading>
                 <Paragraph>
-                    Follow me on Twitter to stay up to date on my latest posts
+                    Seguimi su Instagram e Twitter per rimanere sempre aggiornato
                 </Paragraph>
-                <TwitterFollowButton
+                {/* <TwitterFollowButton
                     screenName={'designbykyle'}
-                />
+                /> */}
             </Content>
         </Container>
     );

@@ -47,7 +47,7 @@ const Navigation = () => {
                 >
                     <HomeLink>
                         <Link to="/">
-                            Kyle McDonald
+                            Luca FPV
                         </Link>
                     </HomeLink>
                     <HamburgerButton
@@ -67,17 +67,12 @@ const Navigation = () => {
                 >
                     <ListItem>
                         <Link to="/posts">
-                            Posts
-                        </Link>
-                    </ListItem>
-                    <ListItem>
-                        <Link to="/uses">
-                            Uses
+                            Articoli
                         </Link>
                     </ListItem>
                     <ListItem>
                         <Link to="/contact">
-                            Contact
+                            Contattami
                         </Link>
                     </ListItem>
                 </ListContainer>

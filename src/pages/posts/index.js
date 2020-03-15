@@ -12,6 +12,7 @@ import {
     PostList,
     PostListItem,
     Date,
+    Tag,
     Heading,
     Preview
 } from '../../components/PageStyles/AllPostStyles';
@@ -23,7 +24,6 @@ const Posts = ({ location }) => {
         allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC, }) {
           edges {
             node {
-              excerpt
               fields {
                 slug
                 readingTime {
@@ -31,8 +31,10 @@ const Posts = ({ location }) => {
                 }
               }
               frontmatter {
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD MMMM YYYY", locale:"it")
                 title
+                excerpt
+                tags
               }
             }
           }
@@ -47,21 +49,23 @@ const Posts = ({ location }) => {
             location={location}
         >
             <Helmet>
-                <title>All posts | Kyle McDonald</title>
-                <meta name="description" content="Every blog post every from Kyle McDonald"/>
+                <title>Tutti gli Articoli | Luca FPV</title>
+                <meta name="description" content="Tutti gli articoli di Luca FPV"/>
             </Helmet>
             <Container>
                 <Title>
-                    All of my posts
+                    Tutti i miei articoli
                 </Title>
                 <PostList>
                     {posts.map(( node, index ) => {
-                        const { node : { excerpt, frontmatter : { title, date }, fields : { slug, readingTime : { text } } } } = node;
+                        const { node : { frontmatter : { title, date, excerpt, tags }, fields : { slug, readingTime : { text } } } } = node;
                         return (
                             <PostListItem>
                                 <Link to={`${slug}`} key={index}>
                                     <Date>
-                                        {date} &nbsp;&middot;&nbsp; {text}
+                                        {date} &nbsp;&middot;&nbsp; 
+                                        {text.replace('read', '')} &nbsp;&middot;&nbsp;
+                                        {tags.map( ( tag ) => <Tag>#{tag} </Tag>)}
                                     </Date>
                                     <Heading>
                                         {title}
