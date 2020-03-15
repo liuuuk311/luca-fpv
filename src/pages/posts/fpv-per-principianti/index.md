@@ -7,14 +7,14 @@ tags: ["principianti"]
 
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, guarda questo breve video per capire di che cosa si tratta.
 
+<style>video.labnol, img.labnol {max-width:100%; width: 100% !important; height: auto !important;}</style> <video class='labnol' width='750' height='422' controls poster='https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e35/87605508_2477406005906086_3749552775848850793_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=4dIaLW0lclcAX8XxHAH&oh=149d3c8c413c5de7d13bda77eb1900b8&oe=5E707360'><source src='https://scontent-bos3-1.cdninstagram.com/v/t50.2886-16/87830974_140758630746153_7314166105764430671_n.mp4?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=WRTPwC05AgIAX_xMkHs&oe=5E708EAE&oh=0cc7a76b597b01cc2ba9cc763c7624fb' type='video/mp4'></video>
+
 In entrambi i casi, ho creato questa guida nella quale tenterò di spiegare le nozioni base per poter comprare, costruire e volare con un drone. All’interno di questo articolo potrai trovare anche delle risorse utili che potranno esserti di aiuto.
 
 
 ## Introduzione alle gare di droni
 
 Probabilmente avrai già visto un drone volare, per chi non lo sapesse, si tratta di un velivolo pilotato a distanza. Molto spesso, i piloti si sfidano in gare ad alta velocità attraverso piste tridimensionali, con difficoltà aggiunte come ad esempio ostacoli da evitare. Le velocità possono superare facilmente i 150 km/h.
-
-<!-- Video di una drone -->
 
 È uno degli sport che sta crescendo più velocemente in tutto il mondo e sta attraendo sempre più grosse aziende pronte a sponsorizzare i piloti migliori. 
 
@@ -90,7 +90,7 @@ Tuttavia, la maggior parte dei piloti esperti consiglia di costruire il primo dr
 
 ## Simulatori di volo
 
-“Non ho ancora un drone, come posso imparare a volare?”Al giorno d’oggi, non hai bisogno un drone per imparare a volare. Per fortuna, esistono molti simulatori di volo che ti permettono di esercitarti. Con un simulatore imparerai i controlli base di un drone e allenerai la tua memoria muscolare necessaria per pilotare con confidenza. I simulatori permettono di utilizzare lo stesso radiocomando che utilizzerai per pilotare il quadricottero. Molti piloti esperti consigliano di non imparare a volare utilizzando direttamente un mini quad. Infatti nei primi giorni è molto probabile che farai cadere il drone, ed, oltre ad essere pericoloso, è anche molto costoso ripararare e sostituire le parti danneggiate. Continuando ad allenare la tua memoria muscolare migliorerai e minimizzerai il rischio di distruggere il tuo drone in uno schianto. Ecco una lista dei simulatori di volo per FPV <!--[https://oscarliang.com/free-quadcopter-simulator-drone-multirotor-trainer/] -->
+“Non ho ancora un drone, come posso imparare a volare?” Al giorno d’oggi, non hai bisogno un drone per imparare a volare. Per fortuna, esistono molti simulatori di volo che ti permettono di esercitarti. Con un simulatore imparerai i controlli base di un drone e allenerai la tua memoria muscolare necessaria per pilotare con confidenza. I simulatori permettono di utilizzare lo stesso radiocomando che utilizzerai per pilotare il quadricottero. Molti piloti esperti consigliano di non imparare a volare utilizzando direttamente un mini quad. Infatti nei primi giorni è molto probabile che farai cadere il drone, ed, oltre ad essere pericoloso, è anche molto costoso ripararare e sostituire le parti danneggiate. Continuando ad allenare la tua memoria muscolare migliorerai e minimizzerai il rischio di distruggere il tuo drone in uno schianto. <!--Ecco una lista dei simulatori di volo per FPV [https://oscarliang.com/free-quadcopter-simulator-drone-multirotor-trainer/] -->
 
 I simulatori FPV sono la maniera meno costosa per cominciare a pilotare un quadricottero. Oltretutto, un altro grosso vantaggio nell’utilizzare i simulatori è che puoi allenarti a qualunque ora del giorno e senza preoccuparti delle condizioni meteo. Chiaramente, non è come volare per davvero, ma è sufficiente per un allenamento base. Molti raccomandano di passare almeno 10 ore su un simulatore prima provare a volare un drone vero.Per volare con un simulatore, il primo oggetto che dovrai acquistare è il radiocomando. Accertati che supporti il simulatore che hai scelto di usare, molti dei radiocomandi che consiglio sono compatibili. Potrai usare lo stesso radiocomando, sia per il simulatore che per il drone che volerai successivamente. Potrai addirittura collegare diversi quadricotteri allo stesso radiocomando.
 
@@ -151,11 +151,13 @@ Ci sono diversi firmware per flight controller che sono disponibili. Ciascuno di
 
 ### ESC
 
-Ogni ESC ha il proprio processore e quindi c’è un firmware che gira su ogni ESC. Il Flight Controller comunica con gli ESC utilizzando un protocollo. Se vuoi approfondire su questo tema ecco un post su Firmware e protocolli per ESC [].
+Ogni ESC ha il proprio processore e quindi c’è un firmware che gira su ogni ESC. Il Flight Controller comunica con gli ESC utilizzando un protocollo. Se vuoi approfondire su questo tema ecco un post su Firmware e protocolli per ESC.
 
 ### Come fa a volare un drone?
 
-A terra, il pilota controlla il drone utilizzando il radiocomando che ha due joystick. I comandi vengono inviati attraverso onde radio al ricevitore installato all’interno del drone. Sul modello, l’’FC riceve gli input dalla ricevente, usisce gli input con i dati ricavati dal giroscopio montato sul flight controller, e calcola la velocità alla quale ogni motore dovrebbe muoversi. L’FC quindi invia dei comandi ad ogni ESC. La batteria LiPo a bordo fornisce potenza direttamente ai controllori di velocità dei motori ESC, i quali traducono i segnali inviati dall’FC per controllare i singoli motori e farli girare alla velocità richiesta, in modo da poter generare la propulsione necessaria.Come fa il pilota a vedere in prima persona?
+A terra, il pilota controlla il drone utilizzando il radiocomando che ha due joystick. I comandi vengono inviati attraverso onde radio al ricevitore installato all’interno del drone. Sul modello, l’’FC riceve gli input dalla ricevente, usisce gli input con i dati ricavati dal giroscopio montato sul flight controller, e calcola la velocità alla quale ogni motore dovrebbe muoversi. L’FC quindi invia dei comandi ad ogni ESC. La batteria LiPo a bordo fornisce potenza direttamente ai controllori di velocità dei motori ESC, i quali traducono i segnali inviati dall’FC per controllare i singoli motori e farli girare alla velocità richiesta, in modo da poter generare la propulsione necessaria.
+
+### Come fa il pilota a vedere in prima persona?
 
 I sistemi FPV montati su i mini quad sono relativamente semplici:Una telecamera è connessa ad un video trasmettitore (VTX)
 
@@ -183,7 +185,10 @@ Ci vuole del tempo per passare da volare in un simulatore a un vero mini quad. M
 
 <!-- [Riferimenti ad altri articoli: consigli, motivazione e altro]-->
 
-Non volare in modalità Auto-LevelSe vuoi volare droni come il DJI Mavic, o altri droni che volano con l’aiuto del GPS, la modalità auto-level è perfetta. Ma se vuoi entrare nel mondo dei droni da gara e fare manovre acrobatiche, devi imparare a volare in modalità acro.Questo articolo spiega le differenze tra modalità acro e modalità auto-level <!-- [https://oscarliang.com/rate-acro-horizon-flight-mode-level/] -->.
+### Non volare in modalità Auto-Level
+
+Se vuoi volare droni come il DJI Mavic, o altri droni che volano con l’aiuto del GPS, la modalità auto-level è perfetta. Ma se vuoi entrare nel mondo dei droni da gara e fare manovre acrobatiche, devi imparare a volare in modalità acro.
+<!--Questo articolo spiega le differenze tra modalità acro e modalità auto-level [https://oscarliang.com/rate-acro-horizon-flight-mode-level/]-->
 
 La modalità acro può sembrare difficile all’inizio, ma una volta che hai imparato, sei libero di controllare il quad esattamente come vuoi tu. La modalità auto-level è come camminare con un paio di stampelle, ottime se non riesci a stare in equilibrio da solo, ma la vedo dura usarle per correre! Una volta che hai imparato a volare in acro, la modalità auto-level ti sembrerà una limitazione, e inoltre, la modalità auto-level spesso ti insegna cattive abitudini.
 
