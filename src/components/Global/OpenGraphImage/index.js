@@ -58,7 +58,7 @@ const OpenGraphImage = props => {
                     }}
                 >
                     <img 
-                        src="https://kylemcd.com/avatar.jpg"
+                        src="http://lucafpv.com/avatar.jpg"
                         style={{
                             borderRadius: '50%',
                             display: 'block',
