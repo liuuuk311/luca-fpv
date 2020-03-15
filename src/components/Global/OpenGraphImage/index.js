@@ -74,7 +74,7 @@ const OpenGraphImage = props => {
                         paddingLeft: '18px',
                         // paddingRight: '16px'
                     }}>
-                        Kyle McDonald
+                        Luca FPV
                     </div>
                 </div>
             </div>

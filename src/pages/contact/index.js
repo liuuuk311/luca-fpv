@@ -23,7 +23,7 @@ const Contact = ({ location }) => {
         >
             <Helmet>
                 <title>Contattami | Luca FPV</title>
-                <meta name="description" content="Get in contact with Kyle McDonald"/>
+                <meta name="description" content="Contatta Luca"/>
             </Helmet>
             <Container>
                 <Heading>
