@@ -15,8 +15,8 @@ const Default = props => {
             <Helmet>
                 <html lang="en" />
                 <meta charset="UTF-8" />
-                <meta property="og:title" content="Luca Palonca"/>
-                <meta property="og:description" content=""/>
+                <meta property="og:title" content="Luca FPV"/>
+                <meta property="og:description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
                 {/* <meta property="og:image" content="http://lucafpv.com/avatar.png"/> */}
                 <meta property="og:url" content={url}/>
             </Helmet>
