@@ -14,7 +14,7 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-            {/* <Avatar src="/avatar.jpg" alt="Picture of Kyle McDonald"/> */}
+            <Avatar src="/luca.gif" alt="Foto di Luca"/>
             <Heading>
                 Ciao!
             </Heading>
