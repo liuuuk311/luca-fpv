@@ -93,7 +93,7 @@ I droni da gara sono divisi in categorie, queste dimensioni, classificano i quad
 
 I droni da fotografia sono usati principalmente per fare filmati e fotografie professionali ad alta risoluzione. Sono preassemblati è sono i droni più costosi di questo hobby, sono forniti di fotocamere ad alta risoluzione, GPS integrato e sistema di navigazione autonoma e molte altre tecnologie sofisticate. L’azienda leader nel settore è sicuramente DJI, ma esistono altri marchi conosciuti come GoPro, Xiaomi, Walkera e altri.
 
-**Riassunto**
+### Riassunto
 
 * Prezzo : da 500 a 2000 euro
 * Peso: 1Kg-1.5Kg in media
@@ -101,7 +101,7 @@ I droni da fotografia sono usati principalmente per fare filmati e fotografie pr
 * Ideali per fotografie e video in HD
 * Perfetti per fotografi e content creator
 
-Esempi
+### Esempi
 
 * DJI Mavic Pro
 * DJI Phantom 4
