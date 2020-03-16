@@ -108,7 +108,7 @@ const BlogPost = ({ data, location }) => {
             location={location}
         >
             <Helmet>
-                <title>{title}</title>
+                <title>{title} | Luca FPV</title>
                 <meta name="description" content={excerpt}/>
                 <meta name="author" content="Luca Palonca" />
 

@@ -59,6 +59,11 @@ export const Heading = styled(fonts.Heading)`
     margin: 8px 0 16px 0;
 `;
 
+export const SubHeading = styled(fonts.SubHeading)`
+    color: ${colors.black};
+    margin: 8px 0 16px 0;
+`;
+
 export const Preview = styled(fonts.Body)`
     color: ${colors.black};
     margin: 0;

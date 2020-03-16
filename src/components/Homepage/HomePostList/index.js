@@ -8,6 +8,7 @@ import {
     Date,
     Tag,
     Heading,
+    SubHeading,
     Preview
 } from './styled';
 
@@ -51,9 +52,9 @@ const HomePostList = () => {
                                     {text.replace('read', '')} &nbsp;&middot;&nbsp; 
                                     {tags.map( (tag) => <Tag>#{tag} </Tag>)}
                                 </Date>
-                                <Heading>
+                                <SubHeading>
                                     {title}
-                                </Heading>
+                                </SubHeading>
                                 <Preview>
                                     {excerpt}
                                 </Preview>
