@@ -16,7 +16,7 @@ const Homepage = ({ location }) => {
             location={location}
         >
             <Helmet>
-                <title>Luca FPV</title>
+                <title>Luca FPV - Vola in prima persona</title>
                 <meta name="description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
             </Helmet>
             <TopContainer>

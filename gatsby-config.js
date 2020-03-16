@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Luca FPV',
+    title: 'Luca FPV - Vola in prima persona',
     author: 'Luca',
-    description: 'Un blog alla scoperta del mondo FPV',
+    description: 'Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV.',
     siteUrl: 'http://lucafpv.com',
+    keywords: ['Drone', 'FPV', 'DJI', 'Mini Quad'],
   },
   pathPrefix: '/',
   plugins: [
@@ -17,7 +18,8 @@ module.exports = {
     },
     {
       resolve: `gatsby-source-filesystem`,
-      options: {
+      options: 
+      {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },

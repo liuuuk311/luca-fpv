@@ -14,6 +14,7 @@ import {
     Date,
     Tag,
     Heading,
+    SubHeading,
     Preview
 } from '../../components/PageStyles/AllPostStyles';
 
@@ -67,9 +68,9 @@ const Posts = ({ location }) => {
                                         {text.replace('read', '')} &nbsp;&middot;&nbsp;
                                         {tags.map( ( tag ) => <Tag>#{tag} </Tag>)}
                                     </Date>
-                                    <Heading>
+                                    <SubHeading>
                                         {title}
-                                    </Heading>
+                                    </SubHeading>
                                     <Preview>
                                         {excerpt}
                                     </Preview>

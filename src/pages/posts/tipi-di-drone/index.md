@@ -3,6 +3,7 @@ title: Tipi di drone
 date: "2020-01-15T17:00:00.169Z"
 excerpt: Una elenco dei droni più comuni nel mondo FPV. Quali sono i più comuni? Qual è la categoria migliore per il freestyle? Quali posso far volare in casa in modo sicuro? In questo articolo rispondo anche a queste domande.
 tags: []
+featured: images/tipi_di_droni.png
 ---
 Questo articolo tratta di diversi tipi di droni radiocomandati che è possibile acquistare ed entrare in questo hobby. Questi droni, spesso vengono chiamati anche quadricotteri, perché sono essenzialmente elicotteri radiocomandati con quattro motori. Questi modelli radiocomandati sono progettati per gareggiare, fare fotografie aeree o semplicemente per divertirsi. 
 

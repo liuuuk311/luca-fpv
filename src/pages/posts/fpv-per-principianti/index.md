@@ -3,6 +3,7 @@ title: FPV per Principianti
 date: "2020-01-01T22:40:32.169Z"
 excerpt: Vuoi cominciare a volare droni FPV e non sai da dove cominciare? Questo è l'articolo giusto per te!
 tags: ["principianti"]
+featured: images/tipi_di_droni.png
 ---
 
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, guarda questo breve video per capire di che cosa si tratta.
