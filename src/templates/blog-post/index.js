@@ -39,6 +39,7 @@ import  {
     Button
 } from '../../components/PageStyles/BlogStyles';
 
+
 const BlogPost = ({ data, location }) => {
 
     const url = location.href ? location.href : '';
@@ -47,6 +48,7 @@ const BlogPost = ({ data, location }) => {
         markdownRemark: {
             frontmatter: {
                 title,
+                excerpt,
                 date
             },
             fields : {
@@ -55,7 +57,7 @@ const BlogPost = ({ data, location }) => {
                     text
                 }
             },
-            excerpt,
+            
             html
         }
     } = data;
@@ -107,6 +109,7 @@ const BlogPost = ({ data, location }) => {
         <Default
             location={location}
         >
+            
             <Helmet>
                 <title>{title} | Luca FPV</title>
                 <meta name="description" content={excerpt}/>
@@ -209,7 +212,6 @@ query BlogPostBySlug($slug: String!) {
     }
     markdownRemark(fields: {slug: {eq: $slug}, readingTime: {}}) {
       id
-      excerpt
       html
       fields {
         slug
@@ -220,6 +222,7 @@ query BlogPostBySlug($slug: String!) {
       frontmatter {
         title
         date(formatString: "DD MMMM YYYY", locale: "it")
+        excerpt
       }
     }
   }
