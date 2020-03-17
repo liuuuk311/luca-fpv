@@ -32,7 +32,7 @@ const Contact = ({ location }) => {
                 <Paragraph>
                     Se vuoi collaborare, farmi una domanda oppure semplicemente salutarmi, riempi il form 👇
                 </Paragraph>
-                <form method="POST" name="contact" data-netlify="true">
+                <form method="POST" name="contact" data-netlify="true" action="/">
                     <InputGroup>
                         <Label htmlFor="name">Nome</Label>
                         <Field name="name" id="name" type="text" required/>
