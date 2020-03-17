@@ -182,7 +182,7 @@ const BlogPost = ({ data, location }) => {
                         <Heading>
                             Se sei arrivato fino qua...
                         </Heading>
-                        <form action="http://lucafpv.us19.list-manage.com/subscribe/post?u=5f38c3d669ea51ac7ac7d8d39&amp;id=99fc8e7822" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
+                        <form action="https://lucafpv.us19.list-manage.com/subscribe/post?u=1f9157c09ec4bcd2a7ea723d5&amp;id=d68f59b417" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                             <Paragraph>
                                 Probabilmente dovresti iscriverti alla mia Newsletter 👇
                             </Paragraph>
