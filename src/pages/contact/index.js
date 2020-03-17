@@ -32,7 +32,8 @@ const Contact = ({ location }) => {
                 <Paragraph>
                     Se vuoi collaborare, farmi una domanda oppure semplicemente salutarmi, riempi il form 👇
                 </Paragraph>
-                <form method="POST" name="contact" data-netlify="true">
+                <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+                    <input type="hidden" name="bot-field" />
                     <InputGroup>
                         <Label htmlFor="name">Nome</Label>
                         <Field name="name" id="name" type="text" required/>
