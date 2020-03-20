@@ -17,7 +17,7 @@ const Footer = () => {
             <SocialList>
                 <SocialListItem>
                     <SocialListLink 
-                        href="https://www.instagram.com/luca.fpv/"
+                        href="https://www.instagram.com/iamlucafpv/"
                         target="_blank"
                         rel="noopener"
                     >
@@ -26,7 +26,7 @@ const Footer = () => {
                 </SocialListItem>
                 <SocialListItem>
                     <SocialListLink 
-                        href="https://twitter.com/liuuuk311"
+                        href="https://twitter.com/iamlucafpv"
                         target="_blank"
                         rel="noopener"
                     >
