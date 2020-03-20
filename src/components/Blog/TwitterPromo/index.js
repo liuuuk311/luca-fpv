@@ -18,11 +18,11 @@ const TwitterPromo = () => {
                     🙌 Grazie per aver letto questo articolo!
                 </Heading>
                 <Paragraph>
-                    Seguimi su Instagram e Twitter per rimanere sempre aggiornato
+                    Seguimi su Twitter per rimanere sempre aggiornato
                 </Paragraph>
-                {/* <TwitterFollowButton
-                    screenName={'designbykyle'}
-                /> */}
+                <TwitterFollowButton
+                    screenName={'iamlucafpv'}
+                />
             </Content>
         </Container>
     );
