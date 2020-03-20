@@ -1,14 +1,6 @@
-# Kyle McDonald's Personal Site
-Built with React + Gatsby
+# Luca FPV 
 
-## Boilerplate
-This repo was originally created from [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+The website is built with [Gatsby](https://www.gatsbyjs.org/) and it is deployed on [Netlify](https://www.netlify.com/).
 
-## Installing
-`npm install`
+To install Gatsby follow this [tutorial](https://www.gatsbyjs.org/docs/quick-start/).
 
-## Running in development
-`npm run dev`
-
-## Running production build
-`npm run build`
