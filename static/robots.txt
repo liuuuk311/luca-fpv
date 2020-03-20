@@ -1,2 +1,3 @@
+Sitemap: http://www.lucafpv.com/sitemap.xml
 User-agent: *
 Disallow:
