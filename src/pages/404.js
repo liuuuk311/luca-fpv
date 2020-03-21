@@ -29,7 +29,7 @@ const Homepage = ({ location }) => {
                         Sembra che questa pagina non esista
                     </Heading>
                     <Preview>
-                        Prova su a sintonizzarti un'altra frequenza, oppure <Link href='/'>RTH</Link>
+                        Prova a sintonizzarti un'altra frequenza, oppure <Link href='/'>RTH</Link>
                     </Preview>
                 </Container>
             </TopContainer>
