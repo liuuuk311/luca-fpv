@@ -44,17 +44,17 @@ NON scaricare le tue batterie LIPO sotto i 3.5 V per cella, altrimenti rischi di
 
 Le batterie utilizzate hanno diverse celle. Maggiore è il numero di queste celle e maggiore è il voltaggio complessivo, che si traduce in più potenza. Ogni cella ha un valore nominale di 4.2 V, e il numero di celle si conta in S. Quindi una batteria 1S avrà una sola cella e il voltaggio complessivo sarà di 4.2 V. 
 
-* 2S ➡ 2 Celle, voltaggio complessivo 8.4V
-* 3S ➡ 3 Celle, voltaggio complessivo 12.6V
-* 4S ➡ 4 Celle, voltaggio complessivo 16.8V
-* 5S ➡ 5 Celle, voltaggio complessivo 21.0V
-* 6S ➡ 6 Celle, voltaggio complessivo 25.2V
+* 2S ➡ 2 Celle, voltaggio complessivo 8.4 V
+* 3S ➡ 3 Celle, voltaggio complessivo 12.6 V
+* 4S ➡ 4 Celle, voltaggio complessivo 16.8 V
+* 5S ➡ 5 Celle, voltaggio complessivo 21.0 V
+* 6S ➡ 6 Celle, voltaggio complessivo 25.2 V
 
-Le batterie più comuni sono le 4S e le 6S. Facendo un esempio pratico, se si vola un una lipo 4S al momento della partenza la batteria dovrebbe avere un voltaggio di 16.8V e si dovrebbe atterrare quando il voltaggio è circa 14.8V (questo è il voltaggio che andrebbe misurato con la batteria a freddo). E' normale che durante il volo, il voltaggio della batteria scenda sotto i 15V, questo fenomeno viene anche chiamato SAG. 
+Le batterie più comuni sono le 4S e le 6S. Facendo un esempio pratico, se si vola un una lipo 4S al momento della partenza la batteria dovrebbe avere un voltaggio di 16.8 V e si dovrebbe atterrare quando il voltaggio è circa 14.8 V (questo è il voltaggio che andrebbe misurato con la batteria a freddo). E' normale che durante il volo, il voltaggio della batteria scenda sotto i 15 V, questo fenomeno viene anche chiamato SAG. 
 
-Il voltaggio di stoccaggio per un pacco di batterie 4S è 15.2V. Se sai di non utilizzarle più di 5 giorni, è meglio portare le batterie al giusto voltaggio. Quando sei pronto un'altra sessione di volo, ricarica le batterie in tempo.
+Il voltaggio di stoccaggio per un pacco di batterie 4S è 15.2 V. Se sai di non utilizzarle più di 5 giorni, è meglio portare le batterie al giusto voltaggio. Quando sei pronto un'altra sessione di volo, ricarica le batterie in tempo.
 
-Un'altro parametro delle batterie viene indicato con la C, tipicamente è un numero arbitrario che rappresenta quanta potenza può fornire la batteria.
+Un altro parametro delle batterie viene indicato con la C, tipicamente è un numero arbitrario che rappresenta quanta potenza può fornire la batteria.
 
 ## Radio e Video
 
