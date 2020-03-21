@@ -179,11 +179,11 @@ const BlogPost = ({ data, location }) => {
                     <RecommendedArticles slug={slug}/>
                     <NewsletterContainer>
                         <Heading>
-                            Se sei arrivato fino qua...
+                            Se sei arrivato fino a qua...
                         </Heading>
                         <form action="https://lucafpv.us19.list-manage.com/subscribe/post?u=1f9157c09ec4bcd2a7ea723d5&amp;id=d68f59b417" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                             <Paragraph>
-                                Probabilmente dovresti iscriverti alla mia Newsletter 👇
+                                Ti consiglio di iscriverti alla mia Newsletter 👇
                             </Paragraph>
                             <Label htmlFor="mce-EMAIL">Email</Label>
                             <FieldContainer>
