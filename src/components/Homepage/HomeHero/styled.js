@@ -15,7 +15,7 @@ export const Container = styled.div`
     `}
 `;
 
-export const Avatar = styled.img`
+export const Avatar = styled.video`
     border-radius: 50%;
     display: block;
     max-width: 110px;
