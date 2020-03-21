@@ -57,7 +57,6 @@ const BlogPost = ({ data, location }) => {
                     text
                 }
             },
-            
             html
         }
     } = data;
@@ -117,7 +116,7 @@ const BlogPost = ({ data, location }) => {
 
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
-                <meta property="og:url" content={`http://lucafpv.com/posts/${getOgSlug(slug)}`}/>
+                <meta property="og:url" content={`http://lucafpv.com/${getOgSlug(slug)}`}/>
                 <meta property="og:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
 
                 <meta name="twitter:title" content={title}/>
@@ -158,19 +157,19 @@ const BlogPost = ({ data, location }) => {
                     />
                     <ShareButtons>
                         <TwitterShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <TwitterIcon size={24} round={true}/>
                         </TwitterShareButton>
                         <LinkedinShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <LinkedinIcon size={24} round={true}/>
                         </LinkedinShareButton>
                         <RedditShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <RedditIcon size={24} round={true}/>
