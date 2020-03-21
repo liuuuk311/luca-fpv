@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-    HomeNewsletter
+    HomeNewsletter,
 } from '../../../components';
 
 import {
@@ -14,7 +14,7 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-            <Avatar src="/luca.gif" alt="Foto di Luca"/>
+            <Avatar src="/luca.mp4" autoPlay/>
             <Heading>
                 Ciao!
             </Heading>
@@ -23,7 +23,6 @@ const HomeHero = () => {
                 <br/><br/>
                 Qui potrai trovare articoli, tutorial e recensioni sul tema dei droni FPV. 
             </Paragraph>
-
             <HomeNewsletter/>
         </Container>
     );
