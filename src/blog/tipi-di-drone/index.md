@@ -1,7 +1,7 @@
 ---
 title: Tipi di drone
 date: "2020-03-23T00:00:00.000Z"
-excerpt: Una elenco dei droni più comuni nel mondo FPV. Quali sono i più comuni? Qual è la categoria migliore per il freestyle? Quali posso far volare in casa in modo sicuro? In questo articolo rispondo anche a queste domande.
+excerpt: Una elenco dei droni più comuni nel mondo FPV. Qual è la categoria migliore per il freestyle? Quali posso far volare in casa in modo sicuro? In questo articolo trovari le risposte anche a queste domande.
 category:
     - Tutorial
 tags: 
