@@ -19,7 +19,7 @@ const HomeHero = () => {
                 Ciao!
             </Heading>
             <Paragraph>
-                Mi chiamo Luca e sono un'appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
+                Mi chiamo Luca e sono un appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
                 <br/><br/>
                 Qui potrai trovare articoli, tutorial e recensioni sul tema dei droni FPV. 
             </Paragraph>
