@@ -1,7 +1,7 @@
 ---
 title: FPV per Principianti
 date: "2020-03-20T00:00:00.000Z"
-excerpt: Vuoi cominciare a volare droni FPV e non sai da dove cominciare? Questo è l'articolo giusto per te!
+excerpt: Vorresti volare con droni FPV ma non sai da dove cominciare? Questo è l'articolo giusto per te!
 category: 
     - Tutorial
 tags: 
