@@ -55,7 +55,7 @@ Questo è un sistema FPV completo, nel radiocomando è incluso un ricevitore vid
 
 ## Quad da gara
 
-Conosciuti anche come mini quad, i drone da gara sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 Km/h.A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad <!-- [https://oscarliang.com/build-a-quadcopter-beginners-tutorial-1/] -->può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
+Conosciuti anche come mini quad, i drone da gara sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h.A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad <!-- [https://oscarliang.com/build-a-quadcopter-beginners-tutorial-1/] -->può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
 
 ### Riassunto 
 
@@ -99,7 +99,7 @@ I droni da fotografia sono usati principalmente per fare filmati e fotografie pr
 ### Riassunto
 
 * Prezzo : da 500 a 2000 euro
-* Peso: 1Kg-1.5Kg in media
+* Peso: 1 kg-1.5 kg in media
 * Dimensione: da 300 mm a 400 mm in diagonale
 * Ideali per fotografie e video in HD
 * Perfetti per fotografi e content creator
