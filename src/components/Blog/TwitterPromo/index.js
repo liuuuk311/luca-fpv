@@ -1,6 +1,5 @@
 import React from 'react';
 import { TwitterFollowButton } from 'react-twitter-embed';
-
 import {
     Container,
     Avatar,
@@ -9,10 +8,11 @@ import {
     Paragraph
 } from './styled';
 
+
 const TwitterPromo = () => {
     return (
         <Container>
-            <Avatar src="/luca.gif" alt="Foto di Luca"/>
+            <Avatar src="/luca.jpg"/>
             <Content>
                 <Heading>
                     🙌 Grazie per aver letto questo articolo!
