@@ -15,26 +15,26 @@ import {
 const HomePostList = () => {
 
     const data = useStaticQuery(graphql`
-        query {
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC, }) {
-          edges {
-            node {
-              fields {
-                slug
-                readingTime {
-                  text
-                }
+    {
+      allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {featured: {eq: true}}}, limit: 10) {
+        edges {
+          node {
+            fields {
+              slug
+              readingTime {
+                text
               }
-              frontmatter {
-                date(formatString: "DD MMMM YYYY", locale:"it")
-                title
-                excerpt
-                tags
-              }
+            }
+            frontmatter {
+              date(formatString: "DD MMMM YYYY", locale: "it")
+              title
+              excerpt
+              tags
             }
           }
         }
       }
+    }    
     `)
 
     const posts = data.allMarkdownRemark.edges;
