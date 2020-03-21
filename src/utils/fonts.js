@@ -31,6 +31,16 @@ export const SubHeading = styled.h2`
     `}
 `;
 
+export const SubSubHeading = styled.h3`
+    font-size: 16px;
+    line-height: 22px;
+
+    ${media.medium`
+        font-size: 16px;
+        line-height: 22px;
+    `}
+`;
+
 export const Eyebrow = styled.h3`
     font-size: 14px;
     font-weight: 400;
@@ -52,6 +62,7 @@ const fonts = {
     Billboard,
     Heading,
     SubHeading,
+    SubSubHeading,
     Eyebrow,
     Body
 }
