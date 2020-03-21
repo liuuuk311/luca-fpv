@@ -52,6 +52,7 @@ export const Preview = styled(fonts.Body)`
     color: ${colors.black};
     margin: 0;
 `;
+
 export const Tag = styled(fonts.Eyebrow)`
     color: ${colors.personality};
     display: inline;

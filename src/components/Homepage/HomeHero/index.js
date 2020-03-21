@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-    HomeNewsletter
+    HomeNewsletter,
 } from '../../../components';
 
 import {
@@ -14,16 +14,15 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-            <Avatar src="/luca.gif" alt="Foto di Luca"/>
+            <Avatar src="/luca.mp4" autoPlay/>
             <Heading>
                 Ciao!
             </Heading>
             <Paragraph>
-                Mi chiamo Luca e sono un'appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
+                Mi chiamo Luca e sono un appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
                 <br/><br/>
                 Qui potrai trovare articoli, tutorial e recensioni sul tema dei droni FPV. 
             </Paragraph>
-
             <HomeNewsletter/>
         </Container>
     );

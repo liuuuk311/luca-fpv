@@ -57,7 +57,6 @@ const BlogPost = ({ data, location }) => {
                     text
                 }
             },
-            
             html
         }
     } = data;
@@ -117,7 +116,7 @@ const BlogPost = ({ data, location }) => {
 
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
-                <meta property="og:url" content={`http://lucafpv.com/posts/${getOgSlug(slug)}`}/>
+                <meta property="og:url" content={`http://lucafpv.com/${getOgSlug(slug)}`}/>
                 <meta property="og:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
 
                 <meta name="twitter:title" content={title}/>
@@ -158,19 +157,19 @@ const BlogPost = ({ data, location }) => {
                     />
                     <ShareButtons>
                         <TwitterShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <TwitterIcon size={24} round={true}/>
                         </TwitterShareButton>
                         <LinkedinShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <LinkedinIcon size={24} round={true}/>
                         </LinkedinShareButton>
                         <RedditShareButton
-                            url={`http://lucafpv.com/posts/${getOgSlug(slug)}`}
+                            url={`http://lucafpv.com/${getOgSlug(slug)}`}
                             title={title}
                         >
                             <RedditIcon size={24} round={true}/>
@@ -180,11 +179,11 @@ const BlogPost = ({ data, location }) => {
                     <RecommendedArticles slug={slug}/>
                     <NewsletterContainer>
                         <Heading>
-                            Se sei arrivato fino qua...
+                            Se sei arrivato fino a qua...
                         </Heading>
                         <form action="https://lucafpv.us19.list-manage.com/subscribe/post?u=1f9157c09ec4bcd2a7ea723d5&amp;id=d68f59b417" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                             <Paragraph>
-                                Probabilmente dovresti iscriverti alla mia Newsletter 👇
+                                Ti consiglio di iscriverti alla mia Newsletter 👇
                             </Paragraph>
                             <Label htmlFor="mce-EMAIL">Email</Label>
                             <FieldContainer>

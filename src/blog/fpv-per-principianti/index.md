@@ -1,9 +1,12 @@
 ---
 title: FPV per Principianti
-date: "2020-01-01T22:40:32.169Z"
-excerpt: Vuoi cominciare a volare droni FPV e non sai da dove cominciare? Questo è l'articolo giusto per te!
-tags: ["principianti"]
-featured: images/tipi_di_droni.png
+date: "2020-03-20T00:00:00.000Z"
+excerpt: Vorresti volare con droni FPV ma non sai da dove cominciare? Questo è l'articolo giusto per te!
+category: 
+    - Tutorial
+tags: 
+    - Principianti
+featured: true
 ---
 
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, guarda questo breve video per capire di che cosa si tratta.
@@ -13,7 +16,7 @@ Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto co
 In entrambi i casi, ho creato questa guida nella quale tenterò di spiegare le nozioni base per poter comprare, costruire e volare con un drone. All’interno di questo articolo potrai trovare anche delle risorse utili che potranno esserti di aiuto.
 
 
-## Introduzione alle gare di droni
+## Introduzione al mondo FPV
 
 Probabilmente avrai già visto un drone volare, per chi non lo sapesse, si tratta di un velivolo pilotato a distanza. Molto spesso, i piloti si sfidano in gare ad alta velocità attraverso piste tridimensionali, con difficoltà aggiunte come ad esempio ostacoli da evitare. Le velocità possono superare facilmente i 150 km/h.
 
@@ -37,9 +40,9 @@ Quando voli in FPV sembra di giocare ad un videogioco, ma è tutto reale. Non es
 
 ## Volare come hobby 
 
-Al giorno d’oggi, sempre molte più persone gareggiano a livello professionale, soprattutto all’estero. Tuttavia, la maggior parte di noi continua a volare giusto per divertimento, come hobby. Sfortunatamente, l’Italia ha leggi molto stringenti e per questo hobby cresce più lentamente. 
+Al giorno d’oggi, sempre molte più persone gareggiano a livello professionale, soprattutto all’estero. Tuttavia, la maggior parte di noi continua a volare giusto per divertimento, come hobby. Sfortunatamente, l’Italia ha leggi molto stringenti e per questo motivo, l'hobby cresce più lentamente. 
 
-<!-- [Articolo su leggi ENAC] -->
+<!-- A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](Articolo su leggi ENAC) in Italia-->
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
@@ -57,7 +60,7 @@ Cerchiamo di definire alcuni dei termini più comuni usati nel mondo FPV, in mod
 
 La parola “drone” è usata molto negli ultimi tempi ed è diventata sinonimo di qualunque velivolo senza pilota, potenzialmente equipaggiato anche di una telecamera. A parte per usi militari, storicamente, la maggior parte dei “droni” veniva usata per fare fotografie aeree oppure per trasportare carichi pesanti come equipaggiamenti per produzioni cinematografiche.
 
-Ecco alcuni [tipi di drone](https://lucafpv.com/posts/tipi-di-drone) che si trovano spesso in questo hobby. <!--[https://oscarliang.com/types-of-drones/] -->
+Ecco alcuni [tipi di drone](https://lucafpv.com/tipi-di-drone) che si trovano spesso in questo hobby. 
 
 ### Cos’è un Multirotore?
 

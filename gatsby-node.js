@@ -1,12 +1,14 @@
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem');
-const { createPrinterNode } = require('gatsby-plugin-printer')
+const { createPrinterNode } = require('gatsby-plugin-printer');
+const kebabCase = require(`lodash.kebabcase`);
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
   return new Promise((resolve, reject) => {
     const blogPost = path.resolve('./src/templates/blog-post/index.js')
+    const blogCategory = path.resolve(`./src/templates/blog-category/index.js`)
     resolve(
       graphql(
         `
@@ -19,6 +21,7 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    category
                   }
                 }
               }
@@ -32,10 +35,12 @@ exports.createPages = ({ graphql, actions }) => {
 
         // Create blog posts pages.
         const posts = result.data.allMarkdownRemark.edges;
-
+        const categories = []
+        
         posts.forEach((post, index) => {
           const previous = index === posts.length - 1 ? null : posts[index + 1].node;
           const next = index === 0 ? null : posts[index - 1].node;
+          post.node.frontmatter.category.forEach(cat => categories.push(cat))
 
           createPage({
             path: post.node.fields.slug,
@@ -47,10 +52,39 @@ exports.createPages = ({ graphql, actions }) => {
             },
           })
         })
+
+        const countCategories = categories.reduce((prev, curr) => {
+          prev[curr] = (prev[curr] || 0) + 1
+          return prev
+        }, {})
+
+        const allCategories = Object.keys(countCategories)
+        const postsPerPage = 10
+        allCategories.forEach((cat, i) => {
+          const link = `/${kebabCase(cat)}`
+
+          Array.from({
+            length: Math.ceil(countCategories[cat] / postsPerPage),
+          }).forEach((_, i) => {
+            createPage({
+              path: i === 0 ? link : `${link}/page/${i + 1}`,
+              component: blogCategory,
+              context: {
+                allCategories: allCategories,
+                category: cat,
+                limit: postsPerPage,
+                skip: i * postsPerPage,
+                currentPage: i + 1,
+                numPages: Math.ceil(countCategories[cat] / postsPerPage),
+              },
+            })
+          })
+        })
       })
     )
   })
 }
+
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
@@ -71,8 +105,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // See: https://lannonbr.com/blog/2019-11-10-og-images/
   if (
     node.internal.type === 'MarkdownRemark' &&
-    node.fileAbsolutePath.includes('/posts/')
-    ) {
+    node.fileAbsolutePath.includes('/blog/')
+  ) {
     // get the folder name (ex: /blog/2019-11-04-github-actions-changelog-workflow/index.md -> 2019-11-04-github-actions-changelog-workflow)
     let filePathSplit = node.fileAbsolutePath.split('/')
     let fileName = filePathSplit[filePathSplit.length - 2]
