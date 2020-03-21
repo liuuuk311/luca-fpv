@@ -59,7 +59,7 @@ const Posts = ({ location }) => {
                 </Title>
                 <PostList>
                     {posts.map(( node, index ) => {
-                        const { node : { frontmatter : { title, date, excerpt, tags }, fields : { slug, readingTime : { text } } } } = node;
+                        const { node : { frontmatter : { title, date, excerpt, tags}, fields : { slug, readingTime : { text } } } } = node;
                         return (
                             <PostListItem>
                                 <Link to={`${slug}`} key={index}>
