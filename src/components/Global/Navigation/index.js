@@ -11,7 +11,7 @@ import {
     ListItem
 } from './styled';
 
-const Navigation = () => {
+const Navigation = ( ) => {
     
     const [ isActive, setIsActive ] = useState(false);
     const [ isSticky, setIsSticky ] = useState(false);
@@ -65,13 +65,24 @@ const Navigation = () => {
                 <ListContainer
                     isActive={isActive}
                 >
+                    {}
                     <ListItem>
-                        <Link to="/posts">
-                            Articoli
+                        <Link to="/tutorial">
+                            Tutorial
                         </Link>
                     </ListItem>
                     <ListItem>
-                        <Link to="/contact">
+                        <Link to="/news">
+                            News
+                        </Link>
+                    </ListItem>
+                    <ListItem>
+                        <Link to="/articoli">
+                            Tutti gli Articoli
+                        </Link>
+                    </ListItem>
+                    <ListItem>
+                        <Link to="/contattami">
                             Contattami
                         </Link>
                     </ListItem>
