@@ -14,7 +14,7 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-            <Avatar src="/luca.mp4" autoPlay/>
+            <Avatar src="/luca.mp4" autoPlay='true'/>
             <Heading>
                 Ciao!
             </Heading>
