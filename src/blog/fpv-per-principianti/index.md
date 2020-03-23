@@ -65,7 +65,7 @@ Ecco alcuni [tipi di drone](https://lucafpv.com/tipi-di-drone) che si trovano sp
 ### Cos’è un Multirotore?
 
 La parola Multirotore (o Multicopter) copre qualsiasi elicottero con più di un motore o elica principale. Ad esempio, un tricottero ha 3 motori (anche chiamati rotori), un quadricottero ne ha 4 e così via. Tutti questi velivoli sono comunque considerati multirotore.
-Tutti i tipi di multirotore <!--[https://oscarliang.com/types-of-multicopter/] -->
+<!-- Tutti i tipi di multirotore [https://oscarliang.com/types-of-multicopter/] -->
 
 ### Cos’è un Mini Quad?
 
