@@ -88,7 +88,7 @@ Dunque un costo totale che si aggira tra i 500 e 1000 euro. Con la crescita di q
 
 ### Costruirlo da zero o comprare un preassemblato?
 
-Se costruire un quadricottero da zero ti sembra troppo difficile, ci sono diversi modelli preassemblati adatti per un principiante <!--[https://oscarliang.com/build-racing-drone-fpv-quadcopter/#rtf] -->.
+Se costruire un quadricottero da zero ti sembra troppo difficile, ci sono diversi modelli preassemblati adatti per un principiante come ad esempio [iFlight Nazgul5](https://lucafpv.com/iflight-nazgul5)<!--[https://oscarliang.com/build-racing-drone-fpv-quadcopter/#rtf] -->.
 
 Tuttavia, la maggior parte dei piloti esperti consiglia di costruire il primo drone. La costruzione è parte integrante di questo hobby, senza considerare che una volta finito l’assemblaggio avrai una conoscenza approfondita delle componenti del tuo drone. Questo ti aiuterà molto nel momento in cui dovrai ripararlo, o sostituire alcune parti. Che tu voglia comprare un drone preassemblato oppure lo voglia costruire da solo, dovresti comunque creare sempre una lista di ciò che vorresti acquistare, e condividerla con qualcuno con più esperienza. Puoi condividerla sui gruppi Facebook e Telegram specializzati. Se invece non hai ancora idea di cosa comprare, ma vorresti iniziare a volare in FPV, entra in questi gruppi e chiedi consigli ai membri.
 
