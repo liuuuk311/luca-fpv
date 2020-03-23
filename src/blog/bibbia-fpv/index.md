@@ -25,7 +25,11 @@ Se invece vuoi avere un esperienza positiva nel mondo FPV, allora continua a leg
 * **ACC** – Accelerometro ➡ Sensore che indica l'accelerazione istantanea
 * **PID** – Proporzionale Integrale Derivativo ➡ Numeri che puoi aggiustare per far volare il tuo quad nel modo in cui preferisci
 * **CG** – Centro di gravità o baricentro ➡ Punto corrispondente al valor medio della distribuzione della massa quad
-* **OSD** – On Screen Display ➡ Informazioni aggiuntive sullo schermo che riportano tipicamente la batteria rimanente 
+* **OSD** – On Screen Display ➡ Informazioni aggiuntive sullo schermo che riportano tipicamente la batteria rimanente
+* **RTF** - Ready to Fly ➡ Drone completo di tutto e pronto al volo senza componenti aggiuntivi
+* **BNF** - Bind and Fly ➡ Drone preassemblato, pronto per essere connesso al tuo radiocomando
+* **PNF** - Plug and Fly ➡ Drone preassemblato sprovviso di ricevente
+* **ARF** - Almost Ready to Fly  ➡ Kit completo da assemblare
 
 ## Batterie
 
