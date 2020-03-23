@@ -1,6 +1,6 @@
 ---
 title: "Recensione: iFlight Nazgul5"
-date: "2020-03-25T00:00:00.000Z"
+date: "2020-03-23T00:00:00.000Z"
 excerpt: L'iFlight Nazgul5 è un quad da 5 pollici, dotato di sistema FPV e adatto sia al racing sia al freestyle. Prodotto perfetto per principianti che vogliono entrare nell'hobby FPV Il drone è pre assemblato e ha un prezzo relativamente basso.
 category:
     - Recensione
