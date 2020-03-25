@@ -16,7 +16,7 @@ Con la versione BNF, il modello viene spedito solo con ricevitori FrSky, dunque 
 
 In alternativa, se sei hai già un'altra radio, conviene prendere la versione PNP e acquistare separatamente una ricevente compatibile con la tua radio.
 
-Questo prodotto è disponibile su Banggood, acquistandolo a questo <a href='https://www.banggood.com/?zf=3868709' target='_blank'>link</a> riceverai un coupon di circa 20 euro. 
+Questo prodotto è disponibile su Banggood a questo <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>link</a>, inoltre puoi ricevere un coupon di circa 20 euro cliccando  <a href='https://www.banggood.com/?zf=3868709' target='_blank'>qui</a>. 
 
 <!-- Per quanto riguarda gli occhiali FPV, se non ne hai ancora un paio prova a leggere questo articolo: occhiali FPV perfetti per principianti. -->
 
@@ -89,7 +89,7 @@ Anche il carica batterie non è incluso. Per il caricabatterie, consiglio l' ISD
 ## Conclusioni
 iFlight ha realizzato un buon quad freestyle ARF. Il prezzo è alla portata di tutti e rende il Nazgul5 un perfetto quad entry level. Ideale per chi non vuole perder tempo con le configurazioni o utilizzare il saldatore. La sua popolarità garantisce una vasta gamma di ricambi. Questo rende il drone molto valido anche per un utilizzo duraturo ed intenso.
 
-Questo drone ha parecchia potenza, quindi può tranquillamente reggere il peso di una action camera come la GoPro Hero 7/8. I supporti per fotocamera in TPU stampati in 3D per GoPro e Runcam non sono inclusi.
+Questo drone ha parecchia potenza, quindi può tranquillamente reggere il peso di una action camera come la GoPro Hero 7/8. I supporti per fotocamera in TPU stampati in 3D per GoPro e Runcam non sono inclusi. Acquistare il <a href='https://www.banggood.com/custlink/3mmmq99BGE' target='_blank'> supporto in TPU per GoPro Hero Session 4 e 5</a> è relativamente economico.
 
 ### Quale versione scegliere?
 
