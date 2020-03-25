@@ -16,7 +16,7 @@ Con la versione BNF, il modello viene spedito solo con ricevitori FrSky, dunque 
 
 In alternativa, se sei hai già un'altra radio, conviene prendere la versione PNP e acquistare separatamente una ricevente compatibile con la tua radio.
 
-Questo prodotto è disponibile su Banggood a questo <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>link</a>, mentre a questo <a href='https://www.banggood.com/?zf=3868709' target='_blank'>link</a> puoi ricevere un coupon di circa 20 euro. 
+Questo prodotto è disponibile su Banggood a questo <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>link</a>, inoltre puoi ricevere un coupon di circa 20 euro cliccando  <a href='https://www.banggood.com/?zf=3868709' target='_blank'>qui</a>. 
 
 <!-- Per quanto riguarda gli occhiali FPV, se non ne hai ancora un paio prova a leggere questo articolo: occhiali FPV perfetti per principianti. -->
 
