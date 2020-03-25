@@ -16,6 +16,8 @@ Con la versione BNF, il modello viene spedito solo con ricevitori FrSky, dunque 
 
 In alternativa, se sei hai già un'altra radio, conviene prendere la versione PNP e acquistare separatamente una ricevente compatibile con la tua radio.
 
+Questo prodotto è disponibile su Banggood, acquistandolo a questo <a href='https://www.banggood.com/?zf=3868709' target='_blank'>link</a> riceverai un coupon di circa 20 euro. 
+
 <!-- Per quanto riguarda gli occhiali FPV, se non ne hai ancora un paio prova a leggere questo articolo: occhiali FPV perfetti per principianti. -->
 
 ## Contenuto della confezione
@@ -53,11 +55,15 @@ Per quanto riguarda le specifiche tecniche del iFlight Nazgul5 6S:
 ## Telecamera FPV
 La camera a bordo è una Caddx Ratel 1200 TVL da 2,1 mm. E' presente anche il cavo per modificare la configurazione. La telecamera FPV è montata su un supporto in TPU. Durante i test, la qualità del video è risultata abbastanza buona, con pochi disturbi nel feed video.
 
+![iFlight_Nazgul5_3](images/iFlight_Nazgul5_3.jpg)
+
 ## Motori
 Nella versione 6S il Nazgul5 monta motori XING-E 2207 1800 kV, mentre nella versione 4S i motori sono da 2750 kV.  Gli XING-E 2207 sono motori di buona qualità e risultano essere abbastanza fluidi. Le eliche incluse nella confezione sono perfette insieme a questi motori.
 
 <!-- Se hai bisgono di eliche di ricambio: iFlight Nazgul5 5140 5140 eliche a 3 pale
 In alternativa puoi prendere le HQ Prop 5x4.3x3 V1S  -->
+
+![iFlight_Nazgul5_3](images/iFlight_Nazgul5_1.jpg)
 
 ## Stack ESC, FC e VTX
 Gli ESC del Nazgul5 sono da 45 A e sono dotati già di un condensatore esterno da 220uF a 35 V per gestire picchi di tensione e filtrare in modo significativo il rumore elettrico evitando così brutti effetti sul feed video. Inoltre, l'FC è installato su dei gommini per ridurre le vibrazioni causate dalla rotazione dei motori, e quindi avre dati più puliti dal giroscopio.
@@ -69,6 +75,8 @@ Il Flight Controller è una SucceX-E F4 e arriva già flashata con Betaflight 4.
 Il drone arriva configurato con la rotazione delle eliche invertita. Le eliche girano verso l'esterno del frame. 
 
 La VTX è una FORCE VT5804 V2 dotata di microfono per l'audio e ha anche la funzionalità di SmartAudio. <!-- Come configurare SmartAudio in Betaflight --> L'antenna in dotazione è iFlightdoom con connettore MMCX.
+
+![iFlight_Nazgul5_3](images/iFlight_Nazgul5_2.jpg)
 
 ## Batterie
 
