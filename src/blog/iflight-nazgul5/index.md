@@ -89,7 +89,7 @@ Anche il carica batterie non è incluso. Per il caricabatterie, consiglio l' ISD
 ## Conclusioni
 iFlight ha realizzato un buon quad freestyle ARF. Il prezzo è alla portata di tutti e rende il Nazgul5 un perfetto quad entry level. Ideale per chi non vuole perder tempo con le configurazioni o utilizzare il saldatore. La sua popolarità garantisce una vasta gamma di ricambi. Questo rende il drone molto valido anche per un utilizzo duraturo ed intenso.
 
-Questo drone ha parecchia potenza, quindi può tranquillamente reggere il peso di una action camera come la GoPro Hero 7/8. I supporti per fotocamera in TPU stampati in 3D per GoPro e Runcam non sono inclusi.
+Questo drone ha parecchia potenza, quindi può tranquillamente reggere il peso di una action camera come la GoPro Hero 7/8. I supporti per fotocamera in TPU stampati in 3D per GoPro e Runcam non sono inclusi. Acquistare il <a href='https://www.banggood.com/custlink/3mmmq99BGE' target='_blank'> supporto in TPU per GoPro Hero Session 4 e 5</a> è relativamente economico.
 
 ### Quale versione scegliere?
 
