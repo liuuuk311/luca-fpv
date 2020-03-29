@@ -100,8 +100,8 @@ I simulatori FPV sono la maniera meno costosa per cominciare a pilotare un quadr
 
 Non usare un joystick o la tastiera, perché non ha senso. Ricordati che devi esercitare la memoria muscolare per ottenere il massimo dalle sessioni di allenamento nel simulatore, quindi è fondamentale usare radiocomando che userai per volare.Quali sono i migliori radiocomandi? Ecco quelli che consiglio personalmente. Questi sono anche le scelte più comuni, è importante scegliere opzioni comuni di modo che sia più facile trovare aiuto in caso di problemi.
 
-* Economici: Taranis Q X7 <!--[https://oscarliang.com/taranis-q-x7-tx/] -->, Jumper T12 <!--[https://oscarliang.com/jumper-t12-tx/] -->
-* Con molte funzionalità: Jumper T16 <!--[https://oscarliang.com/jumper-t16-radio/] -->, Taranis X9D-Plus <!--[https://oscarliang.com/taranis-x9d-qx7/] -->
+* Economici: Taranis Q X7<!--[https://oscarliang.com/taranis-q-x7-tx/] -->, Jumper T12 <!--[https://oscarliang.com/jumper-t12-tx/] -->
+* Con molte funzionalità: Jumper T16<!--[https://oscarliang.com/jumper-t16-radio/] -->, Taranis X9D-Plus <!--[https://oscarliang.com/taranis-x9d-qx7/] -->
 * Compatti: Taranis X-Lite <!--[https://oscarliang.com/frsky-x-lite-tx/] -->
 
 ## Le dimensioni di un Mini Quad
@@ -229,6 +229,6 @@ La sicurezza dovrebbe essere sempre la priorità.Ricorda che i mini quad da gara
 * Non provare a prendere un drone mentre vola
 * Non usare una batteria danneggiata
 
-Ti consiglio questo articolo per approfondire la sicurezza volando in FPV <!-- [http://intofpv.com/t-safety-first-and-foremost]-->.
+<!--Ti consiglio questo articolo per approfondire la sicurezza volando in FPV  [http://intofpv.com/t-safety-first-and-foremost]-->.
 
 <!-- FAQ -->
