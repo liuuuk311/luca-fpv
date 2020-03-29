@@ -42,7 +42,7 @@ Quando voli in FPV sembra di giocare ad un videogioco, ma è tutto reale. Non es
 
 Al giorno d’oggi, sempre molte più persone gareggiano a livello professionale, soprattutto all’estero. Tuttavia, la maggior parte di noi continua a volare giusto per divertimento, come hobby. Sfortunatamente, l’Italia ha leggi molto stringenti e per questo motivo, l'hobby cresce più lentamente. 
 
-<!-- A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](Articolo su leggi ENAC) in Italia-->
+A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](https://lucafpv.com/leggi-sul-volo) in Italia.
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
@@ -94,14 +94,14 @@ Tuttavia, la maggior parte dei piloti esperti consiglia di costruire il primo dr
 
 ## Simulatori di volo
 
-“Non ho ancora un drone, come posso imparare a volare?” Al giorno d’oggi, non hai bisogno un drone per imparare a volare. Per fortuna, esistono molti simulatori di volo che ti permettono di esercitarti. Con un simulatore imparerai i controlli base di un drone e allenerai la tua memoria muscolare necessaria per pilotare con confidenza. I simulatori permettono di utilizzare lo stesso radiocomando che utilizzerai per pilotare il quadricottero. Molti piloti esperti consigliano di non imparare a volare utilizzando direttamente un mini quad. Infatti nei primi giorni è molto probabile che farai cadere il drone, ed, oltre ad essere pericoloso, è anche molto costoso ripararare e sostituire le parti danneggiate. Continuando ad allenare la tua memoria muscolare migliorerai e minimizzerai il rischio di distruggere il tuo drone in uno schianto. <!--Ecco una lista dei simulatori di volo per FPV [https://oscarliang.com/free-quadcopter-simulator-drone-multirotor-trainer/] -->
+“Non ho ancora un drone, come posso imparare a volare?” Al giorno d’oggi, non hai bisogno un drone per imparare a volare. Per fortuna, esistono molti simulatori di volo che ti permettono di esercitarti. Con un simulatore imparerai i controlli base di un drone e allenerai la tua memoria muscolare necessaria per pilotare con confidenza. I simulatori permettono di utilizzare lo stesso radiocomando che utilizzerai per pilotare il quadricottero. Molti piloti esperti consigliano di non imparare a volare utilizzando direttamente un mini quad. Infatti nei primi giorni è molto probabile che farai cadere il drone, ed, oltre ad essere pericoloso, è anche molto costoso ripararare e sostituire le parti danneggiate. Continuando ad allenare la tua memoria muscolare migliorerai e minimizzerai il rischio di distruggere il tuo drone in uno schianto. Ecco una lista dei [simulatori di volo per FPV](http://lucafpv.com/simulatori-fpv).
 
 I simulatori FPV sono la maniera meno costosa per cominciare a pilotare un quadricottero. Oltretutto, un altro grosso vantaggio nell’utilizzare i simulatori è che puoi allenarti a qualunque ora del giorno e senza preoccuparti delle condizioni meteo. Chiaramente, non è come volare per davvero, ma è sufficiente per un allenamento base. Molti raccomandano di passare almeno 10 ore su un simulatore prima provare a volare un drone vero.Per volare con un simulatore, il primo oggetto che dovrai acquistare è il radiocomando. Accertati che supporti il simulatore che hai scelto di usare, molti dei radiocomandi che consiglio sono compatibili. Potrai usare lo stesso radiocomando, sia per il simulatore che per il drone che volerai successivamente. Potrai addirittura collegare diversi quadricotteri allo stesso radiocomando.
 
 Non usare un joystick o la tastiera, perché non ha senso. Ricordati che devi esercitare la memoria muscolare per ottenere il massimo dalle sessioni di allenamento nel simulatore, quindi è fondamentale usare radiocomando che userai per volare.Quali sono i migliori radiocomandi? Ecco quelli che consiglio personalmente. Questi sono anche le scelte più comuni, è importante scegliere opzioni comuni di modo che sia più facile trovare aiuto in caso di problemi.
 
-* Economici: Taranis Q X7 <!--[https://oscarliang.com/taranis-q-x7-tx/] -->, Jumper T12 <!--[https://oscarliang.com/jumper-t12-tx/] -->
-* Con molte funzionalità: Jumper T16 <!--[https://oscarliang.com/jumper-t16-radio/] -->, Taranis X9D-Plus <!--[https://oscarliang.com/taranis-x9d-qx7/] -->
+* Economici: Taranis Q X7<!--[https://oscarliang.com/taranis-q-x7-tx/] -->, Jumper T12 <!--[https://oscarliang.com/jumper-t12-tx/] -->
+* Con molte funzionalità: Jumper T16<!--[https://oscarliang.com/jumper-t16-radio/] -->, Taranis X9D-Plus <!--[https://oscarliang.com/taranis-x9d-qx7/] -->
 * Compatti: Taranis X-Lite <!--[https://oscarliang.com/frsky-x-lite-tx/] -->
 
 ## Le dimensioni di un Mini Quad
@@ -229,6 +229,6 @@ La sicurezza dovrebbe essere sempre la priorità.Ricorda che i mini quad da gara
 * Non provare a prendere un drone mentre vola
 * Non usare una batteria danneggiata
 
-Ti consiglio questo articolo per approfondire la sicurezza volando in FPV <!-- [http://intofpv.com/t-safety-first-and-foremost]-->.
+<!--Ti consiglio questo articolo per approfondire la sicurezza volando in FPV  [http://intofpv.com/t-safety-first-and-foremost]-->.
 
 <!-- FAQ -->
