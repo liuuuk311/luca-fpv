@@ -42,7 +42,7 @@ Quando voli in FPV sembra di giocare ad un videogioco, ma è tutto reale. Non es
 
 Al giorno d’oggi, sempre molte più persone gareggiano a livello professionale, soprattutto all’estero. Tuttavia, la maggior parte di noi continua a volare giusto per divertimento, come hobby. Sfortunatamente, l’Italia ha leggi molto stringenti e per questo motivo, l'hobby cresce più lentamente. 
 
-<!-- A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](Articolo su leggi ENAC) in Italia-->
+A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](https://lucafpv.com/leggi-sul-volo) in Italia.
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
