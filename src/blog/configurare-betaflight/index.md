@@ -6,6 +6,7 @@ category:
     - Tutorial
 tags: 
     - Principianti
+    - Betaflight
 featured: true
 ---
 Questa guida spiega come configurare passo per passo il firmware Betaflight, selzionare le giuste impostazioni per il tuo quadricottero e volare per la prima volta.
