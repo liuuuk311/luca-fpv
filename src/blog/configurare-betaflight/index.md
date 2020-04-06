@@ -1,7 +1,7 @@
 ---
-title: Come configurare Betaflight per la prima volta
+title: Configurare Betaflight per la prima volta
 date: "2020-04-04T00:00:00.000Z"
-excerpt: Come configurare passo per passo il firmware Betaflight per la prima volta, selzionare le giuste impostazioni per il tuo quadricottero e volare per la prima volta.
+excerpt: Come configurare passo per passo il firmware Betaflight, selzionare le giuste impostazioni per il tuo quadricottero e volare per la prima volta.
 category:
     - Tutorial
 tags: 
