@@ -196,6 +196,13 @@ A breve scriverò nuove guide su questi temi, quindi ti conviene iscriverti alla
 
 ------
 
+## OSD
+L'OSD permette di sovrappore al video FPV informazioni importanti realtive al volo, come ad esempio il voltaggio della batteria, il tempo di volo e molto altro.
+
+Per configurare l'OSD dai un'occhiata a questo [tutorial](https://lucafpv.com/configurare-osd-betaflight/).
+
+------
+
 ## Messa a punto PID
 
 ![Sezione PID](/images/betaflight/PID.png)
