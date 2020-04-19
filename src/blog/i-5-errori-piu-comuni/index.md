@@ -17,7 +17,7 @@ L'errore più comune è sicuramente quello non esercitarsi a sufficienza nel sim
 
 > La prima volta che voli in FPV, ti schianterai sicuramente, quindi meglio farlo in un simulatore, no?
 
-Chiunque inizi a volare in FPV, trascorrerà le sue prime sessioni di volo a crashare e raccogliere il quad. Se non ti eserciti nel simulatore, può essere frustrante uscire per il tuo primo volo, con il quad che hai costruito e su cui magari hai speso 200 euro, alzarti in volo e dopo poco distruggere il quad nel tuo primo quad o peggio perderlo. 
+Chiunque inizi a volare in FPV, trascorrerà le sue prime sessioni di volo a crashare e raccogliere il quad. Se non ti eserciti nel simulatore, può essere frustrante uscire per il tuo primo volo, con il quad che hai costruito e su cui magari hai speso 200 euro, alzarti in volo e dopo poco distruggerlo o peggio perderlo. 
 
 Per questo motivo è molto importante fare almeno i tuoi primi 100 crash in un simulatore, dove non rompi nulla e schiacciando un tasto resetti la posizione del quad.
 
@@ -35,7 +35,7 @@ Non comiciare in auto level per poi passare alla modalità acro. L'auto level ti
 
 ## Risparmiare troppo
 
-Chiariamo subito una cosa: quest'hobby non è economico, purtroppo. Infatti, se inizi completamente da zero, ti toccherà spendere tra 500 e 700 euro almeno per avere tutto il necessario. Puoi iniziare a volare spendendo anche meno, ma secondo me sono soldi buttati, perché acquisiti prodotti che non durano molto oppure che non rendono il massimo e quindi non avrai una bella prima esperienza. 
+Chiariamo subito una cosa: purtroppo quest'hobby non è economico. Infatti, se inizi completamente da zero, ti toccherà spendere tra 500 e 700 euro almeno per avere tutto il necessario. Puoi iniziare a volare spendendo anche meno, ma secondo me, spesso sono soldi buttati, perché acquisiti prodotti che non durano molto oppure che non rendono il massimo e quindi non avrai una bella prima esperienza. 
 
 Con questo punto, non voglio scoraggiare chi non può permettersi di spendere troppo. Però il consiglio generale è:
 
@@ -53,7 +53,7 @@ Hai controllato tutte le impostazioni? Sai come funziona il failsafe sul tuo mod
 
 Fai un test video ancora quando sei sul tavolo di lavoro. 
 
-Oltre a questo, quando ti prepari per andare a volare non scordarti nulla. Nello zaino metti sempre degli attrezzi, fascette, eliche di ricambio e assicurati di avere tutte le batterie cariche anche quelle degli occhiali e del radiocomando.
+Oltre a questo, quando ti prepari per andare a volare non scordarti nulla. Nello zaino metti sempre degli attrezzi, fascette, eliche di ricambio e assicurati di avere tutte le batterie cariche; anche quelle degli occhiali e del radiocomando.
 
 Prima di volare, arma il quad e fai dei piccoli movimenti senza dare gas. Vedi se il quad risponde correttamente, in questo modo puoi controllare che le eliche siano montate correttamente.
 
