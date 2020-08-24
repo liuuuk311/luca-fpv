@@ -178,7 +178,7 @@ Se il valore di P sullo yaw è corretto, le rotazioni dovrebbero essere pulite e
 
 Come ho già detto, il termine I cerca di prevenire drift, ma un valore troppo alto per la I dello yaw può portare a instabilità e ridurre la velocità di risposta. Nella maggior parte dei casi, questo valore di default va bene.  
 
-# Non tutte le vibrazioni si tunano col PID
+# Non tutto dipende dal PID
 
 La costruzione della tua build influenza molto le performance di volo del tuo quad. Ecco un paio di cose che dovresti controllare prima di procedere.
 
@@ -192,6 +192,6 @@ Idelmente, il baricentro dovrebbe trovarsi esattamente nel centro del tuo drone.
 
 Per esempio, se la LiPo è montata troppo indietro, il baricentro si sposterà verso il retro del quad. In questa situazione i motori posteriori dovranno spingere di più rispetto a quelli anteriori.
 
-# “Quali sono i tuoi PID” – Sbagliato
+# “Quali sono i tuoi PID?” – Sbagliato
 
 E' inutile chiedere i PID di un altro pilota e provarli sul tuo quad. In un certo senso, ogni quad è unico: motori, eliche, ESC, Flight Controller, baricentro, il frame stesso. Quindi a meno di un quad RTF, non ha senso utilizzare gli stessi PID di altri piloti. 
