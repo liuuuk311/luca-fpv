@@ -9,6 +9,26 @@ tags:
 featured: true
 ---
 
+<style>
+    @media 
+    only screen and (max-width: 760px),
+    (min-device-width: 768px) and (max-device-width: 1024px)  {
+        /*
+        Label the data on mobile view
+        
+        */
+        #radio-table td:nth-of-type(2):before { content: "Radiocomando"; }
+        #radio-table td:nth-of-type(3):before { content: "USB?"; }
+
+        #sims-table td:nth-of-type(2):before { content: "Prezzo"; }
+        #sims-table td:nth-of-type(3):before { content: "Fisica"; }
+        #sims-table td:nth-of-type(4):before { content: "Multiplayer"; }
+        #sims-table td:nth-of-type(5):before { content: "Crea Piste"; }
+        #sims-table td:nth-of-type(6):before { content: "Sistema Operativo"; }
+        #sims-table td:nth-of-type(7):before { content: "Steam"; }
+    }
+</style>
+
 In questo articolo confronto i migliori simulatori per droni FPV. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 
 ## Cos'è un simulatore FPV?
@@ -27,6 +47,8 @@ Potresti anche semplicemente utilizzare un joystick normale oppure la tastiera, 
 
 Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono direttamente compatibili con i simulatori mentre altri richiedono l'acquisto di appositi adattori. 
 
+<div id="radio-table">
+
 |                                                              | Radiocomando                                                | USB?                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
 | ![Jumper T16](/images/jumper_t16.jpg?nf_resize=fit&w=320&h=320) | Jumper T16                                                  | ✔                                         |
@@ -35,6 +57,8 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 | ![Taranis Q X7](/images/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | Taranis Q X7                                                | ✔                                         |
 | ![FlySky](/images/flysky.jpg?nf_resize=fit&w=320&h=320) | Flysky | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank">Adattatore</a> |
 | ![Spektrum](/images/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank"> Adattatore</a> |
+
+</div>
 
 Scegliere un radiocomando che supporta direttamente i simulatori FPV tramite cavo USB è molto più comodo
 
@@ -58,6 +82,8 @@ Passa piu tempo ad esercitarti piuttosto che preoccuparti della fisica del simul
 
 Di seguito riporto alcuni dei simulatori di volo più famosi, progettati appositamente per gare in FPV e volo freestyle acrobatico. 
 
+<div id="sims-table">
+
 |                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
 | :----------------------------------------------------------- | ---------- | :----: | :-------------: | :------------: | ------------------- | :--------: |
 | [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   ✔    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
@@ -65,14 +91,16 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 | [VelociDrone](http://www.velocidrone.com/)                   | 19 €       |   ✔    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
 | [DRL Racing](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) | 9 €        |   ✖️    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
 
+</div>
 
 
 ## FPV FreeRider
 
 > Costa poco e poche funzionalità di simulazione, va bene per principianti, ma è un po' vecchio
 
+<div class="iframe-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WACcq2ykgNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 Questo è uno dei primi simulatori di volo pensato per droni FPV. 
 
 **FPV Freerider** costa poco e ha anche una versione di prova gratuita. Il simulatore permette di cambiare qulache impostazione base relativa alla fisica nel gioco, come ad esempio gravità, attrito e potenza del quadricottero. Altre impostazione permettono di aggiustare l'inclinazione della camera e il campo visivo (FOV). Nella versione gratuita non è possibile cambiare le impostazioni e si può volare solo in una mappa.
@@ -86,8 +114,9 @@ Va bene per principianti che vogliono provare a volare in FPV, ma ha molte limit
 ## Liftoff
 
 > Un simulatore molto curato, con aggiornamenti frequenti e molti contenuti, ma richiede un buon PC da gaming 
-
+<div class="iframe-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VuPwux4hiL4?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Per i piloti piu esperti, **Liftoff** è un buon simulatore. E' uno dei migliori sia in termini di grafica e che di funzioni. Il numero di contenuti è veramente impressionante, centinaia di modelli e migliaia di mappe create dalla community. Liftoff permette di cambiare componenti e impostazioni come nel mondo reale. Inoltre, è possibile aggiustare i rates e PID come se fossi su Betaflight. La fisica è migliora di aggiornamento in aggiornamento. Ingenieri aerodinamici e i migliori piloti al mondo hanno collaborato con gli sviluppatori per migliorare questo prodotto. 
 
@@ -98,12 +127,12 @@ Sfortunatamente non è possibile cambiare nessuna impostazione relativa alla fis
 Liftoff ha semplificato molto il procedimento con il quale è possibile connettere il tuo radiocomando e ha anche introdotto la modalità Freestyle, una gara acrobatica nel quale ad ogni trick ti viene attribuito un punteggio bastato sulla perfezione di esecuzione della manovra. 
 
 
-
 ## VelociDrone
 
 > Fisica molto buona, uno dei simulatori più realistici. Non la miglior grafica ma funziona bene anche su computer lenti
-
+<div class="iframe-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vIxbM5oWeRI?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Se hai un computer vecchio oppure un portatile, dovresti provare **VelociDrone**.
 
@@ -120,8 +149,9 @@ L'unica pecca è che non è disponibile su Steam, quindi l'aggiornamento non è 
 
 
 ## DRL Racing
-
+<div class="iframe-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/x5NE0qUWuk4?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **DRL (Drone Racing League)** è un simulatore interessante – nel gioco ci sono eventi online e i piloti migliori possono vincere contratti da pilota professionisti e gareggiare in eventi reali. 
 

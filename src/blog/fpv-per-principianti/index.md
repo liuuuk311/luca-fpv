@@ -9,9 +9,8 @@ tags:
 featured: true
 ---
 
-Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, guarda questo breve video per capire di che cosa si tratta.
+Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, puoi dare un'occhiata al mio [profilo Instagram](https://www.instagram.com/iamlucafpv/) per capire di che cosa si tratta.
 
-<style>video.labnol, img.labnol {max-width:100%; width: 100% !important; height: auto !important;}</style> <video class='labnol' width='750' height='422' controls poster='https://scontent-bos3-1.cdninstagram.com/v/t51.2885-15/e35/87605508_2477406005906086_3749552775848850793_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=4dIaLW0lclcAX8XxHAH&oh=149d3c8c413c5de7d13bda77eb1900b8&oe=5E707360'><source src='https://scontent-bos3-1.cdninstagram.com/v/t50.2886-16/87830974_140758630746153_7314166105764430671_n.mp4?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=WRTPwC05AgIAX_xMkHs&oe=5E708EAE&oh=0cc7a76b597b01cc2ba9cc763c7624fb' type='video/mp4'></video>
 
 In entrambi i casi, ho creato questa guida nella quale tenterò di spiegare le nozioni base per poter comprare, costruire e volare con un drone. All’interno di questo articolo potrai trovare anche delle risorse utili che potranno esserti di aiuto.
 
@@ -46,7 +45,9 @@ A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](ht
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
-<!-- [Lista di gruppi] -->
+## Gruppi Telegram
+- [Droni Racers Italia](https://t.me/droniracersitalia)
+- [Milano Droni RC FPV](https://t.me/MilanoDroniRC)
 
 Con l'aiuto di questa guida, cercherò di spiegare come scegliere i componenti di un drone, costruirlo e ripararlo. Spiegherò anche come settare il quad in modo che voli esattamente come vuoi tu. Il bello di questo hobby che è tutto personalizzabile.
 
@@ -114,21 +115,21 @@ La dimensioni di un mini quad è determinata dalla dimensione massima delle elic
 
 Un quadricottero FPV è composto dalle seguenti parti:
 
-* Telaio – come scegliere il telaio di un mini quad <!--[https://oscarliang.com/mini-quad-frame-basics/] -->
-* 4 Motori – come scegliere i motori di un mini quad <!--[https://oscarliang.com/quadcopter-motor-propeller/] -->
-* 4 Eliche – come scegliere le eliche <!--[https://oscarliang.com/choose-propellers-mini-quad/] -->
-* 4 ESC – come scegliere gli ESC <!--[https://oscarliang.com/choose-esc-racing-drones/] -->
-* Flight Controller (FC) – come scegliere un flight controller <!--[https://oscarliang.com/best-flight-controller-quad-hex-copter/] -->
-* Batteria – come scegliere una batteria LiPo <!--[https://oscarliang.com/lipo-battery-guide/] -->
-* Telecamera FPV – come scegliere una telecamera FPV <!--[https://oscarliang.com/best-fpv-camera-quadcopter/] -->
+* Telaio <!-- – come scegliere il telaio di un mini quad [https://oscarliang.com/mini-quad-frame-basics/] -->
+* 4 Motori <!-- – come scegliere i motori di un mini quad [https://oscarliang.com/quadcopter-motor-propeller/] -->
+* 4 Eliche <!-- – come scegliere le eliche [https://oscarliang.com/choose-propellers-mini-quad/] -->
+* 4 ESC <!-- – come scegliere gli ESC [https://oscarliang.com/choose-esc-racing-drones/] -->
+* Flight Controller (FC) <!-- – come scegliere un flight controller [https://oscarliang.com/best-flight-controller-quad-hex-copter/] -->
+* Batteria <!-- – come scegliere una batteria LiPo [https://oscarliang.com/lipo-battery-guide/] -->
+* Telecamera FPV <!--[–  come scegliere una telecamera FPV https://oscarliang.com/best-fpv-camera-quadcopter/] -->
 
 Inoltre, per poter volare servono anche questi oggetti:
 
-* Radiocomando (TX) e ricevente (RX) – come scegliere un radio comando <!--[https://oscarliang.com/choose-rc-transmitter-quadcopter/] -->
-* Video trasmittente (VTX) – come scegliere una VTX <!--[https://oscarliang.com/choose-video-transmitter-fpv-mini-quad/] -->
-* Antenne FPV – come scegliere una antenna FPV <!--[https://oscarliang.com/best-fpv-antenna/] -->
-* Occhiali o monitor FPV – come scegliere gli occhiali FPV <!--[https://oscarliang.com/fpv-goggles-review-fatshark-skyzone/] -->
-* Caricatore di LiPo – come scegliere un caricatore di LiPo <!-- [https://oscarliang.com/choose-lipo-battery-charger-power-supply/]-->
+* Radiocomando (TX) e ricevente (RX) <!-- – come scegliere un radio comando [https://oscarliang.com/choose-rc-transmitter-quadcopter/] -->
+* Video trasmittente (VTX) <!-- – come scegliere una VTX [https://oscarliang.com/choose-video-transmitter-fpv-mini-quad/] -->
+* Antenne FPV <!-- – come scegliere una antenna FPV [https://oscarliang.com/best-fpv-antenna/] -->
+* Occhiali o monitor FPV <!-- – come scegliere gli occhiali FPV [https://oscarliang.com/fpv-goggles-review-fatshark-skyzone/] -->
+* Caricatore di LiPo <!-- –  come scegliere un caricatore di LiPo [https://oscarliang.com/choose-lipo-battery-charger-power-supply/]-->
 
 Se decidi di cominciare a costruire un tuo drone, ti serviranno alcuni strumenti del tipo:
 
