@@ -26,6 +26,10 @@ export const Heading = styled(fonts.Billboard)`
     color: ${colors.black};
 `;
 
+export const SubHeading = styled(fonts.SubHeading)`
+    color: ${colors.black};
+`;
+
 export const Paragraph = styled(fonts.Body)`
     a {
         color: ${colors.personality};
