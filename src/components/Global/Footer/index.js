@@ -15,6 +15,15 @@ const Footer = () => {
                 &copy; {new Date().getFullYear()} &mdash; Luca Palonca 
             </Copyright>
             <SocialList>
+            <SocialListItem>
+                    <SocialListLink 
+                        href="https://www.youtube.com/channel/UC3Jw4XZ2h0cAh6jFL63e0uA"
+                        target="_blank"
+                        rel="noopener"
+                    >
+                        YouTube
+                    </SocialListLink>
+                </SocialListItem>
                 <SocialListItem>
                     <SocialListLink 
                         href="https://www.instagram.com/iamlucafpv/"
