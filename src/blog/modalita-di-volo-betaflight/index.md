@@ -7,7 +7,7 @@ category:
 tags: 
     - Principiante
     - Betaflight
-featured: true
+featured: false
 ---
 
 In questo tutorial spiego le diverse modalità di volo disponibili in Betaflight e come configurarle in Betaflight Configurator. Il procedimento è simile per qualsiasi quadricottero, flight controller e radiocomando tu stia usando.
