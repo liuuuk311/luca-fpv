@@ -13,7 +13,7 @@ Queste funzionalità sono nella sezione di PID tuning di Betaflight, se sei inte
 
 ## In breve
 
-<!-- La verisione 4 di Betaflight ha introdotto la possibilità di confiugare i rate in diversi modi, per approfonidire leggi questo articolo. -->In questo ariticolo spiega i rates di Betaflight classici. La combinazione di  RC Rate e Super Rate determina quanto veloce il drone può girare (Massima Velocità Angolare), e viene misurata in gradi al secondo. Expo cambia la sensibilità al centro degli stick. Cambiando il Super Rate cambia la velocità massima angolare, ma anche la sensibilità al centro dello stick, viene modificata. 
+<!-- La verisione 4 di Betaflight ha introdotto la possibilità di confiugare i rate in diversi modi, per approfonidire leggi questo articolo. -->Questo ariticolo spiega i rates di Betaflight classici. La combinazione di  RC Rate e Super Rate determina quanto veloce il drone può girare (Massima Velocità Angolare), e viene misurata in gradi al secondo. Expo cambia la sensibilità al centro degli stick. Cambiando il Super Rate cambia la velocità massima angolare, ma anche la sensibilità al centro dello stick, viene modificata. 
 
 Non sono stato chiarissimo? Ora provo a spiegarlo più nel dettaglio.
 
@@ -21,7 +21,7 @@ Non sono stato chiarissimo? Ora provo a spiegarlo più nel dettaglio.
 
 ## RC Rate
 
-RC Rate modifica la sensibilità dei tuoi stick. Un valore alto, fa si che il tuo quad ruoti molto senza dover spostare tanto lo stick.
+RC Rate modifica la sensibilità dei tuoi stick. Un valore alto, fa sì che il tuo quad ruoti molto senza dover spostare tanto lo stick.
 
 Un rate alto renderà il quad molto più reattivo, ma al tempo stesso, sarà più difficile da controllare in quanto un piccolo movimento dagli stick del radiocomando, produrra un grande movimento del drone.
 
