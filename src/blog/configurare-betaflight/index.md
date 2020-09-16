@@ -11,6 +11,8 @@ featured: true
 ---
 Questa guida spiega come configurare passo per passo il firmware Betaflight, selzionare le giuste impostazioni per il tuo quadricottero e volare per la prima volta.
 
+Se il tuo **drone non si arma**, o hai qualche problema, allora scarica la mia [guida in PDF](https://lucafpv.com/problemi-comuni-droni-fpv/).
+
 Betaflight è un firmware open source compatibile con molti flight controller, questo firmware è progettato appositamente per mini quad. 
 
 ## Introduzione
@@ -209,13 +211,9 @@ Per configurare l'OSD dai un'occhiata a questo [tutorial](https://lucafpv.com/co
 
 In questa sezione, per fare il tuo primo volo non serve modificare nulla. Tipicamente i valori di default vanno bene per la maggior parte dei modelli. Con il passare del tempo conoscerai meglio il tuo mini quad e a quel punto potrai provare a modificare i valori PID. 
 
-In pratica con PID si intende i valori di tre parametri (Proporzionale, Integrale e Derivato) e vanno impostati su tutti gli assi: Rollio (Roll), Beccheggio (Pitch) e Imbardata (Yaw). La messa a punto dei PID richiede la comprensione dei tre diversi termini e come ciascuno di questi influisce le performance di volo.
-
-<!-- Take a look at my [PID tuning guide](https://oscarliang.com/quadcopter-pid-explained-tuning/) -->
+In pratica con PID si intende i valori di tre parametri (Proporzionale, Integrale e Derivato) e vanno impostati su tutti gli assi: Rollio (Roll), Beccheggio (Pitch) e Imbardata (Yaw). La messa a punto dei PID richiede la comprensione dei tre diversi termini e come ciascuno di questi influisce le performance di volo. Se vuoi approfondire dai un'occhiata a questo [articolo](https://lucafpv.com/come-tunare-pid/)
 
 Puoi comunque aggiustare i valori dei rates ed dell'esponenziale in base al tuo stile di volo. Questi piccoli aggiustamenti posso aiutarti a volare molto meglio. Rate, Super Rate e Esponenziale influiscono sulla sensitività degli stick e quindi come il quad reagisce ai movimenti dei tuoi stick. 
 
-Ricorda fai piccoli cambiamenti, prova a volare e nel caso riaggiusta i rates. 
-
-<!-- Take a look at this [guide on Rate / Super Rate and Expo](https://oscarliang.com/rc-roll-pitch-yaw-rate-cleanflight/). -->
+Ricorda fai piccoli cambiamenti, prova a volare e nel caso riaggiusta i rates. Per aver un'idea di come modificare questi parametri, leggi questa [spiegazione](https://lucafpv.com/spiegazione-rates/).
 
