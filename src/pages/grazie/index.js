@@ -2,7 +2,8 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 import {
-    Default
+    Default,
+    LastVideo
 } from '../../components';
 
 import {
@@ -17,8 +18,8 @@ const ThankYou = ({ location }) => {
             location={location}
         >
             <Helmet>
-                <title>Grazie per il Download - Luca FPV</title>
-                <meta name="description" content="Grazie per il Download"/>
+                <title>Grazie - Luca FPV</title>
+                <meta name="description" content="Grazie"/>
             </Helmet>
             <Container>
                 <Heading>
@@ -27,6 +28,11 @@ const ThankYou = ({ location }) => {
                 <Paragraph>
                     A breve riceverai una email con ulteriori istruzioni 🥳
                 </Paragraph>
+                <br/><br/>
+                <Paragraph>
+                    Mentre aspetti, potresti vedere il mio ultimo video 🚀
+                </Paragraph>
+                <LastVideo/>
             </Container>
         </Default>
     );
