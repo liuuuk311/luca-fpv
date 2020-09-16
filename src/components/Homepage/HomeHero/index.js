@@ -2,6 +2,7 @@ import React from 'react';
 
 import {
     HomeNewsletter,
+    LastVideo,
 } from '../../../components';
 
 import {
@@ -27,9 +28,7 @@ const HomeHero = () => {
             <SubHeading>
                 Il mio ultimo video
             </SubHeading>
-            <div class="iframe-container">
-            <iframe width="480" height="240" src="https://www.youtube.com/embed/JUxElR51Udk?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+            <LastVideo/>
         </Container>
     );
 }
