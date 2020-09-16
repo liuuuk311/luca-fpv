@@ -36,7 +36,8 @@ import  {
     Label,
     Field,
     FieldContainer,
-    Button
+    Button,
+    GroupField,
 } from '../../components/PageStyles/BlogStyles';
 
 
@@ -195,7 +196,7 @@ const BlogPost = ({ data, location }) => {
                                 <Field name="EMAIL" id="mce-EMAIL" required/>
                                 <Button type="submit">Invia</Button>
                             </FieldContainer>
-                            
+                            <GroupField type="checkbox" value="2" name="group[13000][2]" id="mce-group[13000]-13000-0" checked/>
                         </form>
                     </NewsletterContainer>
                 </PostContainer>

@@ -46,6 +46,10 @@ export const NewsletterContainer = styled.div`
     }
 `;
 
+export const GroupField = styled.input`
+    display:none;
+`;
+
 export const NavigationHeading = styled(fonts.Eyebrow)`
     color: ${colors.darkGray};
     margin-bottom: 16px;
