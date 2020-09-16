@@ -10,6 +10,7 @@ const Default = props => {
     const url = location.href ? location.href : '';
 
     return (
+        
         <div>
             <Helmet>
                 <html lang="it" />
@@ -20,6 +21,7 @@ const Default = props => {
                 <meta property="og:description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
                 {/* <meta property="og:image" content="http://lucafpv.com/avatar.png"/> */}
                 <meta property="og:url" content={url}/>
+                
             </Helmet>
             <Navigation/>
             <div>
