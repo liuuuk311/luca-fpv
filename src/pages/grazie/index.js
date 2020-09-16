@@ -11,7 +11,7 @@ import {
     Paragraph,
 } from '../../components/PageStyles/ContactStyles';
 
-const ThankYouForDownloading = ({ location }) => {
+const ThankYou = ({ location }) => {
     return (
         <Default
             location={location}
@@ -25,14 +25,11 @@ const ThankYouForDownloading = ({ location }) => {
                     Controlla la tua email 📩
                 </Heading>
                 <Paragraph>
-                    Grazie per aver scaricato questa risorsa gratuita.
-                </Paragraph>
-                <Paragraph>
-                    A breve riceverai una email con il link al tuo PDF 🥳
+                    A breve riceverai una email con ulteriori istruzioni 🥳
                 </Paragraph>
             </Container>
         </Default>
     );
 }
 
-export default ThankYouForDownloading;
+export default ThankYou;
