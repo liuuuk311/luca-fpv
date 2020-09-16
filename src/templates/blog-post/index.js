@@ -185,11 +185,17 @@ const BlogPost = ({ data, location }) => {
                             <Paragraph>
                                 Ti consiglio di iscriverti alla mia Newsletter 👇
                             </Paragraph>
+                        
+                            <Label htmlFor="mce-FNAME">Nome</Label>
+                            <FieldContainer>
+                                <Field name="FNAME" id="mce-FNAME" required/>
+                            </FieldContainer>   
                             <Label htmlFor="mce-EMAIL">Email</Label>
                             <FieldContainer>
                                 <Field name="EMAIL" id="mce-EMAIL" required/>
                                 <Button type="submit">Invia</Button>
                             </FieldContainer>
+                            
                         </form>
                     </NewsletterContainer>
                 </PostContainer>
