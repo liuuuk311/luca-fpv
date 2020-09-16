@@ -51,18 +51,18 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 
 |                                                              | Radiocomando                                                | USB?                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
-| ![Jumper T16](/images/jumper_t16.jpg?nf_resize=fit&w=320&h=320) | Jumper T16                                                  | ✔                                         |
-| ![X Lite](/images/x_lite.jpg?nf_resize=fit&w=320&h=320) | X-Lite                                                      | ✔                                         |
-| ![Taranis X9D Plus](/images/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | Taranis X9D Plus                                            | ✔                                         |
-| ![Taranis Q X7](/images/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | Taranis Q X7                                                | ✔                                         |
-| ![FlySky](/images/flysky.jpg?nf_resize=fit&w=320&h=320) | Flysky | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank">Adattatore</a> |
-| ![Spektrum](/images/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank"> Adattatore</a> |
+| ![RadioMaster TX16](/images/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
+| ![X Lite](/images/x_lite.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
+| ![Taranis X9D Plus](/images/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
+| ![Taranis Q X7](/images/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
+| ![FlySky](/images/flysky.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
+| ![Spektrum](/images/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
 
 </div>
 
-Scegliere un radiocomando che supporta direttamente i simulatori FPV tramite cavo USB è molto più comodo
+Scegliere un radiocomando che supporta direttamente i simulatori FPV tramite cavo USB è molto più comodo. Ricorda inoltre che il radiocomando è una delle poce cose su cui investire facendo un buon acquisto, perché idealmente lo vorrai utilizzerai con tutti i tuoi quad.
 
-Al momento, i miglior radio comando economico è il Frsky QX7, molto validi, ma più costosi, sono il Jumper T16, l'X9D e l'X-Lite. <!-- In questo articolo spiego le principali differenze tra questi radio comandi. --> Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
+Al momento, i migliori radiocomandi economici sono il <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a> e il <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>, molto validi, ma più costosi, sono l'<a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">X9D Plus</a> e l'<a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>. <!-- In questo articolo spiego le principali differenze tra questi radio comandi. --> Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
 
 
 
