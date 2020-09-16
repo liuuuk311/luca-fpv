@@ -30,7 +30,6 @@ const HomeHero = () => {
             <div class="iframe-container">
             <iframe width="480" height="240" src="https://www.youtube.com/embed/iGCH1RUybSA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <HomeNewsletter/>
         </Container>
     );
 }
