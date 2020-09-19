@@ -6,7 +6,7 @@ category:
     - Tutorial
 tags: 
     - Principianti
-featured: true
+featured: false
 ---
 
 In questo articolo spiego quali, secondo me, sono gli errori più comuni che puoi commettere se stai iniziando la tua esperienza in questo hobby.

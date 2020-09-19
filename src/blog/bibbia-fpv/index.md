@@ -6,7 +6,7 @@ category:
     - Tutorial
 tags: 
     - Principianti
-featured: true
+featured: false
 ---
 
 Seguendo queste linee guida capirai in fretta come funziona il mondo FPV e le tue abilità da pilota cresceranno rapidamenti. La cosa più importante è che seguendo queste regole ti divertirai in fretta e molto più spesso. 
