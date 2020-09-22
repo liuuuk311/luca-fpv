@@ -1,7 +1,7 @@
 ---
-title: "Recensione: iFlight Nazgul5"
+title: "Recensione - iFlight Nazgul5: il miglior drone FPV economico da 5 pollici nel 2020?"
 date: "2020-03-23T00:00:00.000Z"
-excerpt: L'iFlight Nazgul5 è un quad da 5 pollici, dotato di sistema FPV e adatto sia al racing sia al freestyle. Prodotto perfetto per principianti che vogliono entrare nell'hobby FPV Il drone è pre assemblato e ha un prezzo relativamente basso.
+excerpt: Stai cercando il primo drone da 5 pollici e non vuoi costruirlo da zero? In questa recensione vedremo se l'iFlight Nazgul5 è il miglior drone FPV pre-assemblato per cominciare a volare senza spendere troppo. 
 category:
     - Recensione
 tags: 
@@ -16,7 +16,7 @@ Con la versione BNF, il modello viene spedito solo con ricevitori FrSky, dunque 
 
 In alternativa, se sei hai già un'altra radio, conviene prendere la versione PNP e acquistare separatamente una ricevente compatibile con la tua radio.
 
-Questo prodotto è disponibile su Banggood a questo <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>link</a>, inoltre puoi ricevere un coupon di circa 20 euro cliccando  <a href='https://www.banggood.com/?zf=3868709' target='_blank'>qui</a>. 
+Questo drone è disponibile su <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>Banggood</a>, ricordati di selezionare il magazzino più vicino a te per ridurre i tempi di consenga.
 
 <!-- Per quanto riguarda gli occhiali FPV, se non ne hai ancora un paio prova a leggere questo articolo: occhiali FPV perfetti per principianti. -->
 
@@ -88,6 +88,8 @@ Anche il carica batterie non è incluso. Per il caricabatterie, consiglio l' ISD
 
 ## Conclusioni
 iFlight ha realizzato un buon quad freestyle ARF. Il prezzo è alla portata di tutti e rende il Nazgul5 un perfetto quad entry level. Ideale per chi non vuole perder tempo con le configurazioni o utilizzare il saldatore. La sua popolarità garantisce una vasta gamma di ricambi. Questo rende il drone molto valido anche per un utilizzo duraturo ed intenso.
+
+L'iFlight Nazgul5 è disponibile su <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>Banggood</a>, ricordati di selezionare il magazzino più vicino a te per ridurre i tempi di consenga.
 
 Questo drone ha parecchia potenza, quindi può tranquillamente reggere il peso di una action camera come la GoPro Hero 7/8. I supporti per fotocamera in TPU stampati in 3D per GoPro e Runcam non sono inclusi. Acquistare il <a href='https://www.banggood.com/custlink/3mmmq99BGE' target='_blank'> supporto in TPU per GoPro Hero Session 4 e 5</a> è relativamente economico.
 

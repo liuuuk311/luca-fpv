@@ -1,7 +1,7 @@
 ---
-title: Simulatori FPV
+title: I migliori simulatori FPV per iniziare a volare nel 2020
 date: "2020-03-28T00:00:00.000Z"
-excerpt: Sei in quarantena e non puoi uscire a volare? In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
+excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
 tags: 
