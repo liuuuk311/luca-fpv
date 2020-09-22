@@ -40,6 +40,7 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-twitter`,
+    `gatsby-plugin-minify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
