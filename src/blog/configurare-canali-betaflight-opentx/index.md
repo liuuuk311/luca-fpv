@@ -79,4 +79,4 @@ Non importa quale sia l'ordine dei controlli negli input in OpenTX, lasciali sem
 
 
 
-Consiglio di utilizzare AETR1234, perché è l'impostazione predefinita in Betaflight. Se usi TAER, devi cambiare il mapping in Betaflight ogni volta che configuri un nuovo quad (o flash un nuovo firmware), che è piuttosto inutile.
+Consiglio di utilizzare AETR1234, perché è l'impostazione predefinita in Betaflight. Se usi TAER, devi cambiare il mapping in Betaflight ogni volta che configuri un nuovo quad (o flashi un nuovo firmware), che è piuttosto inutile.
