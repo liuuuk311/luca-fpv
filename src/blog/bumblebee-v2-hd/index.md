@@ -1,18 +1,22 @@
 ---
 title: "Recensione - BumbleBee HD V2: il drone FPV digitale ideale per volo cinematic?"
 date: "2020-09-24T00:00:00.000Z"
-excerpt: In questa recensione vedremo se l'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic. Vedremo inoltre quali sono i vantaggi e gli svantaggi di questa nuova versione.
+excerpt: In questa recensione vedremo se l'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic. Vedremo inoltre quali sono i vantaggi e gli svantaggi di questa nuova versione. 
 category:
     - Recensione
 tags: 
     - Principianti
 featured: true
 ---
-Un tipico Cinewhoop è un micro quad da 3" con duct che è abbastanza potente da montare una GoPro. I cinewhoop sono un ottimo strumento per fare filmati cinematografici. Sono lenti ma stabili e possono volare intorno a persone e proprietà in modo relativamente sicuro. Con la stabilizzazione incorporata dell'ultima GoPro (o utilizzando reelsteady), puoi ottenere filmati molto fluidi.
+Un tipico Cinewhoop è un micro quad da 3" con duct che è abbastanza potente da montare una GoPro. I cinewhoop sono un ottimo strumento per fare filmati cinematografici. Sono lenti ma stabili e possono volare intorno a persone e proprietà in modo relativamente sicuro. Con la stabilizzazione Hypersmooth di GoPro (o utilizzando Reelsteady), puoi ottenere filmati molto fluidi.
 
 Volare con un cinewhoop è abbastanza diverso da un drone FPV freestyle da 5", il rapporto peso/potenza è molto più basso e per volare normalmente terrai il gas al 40-50%, il che non ti lascia molto spazio per la correzione. E passerai un po' di tempo per imparare a controllarlo senza problemi e mantenere un'altitudine stabile.
 
-Il BumbleBee HD V2 é 
+Il BumbleBee HD V2 é il drone giusto per chi vuole cominciare a fare video molto fluidi, magari vicino a persone e ad ostacoli. 
+
+Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" target="_blank">Versione 6S</a>)
+
+> Non sai che differenza c'è tra 4S e 6S? Allora prova a dare un'occhiata [qua](https://lucafpv.com/bibbia-fpv/)
 
 ![BumbleBee V2 HD](/images/recensioni/bumblebee_v2/bumblebee_v2_1.png)
 
