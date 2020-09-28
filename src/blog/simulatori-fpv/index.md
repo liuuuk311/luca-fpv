@@ -47,15 +47,17 @@ Potresti anche semplicemente utilizzare un joystick normale oppure la tastiera, 
 
 Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono direttamente compatibili con i simulatori mentre altri richiedono l'acquisto di appositi adattori. 
 
+> Qua puoi trovare una [guida all'acquisto dei i radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv) e i prodotti che consiglio.
+
 <div id="radio-table">
 
 |                                                              | Radiocomando                                                | USB?                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
-| ![RadioMaster TX16](/images/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
-| ![X Lite](/images/x_lite.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
-| ![Taranis X9D Plus](/images/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
-| ![Taranis Q X7](/images/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
-| ![FlySky](/images/flysky.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
+| ![RadioMaster TX16](/images/radiocomandi/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
+| ![X Lite](/images/radiocomandi/x_lite.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
+| ![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
+| ![Taranis Q X7](/images/radiocomandi/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
+| ![FlySky](/images/radiocomandi/flysky.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
 | ![Spektrum](/images/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
 
 </div>
@@ -185,7 +187,7 @@ Se sai volare veloce in un simulatore, non è detto che tu sia capace di fare lo
 
 Bisogna capire che lo scopo dei simulatori è aiutare a formare una "memoria muscolare" nel controllare il drone attraverso gli stick del radio comando. Un buon modo per imparare nuovi trick senza rischiar di distruggere il quad 😁 
 
-Usare i simultaori è un buon modo per entrare nel mondo FPV, un'alternativa potrebbe volare con un drone di piccola taglia. 
+Usare i simulatori è un buon modo per entrare nel mondo FPV, un'alternativa potrebbe volare con un drone di piccola taglia. 
 
 I simulatori migliorano di continuo, ma volare in un videogioco non sarà mai come volare per davvero.
 
