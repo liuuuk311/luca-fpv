@@ -22,7 +22,7 @@ Ecco perché probabilmente è più facile farlo dallo schermo della Taranis usan
 ## VTX Compatibili
 Attualmente esistono diversi tipi di protocollo che consentono agli utenti di modificare le impostazioni VTX dai loro Taranis utilizzando i LUA Script o nel menu OSD di Betaflight.
 
-Tuttavia, la maggior parte dei produttori di VTX sembra utilizzare solo "Tramp Telemetry" o "SmartAduio". Di seguito è riportato un elenco degli ultimi VTX che utilizzano questi protocolli e supportano il controllo VTX:
+Tuttavia, la maggior parte dei produttori di VTX sembra utilizzare solo "Tramp Telemetry" o "SmartAudio". Di seguito è riportato un elenco degli ultimi VTX che utilizzano questi protocolli e supportano il controllo VTX:
 
 Tramp Telemetry:
 - Tramp HV
