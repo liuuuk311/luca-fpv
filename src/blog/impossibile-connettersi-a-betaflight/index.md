@@ -9,7 +9,7 @@ tags:
 featured: false
 ---
 
-Abbastanza spesso, una volta collegata il flight controller a Betaflight, il configuratore visualizza il seguente messaggio di errore:
+Abbastanza spesso, una volta collegato il flight controller a Betaflight, il configuratore visualizza il seguente messaggio di errore:
 > Impossibile aprire la porta seriale
 
 ## Motivo del problema
@@ -33,8 +33,8 @@ Qua dipende da quale sistema operativo stai usando. Se usi Windows il disposivo 
 
 
 ## Altre soluzioni
-- **Prova un altro cavo**: è stato osservato che un vecchio cavo USB può causare alcuni problemi di connettività con la scheda e il configuratore. A volte può funzionare e in altre occasioni può persino rifiutarsi di rispondere. Il problema può essere risolto utilizzando un cavo completamente nuovo o diverso.
-- **Prova un'altra porta USB**: potresti anche provare una nuova porta USB poiché in alcune occasioni possiamo avere la porta USB che si comporta male.
-- **Riavviare il computer**: è possibile riavviare il sistema per vedere se risolve il problema di connettività.
+- **Prova un altro cavo**: a volte un cavo USB vecchio può causare alcuni problemi di connettività tra la scheda e il configuratore. Il problema può essere risolto utilizzando un cavo completamente nuovo o diverso.
+- **Prova un'altra porta USB**: potresti anche provare una nuova porta USB poiché in alcune occasioni la porta USB potrebbe dare problemi.
+- **Riavviare il computer**: prova anche riavviare il sistema per vedere se risolve il problema di connettività.
 
 Infine, ho scritto una [guida PDF in italiano](https://lucafpv.com/problemi-comuni-droni-fpv/) nella quale raccolgo tutti i problemi comuni e le loro soluzioni, se la scarichi ti può sempre tornare utile.
