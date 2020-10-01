@@ -61,7 +61,7 @@ Cerchiamo di definire alcuni dei termini più comuni usati nel mondo FPV, in mod
 
 La parola “drone” è usata molto negli ultimi tempi ed è diventata sinonimo di qualunque velivolo senza pilota, potenzialmente equipaggiato anche di una telecamera. A parte per usi militari, storicamente, la maggior parte dei “droni” veniva usata per fare fotografie aeree oppure per trasportare carichi pesanti come equipaggiamenti per produzioni cinematografiche.
 
-Ecco alcuni [tipi di drone](https://lucafpv.com/tipi-di-drone) che si trovano spesso in questo hobby. 
+Ecco alcuni [tipi di drone](https://lucafpv.com/quanto-costa-un-drone) che si trovano spesso in questo hobby. 
 
 ### Cos’è un Multirotore?
 
