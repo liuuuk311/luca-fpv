@@ -1,6 +1,6 @@
 ---
 title: I migliori simulatori FPV per iniziare a volare nel 2020
-date: "2020-03-28T00:00:00.000Z"
+date: "2020-10-14T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
@@ -30,6 +30,10 @@ featured: true
 </style>
 
 In questo articolo confronto i migliori simulatori per droni FPV. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
+
+Se vuoi allenarti con me e altri piloti sul simulatore, **unisciti al mio server Discord**! Entrerai a far parte di una bellissima comunità appassionata di droni FPV.
+
+<div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div>
 
 ## Cos'è un simulatore FPV?
 

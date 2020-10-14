@@ -36,3 +36,36 @@ only screen and (max-width: 760px),
     white-space: nowrap;
   }
 }
+
+a.btn {
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border-radius: 2rem;
+  margin:0 35%;
+  margin-bottom: 5%;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-weight:300;
+  background-color: #eda550;
+  color:#FFFFFF !important;
+  text-align:center;
+  transition: all 0.2s;
+}
+
+@media 
+    only screen and (max-width: 760px),
+    (min-device-width: 768px) and (max-device-width: 1024px)  {
+      a.btn {
+        margin:0 25%;
+        margin-bottom: 5%;
+      }
+}
+
+.btn:hover{
+  color:#eda550 !important;
+  background-color:#FFFFFF;
+  border:0.2em solid #eda550;
+}
+
+
+.btn-discord {}
