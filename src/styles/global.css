@@ -67,5 +67,14 @@ a.btn {
   border:0.2em solid #eda550;
 }
 
+.iframe-container iframe {
+  height: 360px;
+}
 
-.btn-discord {}
+@media 
+    only screen and (max-width: 760px),
+    (min-device-width: 768px) and (max-device-width: 1024px)  {
+      .iframe-container iframe {
+        height: 195px;
+      }
+}
