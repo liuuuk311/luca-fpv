@@ -105,7 +105,7 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 > Costa poco e poche funzionalità di simulazione, va bene per principianti, ma è un po' vecchio
 
 <div class="iframe-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/WACcq2ykgNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/WACcq2ykgNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Questo è uno dei primi simulatori di volo pensato per droni FPV. 
 
@@ -121,7 +121,7 @@ Va bene per principianti che vogliono provare a volare in FPV, ma ha molte limit
 
 > Un simulatore molto curato, con aggiornamenti frequenti e molti contenuti, ma richiede un buon PC da gaming 
 <div class="iframe-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VuPwux4hiL4?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/VuPwux4hiL4?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Per i piloti piu esperti, **Liftoff** è un buon simulatore. E' uno dei migliori sia in termini di grafica e che di funzioni. Il numero di contenuti è veramente impressionante, centinaia di modelli e migliaia di mappe create dalla community. Liftoff permette di cambiare componenti e impostazioni come nel mondo reale. Inoltre, è possibile aggiustare i rates e PID come se fossi su Betaflight. La fisica è migliora di aggiornamento in aggiornamento. Ingenieri aerodinamici e i migliori piloti al mondo hanno collaborato con gli sviluppatori per migliorare questo prodotto. 
@@ -137,7 +137,7 @@ Liftoff ha semplificato molto il procedimento con il quale è possibile connette
 
 > Fisica molto buona, uno dei simulatori più realistici. Non la miglior grafica ma funziona bene anche su computer lenti
 <div class="iframe-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/vIxbM5oWeRI?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/vIxbM5oWeRI?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Se hai un computer vecchio oppure un portatile, dovresti provare **VelociDrone**.
@@ -156,7 +156,7 @@ L'unica pecca è che non è disponibile su Steam, quindi l'aggiornamento non è 
 
 ## DRL Racing
 <div class="iframe-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/x5NE0qUWuk4?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/x5NE0qUWuk4?start=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **DRL (Drone Racing League)** è un simulatore interessante – nel gioco ci sono eventi online e i piloti migliori possono vincere contratti da pilota professionisti e gareggiare in eventi reali. 
