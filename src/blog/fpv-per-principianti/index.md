@@ -45,9 +45,12 @@ A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](ht
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
-## Gruppi Telegram
-- [Droni Racers Italia](https://t.me/droniracersitalia)
-- [Milano Droni RC FPV](https://t.me/MilanoDroniRC)
+## Entra nella comunità FPV
+Se vuoi chattare, chiedere aiuto, consigli oppure allenarti su un simulatore con me e altri piloti, **unisciti al mio server Discord**! Entrerai a far parte di una bellissima comunità appassionata di droni FPV. Siamo sempre pronti ad aiutare nuovi piloti, che aspetti? 😉
+
+<div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div>
+
+---
 
 Con l'aiuto di questa guida, cercherò di spiegare come scegliere i componenti di un drone, costruirlo e ripararlo. Spiegherò anche come settare il quad in modo che voli esattamente come vuoi tu. Il bello di questo hobby che è tutto personalizzabile.
 
@@ -101,9 +104,7 @@ I simulatori FPV sono la maniera meno costosa per cominciare a pilotare un quadr
 
 Non usare un joystick o la tastiera, perché non ha senso. Ricordati che devi esercitare la memoria muscolare per ottenere il massimo dalle sessioni di allenamento nel simulatore, quindi è fondamentale usare radiocomando che userai per volare.Quali sono i migliori radiocomandi? Ecco quelli che consiglio personalmente. Questi sono anche le scelte più comuni, è importante scegliere opzioni comuni di modo che sia più facile trovare aiuto in caso di problemi.
 
-* Economici: Taranis Q X7<!--[https://oscarliang.com/taranis-q-x7-tx/] -->, Jumper T12 <!--[https://oscarliang.com/jumper-t12-tx/] -->
-* Con molte funzionalità: Jumper T16<!--[https://oscarliang.com/jumper-t16-radio/] -->, Taranis X9D-Plus <!--[https://oscarliang.com/taranis-x9d-qx7/] -->
-* Compatti: Taranis X-Lite <!--[https://oscarliang.com/frsky-x-lite-tx/] -->
+Dai un occhiata a quali sono [i migliori radiocomandi per cominciare nel 2020](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
 
 ## Le dimensioni di un Mini Quad
 
