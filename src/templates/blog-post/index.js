@@ -50,7 +50,8 @@ const BlogPost = ({ data, location }) => {
             frontmatter: {
                 title,
                 excerpt,
-                date
+                date,
+                ogimage
             },
             fields : {
                 slug,
@@ -104,7 +105,8 @@ const BlogPost = ({ data, location }) => {
 
         return ogSlug;
     }
-    
+
+    const ogImage = data.markdownRemark.frontmatter.ogimage || '/images/opengraph/opengraph-default.png';
     return (
         <Default
             location={location}
@@ -118,11 +120,11 @@ const BlogPost = ({ data, location }) => {
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
                 <meta property="og:url" content={`http://lucafpv.com/${getOgSlug(slug)}`}/>
-                <meta property="og:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
+                <meta property="og:image" content={ogImage}/>
 
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
-                <meta name="twitter:image" content={`http://lucafpv.com/og-images/blog/${getOgSlug(slug)}.png`}/>
+                <meta name="twitter:image" content={ogImage}/>
                 <meta name="twitter:card" content="summary_large_image"/>
             </Helmet>
             <Container>
@@ -229,6 +231,7 @@ query BlogPostBySlug($slug: String!) {
         title
         date(formatString: "DD MMMM YYYY", locale: "it")
         excerpt
+        ogimage
       }
     }
   }

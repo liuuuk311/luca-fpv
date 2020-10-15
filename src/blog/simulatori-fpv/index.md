@@ -7,6 +7,7 @@ category:
 tags: 
     - Principianti
 featured: true
+ogimage: '/images/opengraph/migliori-simulatori-fpv.png'
 ---
 
 <style>
