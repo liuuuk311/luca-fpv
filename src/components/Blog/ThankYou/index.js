@@ -1,15 +1,15 @@
 import React from 'react';
-import { TwitterFollowButton } from 'react-twitter-embed';
 import {
     Container,
     Avatar,
     Content,
     Heading,
-    Paragraph
+    Paragraph,
+    Button
 } from './styled';
 
 
-const TwitterPromo = () => {
+const ThankYou = () => {
     return (
         <Container>
             <Avatar src="/luca.jpg"/>
@@ -18,14 +18,14 @@ const TwitterPromo = () => {
                     🙌 Grazie per aver letto questo articolo!
                 </Heading>
                 <Paragraph>
-                    Seguimi su Twitter per rimanere sempre aggiornato
+                    Sapevi che ho creato una comunità di droni FPV, si chiama NorthFPV
                 </Paragraph>
-                <TwitterFollowButton
-                    screenName={'iamlucafpv'}
-                />
+                <Button href="https://northfpv.com" target="_blank">
+                    Scopri di più!
+                </Button>
             </Content>
         </Container>
     );
 }
 
-export default TwitterPromo;
+export default ThankYou;

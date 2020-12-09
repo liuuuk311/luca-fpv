@@ -13,7 +13,7 @@ import {
 
 import {
     Default,
-    TwitterPromo,
+    ThankYou,
     RecommendedArticles
 } from '../../components';
 
@@ -30,15 +30,13 @@ import  {
     Title,
     Date,
     Post,
+    Banner,
     // Newsletter stuff
     Heading,
     Paragraph,
-    Label,
-    Field,
-    FieldContainer,
-    Button,
-    GroupField,
+
 } from '../../components/PageStyles/BlogStyles';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 
 const BlogPost = ({ data, location }) => {
@@ -145,6 +143,9 @@ const BlogPost = ({ data, location }) => {
                     </QuickNavigationContainer>
                 </NavigationContainer>
                 <PostContainer>
+                    <OutboundLink href="https://t.me/fpv_coupons" target="_blank" rel="nofollow">
+                        <Banner src="/canale_telegram.png"/>
+                    </OutboundLink>
                     <Info>
                         <Date>
                             {date} &nbsp;&middot;&nbsp; {text.replace('read', '')}
@@ -178,29 +179,8 @@ const BlogPost = ({ data, location }) => {
                             <RedditIcon size={24} round={true}/>
                         </RedditShareButton>
                     </ShareButtons>
-                    <TwitterPromo/>
+                    <ThankYou/>
                     <RecommendedArticles slug={slug}/>
-                    <NewsletterContainer>
-                        <Heading>
-                            Se sei arrivato fino a qua...
-                        </Heading>
-                        <form action="https://lucafpv.us19.list-manage.com/subscribe/post?u=1f9157c09ec4bcd2a7ea723d5&amp;id=d68f59b417" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
-                            <Paragraph>
-                                Ti consiglio di iscriverti alla mia Newsletter 👇
-                            </Paragraph>
-                        
-                            <Label htmlFor="mce-FNAME">Nome</Label>
-                            <FieldContainer>
-                                <Field name="FNAME" id="mce-FNAME" required/>
-                            </FieldContainer>   
-                            <Label htmlFor="mce-EMAIL">Email</Label>
-                            <FieldContainer>
-                                <Field name="EMAIL" id="mce-EMAIL" required/>
-                                <Button type="submit">Invia</Button>
-                            </FieldContainer>
-                            <GroupField type="checkbox" value="2" name="group[13000][2]" id="mce-group[13000]-13000-0" checked/>
-                        </form>
-                    </NewsletterContainer>
                 </PostContainer>
             </Container>
         </Default>

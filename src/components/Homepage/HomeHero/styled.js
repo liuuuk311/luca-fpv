@@ -40,3 +40,16 @@ export const Paragraph = styled(fonts.Body)`
         }
     }
 `;
+
+export const Button = styled.a`
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 300;
+    background-color: #eda550;
+    color: #FFFFFF !important;
+    text-align: center;
+    transition: all 0.2s;
+`;

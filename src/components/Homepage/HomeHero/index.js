@@ -10,7 +10,8 @@ import {
     Avatar,
     Heading,
     SubHeading,
-    Paragraph
+    Paragraph,
+    Button
 } from './styled';
 
 const HomeHero = () => {
@@ -21,14 +22,13 @@ const HomeHero = () => {
                 Ciao!
             </Heading>
             <Paragraph>
-                Mi chiamo Luca e sono un appassionato di droni FPV. Ho creato questo blog per condividere tutto ciò che riguarda il mondo FPV. 
+                Mi chiamo Luca e sono un appassionato di droni FPV. Questa passione mi ha portato anche a creare la prima community italiana di FPV chiamata <strong>NorthFPV</strong>. 
                 <br/><br/>
-                Qui potrai trovare articoli, tutorial e recensioni sul tema dei droni FPV. 
+                Lo scopo di questa community è quello di condividere una passione e aiutarsi a vicenda. Sono molto contento che la community stia crescendo rapidamente, entra anche tu a farne parte!
             </Paragraph>
-            <SubHeading>
-                Il mio ultimo video
-            </SubHeading>
-            <LastVideo/>
+            <Button href="https://northfpv.com" target="_blank">
+                    Scopri di più!
+            </Button>
         </Container>
     );
 }

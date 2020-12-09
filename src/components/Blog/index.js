@@ -1,2 +1,2 @@
-export { default as TwitterPromo } from './TwitterPromo';
+export { default as ThankYou } from './ThankYou';
 export { default as RecommendedArticles } from './RecommendedArticles';
