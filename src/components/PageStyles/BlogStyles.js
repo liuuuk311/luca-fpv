@@ -207,3 +207,10 @@ export const Button = styled.button`
         outline: none;
     }
 `;
+
+export const Banner = styled.img`
+    margin: 0 !important;
+    width: 100% !important;
+    padding: 0 !important;
+    padding-bottom: 24px !important;
+`;
