@@ -143,9 +143,6 @@ const BlogPost = ({ data, location }) => {
                     </QuickNavigationContainer>
                 </NavigationContainer>
                 <PostContainer>
-                    <OutboundLink href="https://t.me/fpv_coupons" target="_blank" rel="nofollow">
-                        <Banner src="/canale_telegram.png"/>
-                    </OutboundLink>
                     <Info>
                         <Date>
                             {date} &nbsp;&middot;&nbsp; {text.replace('read', '')}
