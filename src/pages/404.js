@@ -23,7 +23,6 @@ const Homepage = ({ location }) => {
                 <meta name="description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
             </Helmet>
             <TopContainer>
-                <Video src='/404.mp4' autoPlay='true' loop='true'/>
                 <Container>
                     <Heading>
                         Sembra che questa pagina non esista

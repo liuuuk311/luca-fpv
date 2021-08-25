@@ -7,7 +7,6 @@ import {
     PostListItem,
     Date,
     Tag,
-    Heading,
     SubHeading,
     Preview
 } from './styled';

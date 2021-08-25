@@ -38,11 +38,6 @@ export const Date = styled(fonts.Eyebrow)`
     margin: 0;
 `;
 
-export const Heading = styled(fonts.Heading)`
-    color: ${colors.black};
-    margin: 8px 0 16px 0;
-`;
-
 export const SubHeading = styled(fonts.SubHeading)`
 color: ${colors.black};
 margin: 8px 0 16px 0;

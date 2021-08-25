@@ -15,7 +15,7 @@ export const Container = styled.div`
     `}
 `;
 
-export const Avatar = styled.video`
+export const Avatar = styled.img`
     border-radius: 50%;
     display: block;
     max-width: 110px;
@@ -23,10 +23,6 @@ export const Avatar = styled.video`
 `;
 
 export const Heading = styled(fonts.Billboard)`
-    color: ${colors.black};
-`;
-
-export const SubHeading = styled(fonts.SubHeading)`
     color: ${colors.black};
 `;
 

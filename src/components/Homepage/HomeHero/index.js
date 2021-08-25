@@ -1,15 +1,9 @@
 import React from 'react';
 
 import {
-    HomeNewsletter,
-    LastVideo,
-} from '../../../components';
-
-import {
     Container,
     Avatar,
     Heading,
-    SubHeading,
     Paragraph,
     Button
 } from './styled';
@@ -17,7 +11,7 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-          <Avatar muted autoplay poster='/luca.jpg' src='/luca.mp4'/>
+          <Avatar src='/luca.jpg' />
             <Heading>
                 Ciao!
             </Heading>
