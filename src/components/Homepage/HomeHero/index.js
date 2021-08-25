@@ -11,7 +11,7 @@ import {
 const HomeHero = () => {
     return (
         <Container>
-          <Avatar src='/luca.jpg' />
+          <Avatar src='/luca.jpg' width={110} height={110}/>
             <Heading>
                 Ciao!
             </Heading>
