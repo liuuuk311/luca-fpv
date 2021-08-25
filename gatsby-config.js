@@ -9,14 +9,6 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     {
-      resolve: `gatsby-plugin-printer`,
-      options: {
-        puppeteerLaunchOptions: {
-          headless: true
-        }
-      }
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: 
       {
@@ -28,7 +20,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-reading-time`,
+          // `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -39,10 +31,10 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-twitter`,
     `gatsby-plugin-minify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

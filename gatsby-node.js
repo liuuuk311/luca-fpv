@@ -1,6 +1,5 @@
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem');
-const { createPrinterNode } = require('gatsby-plugin-printer');
 const kebabCase = require(`lodash.kebabcase`);
 
 exports.createPages = ({ graphql, actions }) => {
@@ -103,31 +102,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
   // Custom OG Image Code
   // See: https://lannonbr.com/blog/2019-11-10-og-images/
-  if (
-    node.internal.type === 'MarkdownRemark' &&
-    node.fileAbsolutePath.includes('/blog/')
-  ) {
-    // get the folder name (ex: /blog/2019-11-04-github-actions-changelog-workflow/index.md -> 2019-11-04-github-actions-changelog-workflow)
-    let filePathSplit = node.fileAbsolutePath.split('/')
-    let fileName = filePathSplit[filePathSplit.length - 2]
-    console.log('Generate OG Image for ' + "fileName");
-    createPrinterNode({
-      id: node.id,
-      fileName, // the filename of the image to be generated
-      outputDir: 'og-images/blog', // relative to the 'public' folder.
-      data: {
-        // The data you wish to pass down to the react component to be rendered
-        title: node.frontmatter.title,
-        date: node.frontmatter.date,
-        readTime: node.fields.readingTime.text
-      },
-      component: require.resolve('./src/components/Global/OpenGraphImage'), // the react component to be used.
-    })
-    // create a field to be then used later on for usage
-    actions.createNodeField({
-      node,
-      name: 'ogFileName',
-      value: fileName,
-    })
-  }
 }

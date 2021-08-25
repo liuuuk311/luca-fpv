@@ -53,9 +53,6 @@ const BlogPost = ({ data, location }) => {
             },
             fields : {
                 slug,
-                readingTime : {
-                    text
-                }
             },
             html
         }
@@ -145,7 +142,7 @@ const BlogPost = ({ data, location }) => {
                 <PostContainer>
                     <Info>
                         <Date>
-                            {date} &nbsp;&middot;&nbsp; {text.replace('read', '')}
+                            {date}
                         </Date>
                         <Title>
                             {title}
@@ -195,14 +192,11 @@ query BlogPostBySlug($slug: String!) {
         author
       }
     }
-    markdownRemark(fields: {slug: {eq: $slug}, readingTime: {}}) {
+    markdownRemark(fields: {slug: {eq: $slug}}) {
       id
       html
       fields {
         slug
-        readingTime {
-            text
-        }
       }
       frontmatter {
         title

@@ -35,13 +35,12 @@ const BlogCategory = ({ data, pageContext }) => {
             </Title>
             <PostList>
                 {posts.map(( node, index ) => {
-                    const { node : { frontmatter : { title, date, excerpt, tags}, fields : { slug, readingTime : { text } } } } = node;
+                    const { node : { frontmatter : { title, date, excerpt, tags}, fields : { slug } } } = node;
                     return (
                         <PostListItem>
                             <Link to={`${slug}`} key={index}>
                                 <Date>
                                     {date} &nbsp;&middot;&nbsp; 
-                                    {text.replace('read', '')} &nbsp;&middot;&nbsp;
                                     {tags.map( ( tag ) => <Tag>#{tag} </Tag>)}
                                 </Date>
                                 <SubHeading>
@@ -73,9 +72,6 @@ export const query = graphql`
         node {
           fields {
             slug
-            readingTime {
-              text
-            }
           }
           frontmatter {
             date(formatString: "DD MMMM YYYY", locale:"it")

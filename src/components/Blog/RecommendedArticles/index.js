@@ -25,9 +25,6 @@ const RecommendedArticles = props => {
               excerpt
               fields {
                 slug
-                readingTime {
-                  text
-                }
               }
               frontmatter {
                 date(formatString: "MMMM DD, YYYY")
@@ -67,7 +64,7 @@ const RecommendedArticles = props => {
                     <PostListItem>
                         <Link to={`${firstRecommended.node.fields.slug}`}>
                             <Date>
-                                {firstRecommended.node.frontmatter.date} &nbsp;&middot;&nbsp; {firstRecommended.node.fields.readingTime.text}
+                                {firstRecommended.node.frontmatter.date}
                             </Date>
                             <Heading>
                                 {firstRecommended.node.frontmatter.title}
@@ -82,7 +79,7 @@ const RecommendedArticles = props => {
                     <PostListItem>
                         <Link to={`${secondRecommended.node.fields.slug}`}>
                             <Date>
-                                {secondRecommended.node.frontmatter.date} &nbsp;&middot;&nbsp; {secondRecommended.node.fields.readingTime.text}
+                                {secondRecommended.node.frontmatter.date}
                             </Date>
                             <Heading>
                                 {secondRecommended.node.frontmatter.title}
