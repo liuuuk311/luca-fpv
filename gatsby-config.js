@@ -9,14 +9,6 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     {
-      resolve: `gatsby-plugin-printer`,
-      options: {
-        puppeteerLaunchOptions: {
-          headless: true
-        }
-      }
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: 
       {
@@ -39,7 +31,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-twitter`,
     `gatsby-plugin-minify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
