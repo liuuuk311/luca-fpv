@@ -119,7 +119,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         // The data you wish to pass down to the react component to be rendered
         title: node.frontmatter.title,
         date: node.frontmatter.date,
-        readTime: node.fields.readingTime.text
       },
       component: require.resolve('./src/components/Global/OpenGraphImage'), // the react component to be used.
     })

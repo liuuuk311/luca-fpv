@@ -28,7 +28,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-reading-time`,
+          // `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -43,6 +43,7 @@ module.exports = {
     `gatsby-plugin-minify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
