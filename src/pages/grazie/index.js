@@ -3,7 +3,6 @@ import Helmet from 'react-helmet';
 
 import {
     Default,
-    LastVideo
 } from '../../components';
 
 import {
@@ -28,11 +27,6 @@ const ThankYou = ({ location }) => {
                 <Paragraph>
                     A breve riceverai una email con ulteriori istruzioni 🥳
                 </Paragraph>
-                <br/><br/>
-                <Paragraph>
-                    Mentre aspetti, potresti vedere il mio ultimo video 🚀
-                </Paragraph>
-                <LastVideo/>
             </Container>
         </Default>
     );
