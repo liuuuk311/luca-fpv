@@ -18,10 +18,10 @@ const ThankYou = () => {
                     🙌 Grazie per aver letto questo articolo!
                 </Heading>
                 <Paragraph>
-                    Sapevi che ho creato una comunità di droni FPV, si chiama NorthFPV
+                    Mi segui già su Instagram? 
                 </Paragraph>
-                <Button href="https://northfpv.com" target="_blank">
-                    Scopri di più!
+                <Button href="https://instagram.com/iamlucafpv" target="_blank">
+                    Seguimi ora!
                 </Button>
             </Content>
         </Container>
