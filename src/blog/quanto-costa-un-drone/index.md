@@ -1,7 +1,7 @@
 ---
-title: Ecco quanto costa comprare un drone nel 2020
-date: "2020-10-01T00:00:00.000Z"
-excerpt: "Hai deciso di comprare un drone con una telecamera e vuoi sapere quanto costa? La risposta breve è dipende, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie"
+title: Ecco quanto costa comprare un drone nel 2021
+date: "2021-09-25T00:00:00.000Z"
+excerpt: "Quanto costa comprare un drone nel 2021? La risposta breve è dipende, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie"
 category:
     - Tutorial
 tags: 
@@ -32,7 +32,7 @@ tags:
     }
 </style>
 
-Hai deciso di comprare un drone con una telecamera e vuoi sapere quanto costa?
+Quanto costa comprare un drone nel 2021? 
 > **La risposta breve è dipende**, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. 
 
 Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie, dalla più economica alla più costosa.
@@ -135,7 +135,7 @@ Recentemente anche filmmakers, content creator e fotografi stanno scegliendo que
 
 ### Riassunto 
 
-* Prezzo: da 300 a 600 euro 
+* Prezzo: da 300 euro in su
 * Peso: da 400 g a 700 g 
 * Dimensioni: da 200 mm a 250 mm
 * Ideali per freestyle, racing e riprese cinematic
@@ -154,7 +154,7 @@ Se non ti piace l’idea di costruirti il tuo drone e vuoi volare immediatamente
 ### Scelte più comuni
 
 * <a href="https://www.banggood.com/custlink/vDKEW1wrsV" target="_blank" rel="nofollow">iFlight Nazgul5</a> - leggi la [recensione](https://lucafpv.com/iflight-nazgul5)
-* <a href="https://www.banggood.com/custlink/vvmRJfwNoq" target="_blank" rel="nofollow">Eachine Wizard</a>
+* <a href="https://amzn.to/3zdqCTA" target="_blank" rel="nofollow">DJI FPV</a>
 
 ### Dimensioni dei Quad
 

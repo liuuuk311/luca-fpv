@@ -90,6 +90,8 @@ Per dare una idea, tipicamente un drone FPV può costare tra 200 e 500 euro. Que
 
 Dunque un costo totale che si aggira tra i 500 e 1000 euro. Con la crescita di questo hobby, nascono sempre opzioni più economiche. E più appassionati ci sono, e più i prezzi saranno bassi. 
 
+Se vuoi avere un'idea più chiara di quanto costano i droni, ti suggerisco [questo articolo](https://lucafpv.com/quanto-costa-un-drone).
+
 ### Costruirlo da zero o comprare un preassemblato?
 
 Se costruire un quadricottero da zero ti sembra troppo difficile, ci sono diversi modelli preassemblati adatti per un principiante come ad esempio [iFlight Nazgul5](https://lucafpv.com/iflight-nazgul5)<!--[https://oscarliang.com/build-racing-drone-fpv-quadcopter/#rtf] -->.
