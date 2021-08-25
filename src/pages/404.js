@@ -6,7 +6,6 @@ import {
 
 import {
     TopContainer,
-    Video,
     Heading,
     Preview,
     Container,
