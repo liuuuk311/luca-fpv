@@ -1,7 +1,7 @@
 ---
 title: FPV per Principianti
-date: "2020-03-20T00:00:00.000Z"
-excerpt: Vorresti volare con droni FPV ma non sai da dove cominciare? Questo è l'articolo giusto per te!
+date: "2021-08-26T00:00:00.000Z"
+excerpt: Cos’è un drone FPV? Come iniziare, quanto costa? In questo articolo spiego tutto quello che c'è da sapere sui droni FPV
 category: 
     - Tutorial
 tags: 
@@ -17,7 +17,7 @@ In entrambi i casi, ho creato questa guida nella quale tenterò di spiegare le n
 
 ## Introduzione al mondo FPV
 
-Probabilmente avrai già visto un drone volare, per chi non lo sapesse, si tratta di un velivolo pilotato a distanza. Molto spesso, i piloti si sfidano in gare ad alta velocità attraverso piste tridimensionali, con difficoltà aggiunte come ad esempio ostacoli da evitare. Le velocità possono superare facilmente i 150 km/h.
+Probabilmente avrai già visto un drone volare, per chi non lo sapesse, si tratta di un velivolo pilotato a distanza. Molto spesso, i piloti si sfidano in gare ad alta velocità attraverso piste tridimensionali, con difficoltà aggiunte come ad esempio ostacoli da evitare. Le velocità possono superare facilmente i 180 km/h.
 
 È uno degli sport che sta crescendo più velocemente in tutto il mondo e sta attraendo sempre più grosse aziende pronte a sponsorizzare i piloti migliori. 
 
@@ -45,16 +45,17 @@ A questo proposito, ho scritto un'articolo sulla [regolamentazione dei droni](ht
 
 Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano di aiutare gli altri e ci si organizza per incontrarsi a volare spesso insieme. Esistono molti gruppi Facebook e Telegram a questo proposito, eccone alcuni.
 
-## Entra nella comunità FPV
-Se vuoi chattare, chiedere aiuto, consigli oppure allenarti su un simulatore con me e altri piloti, **unisciti al mio server Discord**! Entrerai a far parte di una bellissima comunità appassionata di droni FPV. Siamo sempre pronti ad aiutare nuovi piloti, che aspetti? 😉
+## Volare come pilota professionista
 
-<div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div>
+Essere un pilota FPV può essere anche un lavoro. Ci sono diverse professioni. La più ambita è il pilota professionista per campionati internazionali come [DRL](https://thedroneracingleague.com/about-drl/). I piloti in questo campionato possono guadagnare fino a 100.000 dollari, per non parlare poi delle sponsorizzazioni.
 
----
+<div class="iframe-container">
+<iframe width="100%" src="https://www.youtube.com/embed/QSZmSNL_0r8?start=8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Con l'aiuto di questa guida, cercherò di spiegare come scegliere i componenti di un drone, costruirlo e ripararlo. Spiegherò anche come settare il quad in modo che voli esattamente come vuoi tu. Il bello di questo hobby che è tutto personalizzabile.
+Un lavoro più comune ma comunque divertente è far riprese aeree e cinematografiche con un drone FPV. In questo caso si può far parte di un agenzia o lavorare come libero profesionista.
 
-
+Con l'aiuto di questa guida, cercherò di spiegare come avvicinarsi al mondo FPV scegliere i componenti di un drone, costruirlo e ripararlo. Spiegherò anche come settare il quad in modo che voli esattamente come vuoi tu. Il bello di questo hobby che è tutto personalizzabile.
 
 ## Introduzione ai droni
 
@@ -106,7 +107,7 @@ I simulatori FPV sono la maniera meno costosa per cominciare a pilotare un quadr
 
 Non usare un joystick o la tastiera, perché non ha senso. Ricordati che devi esercitare la memoria muscolare per ottenere il massimo dalle sessioni di allenamento nel simulatore, quindi è fondamentale usare radiocomando che userai per volare.Quali sono i migliori radiocomandi? Ecco quelli che consiglio personalmente. Questi sono anche le scelte più comuni, è importante scegliere opzioni comuni di modo che sia più facile trovare aiuto in caso di problemi.
 
-Dai un occhiata a quali sono [i migliori radiocomandi per cominciare nel 2020](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
+Dai un occhiata a quali sono [i migliori radiocomandi per cominciare nel 2021](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
 
 ## Le dimensioni di un Mini Quad
 
