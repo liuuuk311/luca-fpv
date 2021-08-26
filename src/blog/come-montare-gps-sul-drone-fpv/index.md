@@ -56,6 +56,44 @@ La prima cosa da fare è abilitare come sensore di ingresso il GPS nella sezione
 
 ![Configurazione porta GPS](/images/configurare-gps/porte_betaflight.jpg)
 
+Una volta fatto questo cliccare il tasto giallo in basso a destra per salvare.
+
 Quindi ora dobbiamo attivare le funzionalità del GPS andando nella sezione Configurazione e in basso a destra troveremo le impostazioni relative al GPS.
 
 ![Configurazione GPS](/images/configurare-gps/gps_config_betaflight.jpg)
+
+Una volta fatto questo cliccare il tasto giallo in basso a destra per salvare.
+
+A questo punto, per procedere, bisogna attivare la modalità esperto. In questo modo avremo la possibilità di cambiare il comportamento del drone in caso di failsafe.
+
+![Modalità esperto](/images/configurare-gps/expert_mode.png)
+
+A questo punto, nella colonna di sinistra, saranno presenti nuovi voci di menú. Apriamo quindi la sezione Failsafe. In questa tab potremo specificare il comportamento del drone in caso di perdita di segnale. Il comportamento di default è Drop, ovvero il drone si disarma e cade. Ma se abbiamo il modulo GPS, possiamo scegliere di usare GPS Rescue, ovvero una sorta di Return to Home.
+
+I consiglio sempre di lasciare i settings di default, per esser sicuri. In ogni caso, lascio di seguito la spiegazione dei vari parametri.
+
+**Angle**: l'inclinazione massima che il drone può raggiungere. In situazioni di vento il modello avrà bisogno di una maggior inclinazione per poter procedere in avanti e fronteggiare la spinta dell’aria; generalmente 30/35 gradi son più che sufficienti.
+
+**Altitudine iniziale**: l’altezza che verrà raggiungerà prima di tornare verso il punto di partenza. Tuttavia, in caso durante il volo abbia si sia raggiunta una altitudine maggiore di questo valore, allora in caso l'altezza raggiunta sarà l'altezza massima + 15m. 
+
+**Distanza di discesa**: la distanza dal punto di partenza dalla quale iniziare la discesa verso terra.
+
+**Velocità al suolo**: la velocità alla quale il drone teneterà di tornare al punto di partenza. Ricordiamoci che è espressa in metri al secondo e non è bene esagerare; 10/15 metri al secondo sono più che sufficienti.
+
+**Gas minimo/ massimo/ hovering**: i valori del gas che verranno usati per far tornare il drone al punto di partenza.
+
+**Velocità di ascesa/ discesa**: entrambe sono velocità espresse in metri al secondo della salita automatica all’altitudine iniziale ed alla discesa verso terra.
+
+**Satelliti minimi**: i satelliti minimi che il GPS dovrà agganciare prima di farci armare il drone. Il tempo impiegato a trovare i satelliti minimi può variare e solitamente è di qualche minuto. Un numero maggiore di satelliti permetterà una migliore precisione della modalità rescue. Il numero minimo è 5, sotto questo valore il nostro drone non potrà svolgere la funzione di return to home.
+
+**Modalità altitudine**: solitamente viene impostata come “altitudine massima”.
+
+**Controlli di salute**: è importante impostare questo valore come “solo failsafe”. I controlli di salute sono i controlli che il FC esegue prima di attivare la modalità rescue:
+
+- Il GPS è attivo
+- Il GPS è agganciato a un numero corretto di satelliti
+- Il drone si muove liberamente senza nessun ostacolo
+Se uno di questi dati rilevati dalla FC non è corretto, il drone si disarmerà e cadrà.
+
+Se attiveremo “consenti l’armamento senza fix” il drone si armerà e potrà volare senza aver agganciato il numero minimo di satelliti, ma è bene ricordare che la funzione rescue non sarà disponibile, anche se durante il volo viene raggiunto il numero di satelliti minimo.
+
