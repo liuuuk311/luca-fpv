@@ -49,3 +49,13 @@ Ad esempio, se ho liberi i pad TX2 e RX2, che corrispondono alla UART2, e non li
 E' importante che si utilizzi la coppia, ovvero se scelgo TX2, devo usare per forza RX2 e non posso usare RX1 o RX3. 
 
 ![Cablaggio per il GPS](/images/configurare-gps/collegamento_gps_fc.jpg)
+
+## Configurazione su Betaflight
+
+La prima cosa da fare è abilitare come sensore di ingresso il GPS nella sezione Porte. Qui bisogna far attenzione ad attivarlo nella riga corrispondente alla UART sulla quale si è collegato il GPS (come spiegato nella sezione precendete). Come baudrate, va bene sia AUTO che 57600. 
+
+![Configurazione porta GPS](/images/configurare-gps/porte_betaflight.jpg)
+
+Quindi ora dobbiamo attivare le funzionalità del GPS andando nella sezione Configurazione e in basso a destra troveremo le impostazioni relative al GPS.
+
+![Configurazione GPS](/images/configurare-gps/gps_config_betaflight.jpg)
