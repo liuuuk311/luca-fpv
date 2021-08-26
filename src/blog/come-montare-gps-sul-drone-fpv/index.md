@@ -97,3 +97,8 @@ Se uno di questi dati rilevati dalla FC non è corretto, il drone si disarmerà 
 
 Se attiveremo “consenti l’armamento senza fix” il drone si armerà e potrà volare senza aver agganciato il numero minimo di satelliti, ma è bene ricordare che la funzione rescue non sarà disponibile, anche se durante il volo viene raggiunto il numero di satelliti minimo.
 
+## Come attivare la modalità rescue (RTH)
+
+Oltre all'attivazione automatica, in caso di failsafe, la modalità GPS rescue può essere attivata anche manualmente. Infatti oltre che per ragioni di test, attivare la funzione di return to home manualmente, può tornare utile nel momento in cui si perde il segnale video ma si è ancora collegati tramite il segnale radio.
+
+Configurare il RTH (return to home) su uno switch è semplice., si procede come per [configurare le altre modalità di volo](https://lucafpv.com/modalita-di-volo-betaflight/). 
