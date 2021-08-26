@@ -1,6 +1,6 @@
 ---
 title: I migliori simulatori FPV per iniziare a volare nel 2021
-date: "2021-09-24T00:00:00.000Z"
+date: "2021-09-26T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
@@ -62,7 +62,7 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 | ![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
 | ![Taranis Q X7](/images/radiocomandi/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
 | ![FlySky](/images/radiocomandi/flysky.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
-| ![Spektrum](/images/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
+| ![Spektrum](/images/radiocomandi/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
 
 </div>
 
@@ -175,7 +175,7 @@ Quasi tutti i simulatori FPV permettono di aggiustare i rates e PID, oltre che a
 
 Se voli da poco tempo, è meglio lasciare tutte le impostazioni di default a meno che qualcosa non funzioni. Le uniche impostazioni che dovresti cambiare sono i rates e l'expo, che sono essenzialmente la sensibilità rispetto ai comandi dati dagli stick. <!-- Leggi questo articolo per maggiori dettagli -->
 
-
+Se invece vuoi approfondire l'argomento dai un'occhiata a questi articoli su [cosa sono i rates](https://lucafpv.com/spiegazioni-rates) e [come tunare i PID](https://lucafpv.com/come-tunare-pid).
 
 ## Occhiali FPV e Simulatori
 
