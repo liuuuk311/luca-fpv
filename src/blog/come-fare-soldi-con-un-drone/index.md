@@ -9,7 +9,6 @@ tags:
 featured: false
 ---
 
-## Come fare soldi con i droni?
 
 Hai acquistato un drone o stai pensando di farlo e vorresti guadangare qualche soldo extra oppure trasformare una passione in lavoro? In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadagnare. 
 
