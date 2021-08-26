@@ -3,7 +3,7 @@ module.exports = {
     title: 'Luca FPV - Vola in prima persona',
     author: 'Luca',
     description: 'Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV.',
-    siteUrl: 'http://lucafpv.com',
+    siteUrl: 'https://lucafpv.com',
     keywords: ['Drone', 'FPV', 'DJI', 'Mini Quad'],
   },
   pathPrefix: '/',
@@ -30,7 +30,65 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        excludes: ['/404', '/404.html', '/grazie'],
+        query: `
+        {
+          site {
+          siteMetadata {
+            siteUrl
+          }
+        }
+        allSitePage(filter: {isCreatedByStatefulCreatePages: {eq: true}}) {
+          edges {
+            node {
+              path
+            }
+          }
+        }
+        allMarkdownRemark(
+          sort: {fields: [frontmatter___date], order: DESC}
+          limit: 1000
+          ) {
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  date
+                }
+              }
+            }
+          }
+        }`,
+        resolveSiteUrl: ({site}) => site.siteMetadata.siteUrl,
+        resolvePagePath: (page) => page.path, 
+        resolvePages: ({ site, allMarkdownRemark, allSitePage }) => {
+          var posts = allMarkdownRemark.edges
+              .map(({ node }) => {
+                return {
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  path: node.fields.slug,
+                  lastmod: node.frontmatter.date
+                };
+              });
+
+            var pages = allSitePage.edges.map(({ node }) => {
+              return {
+                url: site.siteMetadata.siteUrl + node.path,
+                path: node.path,
+              };
+            });
+            return posts.concat(pages);
+        },
+        serialize: (page) => {
+          return page.lastmod ? {url: page.url, lastmod: page.lastmod} : {url: page.url}
+        }
+      },
+    },
     `gatsby-plugin-minify`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
