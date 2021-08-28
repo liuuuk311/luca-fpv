@@ -11,8 +11,8 @@ export default css`
 
   code[class*='language-'],
   pre[class*='language-'] {
-    color: #ccc;
-    background: none;
+    color: #de7800;
+    background: #eae9e9;
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     text-align: left;
     white-space: pre;

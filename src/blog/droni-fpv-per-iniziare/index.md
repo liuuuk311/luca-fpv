@@ -8,30 +8,6 @@ tags:
     - Principianti
 featured: true
 ---
-<style>
-    @media 
-    only screen and (min-width: 980px) {
-        td {
-            width: 170px
-        }
-        td:nth-of-type(1){
-            padding-right: 0;
-            width: 175px;
-        }
-    }
-    @media 
-    only screen and (max-width: 760px),
-    (min-device-width: 768px) and (max-device-width: 1024px)  {
-        /*
-        Label the data on mobile view
-        
-        */
-
-        #drone-table td:nth-of-type(2):before { content: "Categoria"; }
-        #drone-table td:nth-of-type(3):before { content: "Prezzo"; }
-        #drone-table td:nth-of-type(4):before { content: "Utilizzo"; }
-    }
-</style>
 
 Stai cercando il miglior drone FPV per cominciare a volare nel 2021? Questa guida è quello che cerchi, ti mostrerò quali sono le alternative, spiegherò i pro e i contro dei diversi droni, considerando anche le varie fasce di prezzo.
 

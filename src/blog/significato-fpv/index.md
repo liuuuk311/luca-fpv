@@ -26,6 +26,10 @@ Ecco un esempio di cosa vede un pilota FPV.
 Finora ti ho spiegato il signifcato della parola, ma secondo me FPV significa molto altro!
 FPV significa far parte di una community di persone che sono disposte ad aiutarsi a vicenda. Signifca provare sensazioni indescrivibili, volare in posti stupendi. Significa conoscere nuove persone, coltivare nuove amicizie.
 
-Il mondo FPV, è semplicemente fantastico.
+Il mondo FPV, è semplicemente fantastico, guarda un volo che ho fatto tempo fa per [NorthFPV](https://northfpv.com).
+
+<div class="iframe-container">
+<iframe width="100%" src="https://www.youtube.com/embed/POucyxDN_NE?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Se ne vuoi sapere di più sul mondo FPV, ti consiglio [questo articolo](https://lucafpv.com/fpv-per-principianti)
