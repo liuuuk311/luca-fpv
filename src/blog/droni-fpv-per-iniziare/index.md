@@ -1,7 +1,7 @@
 ---
 title: I droni FPV perfetti per iniziare nel 2021
 date: "2021-08-27T00:00:00.000Z"
-excerpt: Hai o vorresti un drone FPV ma ti scoraggiano tutti gli acronimi? Non sai qual è il voltaggio giusto per la tua batteria? Ogni pilota, prima di volare deve leggere almeno una volta questo articolo.
+excerpt: Ecco la lista dei migliori droni FPV per chi inizia. Vediamo i pro e i contro di tutte le migliori alternative nel 2021
 category:
     - Tutorial
 tags: 
