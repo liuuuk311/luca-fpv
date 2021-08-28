@@ -1,7 +1,7 @@
 ---
 title: Come fare soldi con un drone
 date: "2021-08-26T00:00:00.000Z"
-excerpt: Hai o vorresti un drone FPV ma ti scoraggiano tutti gli acronimi? Non sai qual è il voltaggio giusto per la tua batteria? Ogni pilota, prima di volare deve leggere almeno una volta questo articolo.
+excerpt: Hai acquistato un drone o stai pensando di farlo e vorresti guadangare qualche soldo extra oppure trasformare una passione in lavoro? In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadagnare. 
 category:
     - Tutorial
 tags: 
