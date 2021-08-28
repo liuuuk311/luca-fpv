@@ -34,9 +34,9 @@ featured: false
     }
 </style>
 
-Chi ha un drone vorrebbe poter volare senza mai dover atterrare perchè la batteria è scarica. I progressi tecnologici ci hanno dato tempi di volo dei droni che possono durare fino a 30 minuti con una singola carica. La necessità del tempo di volo più lungo è particolarmente evidente in coloro che sono interessati alla fotografia aerea oppure nei voli long range.
+Chi ha un drone vorrebbe poter volare senza mai dover atterrare perchè la batteria è scarica. I progressi tecnologici ci hanno dato tempi di volo che possono arrivare fino a 30 minuti con una singola carica. La necessità del tempo di volo più lungo è particolarmente evidente in coloro che sono interessati alla fotografia aerea oppure nei voli long range.
 
-Anche un lungo tempo di volo del drone è essenziale per alcune attività. Le società immobiliari, edili e di rilevamento del territorio sono in grado di sfruttare al meglio i droni che durano a lungo, ma solo quando hanno una lunga durata della batteria per portare a termine il lavoro la prima volta.
+Lunghi tempi di volo sono essenziali per alcune attività. Le società immobiliari, edili e di rilevamento del territorio sono in grado di sfruttare al meglio i droni che durano a lungo.
 
 Tutta un'altra storia per i droni FPV. L'enorme potenza sprigionata da questi velivoli da corsa fa scaricare la loro batteria in pochi minuti. Infatti questi tipi di drone sono progettati per andare estremamente veloce (anche 200 km/h) su brevi distanze.
 
@@ -45,7 +45,7 @@ Non sai cos'è un drone FPV? Dai un'occhiata a [questo articolo](https://lucafpv
 
 ## Per quanto tempo possono stare in hover i droni?
 
-I droni di solito possono stare in hover più a lungo di quanto possano volare, perché i motori devono solo combattere il peso del drone e non muoverlo. Quindi la batteria si scarica più lentamente. Il tempo medio di hover nei droni moderni va da 5 a 30 minuti.
+Il tempo medio di hover nei droni moderni va da 5 a 30 minuti. I droni di solito possono stare in hover più a lungo di quanto possano volare, perché i motori devono solo combattere il peso del drone e non muoverlo. Quindi la batteria si scarica più lentamente. 
 
 ## Qual è il tempo medio di volo di un drone?
 
@@ -65,7 +65,7 @@ Tipicamente, 20 minuti è il tempo di volo dei droni più comuni. Tuttavia, quan
 
 ## Cosa sono le batterie LiPo?
 
- Le LiPo sono un tipo di batteria ricaricabile che è presente nel fa parte del mondo RC da tempo, sono particolarmente utilizzate per il modellismo aereo. 
+ Le LiPo sono un tipo di batteria ricaricabile che è presente nel mondo RC da tempo, sono particolarmente utilizzate per il modellismo aereo. 
  
  La maggior parte dei droni utilizza un tipo di batteria chiamata LiPo (Lithium Polymer). Queste batterie hanno rivoluzionato il mondo dell’aviazione elettrica. Il vantaggio di questo tipo di batteria è che sono più dense di energia, fornendo cosi maggiore potenza a parità di peso. 
 
@@ -76,7 +76,9 @@ Le batterie LiPo hanno anche difetti, oltre ad essere tra le più care sul merca
 
 In genere il tempo richiesto per caricare una batteria di un drone è 60 minuti. Il tempo di ricarica dipende ovviamente dalla dimensione della batteria e dalla potenza del carica batterie. 
 
-Di norma è sempre meglio caricare la batteria lentamente, questo oltre ad evitare che la batteria si scaldi, riduce la probabilità di danneggiare la resistenza interna della batteria. Di conseguenza, le batteria caricate lentamente avranno vita più lunga.
+Di norma è sempre meglio caricare la batteria lentamente, questo oltre ad evitare che la batteria si scaldi. Il calore aumenta la probabilità di danneggiare la resistenza interna della batteria. 
+
+Di conseguenza, le batteria caricate lentamente avranno vita più lunga.
 
 
 ## Numero di celle e voltaggio
