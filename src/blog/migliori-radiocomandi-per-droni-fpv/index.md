@@ -42,7 +42,7 @@ Il radiocomando dovrebbe essere uno dei primissimi articoli da acquistare quando
 A differenza di molti altri componenti e accessori che hanno maggiori probabilità di rompersi o diventare obsoleti, una buona radio ti seguirà per molti anni, quindi va bene investire un po' di più su una decente.
 
 ## I miei consigli
-Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2020.
+Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2021.
 
 <div id="radio-table">
 
@@ -99,7 +99,7 @@ Se tutto ciò che voli sono multirotori e Crossfire, e vuoi la radio più compat
 
 ---
 
-## Il più pop
+## Il più diffuso
 
 ![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.png?nf_resize=fit&w=320&h=320)
 
