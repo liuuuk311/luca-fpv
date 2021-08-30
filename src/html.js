@@ -18,6 +18,7 @@ export default function HTML(props) {
         
         {props.headComponents}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
@@ -27,7 +28,6 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
         <script type="text/javascript" dangerouslySetInnerHTML={{
           __html: `
           document.addEventListener('DOMContentLoaded', (event) => {
