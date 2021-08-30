@@ -11,7 +11,7 @@ export const PostList = styled.ul`
     flex-direction: column;
     justify-content: space-between;
     list-style: none;
-    margin: 0;
+    margin: 2rem 0;
     padding: 0;
 
     ${media.medium`
