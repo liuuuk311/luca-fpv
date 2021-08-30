@@ -70,6 +70,7 @@ const RecommendedArticles = props => {
                     branch: 'master',
                     selector: '#search',
                     placeholder: 'Cerca...',
+                    detached: false,
                     theme: {
                         mark: '#eda550',                                 // Color of the matching content
                         background: '#fff',                        // Background Color of the input and the panel
