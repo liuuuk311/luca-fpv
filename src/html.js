@@ -17,13 +17,7 @@ export default function HTML(props) {
         />
         
         {props.headComponents}
-        {/* <script dangerouslySetInnerHTML={{
-        __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var
-        f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KR695CJ');</script>`,
-    }} */}
-/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
@@ -33,8 +27,16 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        {/* <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KR695CJ"
-            height="0" width="0" style={iframeStyle}></iframe></noscript> */}
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+        <script type="text/javascript" dangerouslySetInnerHTML={{
+          __html: `
+          algoliasearchNetlify({
+            appId: 'G0M23X5AHA',
+            apiKey: 'f64ebf0353bcad837657a655e4523786',
+            siteId: 'c3f13e8c-97b2-4e0f-b137-9df20f9f0153',
+            branch: 'master',
+            selector: 'div#search',
+          });` }} />
       </body>
     </html>
   )

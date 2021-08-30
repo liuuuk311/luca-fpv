@@ -4,6 +4,7 @@ import {
     Container,
     Avatar,
     Heading,
+    SubHeading,
     Paragraph,
     Button
 } from './styled';
@@ -20,9 +21,8 @@ const HomeHero = () => {
                 <br/><br/>
                 Lo scopo di questa community è quello di condividere una passione e aiutarsi a vicenda. Sono molto contento che la community stia crescendo rapidamente, entra anche tu a farne parte!
             </Paragraph>
-            <Button href="https://northfpv.com" target="_blank" rel="noopener">
-                    Scopri di più!
-            </Button>
+            <SubHeading>Cerchi qualcosa di specifico?</SubHeading>
+            <div id="search"></div>
         </Container>
     );
 }
