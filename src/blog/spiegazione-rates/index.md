@@ -6,7 +6,7 @@ category:
     - Tutorial
 tags: 
     - Principianti
-featured: true
+featured: false
 ---
 
 Queste funzionalità sono nella sezione di PID tuning di Betaflight, se sei interessato a come tunare il tuo drone, dai un'occhiata a questo [articolo](https://lucafpv.com/).

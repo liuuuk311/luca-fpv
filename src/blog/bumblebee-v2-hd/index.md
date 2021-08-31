@@ -6,7 +6,7 @@ category:
     - Recensione
 tags: 
     - Principianti
-featured: true
+featured: false
 ---
 Un tipico Cinewhoop è un micro quad da 3" con duct che è abbastanza potente da montare una GoPro. I cinewhoop sono un ottimo strumento per fare filmati cinematografici. Sono lenti ma stabili e possono volare intorno a persone e proprietà in modo relativamente sicuro. Con la stabilizzazione Hypersmooth di GoPro (o utilizzando Reelsteady), puoi ottenere filmati molto fluidi.
 

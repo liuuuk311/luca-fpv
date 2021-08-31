@@ -1,6 +1,6 @@
 ---
 title: I migliori radiocomandi per droni FPV nel 2021
-date: "2021-09-25T00:00:00.000Z"
+date: "2021-08-25T00:00:00.000Z"
 excerpt: Quali sono i migliori radiocomandi per pilotare droni FPV? In questa guida spiego quali sono le caratteristiche più importanti e quali dovresti pensare di comprare se vuoi iniziare a volare nel 2021.
 category: 
     - Tutorial
