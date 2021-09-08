@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-Stai cercando il miglior drone FPV per cominciare a volare nel 2021? Questa guida è quello che cerchi, ti mostrerò quali sono le alternative, spiegherò i pro e i contro dei diversi droni, considerando anche le varie fasce di prezzo.
+Stai cercando il miglior drone FPV per iniziare a volare nel 2021? Questa guida è quello che cerchi, ti mostrerò quali sono le alternative, spiegherò i pro e i contro dei diversi droni, considerando anche le varie fasce di prezzo.
 
 Quando scegli il tuo primo drone FPV per iniziare, oltre a fare attenzione al prezzo del drone stesso, devi controllare cosa c'è nella scatola. 
 
