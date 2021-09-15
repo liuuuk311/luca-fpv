@@ -76,7 +76,7 @@ Chi vuole usare questo drone per realizzare video cinematic all'aperto e all'int
 
 Se vuoi partire subito kit EMAX Tinyhawk II è quello che ti serve. All'interno di questo kit hai tutto ciò che ti serve per volare in FPV. Il kit comprende il drone, che è ideale per chi inizia date le sue dimensioni. Un ottimo radiocomando, che può esser sfurttato anche per altri droni successivamente. Un visore di bassa fascia, che è ideale per tenere i costi contenuti. Un paio di batterie e il caricabatterie. 
 
-![Kit EMAX Tinyhawk II](/images/droni-fpv-per-iniziare/emax-kit.jpEg)
+![Kit EMAX Tinyhawk II](/images/droni-fpv-per-iniziare/emax-kit.jpeg)
 
 A differenza delle opzioni precedenti, questo kit, per meno di 500 euro offre tutto quello che serve. 
 
@@ -91,6 +91,8 @@ Questo kit è ideale per chiunque voglia l'ebrezza di un drone FPV e non è inte
 Parte integrante del mondo FPV è costruire e riparare i propri droni, quindi perché non partire subito fin da subito. Costruirlo da zero non molto complicato. La parte fondamentale è la scelta dei componenti, scegliere i pezzi compatibili tra loro.
 
 Io personalmente ho iniziato cosi, e trovo che costruirsi il proprio drone sia un processo dal quale si impara molto. Per non parlare poi delle emozioni che si provano nella prima build. 
+
+Se vuoi costruirlo anche tu, ti consiglio di seguire questa guida su [come costruire il tuo primo drone FPV](https://lucafpv.com/come-costruire-un-drone-fpv)
 
 ### Chi lo dovrebbe comprare?
 
