@@ -16,7 +16,7 @@ Se è la prima volta che usi Betaflight, potrebbe anche interessarti [come confi
 
 Non tutte le "modalità" che sono presenti nella sezione Modalità di volo in [Betaflight Configurator](https://lucafpv.com/scaricare-betaflight-configurator/), sono vere e proprie modalità. Alcune di queste sono delle funzionalità. 
 
-![Modalità di Volo](/images/modalita-betaflight/modalita_di_volo.png)
+![Modalità di Volo](./modalita_di_volo.png)
 
 ## Arm
 
@@ -110,13 +110,13 @@ Per semplicità, configuro tre modalità su tre switch diversi. A ogni switch, t
 
 In questo esempio, lo switch SF della mia radio invia segnali sul canale 5 e quindi corrisponde ad AUX 1. In questo modo, nel configurare le modalità di volo, so già a quale AUX assegnare la funzionalità che mi interessa.  
 
-![Armare con Switch](/images/modalita-betaflight/switch_radio.jpg)
+![Armare con Switch](./switch_radio.jpg)
 
 Impostare gli switch è forse la parte più complicata di questo processo. Ora viene la parte più semplice.
 
 Vai nella sezione Modalità di volo su Betaflight Configurator.
 
-![Nessuna modalità](/images/modalita-betaflight/nessuna_modalita.png)
+![Nessuna modalità](./nessuna_modalita.png)
 
 Per configurare le modalità, è meglio avere il radiocomando acceso e collegato con il modello che stai configurando.
 
@@ -124,15 +124,15 @@ Cominciamo dalla più importate, ARM. Clicca "Attiva" e seleziona l'AUX associat
 
 Ora devi scegliere in quale range di valori vuoi che venga attivata questà modalità. Per uno switch a due posizioni, puoi tranquillamente impostarlo da 1500 a 2000, come in questo caso. 
 
-![Arm](/images/modalita-betaflight/arm.png)
+![Arm](./arm.png)
 
 Per la turtle mode, uso uno switch a tre posizioni, quindi il range in cui voglio questa funzione attiva sarà dopo 1600 e 2000.
 
-![Turtle Mode](/images/modalita-betaflight/turtle_mode.png)
+![Turtle Mode](./turtle_mode.png)
 
 Per attivare il beeper del quad, utilizzo lo switch momenteno configurato su AUX 3.
 
-![Beeper](/images/modalita-betaflight/beeper.png)
+![Beeper](./beeper.png)
 
 ## Hai bisogno di una mano?
 
