@@ -17,8 +17,12 @@ export default function HTML(props) {
         />
         
         {props.headComponents}
+        <link rel="preconnect" href="https://adservice.google.com/"/>
+        <link rel="preconnect" href="https://googleads.g.doubleclick.net/"/>
+        <link rel="preconnect" href="https://www.googletagservices.com/"/>
+        <link rel="preconnect"href="https://tpc.googlesyndication.com/"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js" defer async/>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
