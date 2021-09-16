@@ -8,6 +8,13 @@ tags:
     - Principianti
 ---
 <style>
+    #drone-table td:nth-of-type(1) {
+       min-width: 120px;
+       min-height: 120px;
+    }
+    #drone-table td:nth-of-type(1) img {
+       object-fit: contain;
+    }
     @media 
     only screen and (min-width: 980px) {
         td {
@@ -56,11 +63,11 @@ Ecco una lista dei droni FPV più comuni nel 2021.
 
 |                                                                         | Nome                                                                                                      | Prezzo | Specialità          |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------|---------------------|
-| ![DJI FPV Drone](/images/droni-fpv-per-iniziare/dji-fpv-combo.jpeg)     | [DJI FPV Combo](https://amzn.to/3ksZQAD)                                                                  | Alto   | Cinematic           |
-| ![Iflight Nazgul v2](/images/droni-fpv-per-iniziare/chimera7.jpeg)      | [iFlight Chimera 7](https://www.drone24hours.com/prodotto/chimera7-6s-fpv-lr-analogico/?D24H=lucapalonca) | Alto   | Long Range          |
-| ![Diatone Roma F5 V2](/images/diatone-roma-f5-v2/drone.jpeg)            | [Diatone Roma F5 V2](https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca)       | Medio  | Freestyle/Cinematic |
-| ![Iflight Nazgul v2](/images/droni-fpv-per-iniziare/iflight-nazgul.jpg) | [iFlight Nazgul5 V2](https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca)        | Basso  | Freestyle/Cinematic |
-| ![iFlight Protek](/images/droni-fpv-per-iniziare/protek.jpg)            | [iFlight Protek 35](https://www.drone24hours.com/prodotto/iflight-protek35-3-5/?D24H=lucapalonca)           | Medio  | Cinematic           |
+| ![DJI FPV Drone](../droni-fpv-per-iniziare/dji-fpv-combo.jpeg)     | [DJI FPV Combo](https://amzn.to/3ksZQAD)                                                                  | Alto   | Cinematic           |
+| ![Iflight Nazgul v2](../droni-fpv-per-iniziare/chimera7.jpeg)      | [iFlight Chimera 7](https://www.drone24hours.com/prodotto/chimera7-6s-fpv-lr-analogico/?D24H=lucapalonca) | Alto   | Long Range          |
+| ![Diatone Roma F5 V2](../diatone-roma-f5-v2/drone.jpeg)            | [Diatone Roma F5 V2](https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca)       | Medio  | Freestyle/Cinematic |
+| ![Iflight Nazgul v2](../droni-fpv-per-iniziare/iflight-nazgul.jpg) | [iFlight Nazgul5 V2](https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca)        | Basso  | Freestyle/Cinematic |
+| ![iFlight Protek](../droni-fpv-per-iniziare/protek.jpg)            | [iFlight Protek 35](https://www.drone24hours.com/prodotto/iflight-protek35-3-5/?D24H=lucapalonca)           | Medio  | Cinematic           |
 
 </div>
 

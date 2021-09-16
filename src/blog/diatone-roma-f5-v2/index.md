@@ -11,7 +11,7 @@ featured: false
 
 Il Diatone Roma F5 V2 è un drone FPV per principianti a 300 euro. In questa fascia di prezzo troviamo i droni economici, ma di qualità. Questa è la versione 6S ([tutto quello che devi sapere sulle batterie](https://lucafpv.com/batterie-dei-droni)) ed è PNP, il che significa che viene spedito senza ricevente. Il pilota dovrà inserire la propria ricevente compatibile col il suo radiocomando.
 
-![Diatone Roma v2](/images/diatone-roma-f5-v2/drone.jpeg)
+![Diatone Roma v2](./drone.jpeg)
 
 ## Cosa c'è nella scatola?
 
@@ -21,7 +21,7 @@ Ci sono anche 2 cinturini per attaccare la batteria. Io consiglio sempre di util
 
 Infine ci viene fornito un supporto universale per la GoPro, documentazione su come configurare il drone e delle viti di scorta.
 
-![Confezione Diatone Roma](/images/diatone-roma-f5-v2/scatola.png)
+![Confezione Diatone Roma](./scatola.png)
 
 ## Diatone
 Diatone è una marca conosciuta da diversi anni nel mondo FPV. Famosi per i loro stack Mamba e il cinewhoop Taycan.
@@ -38,12 +38,12 @@ La nuova versione aggiorna anche i motori. Ora vengono montati dei 2306.5 al pos
 
 Mi piace la cura dei dettagli in questo drone, il tema arancione si trova anche nei motori.
 
-![Motori Diatone Roma](/images/diatone-roma-f5-v2/motori.png)
+![Motori Diatone Roma](./motori.png)
 
 ## Video e VTX
 La v2 aggiorna anche la VTX che era forse il punto debole della v1. Infatti in precedenza la vtx arriva fino a 400mW, rendendo difficile il suo utilizzo per il freestyle nei bandi. Con questo aggiornamento troviamo una vtx capace di arrivare fino ad 1W, togliendo tutte le preccupazioni di perdere il segnale video.
 
-![VTX Diatone Roma](/images/diatone-roma-f5-v2/vtx.png)
+![VTX Diatone Roma](./vtx.png)
 
 ## Frame
 Le differenze per quanto riguarda il frame tra le due versioni sono tutte pensate per aumentare la resistenza del telaio. Infatti, il principale dubbio sulla v1 era la resistenza ai crash. Nella v2 troviamo bracetti più larghi e le viti aggiornate sulla parte anteriore del frame. 
