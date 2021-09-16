@@ -82,3 +82,7 @@ a.btn {
 p img {
   width: 100% !important;
 }
+
+p {
+  text-align: start;
+}
