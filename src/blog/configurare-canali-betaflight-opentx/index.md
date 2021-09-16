@@ -31,7 +31,7 @@ Ecco perché le mappe dei canali sono chiamate **AETR** (AETR1234) o **TAER** (T
 
 Puoi organizzare il mapping dei canali nella pagina Mixes della radio se hai una radio OpenTX.
 
-![Mapping AETR dei canali su OpenTX](/images/mapping-canali-betaflight-opentx/aetr.jpg)
+![Mapping AETR dei canali su OpenTX](./aetr.jpg)
 
 Qui metto Aileron sul canale 1, Elevator sul canale 2, Throttle sul canale 3 e Yaw sul canale 4, e quindi il mapping dei canali sarà AETR, o AETR1234. Questa è la mappa dei canali predefinita in Betaflight.
 
@@ -42,7 +42,7 @@ Qui metto Aileron sul canale 1, Elevator sul canale 2, Throttle sul canale 3 e Y
 
 Se imposti la mappa dei canali sbagliata in Betalfight, l'uscita del canale risponderà allo stick sbagliato. Il tuo quad probabilmente non si armerà perché l'acceleratore non è al valore più basso, ma se in qualche modo riesci ad armarlo, molto probabilmente impazzirà! 
 
-![Mapping dei canali sbagliato](/images/mapping-canali-betaflight-opentx/wrong_mapping.png)
+![Mapping dei canali sbagliato](./wrong_mapping.png)
 
 
 ## Come sistemare un mapping sbagliato?
@@ -53,27 +53,27 @@ Semplice, vai alla scheda Ricevente in Betaflight Configurator e seleziona un'op
 
 Se nessuna dei mapping dei canali in Betaflight funziona, allora dovresti controllare il mix dei canali sul tuo radiocomando e vedere se c'è qualcosa che non va nella configurazione.
 
-![Configurare il mapping dei canali](/images/mapping-canali-betaflight-opentx/mapping.png)
+![Configurare il mapping dei canali](./mapping.png)
 
 ## Come cambiare il mapping in OpenTX?
 Puoi scegliere quale mapping dei canali usare sul tuo radiocomando, ecco come cambiare il mapping in OpenTX.
 
 Vai alla pagina MIXES nella configurazione del modello. I primi quattro canali indicano il mapping, che è TAER in questo caso.
 
-![Mapping TAER dei canali su OpenTX](/images/mapping-canali-betaflight-opentx/taer.jpg)
+![Mapping TAER dei canali su OpenTX](./taer.jpg)
 
 Se voglio cambiarlo in AETR, devo solo spostare i canali. Seleziona il canale che desideri spostare e tieni premuto il pulsante Invio. Fare clic sull'opzione "Move".
 
-![Muvoere un canale su OpenTX](/images/mapping-canali-betaflight-opentx/menu.jpg)
+![Muvoere un canale su OpenTX](./menu.jpg)
 
 Sposto THR su CH3 (appena sopra ELE).
 
-![Muvoere un canale su OpenTX](/images/mapping-canali-betaflight-opentx/move.jpg)
+![Muvoere un canale su OpenTX](./move.jpg)
 
 Quindi sposto AIL su CH1 e sposto ELE su CH2. 
 Ecco fatto 😄 Ora dovresti controllare se il mapping è impostato correttamente in Betaflight.
 
-![Mapping AETR dei canali su OpenTX](/images/mapping-canali-betaflight-opentx/aetr.jpg)
+![Mapping AETR dei canali su OpenTX](./aetr.jpg)
 
 Non importa quale sia l'ordine dei controlli negli input in OpenTX, lasciali semplicemente cosî come sono. Il mapping è determinato solo dal mix.
 
