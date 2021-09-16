@@ -121,7 +121,6 @@ module.exports = {
     },
     `gatsby-plugin-feed`,
     `gatsby-plugin-preact`,
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -145,5 +144,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-json`,
+    `gatsby-plugin-offline`,
   ],
 }
