@@ -113,12 +113,6 @@ module.exports = {
         enableWebVitalsTracking: true,
       },
     },
-    {
-      resolve: `gatsby-plugin-google-adsense`,
-      options: {
-        publisherId: `ca-pub-4566556883137005`
-      },
-    },
     `gatsby-plugin-feed`,
     `gatsby-plugin-preact`,
     {
