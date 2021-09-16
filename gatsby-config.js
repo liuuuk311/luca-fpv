@@ -27,16 +27,21 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          // `gatsby-remark-reading-time`,
+          `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
-            },
-          }
-        ],
-      },
+              maxWidth: 700,
+              linkImagesToOriginal: false,
+              quality: 65,
+              backgroundColor: "transparent",
+            }
+          },
+        ]
+      }
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,  
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
@@ -55,9 +60,11 @@ module.exports = {
             }
           }
         }
-        allMarkdownRemark(
-          sort: {fields: [frontmatter___date], order: DESC}
-          limit: 1000
+        {
+          allMarkdownRemark(
+            sort: {fields: [frontmatter___date], order: DESC}
+            limit: 1000
+            filter: {frontmatter: {draft: {ne: true}}}
           ) {
             edges {
               node {
@@ -70,6 +77,8 @@ module.exports = {
               }
             }
           }
+        }
+        
         }`,
         resolveSiteUrl: ({site}) => site.siteMetadata.siteUrl,
         resolvePagePath: (page) => page.path, 
@@ -97,8 +106,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-minify`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -141,36 +148,5 @@ module.exports = {
       },
     },
     `gatsby-transformer-json`,
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-prismjs`,
-            options: {
-              classPrefix: "language-",
-              inlineCodeMarker: null,
-              aliases: {},
-              showLineNumbers: false,
-              noInlineHighlight: false,
-              languageExtensions: [
-                {
-                  language: "superscript",
-                  extend: "javascript",
-                  definition: {
-                    superscript_types: /(SuperType)/,
-                  },
-                  insertBefore: {
-                    function: {
-                      superscript_keywords: /(superif|superelse)/,
-                    },
-                  },
-                },
-              ],
-            },
-          },
-        ],
-      },
-    },
   ],
 }

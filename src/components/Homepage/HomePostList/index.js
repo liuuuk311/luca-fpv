@@ -15,7 +15,7 @@ const HomePostList = () => {
 
     const data = useStaticQuery(graphql`
     {
-      allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {featured: {eq: true}}}, limit: 10) {
+      allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {featured: {eq: true}, draft: {ne: true}}}, limit: 10) {
         edges {
           node {
             fields {

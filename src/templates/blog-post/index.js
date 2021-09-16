@@ -49,7 +49,7 @@ const BlogPost = ({ data, location }) => {
                 title,
                 excerpt,
                 date,
-                ogimage
+                // ogimage
             },
             fields : {
                 slug,
@@ -202,7 +202,6 @@ query BlogPostBySlug($slug: String!) {
         title
         date(formatString: "DD MMMM YYYY", locale: "it")
         excerpt
-        ogimage
       }
     }
   }
