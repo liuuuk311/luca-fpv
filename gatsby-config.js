@@ -105,12 +105,15 @@ module.exports = {
     `gatsby-plugin-minify`,
     `gatsby-plugin-postcss`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: `UA-55771620-2`,
-        head: false,
-        defer: true,
-        enableWebVitalsTracking: true,
+        trackingIds: [
+          "UA-55771620-2", // Google Analytics / GA
+        ],
+        pluginConfig: {
+          head: false,
+          respectDNT: true,
+        },
       },
     },
     `gatsby-plugin-feed`,
