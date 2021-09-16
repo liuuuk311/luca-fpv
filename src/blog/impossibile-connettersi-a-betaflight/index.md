@@ -25,11 +25,11 @@ Chiudi il configuratore, riaprilo, collega la scheda e fai clic su Connetti. Tut
 
 Per assicurarti che il controller di volo funzioni correttamente, dai un'occhiata al menu a tendina in alto a destra dello schermo e controllara a quale dispositivo Betaflight sta cercando di connettersi.
 
-![Dispositivi visti da Betaflight](/images/impossibile-connettersi-betaflight/bf_dispositivi.png)
+![Dispositivi visti da Betaflight](./bf_dispositivi.png)
 
 Qua dipende da quale sistema operativo stai usando. Se usi Windows il disposivo verrà riconosciuto e comunicherà attraverso una porta COM, mentre su Mac e Linux sarà simile all'imagine sotto.
 
-![Connessione a Betaflight](/images/impossibile-connettersi-betaflight/bf_connessione.png)
+![Connessione a Betaflight](./bf_connessione.png)
 
 
 ## Altre soluzioni
