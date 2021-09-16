@@ -7,6 +7,7 @@ category:
 tags: 
     - Principianti
 featured: true
+draft: true
 ---
 <style>
     @media 

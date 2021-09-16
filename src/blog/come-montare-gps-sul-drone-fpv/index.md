@@ -48,25 +48,25 @@ Ad esempio, se ho liberi i pad TX2 e RX2, che corrispondono alla UART2, e non li
 
 E' importante che si utilizzi la coppia, ovvero se scelgo TX2, devo usare per forza RX2 e non posso usare RX1 o RX3. 
 
-![Cablaggio per il GPS](/images/configurare-gps/collegamento_gps_fc.jpg)
+![Cablaggio per il GPS](./collegamento_gps_fc.jpg)
 
 ## Configurazione su Betaflight
 
 La prima cosa da fare è abilitare come sensore di ingresso il GPS nella sezione Porte. Qui bisogna far attenzione ad attivarlo nella riga corrispondente alla UART sulla quale si è collegato il GPS (come spiegato nella sezione precendete). Come baudrate, va bene sia AUTO che 57600. 
 
-![Configurazione porta GPS](/images/configurare-gps/porte_betaflight.jpg)
+![Configurazione porta GPS](./porte_betaflight.jpg)
 
 Una volta fatto questo cliccare il tasto giallo in basso a destra per salvare.
 
 Quindi ora dobbiamo attivare le funzionalità del GPS andando nella sezione Configurazione e in basso a destra troveremo le impostazioni relative al GPS.
 
-![Configurazione GPS](/images/configurare-gps/gps_config_betaflight.jpg)
+![Configurazione GPS](./gps_config_betaflight.jpg)
 
 Una volta fatto questo cliccare il tasto giallo in basso a destra per salvare.
 
 A questo punto, per procedere, bisogna attivare la modalità esperto. In questo modo avremo la possibilità di cambiare il comportamento del drone in caso di failsafe.
 
-![Modalità esperto](/images/configurare-gps/expert_mode.png)
+![Modalità esperto](./expert_mode.png)
 
 A questo punto, nella colonna di sinistra, saranno presenti nuovi voci di menú. Apriamo quindi la sezione Failsafe. In questa tab potremo specificare il comportamento del drone in caso di perdita di segnale. Il comportamento di default è Drop, ovvero il drone si disarma e cade. Ma se abbiamo il modulo GPS, possiamo scegliere di usare GPS Rescue, ovvero una sorta di Return to Home.
 
