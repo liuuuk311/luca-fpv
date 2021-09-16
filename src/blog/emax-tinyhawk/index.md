@@ -10,7 +10,7 @@ featured: true
 ---
 In questa review vedremo se l'Emax Tinyhawk è il drone perfetto per entrare nel mondo FPV. Il suo prezzo è molto competitivo, e con la possibilità di acquistare il bundle con radiocomando e visore, lo rendono uno dei kit più popolari tra le persone che vogliono iniziare a volare in FPV.
 
-![Emax Tinyhawk](/images/recensioni/emax-tinyhawk/tinyhawk_3.png)
+![Emax Tinyhawk](./tinyhawk_3.png)
 
 
 ## Vantaggi
@@ -20,7 +20,7 @@ Continuando con i vantaggi, il fatto che è molto piccolo, permette di volare an
 
 A livello di sicurezza, il frame ripara bene le eliche rendendo praticamente impossibile ferire qualcuno. Ad ogni modo, dovresti sempre prestare la massima attenzione quando voli. 
 
-![Emax Tinyhawk](/images/recensioni/emax-tinyhawk/tinyhawk_1.png)
+![Emax Tinyhawk](./tinyhawk_1.png)
 
 Infine, grazie al suo peso ridotto risulta **molto resistente**. Se cade, ritona in volo senza problemi. La batteria in dotazione è di 450 mAh e si riesce a volare 4 minuti circa, a seconda dello stile di volo.
 
@@ -46,7 +46,7 @@ Le caratteristiche di questo piccolo drone pronto all'uso non sono niente male.
 
 ## Cosa c'è nella scatola
 
-![Emax Tinyhawk - Contentuto della Scatola](/images/recensioni/emax-tinyhawk/tinyhawk_2.png)
+![Emax Tinyhawk - Contentuto della Scatola](./tinyhawk_2.png)
 
 - Il drone (ovviamente)
 - Una valigetta niente male, stile fibra di carbonio
