@@ -1,40 +1,236 @@
 [
     {
-        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/8D/52/9649f92e-c1e3-445d-a322-6427e9217e86.jpg",
-        "title": "DJI Mavic AIR 2S 12KM 1080P FPV with 1\" CMOS 5.4K HD Video 3-axis Gimbal MasterShots ADS-B 4D Obstacle Sensing RC Drone Quadcopter RTF",
-        "link": "https://www.banggood.com/DJI-Mavic-AIR-2S-12KM-1080P-FPV-with-1-inch-CMOS-5_4K-HD-Video-3-axis-Gimbal-MasterShots-ADS-B-4D-Obstacle-Sensing-RC-Drone-Quadcopter-RTF-p-1836539.html?p=YN241438687092016024&cur_warehouse=CN&ID=6306216",
-        "original_price": "1.179,49\u20ac",
-        "new_price": "908,21\u20ac",
-        "code": "BGAIR2SBR",
-        "expire_date": "31/12/2021",
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/02/FB/a0c93ee4-478f-41cd-ab51-18bda3e554be.png",
+        "title": "SJRC F11S 4K PRO GPS 5G WIFI 3KM Repeater FPV with 4K HD Camera 2-Axis Electronic Stabilization Gimbal Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/SJRC-F11S-4K-PRO-GPS-5G-WIFI-3KM-Repeater-FPV-with-4K-HD-Camera-2-Axis-Electronic-Stabilization-Gimbal-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1889211.html?p=YN241438687092016024&cur_warehouse=CN&ID=531930563352",
+        "original_price": "212,13\u20ac",
+        "new_price": "195,16\u20ac",
+        "code": "BG583881",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "8%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/B0/CE/c57d33e3-bb7f-4ac8-bfec-e17a39940456.png",
+        "title": "SPC Maker Mini Whale 78mm F4 FPV Racing Drone PNP BNF w/ 25/100mW VTX Runcam Robin Camera",
+        "link": "https://www.banggood.com/SPC-Maker-Mini-Whale-78mm-F4-FPV-Racing-Drone-PNP-BNF-w-or-25-or-100mW-VTX-Runcam-Robin-Camera-p-1439466.html?p=YN241438687092016024&cur_warehouse=CN&ID=529998",
+        "original_price": "102,67\u20ac",
+        "new_price": "71,86\u20ac",
+        "code": "BG2319a1",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "30%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/20/8B/508b4ba0-4142-4f01-b56b-793e20ce8b17.jpg",
+        "title": "RadioMaster TX16S Multi-color 2.4G 16CH Hall Sensor Gimbals Multi-protocol RF System OpenTX Mode2 Transmitter for RC Drone",
+        "link": "https://www.banggood.com/RadioMaster-TX16S-Multi-color-2_4G-16CH-Hall-Sensor-Gimbals-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-for-RC-Drone-p-1746075.html?p=YN241438687092016024&cur_warehouse=CZ&ID=23242482",
+        "original_price": "186,67\u20ac",
+        "new_price": "173,61\u20ac",
+        "code": "BGdb9e00",
+        "expire_date": "30/09/2021",
+        "warehouse": "CZ",
+        "discount": {
+            "amount": "7%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/3A/C6/49b163cf-b9e5-47b6-b89e-c0fc3797f1b3.jpg",
+        "title": "URUAV GoPro8 Smart BEC Board for Naked GoPro Hero 8 FPV Camera RC Racing Drone BetaFPV TinyWhoop",
+        "link": "https://www.banggood.com/URUAV-GoPro8-Smart-BEC-Board-for-Naked-GoPro-Hero-8-FPV-Camera-RC-Racing-Drone-BetaFPV-TinyWhoop-p-1742912.html?p=YN241438687092016024&cur_warehouse=CN&ID=0",
+        "original_price": "21,46\u20ac",
+        "new_price": "13,57\u20ac",
+        "code": "BG79cf2d",
+        "expire_date": "30/09/2021",
         "warehouse": "ALL",
         "discount": {
-            "amount": "23%",
+            "amount": "77%",
             "text": "DI SCONTO"
         }
     },
     {
-        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/7C/85/bf10f80f-4436-4d07-8a24-857b12e2530b.jpg",
-        "title": "4DRC F4 GPS 5G WIFI 2KM FPV with 4K HD Camera 2-Axis Gimbal Optical Flow Positioning Brushless Foldable RC Quadcopter Drone RTF",
-        "link": "https://www.banggood.com/4DRC-F4-GPS-5G-WIFI-2KM-FPV-with-4K-HD-Camera-2-Axis-Gimbal-Optical-Flow-Positioning-Brushless-Foldable-RC-Quadcopter-Drone-RTF-p-1753961.html?p=YN241438687092016024&cur_warehouse=CN&ID=531930",
-        "original_price": "135,76\u20ac",
-        "new_price": "111,32\u20ac",
-        "code": "BG4DRCF4",
-        "expire_date": "31/12/2021",
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/40/AE/0f138cfb-7368-4106-9a99-0bf2a528a641.jpg",
+        "title": "Eachine EX3 GPS 5G WiFi FPV with 2K Camera Optical Flow OLED Switchable Remote Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/Eachine-EX3-GPS-5G-WiFi-FPV-with-2K-Camera-Optical-Flow-OLED-Switchable-Remote-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1472967.html?p=YN241438687092016024&cur_warehouse=PL&ID=531931",
+        "original_price": "186,67\u20ac",
+        "new_price": "121,34\u20ac",
+        "code": "BG9cf74c",
+        "expire_date": "30/09/2021",
+        "warehouse": "PL",
+        "discount": {
+            "amount": "35%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/95/3D/1bea0f27-143e-4096-bd52-bff3ccb89747.png",
+        "title": "BETAFPV M02 5.8G 40CH 25/100/200/350mW Adjustable FPV Transmitter LED Display Support Pitmode/Smart Audio for FPV RC Racing Drone",
+        "link": "https://www.banggood.com/BETAFPV-M02-5_8G-40CH-25-or-100-or-200-or-350mW-Adjustable-FPV-Transmitter-LED-Display-Support-Pitmode-or-Smart-Audio-for-FPV-RC-Racing-Drone-p-1757272.html?p=YN241438687092016024&cur_warehouse=CN&ID=0",
+        "original_price": "32,33\u20ac",
+        "new_price": "16,96\u20ac",
+        "code": "BGf22f40",
+        "expire_date": "30/09/2021",
         "warehouse": "CN",
+        "discount": {
+            "amount": "53%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/72/E9/b2a2c20b-319d-4f01-9fa8-2e3513c8bc3d.png",
+        "title": "SJRC F7 4K PRO 5G WIFI 3KM FPV GPS with 4K HD Camera 3-Axis Mechanical Gimbal 25mins Flight Time Optical Flow Brushless RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/SJRC-F7-4K-PRO-5G-WIFI-3KM-FPV-GPS-with-4K-HD-Camera-3-Axis-Mechanical-Gimbal-25mins-Flight-Time-Optical-Flow-Brushless-RC-Drone-Quadcopter-RTF-p-1870001.html?p=YN241438687092016024&cur_warehouse=CN&ID=531930563352",
+        "original_price": "195,16\u20ac",
+        "new_price": "175,64\u20ac",
+        "code": "BGc2af70",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "10%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/ser1/banggood/images/58/72/7bf16fab-9ee0-40a5-9b1e-4a11910c1b54.png",
+        "title": "Eachine EX4 PRO 5G WIFI 3KM FPV GPS With 4K HD Camera 3-Axis Stable Gimbal 25 Mins Flight Time RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/Eachine-EX4-PRO-5G-WIFI-3KM-FPV-GPS-With-4K-HD-Camera-3-Axis-Stable-Gimbal-25-Mins-Flight-Time-RC-Drone-Quadcopter-RTF-p-1589424.html?p=YN241438687092016024&cur_warehouse=CN&ID=53193056335261571996291992",
+        "original_price": "151,88\u20ac",
+        "new_price": "98,72\u20ac",
+        "code": "BG15cd8a",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN,USA,CZ",
+        "discount": {
+            "amount": "35%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/A8/D2/e9599c9c-bfd5-4378-bd9f-4df3cba62ded.jpg",
+        "title": "Eachine EX5 5G WIFI 1KM FPV GPS With 4K HD Camera Servo Gimbal 30mins Flight Time 229g Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/Eachine-EX5-5G-WIFI-1KM-FPV-GPS-With-4K-HD-Camera-Servo-Gimbal-30mins-Flight-Time-229g-Foldable-RC-Drone-Quadcopter-RTF-p-1710160.html?p=YN241438687092016024&cur_warehouse=CN&ID=53193056335362911086291112",
+        "original_price": "98,42\u20ac",
+        "new_price": "76,77\u20ac",
+        "code": "BG630fce",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "22%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/4C/57/1254b6f9-6c56-46ac-9e1a-6ffd37ae90e9.jpg",
+        "title": "BETAFPV Cetus Kit 1S FPV with 1/4\" CMOS Sensor 800TVL Camera Optical Flow/Barometer/Laser Positioning System VR02 Goggles Racing RC Drone Quadcopter",
+        "link": "https://www.banggood.com/BETAFPV-Cetus-Kit-1S-FPV-with-1-or-4-inch-CMOS-Sensor-800TVL-Camera-Optical-Flow-or-Barometer-or-Laser-Positioning-System-VR02-Goggles-Racing-RC-Drone-Quadcopter-p-1845299.html?p=YN241438687092016024&cur_warehouse=CN&ID=0",
+        "original_price": "149,34\u20ac",
+        "new_price": "131,42\u20ac",
+        "code": "BGd7aeaf",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "12%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/5D/3D/e6192af7-443b-4a39-ba43-1154ab172855.png",
+        "title": "SJRC F11 4K Pro 5G WIFI FPV GPS With 4K HD Camera 2-Axis Electronic Stabilization Gimbal Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/SJRC-F11-4K-Pro-5G-WIFI-FPV-GPS-With-4K-HD-Camera-2-Axis-Electronic-Stabilization-Gimbal-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1742465.html?p=YN241438687092016024&cur_warehouse=CN&ID=5319305633526311221",
+        "original_price": "169,70\u20ac",
+        "new_price": "152,73\u20ac",
+        "code": "BGda813d",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "10%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/B9/9F/baaed93c-451f-4d8b-bcdc-d23c25808733.jpg",
+        "title": "ZLL SG906 PRO 2 GPS 5G WIFI FPV With 4K HD Camera 3-Axis Gimbal 28mins Flight Time Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/ZLL-SG906-PRO-2-GPS-5G-WIFI-FPV-With-4K-HD-Camera-3-Axis-Gimbal-28mins-Flight-Time-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1732183.html?p=YN241438687092016024&cur_warehouse=CN&ID=53193062703086293760",
+        "original_price": "131,52\u20ac",
+        "new_price": "98,64\u20ac",
+        "code": "BG9e0825",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "25%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/83/75/60982e94-ae52-4b06-a24d-0b5771d6c5f3.jpg",
+        "title": "Eachine E013 Micro FPV RC Drone Quadcopter With 5.8G 1000TVL 40CH Camera VR009 VR-009 3 Inch Goggles",
+        "link": "https://www.banggood.com/Eachine-E013-Micro-FPV-RC-Drone-Quadcopter-With-5_8G-1000TVL-40CH-Camera-VR009-VR-009-3-Inch-Goggles-p-1182628.html?p=YN241438687092016024&cur_warehouse=CZ&ID=5133445310986298454",
+        "original_price": "42,42\u20ac",
+        "new_price": "31,81\u20ac",
+        "code": "BG0b8607",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "25%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/1B/3A/60e9eb34-d76c-4e4f-a439-95db24132929.jpg",
+        "title": "ZLL SG908 5G WIFI FPV GPS with 4K HD Camera Three-axis Gimbal 26mins Flight Time Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/ZLL-SG908-5G-WIFI-FPV-GPS-with-4K-HD-Camera-Three-axis-Gimbal-26mins-Flight-Time-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1797915.html?p=YN241438687092016024&cur_warehouse=CN&ID=531930563352",
+        "original_price": "127,28\u20ac",
+        "new_price": "104,36\u20ac",
+        "code": "BG7af7c7",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
         "discount": {
             "amount": "18%",
             "text": "DI SCONTO"
         }
     },
     {
-        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/BD/AA/c115929e-9fd8-48e5-9345-e040cf11caf6.jpg",
-        "title": "Hubsan ZINO Mini PRO 249g GPS 10KM FPV with 4K 30fps Camera 3-axis Gimbal 3D Obstacle Sensing 40mins Flight Time RC Drone Quadcopter RTF",
-        "link": "https://www.banggood.com/Hubsan-ZINO-Mini-PRO-249g-GPS-10KM-FPV-with-4K-30fps-Camera-3-axis-Gimbal-3D-Obstacle-Sensing-40mins-Flight-Time-RC-Drone-Quadcopter-RTF-p-1841971.html?p=YN241438687092016024&cur_warehouse=CN&ID=53193056335363071846311848",
-        "original_price": "500,64\u20ac",
-        "new_price": "400,51\u20ac",
-        "code": "BGZINOMINIP",
-        "expire_date": "31/12/2021",
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/CF/B2/29e43fe5-8045-48be-b44c-958decd0c158.jpg",
+        "title": "ZLL SG907 MAX 5G WIFI FPV GPS with 4K HD Dual Camera Three-axis Gimbal Optical Flow Positioning Brushless Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/ZLL-SG907-MAX-5G-WIFI-FPV-GPS-with-4K-HD-Dual-Camera-Three-axis-Gimbal-Optical-Flow-Positioning-Brushless-Foldable-RC-Drone-Quadcopter-RTF-p-1824466.html?p=YN241438687092016024&cur_warehouse=CN&ID=53193062703076304269",
+        "original_price": "127,28\u20ac",
+        "new_price": "104,36\u20ac",
+        "code": "BGb1645a",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "18%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/1E/F9/78896944-827d-42bb-8a6b-22baecdbea0f.jpg",
+        "title": "LYZRC L109 PRO GPS 5G WIFI 800M FPV With 4K HD Camera 2-Axis Mechanical Stabilization Gimbal Optical Flow Positioning RC Quadcopter",
+        "link": "https://www.banggood.com/LYZRC-L109-PRO-GPS-5G-WIFI-800M-FPV-With-4K-HD-Camera-2-Axis-Mechanical-Stabilization-Gimbal-Optical-Flow-Positioning-RC-Quadcopter-p-1653552.html?p=YN241438687092016024&cur_warehouse=CN&ID=435285319306270307",
+        "original_price": "116,24\u20ac",
+        "new_price": "98,81\u20ac",
+        "code": "BG305155",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
+        "discount": {
+            "amount": "15%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/BD/D1/96a4296a-ffb6-4a84-8d61-e098d167d8fe.png",
+        "title": "FIMI X8 Mini 8KM FPV 245g With 3-axis Mechanical Gimbal 4K Camera HDR Video 30mins Flight Time Ultralight GPS Foldable RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/FIMI-X8-Mini-8KM-FPV-245g-With-3-axis-Mechanical-Gimbal-4K-Camera-HDR-Video-30mins-Flight-Time-Ultralight-GPS-Foldable-RC-Drone-Quadcopter-RTF-p-1828943.html?p=YN241438687092016024&cur_warehouse=CN&ID=6286114",
+        "original_price": "330,09\u20ac",
+        "new_price": "264,07\u20ac",
+        "code": "BGX8MINIPR",
+        "expire_date": "22/09/2021",
         "warehouse": "CN",
         "discount": {
             "amount": "20%",
@@ -42,40 +238,26 @@
         }
     },
     {
-        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/D9/B1/feae6230-c5d8-457b-aa6f-383b0c890a43.jpg",
-        "title": "DJI Mavic Mini 2 10KM FPV with 4K Camera 3-Axis Gimbal 31mins Flight Time 249g Ultralight GPS RC Drone Quadcopter RTF",
-        "link": "https://www.banggood.com/DJI-Mavic-Mini-2-10KM-FPV-with-4K-Camera-3-Axis-Gimbal-31mins-Flight-Time-249g-Ultralight-GPS-RC-Drone-Quadcopter-RTF-p-1767051.html?p=YN241438687092016024&cur_warehouse=CN&ID=6298258",
-        "original_price": "560,04\u20ac",
-        "new_price": "459,23\u20ac",
-        "code": "BGMINI2DJI",
-        "expire_date": "31/12/2021",
-        "warehouse": "CN",
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/0C/51/7786272c-7a1c-45f4-b2a5-5d7bac1c0545.png",
+        "title": "ZLL SG108 PRO 5G WIFI FPV GPS with 4K HD Camera 2-axis Self-stabilizing Gimbal Optical Flow Positioning Brushless RC Drone Quadcopter RTF",
+        "link": "https://www.banggood.com/ZLL-SG108-PRO-5G-WIFI-FPV-GPS-with-4K-HD-Camera-2-axis-Self-stabilizing-Gimbal-Optical-Flow-Positioning-Brushless-RC-Drone-Quadcopter-RTF-p-1833678.html?p=YN241438687092016024&cur_warehouse=CN&ID=5319305633526287844",
+        "original_price": "126,43\u20ac",
+        "new_price": "107,46\u20ac",
+        "code": "BG905a90",
+        "expire_date": "30/09/2021",
+        "warehouse": "ALL",
         "discount": {
-            "amount": "18%",
+            "amount": "15%",
             "text": "DI SCONTO"
         }
     },
     {
-        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/CD/D4/c7c047f7-49cd-4d69-b6f6-7c8d72c1b0ee.jpg",
-        "title": "DJI Mini SE 4KM FPV with 2.7K Camera 3-Axis Gimbal 30mins Flight Time 249g Vision Sensor GPS Hover RC Drone Quadcopter RTF",
-        "link": "https://www.banggood.com/DJI-Mini-SE-4KM-FPV-with-2_7K-Camera-3-Axis-Gimbal-30mins-Flight-Time-249g-Vision-Sensor-GPS-Hover-RC-Drone-Quadcopter-RTF-p-1866661.html?p=YN241438687092016024&cur_warehouse=CN&ID=6309929",
-        "original_price": "449,73\u20ac",
-        "new_price": "359,78\u20ac",
-        "code": "BGDJIMINISE",
-        "expire_date": "31/12/2021",
-        "warehouse": "CN",
-        "discount": {
-            "amount": "20%",
-            "text": "DI SCONTO"
-        }
-    },
-    {
-        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/4E/A6/99a719f2-b4d1-4df7-ba84-2adcd6865b03.jpg",
-        "title": "RadioMaster TX16S Hall Sensor Gimbals 2.4G 16CH Multi-protocol RF System OpenTX Mode2 Transmitter for RC Drone",
-        "link": "https://www.banggood.com/RadioMaster-TX16S-Hall-Sensor-Gimbals-2_4G-16CH-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-for-RC-Drone-p-1652191.html?p=YN241438687092016024&cur_warehouse=CN&ID=424826287800",
-        "original_price": "178,19\u20ac",
-        "new_price": "165,72\u20ac",
-        "code": "BG3203cb",
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/77/FD/743a8146-9a75-4548-80a5-64659ccb42f1.jpg",
+        "title": "Eachine TX16S Hall Sensor Gimbals 2.4GHz 16CH Internal Multi-protocol RF System OpenTX Radio Transmitter for RC Drone",
+        "link": "https://www.banggood.com/Eachine-TX16S-Hall-Sensor-Gimbals-2_4GHz-16CH-Internal-Multi-protocol-RF-System-OpenTX-Radio-Transmitter-for-RC-Drone-p-1837632.html?p=YN241438687092016024&cur_warehouse=CN&ID=42482",
+        "original_price": "161,22\u20ac",
+        "new_price": "149,93\u20ac",
+        "code": "BG74a86e",
         "expire_date": "30/09/2021",
         "warehouse": "CN",
         "discount": {
@@ -84,7 +266,301 @@
         }
     },
     {
-        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/40/BA/963516da-3680-4430-a4d6-3489fe7fc3c7.jpg",
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/4E/A6/99a719f2-b4d1-4df7-ba84-2adcd6865b03.jpg",
+        "title": "RadioMaster TX16S Hall Sensor Gimbals 2.4G 16CH Multi-protocol RF System OpenTX Mode2 Transmitter for RC Drone",
+        "link": "https://www.banggood.com/RadioMaster-TX16S-Hall-Sensor-Gimbals-2_4G-16CH-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-for-RC-Drone-p-1652191.html?p=YN241438687092016024&cur_warehouse=CN&ID=424826287800",
+        "original_price": "178,19\u20ac",
+        "new_price": "163,93\u20ac",
+        "code": "BG178638",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "8%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/78/7A/1add2ada-95bc-42d4-a725-c283490633c5.jpg",
+        "title": "RadioMaster TX16S Hall Sensor Gimbals Multi-protocol RF System OpenTX Transmitter with TBS Crossfires Micro TX V2 Module and Receiver Combo Set",
+        "link": "https://www.banggood.com/RadioMaster-TX16S-Hall-Sensor-Gimbals-Multi-protocol-RF-System-OpenTX-Transmitter-with-TBS-Crossfires-Micro-TX-V2-Module-and-Receiver-Combo-Set-p-1735618.html?p=YN241438687092016024&cur_warehouse=CN&ID=42482",
+        "original_price": "296,99\u20ac",
+        "new_price": "273,23\u20ac",
+        "code": "BGc72341",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "8%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/ser1/banggood/images/77/9A/edc496dc-3f38-4a0f-bda1-0006c169094e.jpg",
+        "title": "FrSky Taranis X9 Lite 2.4GHz 24CH ACCESS ACCST D16 Mode2 Classic Form Factor Portable Transmitter for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Taranis-X9-Lite-2_4GHz-24CH-ACCESS-ACCST-D16-Mode2-Classic-Form-Factor-Portable-Transmitter-for-RC-Drone-p-1469909.html?p=YN241438687092016024&cur_warehouse=CZ&ID=2246296968",
+        "original_price": "93,33\u20ac",
+        "new_price": "79,33\u20ac",
+        "code": "BG042d00",
+        "expire_date": "30/09/2021",
+        "warehouse": "CZ",
+        "discount": {
+            "amount": "15%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/C6/E4/ffa6b0e7-1758-4732-87b9-f2a159435c66.jpg",
+        "title": "RadioMaster TX16S MAX Edition 2.4G 16CH Hall Sensor Gimbals Multi-protocol RF System OpenTX Mode2 Transmitter with CNC and Leather for RC Drone",
+        "link": "https://www.banggood.com/RadioMaster-TX16S-MAX-Edition-2_4G-16CH-Hall-Sensor-Gimbals-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-with-CNC-and-Leather-for-RC-Drone-p-1756145.html?p=YN241438687092016024&cur_warehouse=CN&ID=42482519709",
+        "original_price": "271,53\u20ac",
+        "new_price": "252,52\u20ac",
+        "code": "BG2e2733",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "7%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/2C/EB/a762b50c-21a1-4ac3-8c3c-3f8033b9e28d.jpg",
+        "title": "FrSky Tandem X20 Hall Sensor Gimbals Built-in 900M/2.4G Dual-Band Internal RF Module Mode2 Transmitter ETHOS Touch-Screen PARA Wireless Training System for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Tandem-X20-Hall-Sensor-Gimbals-Built-in-900M-or-2_4G-Dual-Band-Internal-RF-Module-Mode2-Transmitter-ETHOS-Touch-Screen-PARA-Wireless-Training-System-for-RC-Drone-p-1821602.html?p=YN241438687092016024&cur_warehouse=GWTR&ID=627915562878306303864",
+        "original_price": "336,02\u20ac",
+        "new_price": "299,06\u20ac",
+        "code": "BG8e124d",
+        "expire_date": "30/09/2021",
+        "warehouse": "GWTR",
+        "discount": {
+            "amount": "11%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/FD/AC/edfb802a-687f-402b-9e7f-a4eb79ff9510.jpg",
+        "title": "FLYSKY PL18 EV Paladin 2.4G 18CH 5D Hall Sensor Gimbals AFHDS 3 Radio Transmitter 3.5 Inch TFT Touch Screen for RC Engineering Vehicle",
+        "link": "https://www.banggood.com/FLYSKY-PL18-EV-Paladin-2_4G-18CH-5D-Hall-Sensor-Gimbals-AFHDS-3-Radio-Transmitter-3_5-Inch-TFT-Touch-Screen-for-RC-Engineering-Vehicle-p-1852320.html?p=YN241438687092016024&cur_warehouse=CN&ID=6286114",
+        "original_price": "509,13\u20ac",
+        "new_price": "488,76\u20ac",
+        "code": "BG0a2b33",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "4%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/ser1/banggood/images/EA/6E/3e75f6fd-7127-4be5-9954-b19829684fca.jpg",
+        "title": "FrSky Taranis X9D Plus SE 2019 24CH ACCESS ACCST D16  Mode2 Transmitter M9 Hall Sensor Gimbal PARA Wireless Training Function for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Taranis-X9D-Plus-SE-2019-24CH-ACCESS-ACCST-D16-Mode2-Transmitter-M9-Hall-Sensor-Gimbal-PARA-Wireless-Training-Function-for-RC-Drone-p-1537807.html?p=YN241438687092016024&cur_warehouse=PL&ID=62655746296968",
+        "original_price": "231,65\u20ac",
+        "new_price": "220,07\u20ac",
+        "code": "BGcf9c5f",
+        "expire_date": "30/09/2021",
+        "warehouse": "CZ,PL",
+        "discount": {
+            "amount": "5%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/31/9D/c6dcae35-fb1e-4eb4-b74f-5a033c59759b.jpg",
+        "title": "FrSky Tandem X20S Hall Sensor Gimbals Built-in 900M/2.4G Dual-Band Internal Audio Wireless RF Module Mode2 Transmitter ETHOS Touch-Screen PARA Wireless Training System for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Tandem-X20S-Hall-Sensor-Gimbals-Built-in-900M-or-2_4G-Dual-Band-Internal-Audio-Wireless-RF-Module-Mode2-Transmitter-ETHOS-Touch-Screen-PARA-Wireless-Training-System-for-RC-Drone-p-1821605.html?p=YN241438687092016024&cur_warehouse=GWTR&ID=628783062969686303872",
+        "original_price": "420,03\u20ac",
+        "new_price": "390,63\u20ac",
+        "code": "BGaeeb43",
+        "expire_date": "30/09/2021",
+        "warehouse": "GWTR",
+        "discount": {
+            "amount": "7%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/ser1/banggood/images/8F/E6/cfef34d0-7dad-4ffb-8ad2-98e61a177861.jpg",
+        "title": "DJI Digital FPV Remote Controller 5.8GHz 7ms Ultra Low Latency 4KM Control Range Closed-Loop Software Operation Transmitter with Battery for DJI Air Unit RC Drone",
+        "link": "https://www.banggood.com/DJI-Digital-FPV-Remote-Controller-5_8GHz-7ms-Ultra-Low-Latency-4KM-Control-Range-Closed-Loop-Software-Operation-Transmitter-with-Battery-for-DJI-Air-Unit-RC-Drone-p-1540629.html?p=YN241438687092016024&cur_warehouse=CN&ID=42482",
+        "original_price": "298,68\u20ac",
+        "new_price": "283,75\u20ac",
+        "code": "BG9e800b",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "5%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/79/67/7968b1a5-4b56-4e2a-bbe3-9fa56336c523.jpg",
+        "title": "FrSky ACCST Taranis Q X7 2.4GHz 16CH Mode 2 Transmitter Blue Orange for RC FPV Racing Drone",
+        "link": "https://www.banggood.com/FrSky-ACCST-Taranis-Q-X7-2_4GHz-16CH-Mode-2-Transmitter-Blue-Orange-for-RC-FPV-Racing-Drone-p-1112717.html?p=YN241438687092016024&cur_warehouse=GWTR&ID=22942482",
+        "original_price": "93,33\u20ac",
+        "new_price": "60,66\u20ac",
+        "code": "BG54d997",
+        "expire_date": "30/09/2021",
+        "warehouse": "GWTR",
+        "discount": {
+            "amount": "35%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/E6/16/a99886de-6a62-4f34-8e51-ce9f7766f2a3.jpg",
+        "title": "FrSky Taranis X-Lite Pro 2.4GHz 24CH ACCESS ACCST D16 Mode2 Transmitter PARA Wireless Training System for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Taranis-X-Lite-Pro-2_4GHz-24CH-ACCESS-ACCST-D16-Mode2-Transmitter-PARA-Wireless-Training-System-for-RC-Drone-p-1440289.html?p=YN241438687092016024&cur_warehouse=CN&ID=0",
+        "original_price": "224,01\u20ac",
+        "new_price": "201,61\u20ac",
+        "code": "BG46b63c",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "10%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/88/E3/cb10ed93-95ec-4d74-9eab-566b735a06a1.jpg",
+        "title": "RadioMaster TX16S MAX Limited Edition 2.4G 16CH Hall Sensor Gimbals Multi-protocol RF System OpenTX Mode2 Transmitter with CNC and Leather for RC Drone",
+        "link": "https://www.banggood.com/RadioMaster-TX16S-MAX-Limited-Edition-2_4G-16CH-Hall-Sensor-Gimbals-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-with-CNC-and-Leather-for-RC-Drone-p-1861139.html?p=YN241438687092016024&cur_warehouse=CN&ID=6287849",
+        "original_price": "246,07\u20ac",
+        "new_price": "226,39\u20ac",
+        "code": "BGf64f01",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "8%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/ser1/banggood/images/CE/9C/c6ed307b-ea08-441d-bcb7-c11cb0be78bd.jpg",
+        "title": "FrSky Taranis X9 Lite S 2.4GHz 24CH ACCESS ACCST D16 Mode2 Transmitter G7-H92 Hall Sensor Gimbal PARA Wireless Training System for RC Drone",
+        "link": "https://www.banggood.com/FrSky-Taranis-X9-Lite-S-2_4GHz-24CH-ACCESS-ACCST-D16-Mode2-Transmitter-G7-H92-Hall-Sensor-Gimbal-PARA-Wireless-Training-System-for-RC-Drone-p-1590129.html?p=YN241438687092016024&cur_warehouse=USA&ID=5122886296968",
+        "original_price": "144,03\u20ac",
+        "new_price": "72,02\u20ac",
+        "code": "BGd77991",
+        "expire_date": "30/09/2021",
+        "warehouse": "USA",
+        "discount": {
+            "amount": "50%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/D0/8B/0469fc6a-bf7f-49e1-87f5-d4764b96dc9b.png",
+        "title": "Eachine & Atomrc Auk 196mm F4 4S 4 Inch FPV Racing Drone RTF w/ 30A ESC 2004 Motor 500mW VTX Foxeer Razer Camera T8 LITE Radio Transmitter FPV Goggles",
+        "link": "https://www.banggood.com/Eachine-and-Atomrc-Auk-196mm-F4-4S-4-Inch-FPV-Racing-Drone-RTF-w-or-30A-ESC-2004-Motor-500mW-VTX-Foxeer-Razer-Camera-T8-LITE-Radio-Transmitter-FPV-Goggles-p-1892297.html?p=YN241438687092016024&cur_warehouse=CN&ID=42481",
+        "original_price": "361,48\u20ac",
+        "new_price": "318,10\u20ac",
+        "code": "BG3d0f75",
+        "expire_date": "31/10/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "12%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/A1/44/2aeae2a6-9378-49e4-9b8e-327a198e63ba.jpg",
+        "title": "BetaFPV Pavo30 3\" 4S 118mm CineWhoop Analog Version FPV Racing RC Drone ANT Nano Camera 1506 3000KV Motor",
+        "link": "https://www.banggood.com/BetaFPV-Pavo30-3-inch-4S-118mm-CineWhoop-Analog-Version-FPV-Racing-RC-Drone-ANT-Nano-Camera-1506-3000KV-Motor-p-1838556.html?p=YN241438687092016024&cur_warehouse=CN&ID=6292762",
+        "original_price": "161,22\u20ac",
+        "new_price": "141,87\u20ac",
+        "code": "BG18f895",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "12%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/CC/4B/5bc1f8c7-8697-4847-b4b3-8660713ac9e7.jpg",
+        "title": "Eachine&ATOMRC Seagull FPV Combo 3.5\" 4S 158mm FPV RC Drone+EACHINE T8 LITE Radio+Cobra LITE FPV Goggles",
+        "link": "https://www.banggood.com/EachineandATOMRC-Seagull-FPV-Combo-3_5-inch-4S-158mm-FPV-RC-Drone+EACHINE-T8-LITE-Radio+Cobra-LITE-FPV-Goggles-p-1847910.html?p=YN241438687092016024&cur_warehouse=CN&ID=42481",
+        "original_price": "254,56\u20ac",
+        "new_price": "229,10\u20ac",
+        "code": "BG725629",
+        "expire_date": "31/10/2021",
+        "warehouse": "CN,USA,CZ",
+        "discount": {
+            "amount": "10%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/CC/4B/5bc1f8c7-8697-4847-b4b3-8660713ac9e7.jpg",
+        "title": "Eachine&ATOMRC Seagull FPV Combo 3.5\" 4S 158mm FPV RC Drone+EACHINE T8 LITE Radio+Cobra LITE FPV Goggles",
+        "link": "https://www.banggood.com/EachineandATOMRC-Seagull-FPV-Combo-3_5-inch-4S-158mm-FPV-RC-Drone+EACHINE-T8-LITE-Radio+Cobra-LITE-FPV-Goggles-p-1847910.html?p=YN241438687092016024&cur_warehouse=CN&ID=42481",
+        "original_price": "254,56\u20ac",
+        "new_price": "216,37\u20ac",
+        "code": "BGa6ef4b",
+        "expire_date": "31/10/2021",
+        "warehouse": "CN,CZ,USA",
+        "discount": {
+            "amount": "15%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/C6/25/a850ecd9-fd05-48ed-8fd9-5e962494da69.png",
+        "title": "SwellPro Spry+ 5.8G WIFI FPV GPS with 4K HD Camera Servo Gimbal Wateproof RC Underwater Drone Quadcopter",
+        "link": "https://www.banggood.com/SwellPro-Spry+-5_8G-WIFI-FPV-GPS-with-4K-HD-Camera-Servo-Gimbal-Wateproof-RC-Underwater-Drone-Quadcopter-p-1890881.html?p=YN241438687092016024&cur_warehouse=CN&ID=531930",
+        "original_price": "848,55\u20ac",
+        "new_price": "755,21\u20ac",
+        "code": "BG094ac0",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "11%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/07/07/bb2f2d67-0744-409f-8478-4a0aab709b43.jpg",
+        "title": "BetaFPV 2021 TWIG XL 3\" 4S FPV Racing RC Drone w/ Caddx Ratel 2 Camera F4 AIO V3 20A Flight Controller",
+        "link": "https://www.banggood.com/BetaFPV-2021-TWIG-XL-3-inch-4S-FPV-Racing-RC-Drone-w-or-Caddx-Ratel-2-Camera-F4-AIO-V3-20A-Flight-Controller-p-1890785.html?p=YN241438687092016024&cur_warehouse=CN&ID=6292762",
+        "original_price": "161,22\u20ac",
+        "new_price": "141,87\u20ac",
+        "code": "BGf224f2",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "12%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/18/1B/ce2933c4-6095-4fec-830d-b242b2290e91.jpg",
+        "title": "143g Eachine SHADOW FIEND LR 4S 180mm 4\" Stretch X Micro Long Range RC Drone BNF-DJI with VISTA KIT/Nebula Nano 720P HD",
+        "link": "https://www.banggood.com/143g-Eachine-SHADOW-FIEND-LR-4S-180mm-4-inch-Stretch-X-Micro-Long-Range-RC-Drone-BNF-DJI-with-VISTA-KIT-or-Nebula-Nano-720P-HD-p-1765309.html?p=YN241438687092016024&cur_warehouse=CZ&ID=6297819",
+        "original_price": "259,45\u20ac",
+        "new_price": "194,58\u20ac",
+        "code": "BG7ffb2b",
+        "expire_date": "30/09/2021",
+        "warehouse": "CZ",
+        "discount": {
+            "amount": "25%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/B3/A9/c6c1a4f5-a187-4a93-8f14-c0944b6c1082.jpg",
+        "title": "DJI FPV Combo 10KM 1080P FPV 4K 60fps 150\u00b0 FOV Camera 20mins Flight Time 140 km/h Speed FPV Drone RC Quadcopter FPV Goggles V2 5.8GHz Transmitter Mode2",
+        "link": "https://www.banggood.com/DJI-FPV-Combo-10KM-1080P-FPV-4K-60fps-150-FOV-Camera-20mins-Flight-Time-140-km-or-h-Speed-FPV-Drone-RC-Quadcopter-FPV-Goggles-V2-5_8GHz-Transmitter-Mode2-p-1817652.html?p=YN241438687092016024&cur_warehouse=CZ&ID=0",
+        "original_price": "1.110,77\u20ac",
+        "new_price": "1.102,28\u20ac",
+        "code": "BG460bd8",
+        "expire_date": "30/09/2021",
+        "warehouse": "CZ,ES",
+        "discount": {
+            "amount": "76%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/40/BA/963516da-3680-4430-a4d6-3489fe7fc3c7.jpg",
         "title": "Jumper T-Lite 16CH Hall Sensor Gimbals CC2500/JP4IN1 Multi-protocol RF System OpenTX Mode2 Transmitter Support Jumper 915 R900/CRSF Nano for RC Drone",
         "link": "https://www.banggood.com/Jumper-T-Lite-16CH-Hall-Sensor-Gimbals-CC2500-or-JP4IN1-Multi-protocol-RF-System-OpenTX-Mode2-Transmitter-Support-Jumper-915-R900-or-CRSF-Nano-for-RC-Drone-p-1782091.html?p=YN241438687092016024&cur_warehouse=CN&ID=424826299601",
         "original_price": "61,94\u20ac",
@@ -98,7 +574,7 @@
         }
     },
     {
-        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/C1/5A/4b5a7842-62c0-44b2-ba7d-c0fb8bed7150.jpg",
+        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/C1/5A/4b5a7842-62c0-44b2-ba7d-c0fb8bed7150.jpg",
         "title": "CellMeter 7 V2 With Balance Function Digital Battery Capacity Checker Voltage Meter",
         "link": "https://www.banggood.com/CellMeter-7-V2-With-Balance-Function-Digital-Battery-Capacity-Checker-Voltage-Meter-p-1226659.html?p=YN241438687092016024&cur_warehouse=CN&ID=0",
         "original_price": "14,93\u20ac",
@@ -112,7 +588,7 @@
         }
     },
     {
-        "img": "https://imgaz2.staticbg.com/thumb/grid/oaupload/banggood/images/60/91/b1e007e9-1d24-41ea-ba78-10dad7cb89cc.jpg",
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/60/91/b1e007e9-1d24-41ea-ba78-10dad7cb89cc.jpg",
         "title": "Betafpv Beta95X V2 HD Digital VTX 95mm F4 OSD AIO 16A ESC 4S Whoop FPV Racing Drone PNP BNF w/ Caddx Nebula Nano HD System",
         "link": "https://www.banggood.com/Betafpv-Beta95X-V2-HD-Digital-VTX-95mm-F4-OSD-AIO-16A-ESC-4S-Whoop-FPV-Racing-Drone-PNP-BNF-w-or-Caddx-Nebula-Nano-HD-System-p-1748556.html?p=YN241438687092016024&cur_warehouse=CN&ID=6292762",
         "original_price": "282,82\u20ac",
@@ -126,7 +602,7 @@
         }
     },
     {
-        "img": "https://imgaz.staticbg.com/thumb/grid/oaupload/banggood/images/8D/52/9649f92e-c1e3-445d-a322-6427e9217e86.jpg",
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/8D/52/9649f92e-c1e3-445d-a322-6427e9217e86.jpg",
         "title": "DJI Mavic AIR 2S 12KM 1080P FPV with 1\" CMOS 5.4K HD Video 3-axis Gimbal MasterShots ADS-B 4D Obstacle Sensing RC Drone Quadcopter RTF",
         "link": "https://www.banggood.com/DJI-Mavic-AIR-2S-12KM-1080P-FPV-with-1-inch-CMOS-5_4K-HD-Video-3-axis-Gimbal-MasterShots-ADS-B-4D-Obstacle-Sensing-RC-Drone-Quadcopter-RTF-p-1836539.html?p=YN241438687092016024&cur_warehouse=CN&ID=6306216",
         "original_price": "1.179,49\u20ac",
@@ -136,6 +612,34 @@
         "warehouse": "CN",
         "discount": {
             "amount": "26%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz1.staticbg.com/thumb/grid/oaupload/banggood/images/41/8D/de2c78e6-1a5a-4c7b-9706-4ae65efe9f10.jpg",
+        "title": "BETAFPV X-Knight 5'' 6S FPV Toothpick Quad RC Drone w/ F4 35A AIO FC M02 5.8G VTX Caddx Baby Ratel Camera",
+        "link": "https://www.banggood.com/BETAFPV-X-Knight-5-6S-FPV-Toothpick-Quad-RC-Drone-w-or-F4-35A-AIO-FC-M02-5_8G-VTX-Caddx-Baby-Ratel-Camera-p-1732785.html?p=YN241438687092016024&cur_warehouse=CZ&ID=567060",
+        "original_price": "200,25\u20ac",
+        "new_price": "100,13\u20ac",
+        "code": "BG444c45",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN,USA,ES,CZ",
+        "discount": {
+            "amount": "50%",
+            "text": "DI SCONTO"
+        }
+    },
+    {
+        "img": "https://imgaz3.staticbg.com/thumb/grid/oaupload/banggood/images/4D/67/466a95ee-cd58-4d3a-8a97-9e6ec04e7ceb.jpg",
+        "title": "BetaFPV Beta75X HD Digital VTX 75mm F4 AIO 12A FC 2-4S 12A ESC 1103 8000KV Brushless Motor Frsky FCC/Frsky LBT/TBS/PNP Whoop FPV Racing Drone",
+        "link": "https://www.banggood.com/BetaFPV-Beta75X-HD-Digital-VTX-75mm-F4-AIO-12A-FC-2-4S-12A-ESC-1103-8000KV-Brushless-Motor-Frsky-FCC-or-Frsky-LBT-or-TBS-or-PNP-Whoop-FPV-Racing-Drone-p-1749722.html?p=YN241438687092016024&cur_warehouse=CN&ID=6292933",
+        "original_price": "238,44\u20ac",
+        "new_price": "166,90\u20ac",
+        "code": "BG7301b9",
+        "expire_date": "30/09/2021",
+        "warehouse": "CN",
+        "discount": {
+            "amount": "30%",
             "text": "DI SCONTO"
         }
     }
