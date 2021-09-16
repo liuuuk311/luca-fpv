@@ -35,7 +35,7 @@ Questa guida spiega le basi delle radio che è possibile usare per pilotare un d
 
 Un trasmettitore radio (TX) viene utilizzato per controllare un drone a distanza. I comandi dell'utente vengono quindi ricevuti dalla ricevente (RX) che è collegato a un flight controller.
 
-![Spiegazione funzionamento TX e RX](/images/radiocomandi/TX-RX.png)
+![Spiegazione funzionamento TX e RX](./TX-RX.png)
 
 Il radiocomando dovrebbe essere uno dei primissimi articoli da acquistare quando si entra in FPV, poiché è possibile utilizzarlo per giocare con i simulatori di droni prima ancora di possedere un drone. 
 
@@ -49,15 +49,15 @@ Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2021.
 
 |   	                                                                                        | Radiocomando 	        | Prezzo 	| Protocollo 	        | Venditori 	|
 |---	                                                                                        |--------------	        |--------   |------------	        |-----------	|
-| ![BetaFPV LiteRadio 2](/images/radiocomandi/betafpv_literadio2.png?nf_resize=fit&w=320&h=320) | BetaFPV LiteRadio 2   | 💰        | Frsky/Bayang          | <a href="https://betafpv.com/products/literadio-2-radio-transmitter" target="_blank" rel="nofollow">BetaFPV</a><br/><a href="https://www.banggood.com/custlink/DGKdp7YZQb" target="_blank" rel="nofollow">Banggood</a>|
-| ![Flysky FS-i6](/images/radiocomandi/flysky.jpg?nf_resize=fit&w=320&h=320)                    | Flysky  FS-i6         | 💰        | Flysky                | <a href="https://amzn.to/2G6WlPu" target="_blank" rel="nofollow">Amazon</a><br/><a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="nofollow">Banggood</a>|
-| ![FrSKY X9 Lite](/images/radiocomandi/x9_lite.png?nf_resize=fit&w=320&h=320)                  | FrSKY X9 Lite         | 💰        | Frsky/Modulo esterno  | <a href="https://amzn.to/33VNN6z" target="_blank" rel="nofollow">Amazon</a><br/><a href="https://www.banggood.com/custlink/vDGdpTyaBJ" target="_blank" rel="nofollow">Banggood</a><br/><a href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>|
-| ![Taranis Q X7](/images/radiocomandi/taranis_qx7.jpg?nf_resize=fit&w=320&h=320)               | Taranis QX7           | 💰💰      | Frsky/Modulo esterno  | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/frsky-accst-taranis-q-x7-frsky-xm-micro-d16-sbus-gens-ace-3800mah-7-4v-2s1p/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
-| ![RadioMaster TX16](/images/radiocomandi/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320)      | RadioMaster TX16      | 💰💰      | Multi/Modulo esterno  | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>   |
-| ![X Lite](/images/radiocomandi/x_lite.jpg?nf_resize=fit&w=320&h=320)                          | X-Lite                | 💰💰      | Frsky/Modulo esterno  | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="nofollow">Banggood</a>  |
-| ![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.png?nf_resize=fit&w=320&h=320)           | Taranis X9D+          | 💰💰💰    | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/taranis-x9d-plus-2019/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
-| ![TBS Tango 2](/images/radiocomandi/tango2_1.png?nf_resize=fit&w=320&h=320)                   | TBS Tango 2           | 💰💰💰    | Crossfire              | <a href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" target="_blank" rel="nofollow">TBS</a><br/><a href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
-| ![FrSky HORUS X10S](/images/radiocomandi/horus_x10s.png?nf_resize=fit&w=320&h=320)            | FrSky HORUS X10S      | 💰💰💰💰   | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/KvGdCuy6wK" target="_blank" rel="nofollow">Banggood</a>  |
+| ![BetaFPV LiteRadio 2](./betafpv_literadio2.png) | BetaFPV LiteRadio 2   | 💰        | Frsky/Bayang          | <a href="https://betafpv.com/products/literadio-2-radio-transmitter" target="_blank" rel="nofollow">BetaFPV</a><br/><a href="https://www.banggood.com/custlink/DGKdp7YZQb" target="_blank" rel="nofollow">Banggood</a>|
+| ![Flysky FS-i6](./flysky.jpg)                    | Flysky  FS-i6         | 💰        | Flysky                | <a href="https://amzn.to/2G6WlPu" target="_blank" rel="nofollow">Amazon</a><br/><a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="nofollow">Banggood</a>|
+| ![FrSKY X9 Lite](./x9_lite.png)                  | FrSKY X9 Lite         | 💰        | Frsky/Modulo esterno  | <a href="https://amzn.to/33VNN6z" target="_blank" rel="nofollow">Amazon</a><br/><a href="https://www.banggood.com/custlink/vDGdpTyaBJ" target="_blank" rel="nofollow">Banggood</a><br/><a href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>|
+| ![Taranis Q X7](./taranis_qx7.jpg)               | Taranis QX7           | 💰💰      | Frsky/Modulo esterno  | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/frsky-accst-taranis-q-x7-frsky-xm-micro-d16-sbus-gens-ace-3800mah-7-4v-2s1p/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
+| ![RadioMaster TX16](./radiomaster_tx16.jpg)      | RadioMaster TX16      | 💰💰      | Multi/Modulo esterno  | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>   |
+| ![X Lite](./x_lite.jpg)                          | X-Lite                | 💰💰      | Frsky/Modulo esterno  | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="nofollow">Banggood</a>  |
+| ![Taranis X9D Plus](./taranis_x9d.png)           | Taranis X9D+          | 💰💰💰    | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="nofollow">Banggood</a><br/><a href=" https://www.drone24hours.com/prodotto/taranis-x9d-plus-2019/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
+| ![TBS Tango 2](./tango2_1.png)                   | TBS Tango 2           | 💰💰💰    | Crossfire              | <a href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" target="_blank" rel="nofollow">TBS</a><br/><a href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a>  |
+| ![FrSky HORUS X10S](./horus_x10s.png)            | FrSky HORUS X10S      | 💰💰💰💰   | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/KvGdCuy6wK" target="_blank" rel="nofollow">Banggood</a>  |
 
 
 </div>
@@ -67,7 +67,7 @@ Troppe opzioni, non sai quale scegliere? Ecco i miei consigli di seguito. Tuttav
 
 ## Il più economico
 
-![BetaFPV LiteRadio 2](/images/radiocomandi/betafpv_literadio2.png?nf_resize=fit&w=320&h=320)
+![BetaFPV LiteRadio 2](./betafpv_literadio2.png)
 
 **BetaFPV LiteRadio 2** - Compralo su: <a href="https://betafpv.com/products/literadio-2-radio-transmitter" target="_blank" rel="nofollow">BetaFPV</a> | <a href="https://www.banggood.com/custlink/DGKdp7YZQb" target="_blank" rel="nofollow">Banggood</a>
 
@@ -77,7 +77,7 @@ Questa è l'opzione più economica nell'elenco e supporta anche i simulatori FPV
 
 ## Rapporto qualità prezzo
 
-![RadioMaster TX16](/images/radiocomandi/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320)
+![RadioMaster TX16](./radiomaster_tx16.jpg)
 
 **Radiomaster TX16S** - Compralo su: <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="nofollow">Banggood</a> | <a href=" https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a> (Negozio Italiano)
 
@@ -87,7 +87,7 @@ A mio parere, la radio più versatile e con il miglior rapporto qualità-prezzo 
 
 ## Compatto e professionale
 
-![TBS Tango 2](/images/radiocomandi/tango2_1.png?nf_resize=fit&w=320&h=320)
+![TBS Tango 2](./tango2_1.png)
 
 **TBS Tango 2** - Compralo su: <a href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" target="_blank" rel="nofollow">TBS</a> | <a href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a> (Negozio Italiano)
 
@@ -101,7 +101,7 @@ Se tutto ciò che voli sono multirotori e Crossfire, e vuoi la radio più compat
 
 ## Il più diffuso
 
-![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.png?nf_resize=fit&w=320&h=320)
+![Taranis X9D Plus](./taranis_x9d.png)
 
 **Frsky Taranis X9D+ 2019** - Compralo su: <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="nofollow">Banggood</a> | <a href=" https://www.drone24hours.com/prodotto/taranis-x9d-plus-2019/?D24H=lucapalonca" target="_blank" rel="nofollow">Drone24Hours</a> (Negozio Italiano)
 
@@ -127,7 +127,7 @@ Ci sono altre frequenze meno comuni utilizzate in RC, come 27MHz, 72MHz, 433MHz 
 ## Gimbals
 Gli stick su una radio sono indicati come "gimbal", traducono gli input dell'utente in dati digitali e controllano il movimento del drone.
 
-![Foto dei gimbal](/images/radiocomandi/gimbals.png)
+![Foto dei gimbal](./gimbals.png)
 
 ### Tipi di gimbal
 Esistono due tipi di gimbals:
@@ -156,7 +156,7 @@ Le levette dei gimbal hanno filettature M3 o M4, quindi assicurati di controllar
 
 Prima di acquistare la tua prima radio, decidi quale modalità preferisci. La modalità determina la configurazione dei due stick di controllo. Sono disponibili 4 modalità: modalità 1, modalità 2, modalità 3 e modalità 4.
 
-![Modalità dei radiocomandi](/images/radiocomandi/modes.png)
+![Modalità dei radiocomandi](./modes.png)
 
 La configurazione della **modalità 1** ha il controllo del pitch sul joystick sinistro e l'acceleratore su quello destro.
 La **modalità 2 è la più comune** tra i piloti di droni FPV perché lo stick rappresenta il movimento del tuo quadricottero. Ha il comando del pitch sul joystick destro e l'acceleratore dei motori su quello sinistro. 
@@ -173,7 +173,7 @@ Non esiste una modalità giusta o sbagliata, solo preferenze personali. Se non s
 I trasmettitori hanno anche una serie di interruttori che puoi usare per armare e cambiare le modalità di volo, ecc.
 Gli interruttori sono disponibili in forme a due o tre posizioni, nonché cursori e manopole rotanti. Tuttavia, come piloti di droni FPV non abbiamo bisogno di tanti switch, infatti queste radio veniva usate inizialmente dai piloti di aerei radiocomandati.
 
-![Foto degli switch di una radio](/images/radiocomandi/switches.png)
+![Foto degli switch di una radio](./switches.png)
 
 Penso che avere da 2 a 4 interruttori sia sufficiente per la maggior parte dei piloti di droni FPV. Ovviamente non fa male averne di più.
 
@@ -194,7 +194,7 @@ Il numero di canali è inoltre limitato dal protocollo del ricevitore. Ad esempi
 ## Riceventi
 Un ricevitore radio (noto anche come RX) è il dispositivo che riceve i comandi dell'utente dal trasmettitore radio e trasmette i dati al controllore di volo.
 
-![Foto di una ricevente](/images/radiocomandi/reciver.png)
+![Foto di una ricevente](./reciver.png)
  
 Normalmente una ricevente è compatibile solo con trasmettitori della stessa marca, utilizzando lo stesso protocollo. I “protocolli” sono come una lingua parlata tra trasmettitore e ricevitore, ogni marca ha i propri protocolli. Ecco una panoramica di tutti i protocolli TX e RX.
 
@@ -244,7 +244,7 @@ Se vuoi andare oltre con un segnale affidabile, vorrai investire in un sistema U
 
 Molte radio moderne hanno la possibilità di ospitare modulo sul retro, che consente di inserire un modulo trasmettitore esterno per collegarsi a ricevitori di marca o frequenza diversa.
 
-![Modulo esterno crossfire](/images/radiocomandi/external.png)
+![Modulo esterno crossfire](./external.png)
 
 ---
 
