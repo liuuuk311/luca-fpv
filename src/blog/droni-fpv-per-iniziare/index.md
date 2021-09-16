@@ -22,7 +22,7 @@ Quindi tieni a mente questo quando scegli il tuo drone.
 
 Scelta molto controversa per i puristi dell'FPV, ma personalmente trovo che per una persona che stia entrando nel mondo dei droni FPV, questo drone è la scelta perfetta. 
 
-![DJI FPV Drone Combo](/images/droni-fpv-per-iniziare/dji-fpv-combo.jpeg)
+![DJI FPV Drone Combo](./dji-fpv-combo.jpeg)
 
 A primo impatto il costo di circa 1300 euro può spaventare. Ma all'interno della confezione ci sono molte cose.
 Prima di tutto, oltre il drone riceviamo il visore (DJI Goggles), che se acquistati separatamente costano circa 600 euro. Poi abbiamo anche il radiocomando e una batteria. Quindi acquistando questo kit, siamo già pronti per volare, senza dover comprare ulteriori accessori.
@@ -41,7 +41,7 @@ Spesso lo paragono ad un iPhone, bello e semplice da usare ma con pochissima per
 Questo è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro, ed è esteticamente bello. A livello di prezzo siamo tra i XX e i 250 euro. Ma per questo prezzo riceveremo solo il drone. Niente visore, niente radiocomando e niente batterie.
 
 
-![Iflight Nazgul v2](/images/droni-fpv-per-iniziare/iflight-nazgul.jpg)
+![Iflight Nazgul v2](./iflight-nazgul.jpg)
 
 Di questo drone online ci sono diverse versioni, io consiglio sempre la versione 6S, anche per i principianti. In questo modo spendarai meno soldi nel tempo. 
 
@@ -64,7 +64,7 @@ Un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resis
 Video come questi sono possibili grazie alla potenza dei motori del ProTek, che gli permettono di sollevare anche il peso di una GoPro Hero 9.
 <!-- Vuoi sapere come fare video come questo? Magari potrebbe interessarti [come fare video cinematic]() -->
 
-![iFlight Protek](/images/droni-fpv-per-iniziare/protek.jpg)
+![iFlight Protek](./protek.jpg)
 
 ### Chi lo dovrebbe comprare?
 
@@ -76,7 +76,7 @@ Chi vuole usare questo drone per realizzare video cinematic all'aperto e all'int
 
 Se vuoi partire subito kit EMAX Tinyhawk II è quello che ti serve. All'interno di questo kit hai tutto ciò che ti serve per volare in FPV. Il kit comprende il drone, che è ideale per chi inizia date le sue dimensioni. Un ottimo radiocomando, che può esser sfurttato anche per altri droni successivamente. Un visore di bassa fascia, che è ideale per tenere i costi contenuti. Un paio di batterie e il caricabatterie. 
 
-![Kit EMAX Tinyhawk II](/images/droni-fpv-per-iniziare/emax-kit.jpeg)
+![Kit EMAX Tinyhawk II](./emax-kit.jpeg)
 
 A differenza delle opzioni precedenti, questo kit, per meno di 500 euro offre tutto quello che serve. 
 
