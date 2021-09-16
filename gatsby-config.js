@@ -33,7 +33,7 @@ module.exports = {
             options: {
               maxWidth: 700,
               linkImagesToOriginal: false,
-              quality: 65,
+              quality: 75,
               backgroundColor: "transparent",
             }
           },

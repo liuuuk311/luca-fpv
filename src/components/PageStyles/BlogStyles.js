@@ -65,6 +65,7 @@ export const NavigationLink = styled.a`
     display: block;
     margin-bottom: 8px;
     margin-left: ${props => props.indentLevel * 8}px;
+    text-align: start;
 
     ${props => props.indentLevel > 0 && css`
         text-indent: -12px;
