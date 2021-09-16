@@ -35,7 +35,6 @@ module.exports = {
               linkImagesToOriginal: false,
               quality: 75,
               backgroundColor: "transparent",
-              wrapperStyle: fluidResult => `flex:${_.round(fluidResult.aspectRatio, 2)};`,
             }
           },
         ]
