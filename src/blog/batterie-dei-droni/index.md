@@ -56,10 +56,10 @@ Tipicamente, 20 minuti è il tempo di volo dei droni più comuni. Tuttavia, quan
 
 |   	                                                                                                                  | Categoria 	                                    | Prezzo 	            | Tempo di volo                                          |
 |---	                                                                                                                  |--------------	                                |----------------       |------------------------------------------------   |
-| ![Droni giocattolo](/images/quanto-costa-un-drone/drone_giocattolo.png?nf_resize=fit&w=180&h=180)    | Droni giocattolo             | da 20 a 200 euro      | meno di 5 minuti                |
-| ![Drone FPV](/images/quanto-costa-un-drone/drone_fpv.png?nf_resize=fit&w=180&h=180)| Droni FPV  | da 300 a 600 euro     | meno di 7 minuti |
-| ![Drone FPV Long Range](/images/batterie-dei-droni/fpv-long-range.jpeg?nf_resize=fit&w=180&h=180)    | Droni FPV - Long Range   | a partire da 400 euro | circa 20 minuti          |
-| ![Drone da fotografia](/images/quanto-costa-un-drone/mavic.png?nf_resize=fit&w=180&h=180)     | Droni da fotografia   | a partire da 500 euro | più di 20 minuti          |
+| ![Droni giocattolo](../quanto-costa-un-drone/drone_giocattolo.png)    | Droni giocattolo             | da 20 a 200 euro      | meno di 5 minuti                |
+| ![Drone FPV](../quanto-costa-un-drone/drone_fpv.png)| Droni FPV  | da 300 a 600 euro     | meno di 7 minuti |
+| ![Drone FPV Long Range](../batterie-dei-droni/fpv-long-range.jpeg)    | Droni FPV - Long Range   | a partire da 400 euro | circa 20 minuti          |
+| ![Drone da fotografia](../quanto-costa-un-drone/mavic.png)     | Droni da fotografia   | a partire da 500 euro | più di 20 minuti          |
 
 </div>
 
@@ -99,7 +99,7 @@ La capacità della batteria si misura in mAh (milliampere-ora) ed indica la quan
 
 Questo però non si traduce direttamente in più tempo di volo. Infatti, la relazione tra mAh e durata di volo non è lineare. Questo perché con l'aumentare della capacità della batteria, aumenta anche il peso della stessa, diminuendo quindi l'efficienza del drone.
 
-![Relazione capacità della batteria vs. tempo di volo](/images/batterie-dei-droni/flight_time.png) 
+![Relazione capacità della batteria vs. tempo di volo](./flight_time.png) 
 
 
 ## Le migliori batterie per droni FPV
@@ -115,7 +115,7 @@ Nello specifico qua consiglio le batterie per droni 5" FPV. Queste sono le march
 
 ### Economiche - GNB
 
-![GNB](/images/batterie-dei-droni/gnb.jpeg) 
+![GNB](./gnb.jpeg) 
 
 > Banggood: [4S 1300mAh](https://www.banggood.com/custlink/KDGye5LIm2) | [6S 1100mAh](https://www.banggood.com/custlink/vmvdBHaSDw)
 
@@ -123,7 +123,7 @@ Se sei appena agli inizi, non ha molto senso comprare le migliori batterie poich
 
 ### Economiche - Tattu FunFly
 
-![Tattu FunFly](/images/batterie-dei-droni/funfly.jpeg) 
+![Tattu FunFly](./funfly.jpeg) 
 
 > Amazon: [4S 1300mAh](https://amzn.to/3Bf6GQO) | [6S 1100mAh](https://amzn.to/3yn7ZLB) <br/>Drone24Hours: [4S 1300mAh](https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-148-v-100c-4s1p-lipo-batteria-con-spina-xt60-per-rc-drone-fpv-racing/?D24H=lucapalonca) | [6S 1100mAh](https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca)
 
@@ -131,7 +131,7 @@ Le Tattu FunFly, sono sviluppate da Tattu, leader nel mercato e le FunFly sono l
 
 ### Rapporto qualità prezzo - CNHL 
 
-![CNHL](/images/batterie-dei-droni/cnhl.jpeg) 
+![CNHL](./cnhl.jpeg) 
 
 > China Hobby Line: [4S 1300mAh](https://chinahobbyline.com/shop/detail/293?utm_source=lucafpv.com) | [6S 1100mAh](https://chinahobbyline.com/shop/detail/277?utm_source=lucafpv.com)
 
@@ -139,7 +139,7 @@ Ottime batterie, l'unico svantaggio è che sono leggermente più pesanti delle a
 
 ### Top di Gamma - Tattu R-Line
 
-![Tattu R-Line](/images/batterie-dei-droni/rline.jpg) 
+![Tattu R-Line](./rline.jpg) 
 
 > Amazon: [4S 1550mAh](https://amzn.to/2WyqyQ1) | [6S 1400mAh](https://amzn.to/3zpySQp) <br/>Drone24Hours: [4S 1550mAh](https://www.drone24hours.com/prodotto/tattu-r-line-version-3-0-1550mah-14-8v-120c-4s1p-lipo-battery-pack-with-xt60-plug/?D24H=lucapalonca) | [6S 1400mAh](https://www.drone24hours.com/prodotto/tattu-r-line-version-4-0-1400mah-22-2v-130c-6s1p-xt60/?D24H=lucapalonca)
 
