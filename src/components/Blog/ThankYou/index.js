@@ -12,7 +12,7 @@ import {
 const ThankYou = () => {
     return (
         <Container>
-            <Avatar src="/luca_new.jpeg"/>
+            <Avatar src="/luca_new.jpeg" width={120} height={160}/>
             <Content>
                 <Heading>
                     🙌 Grazie per aver letto questo articolo!
