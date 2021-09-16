@@ -7,10 +7,17 @@ category:
 tags: 
     - Principianti
 featured: true
-ogimage: '/images/opengraph/migliori-simulatori-fpv.png'
 ---
 
 <style>
+    #radio-table td:nth-of-type(1) {
+       min-width: 120px;
+       min-height: 120px;
+    }
+    td:nth-of-type(1) img {
+       object-fit: contain;
+    }
+
     @media 
     only screen and (max-width: 760px),
     (min-device-width: 768px) and (max-device-width: 1024px)  {
@@ -57,12 +64,12 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 
 |                                                              | Radiocomando                                                | USB?                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
-| ![RadioMaster TX16](/images/radiocomandi/radiomaster_tx16.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
-| ![X Lite](/images/radiocomandi/x_lite.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
-| ![Taranis X9D Plus](/images/radiocomandi/taranis_x9d.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
-| ![Taranis Q X7](/images/radiocomandi/taranis_qx7.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
-| ![FlySky](/images/radiocomandi/flysky.jpg?nf_resize=fit&w=320&h=320) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
-| ![Spektrum](/images/radiocomandi/spektrum_dx6.jpg?nf_resize=fit&w=320&h=320) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
+| ![RadioMaster TX16](../migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
+| ![X Lite](../migliori-radiocomandi-per-droni-fpv/x_lite.jpg) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
+| ![Taranis X9D Plus](../migliori-radiocomandi-per-droni-fpv/taranis_x9d.jpg) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
+| ![Taranis Q X7](../migliori-radiocomandi-per-droni-fpv/taranis_qx7.jpg) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
+| ![FlySky](../migliori-radiocomandi-per-droni-fpv/flysky.jpg) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
+| ![Spektrum](../migliori-radiocomandi-per-droni-fpv/spektrum_dx6.jpg) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
 
 </div>
 

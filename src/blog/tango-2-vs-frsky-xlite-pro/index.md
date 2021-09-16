@@ -42,7 +42,7 @@ Con X-Lite, la configurazione del ricevitore R9 (sia R9MM che R9 Mini) è stata 
 
 Per il TBS Nano RX, ho semplicemente collegato come indicato nel diagramma e collegato al trasmettitore senza nemmeno dover premere il tasting di binding. Questa caratteristica è perfetta in quanto non serve smontare il drone e consente di risparmiare molto tempo.
 
-![TBS Tango 2](/images/recensioni/tango2-vs-xlite/tango2_1.png)
+![TBS Tango 2](./tango2_1.png)
 
 ## Navigazione nei menu
 Tuttavia, un aspetto più veloce con l'X-Lite è stata la navigazione nei menu del trasmettitore.
@@ -51,7 +51,7 @@ Per quanto riguarda il menu stesso, entrambi i trasmettitori hanno essenzialment
 
 Dopo essermi abituato alla rotella di scorrimento sul Tango 2, sono stato in grado di velocizzare la navigazione attraverso i menu, ma ho avuto errori di click più coerenti con la rotella di scorrimento rispetto al joystick.
 
-![FrSky X-Lite Pro](/images/recensioni/tango2-vs-xlite/xlite_1.png)
+![FrSky X-Lite Pro](./xlite_1.png)
 
 
 ## Moduli esterni
@@ -92,7 +92,7 @@ Se non ti piacciono le scelte di interruttori sul Tango, potresti trovare X-Lite
 
 L'X-Lite utilizza anche un giroscopio che puoi persino assegnare a un canale nel caso in cui ne avessi bisogno (come un volante), ma principalmente consente solo allo schermo di illuminarsi quando si solleva il telecomando, una caratteristica elegante.
 
-![FrSky X-Lite Pro](/images/recensioni/tango2-vs-xlite/xlite_2.png)
+![FrSky X-Lite Pro](./xlite_2.png)
 
 
 ## Cinghia per il collo
@@ -117,7 +117,7 @@ Per quanto riguarda il Tango II, che è più robusto, avevo le mie due dita into
 
 Per quanto riguarda un pincher, mi è stato detto (e provato) che il Tango II è il telecomando preferito per pizzicare e l'X lite è molto più difficile per chi cerca di pizzicare.
 
-![TBS Tango 2](/images/recensioni/tango2-vs-xlite/tango2_2.png)
+![TBS Tango 2](./tango2_2.png)
 
 
 ## Posizionamento dei pulsanti
