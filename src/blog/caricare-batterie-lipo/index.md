@@ -111,7 +111,7 @@ Anche se molti caricano le proprie batterie in parallelo con successo, molti esp
 
 Esistono diversi carica batterie per LiPo sul mercato. Di sicuro il più famoso è l'economico IMAX B6. La qualità di questo prodotto è veramente bassa e l'interfaccia non molto intuitiva. Tuttavia nella confezione ci sono diversi accessori, tra cui il fondamentale alimentatore. 
 
-![Caricabatterie IMAX B6](/images/carica-batterie/imax-b6.jpeg)
+![Caricabatterie IMAX B6](./imax-b6.jpeg)
 
 Questo carica batterie può caricare batterie fino a 4S. 
 
@@ -121,7 +121,7 @@ Il mio carica batterie preferito è senza dubbio è l'ISDT Q6 Nano. Ne ho 4 di q
 
 L'ISDT Q6 Nano può caricare batterie fino a 6S.
 
-![Caricabatterie ISDT Q6 Nano](/images/carica-batterie/isdt.jpg)
+![Caricabatterie ISDT Q6 Nano](./isdt.jpg)
 
 Tuttavia acquistando l'alimentatore che consiglio, si riesce a creare un setup in cui un solo power supply alimenta 3 o 4 carica batterie, dando la possibilità di caricare fino a 4 batterie contemporanemente individualmente in maniera sicura, evitando così i rischi della ricarica in parallelo. 
 

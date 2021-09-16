@@ -18,7 +18,7 @@ Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggoo
 
 > Non sai che differenza c'è tra 4S e 6S? Allora prova a dare un'occhiata [qua](https://lucafpv.com/bibbia-fpv/)
 
-![BumbleBee V2 HD](/images/recensioni/bumblebee_v2/bumblebee_v2_1.png)
+![BumbleBee V2 HD](./bumblebee_v2_1.png)
 
 ## Vantaggi
 IFlight ha una buona reputazione, e anche in questo caso non si smentisce. Questa nuova versione del BumbleBee, aggiunge diversi vantaggi rispetto alla versione precedente. Innanzitutto, hanno migliorato il design dei duct (la parte che protegge le elice), in questo modo il drone risulta più silenzioso. IFlight spedisce il BumbleBee V2 **già configurato** con dei tuining. Questo in particolare si traduce in un volo più stabile soprattutto quando si vola a bassa quota e vicino a persone ed oggetti.
