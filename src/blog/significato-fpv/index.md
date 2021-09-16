@@ -29,7 +29,7 @@ FPV significa far parte di una community di persone che sono disposte ad aiutars
 Il mondo FPV, è semplicemente fantastico, guarda un volo che ho fatto tempo fa per [NorthFPV](https://northfpv.com).
 
 <div class="iframe-container">
-<iframe width="100%" src="https://www.youtube.com/embed/POucyxDN_NE?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="POucyxDN_NE" params="start=4"/>
 </div>
 
 Se ne vuoi sapere di più sul mondo FPV, ti consiglio [questo articolo](https://lucafpv.com/fpv-per-principianti)

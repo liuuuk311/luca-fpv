@@ -86,7 +86,9 @@ La velocità di ricarica consigliata per le batterie LiPo è 1C. Questo signific
 Alcuni produttori garantiscono velocità di ricariche più elevate fino a 5C. Tuttavia questo può essere pericoloso poiché può danneggiare la batteria e risultare in un incendio come questo.
 
 <div class="iframe-container">
-<iframe width="100%" src="https://www.youtube.com/embed/fF9fhlr9S5s?start=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<lite-youtube videoid="fF9fhlr9S5s" params="start=31"/>
+
 </div>
 
 **Importante non confondere il C-Rating di scarica**, che spesso è indicato sull'etichetta della batteria, **con il C-Rating di carica**, che spesso non è indicato, proprio perché è sempre consigliato caricare ad 1C.

@@ -58,7 +58,7 @@ L'iFlight Nazgul5 V2 è perfetto per coloro che sono seriamente intenzionati ad 
 Un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. Queste sue caratteristiche lo rendono perfetto per chi vuole usare un drone FPV per fare riprese cinematic come queste. 
 
 <div class="iframe-container">
-<iframe width="100%" src="https://www.youtube.com/embed/dt3F3pEdACE?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="dt3F3pEdACE" params="start=10"/>
 </div>
 
 Video come questi sono possibili grazie alla potenza dei motori del ProTek, che gli permettono di sollevare anche il peso di una GoPro Hero 9.

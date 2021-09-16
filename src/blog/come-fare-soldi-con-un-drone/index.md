@@ -34,7 +34,7 @@ Come pilota FPV hai diverse strade per poter guadagnare, la scelta più comune �
 I droni FPV vengono utilizzati anche per gare su circuiti, e i piloti professionisti arrivano a guadagnare anche 100.000 dollari per volare con droni che arrivano anche a 200 km/h.
 
 <div class="iframe-container">
-<iframe width="100%" src="https://www.youtube.com/embed/QSZmSNL_0r8?start=8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="QSZmSNL_0r8" params="start=8"/>
 </div>
 
 Vorresti sapere di più sui droni FPV? Allora inizia da [questo articolo](https://lucafpv.com/fpv-per-principianti).

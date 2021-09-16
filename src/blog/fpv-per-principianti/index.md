@@ -50,7 +50,7 @@ Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano 
 Essere un pilota FPV può essere anche un lavoro. Ci sono diverse professioni. La più ambita è il pilota professionista per campionati internazionali come [DRL](https://thedroneracingleague.com/about-drl/). I piloti in questo campionato possono guadagnare fino a 100.000 dollari, per non parlare poi delle sponsorizzazioni.
 
 <div class="iframe-container">
-<iframe width="100%" src="https://www.youtube.com/embed/QSZmSNL_0r8?start=8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="QSZmSNL_0r8" params="start=8"/>
 </div>
 
 Un lavoro più comune ma comunque divertente è far riprese aeree e cinematografiche con un drone FPV. In questo caso si può far parte di un agenzia o lavorare come libero profesionista.

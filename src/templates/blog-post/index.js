@@ -121,6 +121,7 @@ const BlogPost = ({ data, location }) => {
                 <meta name="twitter:description" content={excerpt}/>
                 <meta name="twitter:image" content={ogImage}/>
                 <meta name="twitter:card" content="summary_large_image"/>
+                <link rel="stylesheet" href="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.css" />
             </Helmet>
             <Container>
                 <NavigationContainer>
@@ -177,6 +178,7 @@ const BlogPost = ({ data, location }) => {
                     <RecommendedArticles slug={slug}/>
                 </PostContainer>
             </Container>
+            <script src="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.js" defer async/>
         </Default>
     );
 }
