@@ -86,8 +86,8 @@ Alcuni di questi droni possono avere anche una telecamera di bassa qualità, la 
 
 ### Esempi
 
-* <a href="https://www.banggood.com/custlink/33vYc11JIc" target="_blank" rel="nofollow">Eachine E010</a>
-* <a href="https://www.banggood.com/custlink/DmmYJwTc8j" target="_blank" rel="nofollow">Hubsan X4</a>
+* <a href="https://www.banggood.com/custlink/33vYc11JIc" target="_blank" rel="nofollow" rel="noreferrer">Eachine E010</a>
+* <a href="https://www.banggood.com/custlink/DmmYJwTc8j" target="_blank" rel="nofollow" rel="noreferrer">Hubsan X4</a>
 
 L'Hubsan X4 è uscito qualche anno fa, e rimane uno dei migliori micro brushed per principianti.
 
@@ -109,7 +109,7 @@ Questi micro droni dotati di equipaggiamento FPV, quindi sono più sofisiticati 
 Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard di tutti gli occhiali FPV. 
 
 **Suggerimenti**
-* <a href="https://amzn.to/2SbtgFv" target="_blank" rel="nofollow">BetaFPV 65s</a>
+* <a href="https://amzn.to/2SbtgFv" target="_blank" rel="nofollow" rel="noreferrer">BetaFPV 65s</a>
 
 ---
 
@@ -121,7 +121,7 @@ Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard 
 
 ![Drone FPV economico](../emax-tinyhawk/tinyhawk_3.png)
 
-Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<a href="https://amzn.to/34a8Pyv" target="_blank" rel="nofollow">Emax TinyHawk 2</a> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
+Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<a href="https://amzn.to/34a8Pyv" target="_blank" rel="nofollow" rel="noreferrer">Emax TinyHawk 2</a> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
 
 Questo è un sistema FPV completo, nel kit è incluso il radiocomando e un ricevitore video che permette di vedere in tempo reale il segnale video. È un modo relativamente economico per entrare nel mondo FPV e cominciare a volare, inoltre è ottimo per principianti.
 
@@ -161,8 +161,8 @@ Se non ti piace l’idea di costruirti il tuo drone e vuoi volare immediatamente
 
 ### Scelte più comuni
 
-* <a href="https://www.banggood.com/custlink/vDKEW1wrsV" target="_blank" rel="nofollow">iFlight Nazgul5</a> - leggi la [recensione](https://lucafpv.com/iflight-nazgul5)
-* <a href="https://amzn.to/3zdqCTA" target="_blank" rel="nofollow">DJI FPV</a>
+* <a href="https://www.banggood.com/custlink/vDKEW1wrsV" target="_blank" rel="nofollow" rel="noreferrer">iFlight Nazgul5</a> - leggi la [recensione](https://lucafpv.com/iflight-nazgul5)
+* <a href="https://amzn.to/3zdqCTA" target="_blank" rel="nofollow" rel="noreferrer">DJI FPV</a>
 
 ### Dimensioni dei Quad
 
@@ -197,7 +197,7 @@ I droni da fotografia sono usati principalmente per fare filmati e fotografie pr
 
 ### Esempi
 
-* <a href="https://amzn.to/3l0B3T6" target="_blank" rel="nofollow">DJI Mavic Mini</a>
-* <a href="https://amzn.to/3n3IbzN" target="_blank" rel="nofollow">DJI Mavic Pro</a>
-* <a href="https://amzn.to/2SceHSk" target="_blank" rel="nofollow">DJI Phantom 4</a>
-* <a href="https://amzn.to/36frCuR" target="_blank" rel="nofollow">Xiaomi MI Drone</a>
+* <a href="https://amzn.to/3l0B3T6" target="_blank" rel="nofollow" rel="noreferrer">DJI Mavic Mini</a>
+* <a href="https://amzn.to/3n3IbzN" target="_blank" rel="nofollow" rel="noreferrer">DJI Mavic Pro</a>
+* <a href="https://amzn.to/2SceHSk" target="_blank" rel="nofollow" rel="noreferrer">DJI Phantom 4</a>
+* <a href="https://amzn.to/36frCuR" target="_blank" rel="nofollow" rel="noreferrer">Xiaomi MI Drone</a>

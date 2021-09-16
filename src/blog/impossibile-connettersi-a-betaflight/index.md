@@ -17,7 +17,7 @@ In realtà, il flight controller comunica con il computer tramite la porta USB m
 Infatti, il software deve pensare che sia in realtà una vecchia porta COM seriale. Questo è solo il modo in cui è possibile leggere e scrivere i chip sul controller di volo.
 
 ## Soluzione
-Questo problema può essere risolto con facilità. Devi semplicemente scaricare i driver della porta COM virtuale da <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers" rel="nofollow" target="_blank">SiLabs</a> che sono disponibili per Windows, Linux e Mac.
+Questo problema può essere risolto con facilità. Devi semplicemente scaricare i driver della porta COM virtuale da <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers" rel="nofollow" rel="noreferrer" target="_blank">SiLabs</a> che sono disponibili per Windows, Linux e Mac.
 
 Non sono necessari più di un paio di minuti per installare i driver e, se richiesto dal computer, è sufficiente riavviare il computer. Ricorda, prima di riprovare scollega il flight controller dall'USB.
 

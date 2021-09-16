@@ -14,7 +14,7 @@ Volare con un cinewhoop è abbastanza diverso da un drone FPV freestyle da 5", i
 
 Il BumbleBee HD V2 é il drone giusto per chi vuole cominciare a fare video molto fluidi, magari vicino a persone e ad ostacoli. 
 
-Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" target="_blank">Versione 6S</a>)
+Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" rel="noreferrer" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" rel="noreferrer" target="_blank">Versione 6S</a>)
 
 > Non sai che differenza c'è tra 4S e 6S? Allora prova a dare un'occhiata [qua](https://lucafpv.com/bibbia-fpv/)
 
@@ -62,8 +62,8 @@ Chiaramente non è un drone economico, ma per lavori professionali ci vuole qual
 
 ### Dove comprarlo?
 
-Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" target="_blank">Versione 6S</a>)
+Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" rel="noreferrer" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" rel="noreferrer" target="_blank">Versione 6S</a>)
 
-Molto conveniente per chi vuole passare al digitale, un bundle che include il <a href="https://www.banggood.com/custlink/v3DhrMeHsZ" rel="nofollow" target="_blank">BumbleBee HD V2 e gli occhiali DJI</a> ad un prezzo molto vantaggioso. 
+Molto conveniente per chi vuole passare al digitale, un bundle che include il <a href="https://www.banggood.com/custlink/v3DhrMeHsZ" rel="nofollow" rel="noreferrer" target="_blank">BumbleBee HD V2 e gli occhiali DJI</a> ad un prezzo molto vantaggioso. 
 
-Ti consiglio vivamente di comprare anche il <a href="https://www.banggood.com/custlink/3Dvdp2gtsa" rel="nofollow" target="_blank">mount per la GoPro</a>, perché purtroppo non è incluso. 
+Ti consiglio vivamente di comprare anche il <a href="https://www.banggood.com/custlink/3Dvdp2gtsa" rel="nofollow" rel="noreferrer" target="_blank">mount per la GoPro</a>, perché purtroppo non è incluso. 

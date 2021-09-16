@@ -38,7 +38,7 @@ Spesso lo paragono ad un iPhone, bello e semplice da usare ma con pochissima per
 
 ## 2. iFlight Nazgul5 V2
 
-Questo è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro, ed è esteticamente bello. A livello di prezzo siamo tra i XX e i 250 euro. Ma per questo prezzo riceveremo solo il drone. Niente visore, niente radiocomando e niente batterie.
+Questo è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro, ed è esteticamente bello. A livello di prezzo siamo intorno ai 250 euro. Ma per questo prezzo riceveremo solo il drone. Niente visore, niente radiocomando e niente batterie.
 
 
 ![Iflight Nazgul v2](./iflight-nazgul.jpg)

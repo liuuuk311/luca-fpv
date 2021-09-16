@@ -73,6 +73,6 @@ Se non ti è chiaro qualche termine in questa recensione, allora ti consiglio di
 
 ### Dove comprarlo?
 
-Se vuoi risparmiare conviene comprarlo su <a href="https://www.banggood.com/custlink/Dv3Yrz4CHs" rel="nofollow" target="_blank">Banggood</a>, ma ricordati di selezionare il magazzino più vicino, per accorciare i tempi di consegna.
+Se vuoi risparmiare conviene comprarlo su <a href="https://www.banggood.com/custlink/Dv3Yrz4CHs" rel="nofollow" rel="noreferrer" target="_blank">Banggood</a>, ma ricordati di selezionare il magazzino più vicino, per accorciare i tempi di consegna.
 
-Ti consiglio vivamente di comprare anche delle batterie extra (<a href="https://amzn.to/3iL30xn" rel="nofollow" target="_blank">Amazon</a> | <a href="https://www.banggood.com/custlink/vmGEpM4CWs" rel="nofollow" target="_blank">Banggood</a>), per volare molto di più.
+Ti consiglio vivamente di comprare anche delle batterie extra (<a href="https://amzn.to/3iL30xn" rel="nofollow" rel="noreferrer" target="_blank">Amazon</a> | <a href="https://www.banggood.com/custlink/vmGEpM4CWs" rel="nofollow" rel="noreferrer" target="_blank">Banggood</a>), per volare molto di più.
