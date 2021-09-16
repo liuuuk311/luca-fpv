@@ -30,13 +30,7 @@ import  {
     Title,
     Date,
     Post,
-    Banner,
-    // Newsletter stuff
-    Heading,
-    Paragraph,
-
 } from '../../components/PageStyles/BlogStyles';
-import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 
 const BlogPost = ({ data, location }) => {
