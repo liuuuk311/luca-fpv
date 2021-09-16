@@ -8,6 +8,14 @@ tags:
     - Principianti
 ---
 <style>
+    #drone-table td:nth-of-type(1) {
+       min-width: 120px;
+       min-height: 120px;
+    }
+    #drone-table td:nth-of-type(1) img{
+       object-fit: contain;
+    }
+
     @media 
     only screen and (min-width: 980px) {
         td {
@@ -42,11 +50,11 @@ Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie, dalla pi�
 
 |   	                                                                                                                  | Categoria 	                                    | Prezzo 	            | Utilizzo                                          |
 |---	                                                                                                                  |--------------	                                |----------------       |------------------------------------------------   |
-| <a href="#toy">![Droni giocattolo](/images/quanto-costa-un-drone/drone_giocattolo.png?nf_resize=fit&w=180&h=180)</a>    | <a href="#toy">Droni giocattolo</a>             | da 20 a 200 euro      | Imparare a volare senza telecamera                |
-| <a href="#fpv-micro">![Micro drone FPV](/images/quanto-costa-un-drone/micro_fpv.png?nf_resize=fit&w=180&h=180)</a>      | <a href="#micro-fpv">Micro droni FPV</a>        | da 50 a 200 euro      | Gare al chiuso<br/> FPV cinematic                 |
-| <a href="#fpv">![Drone FPV Economico](/images/recensioni/emax-tinyhawk/tinyhawk_3.png?nf_resize=fit&w=180&h=180)</a>    | <a href="#fpv">Droni FPV economici</a>          | da 100 a 200 euro     | Imparare a volare con telecamera                  |
-| <a href="#fpv-pro">![Drone FPV Professionale](/images/quanto-costa-un-drone/drone_fpv.png?nf_resize=fit&w=180&h=180)</a>| <a href="#fpv-pro">Droni FPV professionali</a>  | da 300 a 600 euro     | FPV cinematic<br/> Gare FPV<br/> Freestyle        |
-| <a href="#fotografia">![Drone da fotografia](/images/quanto-costa-un-drone/mavic.png?nf_resize=fit&w=180&h=180)</a>     | <a href="#fotografia">Droni da fotografia</a>   | a partire da 500 euro | Foto aeree<br/> Video making<br/> Cinema          |
+| <a href="#toy">![Droni giocattolo](./drone_giocattolo.png)</a>    | <a href="#toy">Droni giocattolo</a>             | da 20 a 200 euro      | Imparare a volare senza telecamera                |
+| <a href="#fpv-micro">![Micro drone FPV](./micro_fpv.png)</a>      | <a href="#micro-fpv">Micro droni FPV</a>        | da 50 a 200 euro      | Gare al chiuso<br/> FPV cinematic                 |
+| <a href="#fpv">![Drone FPV Economico](../emax-tinyhawk/tinyhawk_3.png)</a>    | <a href="#fpv">Droni FPV economici</a>          | da 100 a 200 euro     | Imparare a volare con telecamera                  |
+| <a href="#fpv-pro">![Drone FPV Professionale](./drone_fpv.png)</a>| <a href="#fpv-pro">Droni FPV professionali</a>  | da 300 a 600 euro     | FPV cinematic<br/> Gare FPV<br/> Freestyle        |
+| <a href="#fotografia">![Drone da fotografia](./mavic.png)</a>     | <a href="#fotografia">Droni da fotografia</a>   | a partire da 500 euro | Foto aeree<br/> Video making<br/> Cinema          |
 
 </div>
 
@@ -70,7 +78,7 @@ I droni giocattolo sono forse i più comuni nel mercato. Possono costare anche s
 
 </div>
 
-![Micro drone](/images/quanto-costa-un-drone/drone_giocattolo.png)
+![Micro drone](./drone_giocattolo.png)
 
 Sono perfetti per un principiante che vuole imparare a controllare un drone utilizzando un radiocomando. Ci sono centinaia di tipi di droni giocattoli di marchi come Hubsan, Eachine, Syma e Cheerson.
 
@@ -93,7 +101,7 @@ Questi sono diventati i micro quadricotteri più usati nell’hobby, sia per pri
 
 </div>
 
-![Micro drone FPV](/images/quanto-costa-un-drone/micro_fpv.png)
+![Micro drone FPV](./micro_fpv.png)
 
 Questi micro droni dotati di equipaggiamento FPV, quindi sono più sofisiticati della precedente categoria. A bordo hanno installato riceventi comuni, che sono compatibili con la maggior parte dei radiocomandi che è possibile utilizzare anche per altre categorie di quadricotteri.
 > [Come scegliere il radiocomando ideale](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
@@ -111,7 +119,7 @@ Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard 
 
 </div>
 
-![Drone FPV economico](/images/recensioni/emax-tinyhawk/tinyhawk_3.png)
+![Drone FPV economico](../emax-tinyhawk/tinyhawk_3.png)
 
 Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<a href="https://amzn.to/34a8Pyv" target="_blank" rel="nofollow">Emax TinyHawk 2</a> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
 
@@ -125,7 +133,7 @@ Questo è un sistema FPV completo, nel kit è incluso il radiocomando e un ricev
 
 </div>
 
-![Drone FPV](/images/quanto-costa-un-drone/drone_fpv.png)
+![Drone FPV](./drone_fpv.png)
 
 Conosciuti anche come mini quad, questi droni sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h. A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad <!-- [https://oscarliang.com/build-a-quadcopter-beginners-tutorial-1/] -->può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
 
@@ -175,7 +183,7 @@ I droni da gara sono divisi in categorie, queste dimensioni, classificano i quad
 
 </div>
 
-![Drone da fotografia](/images/quanto-costa-un-drone/mavic.png)
+![Drone da fotografia](./mavic.png)
 
 I droni da fotografia sono usati principalmente per fare filmati e fotografie professionali ad alta risoluzione. Sono preassemblati è sono i droni più costosi, sono forniti di fotocamere ad alta risoluzione, GPS integrato e sistema di navigazione autonoma e molte altre tecnologie sofisticate, come ad esempio il riconoscimento di ostacoli. L’azienda leader nel settore è sicuramente DJI, ma esistono altri marchi conosciuti come GoPro, Xiaomi, Walkera e altri.
 
