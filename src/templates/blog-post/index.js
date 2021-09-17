@@ -164,7 +164,7 @@ const BlogPost = ({ data, location }) => {
                     <RecommendedArticles slug={slug}/>
                 </PostContainer>
             </Container>
-            <script src="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.js" defer async/>
+            <script src="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.js" defer/>
         </Default>
     );
 }

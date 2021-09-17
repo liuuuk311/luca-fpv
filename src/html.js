@@ -11,7 +11,13 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        
+          <link rel="preconnect" href="https://adservice.google.com/"/>
+          <link rel="preconnect" href="https://googleads.g.doubleclick.net/"/>
+          <link rel="preconnect" href="https://www.googletagservices.com/"/>
+          <link rel="preconnect" href="https://tpc.googlesyndication.com/"/>
+          <link rel="preconnect" href="https://pagead2.googlesyndication.com/"/>
+
+          <script defer data-ad-client="ca-pub-4566556883137005" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
