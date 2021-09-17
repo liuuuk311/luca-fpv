@@ -21,7 +21,6 @@ import  {
     Container,
     PostContainer,
     NavigationContainer,
-    NewsletterContainer,
     QuickNavigationContainer,
     NavigationHeading,
     NavigationLink,
@@ -35,15 +34,12 @@ import  {
 
 const BlogPost = ({ data, location }) => {
 
-    const url = location.href ? location.href : '';
-
     const {
         markdownRemark: {
             frontmatter: {
                 title,
                 excerpt,
                 date,
-                // ogimage
             },
             fields : {
                 slug,
@@ -94,8 +90,6 @@ const BlogPost = ({ data, location }) => {
 
         return ogSlug;
     }
-
-    const ogImage = data.markdownRemark.frontmatter.ogimage || '/images/opengraph/opengraph-default.png';
     return (
         <Default
             location={location}
@@ -113,9 +107,7 @@ const BlogPost = ({ data, location }) => {
 
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
-                <meta name="twitter:image" content={ogImage}/>
                 <meta name="twitter:card" content="summary_large_image"/>
-                <link rel="stylesheet" href="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.css" />
             </Helmet>
             <Container>
                 <NavigationContainer>
