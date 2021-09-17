@@ -2,10 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 
 export default function HTML(props) {
-  const iframeStyle = {
-    display:'none', 
-    visibility:'hidden'
-  }
   return (
     <html {...props.htmlAttributes}>
       <head>
@@ -17,10 +13,6 @@ export default function HTML(props) {
         />
         
         {props.headComponents}
-        <link rel="preconnect" href="https://adservice.google.com/"/>
-        <link rel="preconnect" href="https://googleads.g.doubleclick.net/"/>
-        <link rel="preconnect" href="https://www.googletagservices.com/"/>
-        <link rel="preconnect"href="https://tpc.googlesyndication.com/"/>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
