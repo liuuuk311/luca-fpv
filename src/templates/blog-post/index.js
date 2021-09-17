@@ -90,6 +90,7 @@ const BlogPost = ({ data, location }) => {
 
         return ogSlug;
     }
+
     return (
         <Default
             location={location}
@@ -103,7 +104,6 @@ const BlogPost = ({ data, location }) => {
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={excerpt}/>
                 <meta property="og:url" content={`http://lucafpv.com/${getOgSlug(slug)}`}/>
-                <meta property="og:image" content={ogImage}/>
 
                 <meta name="twitter:title" content={title}/>
                 <meta name="twitter:description" content={excerpt}/>
