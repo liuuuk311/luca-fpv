@@ -7,7 +7,7 @@ import {
 } from '../../components';
 
 import {
-    Deals 
+    Deals, HowToUse, SEOText
 } from '../../components/Landing';
 
 const Landing = ({ location }) => {
@@ -24,7 +24,9 @@ const Landing = ({ location }) => {
                 <meta name="description" content="Risparmia soldi usando i migliori coupon per Banggood per prodotti FPV e non solo. Rimani sempre aggiornato con le migliori offerte per modelli radiocomandati."/>
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
             </Helmet>
+            <HowToUse/>
             <Deals/>
+            <SEOText/>
         </Default>
     );
 }
