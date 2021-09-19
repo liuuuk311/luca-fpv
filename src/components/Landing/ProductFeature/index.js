@@ -1,12 +1,6 @@
 import React from 'react';
 
 import {
-    Heading,
-    SubHeading,
-    Body
-} from '../../../utils/fonts';
-
-import {
     Section,
     FeatureList,
     Feature1,
@@ -14,6 +8,9 @@ import {
     Feature2,
     Icon2,
     IconContainer,
+    Heading,
+    SubHeading,
+    Body
 } from './styled';
 
 const ProductBenefit = () => {
@@ -44,8 +41,6 @@ const ProductBenefit = () => {
                         Il drone non si arma o vola male
                     </Body>
                 </Feature2>
-
-
             </FeatureList>
         </Section>
     );

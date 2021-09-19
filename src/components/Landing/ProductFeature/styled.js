@@ -59,3 +59,14 @@ export const Icon2 = styled.svg`
 `;
 
 
+export const Body = styled(fonts.Body)`
+    text-align: center;
+`;
+
+export const Heading = styled(fonts.Heading)`
+    text-align: center;
+`;
+
+export const SubHeading = styled(fonts.SubHeading)`
+    text-align: center;
+`;

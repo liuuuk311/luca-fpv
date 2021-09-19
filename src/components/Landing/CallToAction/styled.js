@@ -15,4 +15,5 @@ export const Section = styled.section`
 export const Paragraph = styled(fonts.Body)`
     color: ${colors.darkGray};
     font-size: 14px;
+    text-align: center;
 `;

@@ -12,11 +12,13 @@ export const Container = styled.div`
 
 export const Heading = styled(fonts.Heading)`
     color: ${colors.black};
+    text-align: center;
 `;
 
 export const Paragraph = styled(fonts.Body)`
     color: ${colors.darkGray};
     font-size: 16px;
+    text-align: center;
 `;
 
 export const InputGroup = styled.div`

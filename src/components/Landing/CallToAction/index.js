@@ -2,9 +2,6 @@ import React from 'react';
 
 import {
     Heading,
-} from '../../../utils/fonts';
-
-import {
     Button,
     Field,
     FieldContainer,
