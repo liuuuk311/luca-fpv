@@ -74,7 +74,7 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 
 La grossa differenza in prezzo tra le due build è dovuta principalmente al fatto che questa sarà una build digitale. Tuttavia, spiegherò anche come costruire la versione analogica.
 
-<!-- Foto di tutti le parti che servono -->
+![Tutto l'occorrente](./occorente.jpeg)
 
 
 ## Telaio
@@ -84,12 +84,16 @@ Guardando il telaio è chiaro che GepRC è aggiornato con le pratiche di tendenz
 
 Le istruzioni di montaggio sono semplici e chiare. Una valida alternativa più economica è il TBS Source One V4.
 
+![Il Telaio](./pezzi_del_frame_dall'alto.jpeg)
+
 ## Stack: FC e ESC
 Il vantaggio di uno stack è che Flight Controller ed ESC sono pensati per funzionare insieme, quindi questo tipo di setup richiede poche saldature rispetto ad altre configurazioni.
 
 Ho selezionato Speedybee F7 V2 perché ha tante funzionalità utili per un principiante, ha il Bluetooth integrato in modo da poter configurare Betaflight dal tuo telefono. Questo è molto utile sia quando si è in giro a volare, che soprattutto quando lo si configura a casa, evitando tutti i gratta capo per installare i giusti driver di Betaflight. Infine, un'altro vantaggio per cui ho deciso di scegliere questo stack è il fatto che sia  plug and play con DJI Air Unit.
 
 È importante scegliere un FC con un BEC dedicato (uscita 9V) per DJI Air Unit e Vista. Sebbene sia possibile alimentare Vista direttamente dalla batteria LiPo, è meno probabile che la si danneggi a causa dei picchi di tensione quando si utilizza un BEC. E lo Speedybee F7 V2 ce l'ha.
+
+![Stack](./stack.jpeg)
 
 ## Motori
 
