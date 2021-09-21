@@ -74,7 +74,7 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 
 La grossa differenza in prezzo tra le due build è dovuta principalmente al fatto che questa sarà una build digitale. Tuttavia, spiegherò anche come costruire la versione analogica.
 
-![Tutto l'occorrente](./occorente.jpeg)
+![Tutto l'occorrente](./occorrente.jpeg)
 
 
 ## Telaio
