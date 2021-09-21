@@ -106,12 +106,17 @@ Nel caso di una batteria 4S, le scelte più comuni sono tra i 2300 KV e i 2600 K
 Se non sai quale batteria scegliere, consiglio di partire direttamente con le 6S. Si ha più potenza, quindi risulta più facile evitare crash all'ultimo secondo. 
 
 
+![Motore](./motore.jpeg)
+
+
 ## Sistema FPV
 Per i principianti consiglio sempre di usare il sistema DJI FPV, insieme agli occhiali DJI. Il motivo è semplice, facilità di utilizzo e performance strabilianti senza dover smanettare molto.
 
 Nel mondo DJI ci sono due opzioni VTX: la DJI Air Unit full size e Caddx Vista. Tuttavia, DJI ha annunciato nel marzo 2021 che non verrà più prodotta l'Air Unit, quindi la Vista sarà l'unica opzione rimasta.
 
 Per le camere, ci sono diverse opzioni. A parte la Nebula da cui consiglio di rimaner lontani, le altre sono tutte opzioni valide. In questo caso io uso una Vista con la camera originale della DJI.
+
+![Sistema FPV digitale](./caddx_vista.jpeg)
 
 ## Ricevente
 
@@ -121,6 +126,7 @@ Al momento, consiglio TBS Crossfire per le sue prestazioni, affidabilità e faci
 
 Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfire TX che si collega sul retro del radiocomando.
 
+![Ricevente TBS crossfire](./rx.jpeg)
 
 ## Altro occorrente
 
