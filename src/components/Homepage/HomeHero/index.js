@@ -1,10 +1,10 @@
 import React from 'react';
+import {Link} from 'gatsby';
 
 import {
     Container,
     Avatar,
     Heading,
-    SubHeading,
     Paragraph,
 } from './styled';
 
@@ -17,8 +17,12 @@ const HomeHero = () => {
             </Heading>
             <Paragraph>
                 Mi chiamo Luca e sono un appassionato di droni FPV. Questa passione mi ha portato anche a creare la prima community italiana di FPV chiamata <strong>NorthFPV</strong>. 
-                <br/><br/>
-                Lo scopo di questa community è quello di condividere una passione e aiutarsi a vicenda. Sono molto contento che la community stia crescendo rapidamente, entra anche tu a farne parte!
+            </Paragraph>
+            <Paragraph>
+                Lo scopo di questo blog è aiutare principalmente chi inizia ad usare droni FPV. 
+            </Paragraph>
+            <Paragraph>
+                Nel corso degli anni ho potuto aiutare diverse migliaia di persone, facendole diventare piloti migliori. Se non trovi quello di cui hai bisogno, <Link to={"https://lucafpv.com/contattami"}>contattami</Link>.
             </Paragraph>
         </Container>
     );
