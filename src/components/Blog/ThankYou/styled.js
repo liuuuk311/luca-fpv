@@ -39,4 +39,5 @@ export const Button = styled.a`
     color: #FFFFFF !important;
     text-align: center;
     transition: all 0.2s;
+    float: left;
 `;
