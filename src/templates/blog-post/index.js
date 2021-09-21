@@ -127,10 +127,11 @@ const BlogPost = ({ data, location }) => {
                                 {heading.text}
                             </NavigationLink>
                         ))}
+                        
+                        <SubHeading>Coupon di Banggood</SubHeading>
+                        <Paragraph>Risparmia ora sui tuoi acquisti utilizzando i codici sconto</Paragraph>
+                        <Button href="https://lucafpv.com/offerte-e-coupon">Scopri tutti i Coupon</Button>
                     </QuickNavigationContainer>
-                    <SubHeading>Coupon di Banggood</SubHeading>
-                    <Paragraph>Risparmia ora sui tuoi acquisti utilizzando i codici sconto</Paragraph>
-                    <Button href="https://lucafpv.com/offerte-e-coupon">Scopri tutti i Coupon</Button>
                 </NavigationContainer>
                 <PostContainer>
                     <Info>
