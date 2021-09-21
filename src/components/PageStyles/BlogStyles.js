@@ -166,6 +166,7 @@ export const Heading = styled(fonts.SubHeading)`
 
 export const Paragraph = styled(fonts.Body)`
     color: ${colors.darkGray};
+    margin: 0 0 0.5rem 0;
 `;
 
 export const Label = styled.label`
@@ -193,20 +194,18 @@ export const Field = styled.input`
     }
 `;
 
-export const Button = styled.button`
-    appearance: none;
-    background-color: ${colors.white};
-    border: 1px solid ${colors.lightGray};
-    border-left: none;
-    border-radius: 0 4px 4px 0;
-    cursor: pointer;
-    padding: 12px 16px;
-    transition: background-color 0.3s ease-in-out;
-
-    &:hover, &:focus {
-        background-color: ${colors.lightGray};
-        outline: none;
-    }
+export const Button = styled.a`
+    margin: 1rem 0;
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: 300;
+    background-color: #eda550;
+    color: #FFFFFF !important;
+    text-align: center;
+    transition: all 0.2s;
 `;
 
 export const Banner = styled.img`
@@ -214,4 +213,9 @@ export const Banner = styled.img`
     width: 100% !important;
     padding: 0 !important;
     padding-bottom: 24px !important;
+`;
+
+export const SubHeading = styled(fonts.SubHeading)`
+    color: ${colors.black};
+    margin: 2rem 0 0 0;
 `;
