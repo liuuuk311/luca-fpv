@@ -107,10 +107,6 @@ Nel caso di una batteria 4S, le scelte più comuni sono tra i 2300 KV e i 2600 K
 
 Se non sai quale batteria scegliere, consiglio di partire direttamente con le 6S. Si ha più potenza, quindi risulta più facile evitare crash all'ultimo secondo. 
 
-
-![Motore](./motore.jpeg)
-
-
 ## Sistema FPV
 Per i principianti consiglio sempre di usare il sistema DJI FPV, insieme agli occhiali DJI. Il motivo è semplice, facilità di utilizzo e performance strabilianti senza dover smanettare molto.
 
@@ -150,7 +146,11 @@ Ecco l'elenco degli strumenti essenziali per la costruzione di droni FPV. Queste
 - Multimetro ([acquista da Amazon](https://amzn.to/2Xcad3U))
 - Fascette
 
-1. Assemblare il frame
+## Costruzione
+
+Vediamo tutti i passaggi per costruire il proprio drone FPV.
+
+### 1. Assemblare il frame
 
 Il primo passo, è montare gli standoff, ovvero i distanziali in allumnio. Il Mark4 ha standoff di due dimensioni, prima vanno usati quelli più lunghi.
 
@@ -164,14 +164,19 @@ A questo punto, montanto il top plate, ovvero la parte superiore, abbiamo il fra
 
 ![Frame montato](./frame_montato.jpeg)
 
-2. Installazione Motori (foto) 
-Lunghezza viti motori (foto) attenzione che non tocchino
+### 2. Installazione Motori 
 
-3. Schema di cablaggio (da fare)
+Ora si procede col montare i motori sul frame. Per tenere le cose più ordinate, ho attorcigliato i cavi motori.
+
+![Motore](./motore.jpeg)
+
+In questo passaggio è importante fare attenzione le viti dei motori non siano troppo lunghe. Se dovessero toccare la bobina dei motori, si rischia di bruciare i motori.
+
+### 3. Schema di cablaggio
 
 Prova a vedere se ci sta tutto senza saldare (foto), capiamo la lunghezza dei fili (foto)
 
-4. Saldare ESC (foto)
+### 4. Saldare ESC
 - pre saldare
 - xt60
 - condensatore
@@ -179,22 +184,26 @@ Prova a vedere se ci sta tutto senza saldare (foto), capiamo la lunghezza dei fi
 
 TIP: scotch sul elettronica da non saldare
 
-5. Collegare FC (foto)
+### 5. Collegare FC
 
-6. Check e test motori
+### 6. Check e test motori
 Spiegare rotazione motori
 
-7. Ricevente (foto)
+### 7. Ricevente
 
-8. Sistema FPV 
+### 8. Sistema FPV 
 
-9. Buzzer 
+### 9. Buzzer 
 
-10. Configurazione betaflight - Link
+### 10. Configurazione betaflight
 
-11. Test di volo - Video 
+Una volta completata la build, quello che rimane da fare è configurare Betaflight. Il grosso vantaggio di usare lo SpeedyBee F7 V2, è la possibilità di utilizzare l'app SpeedyBee per configurare tutto. Dunque non abbiamo bisogno del classico Betaflight Configurator.
 
-12. PID Tuning
+In caso di flight controller diverso, puoi fare riferimento a [questa guida](https://lucafpv.com/configurare-betaflight).
+
+## Test di volo
+
+## PID Tuning
 
 
 
