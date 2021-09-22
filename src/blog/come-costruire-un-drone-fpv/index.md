@@ -135,7 +135,7 @@ Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfi
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV**, la scelta migliore nel 2021 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](), [Fatshark Attitude V6]() e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
+- **Degli occhiali FPV**, la scelta migliore nel 2021 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](https://www.banggood.com/custlink/GKDdt3FyqU), [Fatshark Attitude V6](https://www.banggood.com/custlink/3DDygLLa4t) e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
@@ -150,7 +150,19 @@ Ecco l'elenco degli strumenti essenziali per la costruzione di droni FPV. Queste
 - Multimetro ([acquista da Amazon](https://amzn.to/2Xcad3U))
 - Fascette
 
-1. Assemblare il frame (foto)
+1. Assemblare il frame
+
+Il primo passo, è montare gli standoff, ovvero i distanziali in allumnio. Il Mark4 ha standoff di due dimensioni, prima vanno usati quelli più lunghi.
+
+![Frame con gli standoff](./frame_con_standoff.jpeg)
+
+A questo punto, si passa al posizionamento dei braccetti sul frame. Sopra ogni coppia di braccetti, va aggiunto un pezzo di fibra di carbonio per aumentare la rigidità, sopra i quali fanno montati gli standoff più corti.
+
+![Frame con i braccetti](./braccetti_del_frame.jpeg)
+
+A questo punto, montanto il top plate, ovvero la parte superiore, abbiamo il frame completo. 
+
+![Frame montato](./frame_montato.jpeg)
 
 2. Installazione Motori (foto) 
 Lunghezza viti motori (foto) attenzione che non tocchino
