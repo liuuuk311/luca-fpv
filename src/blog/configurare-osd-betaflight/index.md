@@ -7,6 +7,7 @@ category:
 tags: 
     - Betaflight
 featured: false
+draft: true
 ---
 
 L'OSD compatibile con Betaflight è un componente integrato e una funzionalità disponibile nei flight controller che supportano Betaflight. Permette di sovrappore al video FPV informazioni importanti realtive al volo, come ad esempio il voltaggio della batteria, il tempo di volo e molto altro. 
