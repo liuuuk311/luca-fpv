@@ -7,7 +7,6 @@ category:
 tags: 
     - Betaflight
 featured: false
-draft: true
 ---
 
 L'OSD compatibile con Betaflight è un componente integrato e una funzionalità disponibile nei flight controller che supportano Betaflight. Permette di sovrappore al video FPV informazioni importanti realtive al volo, come ad esempio il voltaggio della batteria, il tempo di volo e molto altro. 
@@ -30,15 +29,15 @@ Se il tuo FC ha l'OSD integrato, ti basta semplicemente connettere la telecamera
 
 Ricorda che il segnale della video camera va collegato al pin flight controller segnato come "Cam" (o anche Vin), mentre la VTX va collegata al pin "VTX" (o anche Vout). Il nome dei pin dipende dal flight controller.
 
-![Schema Matek STD con sistema FPV](static/images/configurare-osd/chip_osd_schema.png)
+![Schema Matek STD con sistema FPV](./chip_osd_schema.png)
 
 Connetti il tuo flight controller al tuo computer e avvia Betaflight Configurator. Nella sezione **Configurazione** attiva la funzionalità  **OSD**.
 
-![Configurazione OSD](static/images/configurare-osd/attivare_OSD.png)
+![Configurazione OSD](./attivare_OSD.png)
 
 Ora nella sezione **OSD** puoi configurare tutte le impostazioni relative all'OSD.
 
-![Impostazioni OSD](static/images/configurare-osd/impostazioni_OSD.png)
+![Impostazioni OSD](./impostazioni_OSD.png)
 
 L'interfaccia dell'OSD è molto semplice. Hai tre profili OSD, che sono identificate dalle tre colonne sulla sinistra. Per ciascun elemento puoi scegliere su quale profilo OSD mostrarlo.  
 
@@ -55,7 +54,7 @@ Gli elementi che mostro sul mio OSD sono tipicamente
 - RSSI
 - mAh utilizzati
 
-![OSD](static/images/configurare-osd/osd.png)
+![OSD](./osd.png)
 
 Su modelli dotati di GPS, mostro ulteriori informazioni, come la direzione a casa, la distanza da casa e l'altitudine.
 
@@ -71,7 +70,7 @@ Per attivare il menu OSD negli occhiali FPV bisogna posizionare gli stick del ra
 
 Il gas dovrebbe rimanere a metà durante tutta la navigazione del menù.
 
-![Menu OSD](static/images/configurare-osd/osd_menu.png)
+![Menu OSD](./osd_menu.png)
 
 Per navigare nel menù puoi usare lo stick che controlla il **pitch per andare su e giù**, mentre usare l'asse del **roll per selezionare** le opzioni. 
 
@@ -87,7 +86,7 @@ Tuttavia, al momento, non tutte le opzioni di Betaflight sono disponibili all'in
 
 Nella sezione OSD, in basso a destra trovi il tasto Font Manager. Se non ti piace il font di default, la dimensione del font o qualcosa di più riconoscibile puoi scegliere il font da questa schermata. 
 
-![Gestione Font](static/images/configurare-osd/font_osd.png)
+![Gestione Font](./font_osd.png)
 
 Ricorda che una volta che hai caricato un nuovo font, non lo vedrai nell'anteprima di schermo, ma continuerai a vedere quello di default. Ma non ti preoccupare perchè nell'OSD verrà mostrato il nuovo font.
 
