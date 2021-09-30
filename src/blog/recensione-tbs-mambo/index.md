@@ -63,8 +63,7 @@ Gli switch sono semplici da raggiungere. Forse potrebbe essere un po' troppo sem
 
 Sul retro del radiocomando ci sono delle protuberanze in gomma utili per avere una presa migliore.
 
-
-## Dimensione dei Gimbal
+## Gimbal
 
 ![Gimbal](./mambo_gimbal.jpeg)
 
