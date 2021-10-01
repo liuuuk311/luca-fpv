@@ -1,6 +1,6 @@
 ---
 title: I migliori simulatori FPV per iniziare a volare nel 2021
-date: "2021-08-26T00:00:00.000Z"
+date: "2021-10-01T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
@@ -65,17 +65,15 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 |                                                              | Radiocomando                                                | USB?                       |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
 | ![RadioMaster TX16](../migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>                                                 | ✔                                         |
-| ![X Lite](../migliori-radiocomandi-per-droni-fpv/x_lite.jpg) | <a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>                                                     | ✔                                         |
+| ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg) | <a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">TBS Mambo</a>                                                     | ✔                                         |
 | ![Taranis X9D Plus](../migliori-radiocomandi-per-droni-fpv/taranis_x9d.jpg) | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">Taranis X9D Plus</a>                                             | ✔                                         |
 | ![Taranis Q X7](../migliori-radiocomandi-per-droni-fpv/taranis_qx7.jpg) | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>                                                | ✔                                         |
-| ![FlySky](../migliori-radiocomandi-per-droni-fpv/flysky.jpg) | <a href="https://www.banggood.com/custlink/KK3EC2FuLm" target="_blank" rel="noopener nofollow noreferrer">Flysky</a> | <a href="https://www.amazon.it/dp/B085Q4MMRN/ref=cm_sw_em_r_mt_dp_U_UdYFEbN869T3A" target="_blank" rel="noopener nofollow noreferrer">Adattatore</a> |
-| ![Spektrum](../migliori-radiocomandi-per-droni-fpv/spektrum_dx6.jpg) | Spektrum o Futaba                                         | <a href="https://amzn.to/2BEHuIG" target="_blank" rel="noopener nofollow noreferrer"> Adattatore</a> |
 
 </div>
 
 Scegliere un radiocomando che supporta direttamente i simulatori FPV tramite cavo USB è molto più comodo. Ricorda inoltre che il radiocomando è una delle poce cose su cui investire facendo un buon acquisto, perché idealmente lo vorrai utilizzerai con tutti i tuoi quad.
 
-Al momento, i migliori radiocomandi economici sono il <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a> e il <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">RadioMaster TX16</a>, molto validi, ma più costosi, sono l'<a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">X9D Plus</a> e l'<a href="https://www.banggood.com/custlink/vm3YJ2H7JU" target="_blank" rel="noopener nofollow noreferrer">X-Lite</a>. <!-- In questo articolo spiego le principali differenze tra questi radio comandi. --> Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
+Al momento, i migliore radiocomando economico è il <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="noopener nofollow noreferrer">Taranis Q X7</a>. Mentre il migliore per chi inizia è <a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">TBS Mambo</a>, molto valido, ma più costoso, sono l'<a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="noopener nofollow noreferrer">X9D Plus</a>. Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
 
 
 

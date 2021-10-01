@@ -1,6 +1,6 @@
 ---
 title: "Recensione TBS Mambo, la miglior radio per chi inizia"
-date: "2021-09-30T00:00:00.000Z"
+date: "2021-10-01T00:00:00.000Z"
 excerpt: La recensione della nuova TBS Mambo, alta qualità costruttiva e prezzo molto competitivo. La nuova miglior radio per principianti.
 category:
     - Recensione
@@ -17,7 +17,7 @@ Tuttavia non è esattamente quello che hanno ottenuto.
 
 La TBS Mambo ha come modulo interno TBS Tracer e non TBS Crossfire e questo ha sollevato qualche dubbio su questa radio.
 
-> [Acquista TBS Mambo](drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca)
+> [Acquista TBS Mambo](https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca)
 
 ## Interruttori e bottoni
 
