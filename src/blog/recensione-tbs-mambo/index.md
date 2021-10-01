@@ -1,13 +1,12 @@
 ---
 title: "Recensione TBS Mambo, la miglior radio per chi inizia"
 date: "2021-09-30T00:00:00.000Z"
-excerpt: 
+excerpt: La recensione della nuova TBS Mambo, alta qualità costruttiva e prezzo molto competitivo. La nuova miglior radio per principianti.
 category:
     - Recensione
 tags: 
     - Principianti
 featured: true
-draft: true
 ---
 
 La TBS Tango 2, il radiocomando di casa TBS a forma di gamepad ha fatto molto successo, ma non tutti trovano comodo quello stile di radio. Molti, sopratutto chi pilota con pollici e indici, preferisce una radio più grossa, con la forma dei radiocomandi normali.
