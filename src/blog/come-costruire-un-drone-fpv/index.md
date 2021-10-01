@@ -176,13 +176,27 @@ In questo passaggio è importante fare attenzione le viti dei motori non siano t
 
 Prova a vedere se ci sta tutto senza saldare (foto), capiamo la lunghezza dei fili (foto)
 
-### 4. Saldare ESC
-- pre saldare
-- xt60
-- condensatore
-- motori
+### 4. ESC
+Il primo passaggio per lavorare sull'ESC, è installarlo assicurandosi che i pad della batteria siano rivolti verso il retro del telaio.
 
-TIP: scotch sul elettronica da non saldare
+![Installazion ESC](./esc_montato.jpeg)
+
+Quindi dobbiamo pre-saldare ogni pad. Avremo 12 pad per i motori, 3 per ciascun motore e 2 pad per il cavo della batteria.
+
+> Per evitare di creare cortocircuiti, conviene mettere del nastro isolante sui componenti che vogliamo proteggere
+
+![Pre saldatura](./presaldatura.jpeg)
+
+A questo punto, va saldato il condensatore e il cavo XT60. In questo passaggio, è molto importante controllare più volte il verso sia del codensatore, che del cavo della batteria. Per riconoscere il lato negativo del condensatore basta individuare la banda grigia con il segno meno.
+
+![Condensatore e XT60](./xt60_saldato.jpeg)
+
+Succesivamente vanno saldati i cavi dei motori. Prima di saldare i cavi però, vanno tagliati della dimensione giusta. In questo passaggio è importante prendere bene le misure perchè se tagliamo i cavi troppo corti, non li protremo più usare.
+
+![Prendere le dimensioni](./preparazione_taglio_cavi_motori.jpeg)
+
+![Taglio dei motori](./taglio_dei_fili.jpeg)
+
 
 ### 5. Collegare FC
 
