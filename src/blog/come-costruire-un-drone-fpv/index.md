@@ -33,13 +33,14 @@ draft: true
     }
 </style>
 
+> Questa guida è ancora una bozza in fase di scrittura.
 
 ## Per chi è pensata questa build?
 Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione.
 
 In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h. 
 
-Una volta costruito ecco quello che può fare questo drone.
+<!-- Una volta costruito ecco quello che può fare questo drone. -->
 
 <!-- VIDEO di alcuni voli col il drone -->
 
@@ -174,7 +175,7 @@ In questo passaggio è importante fare attenzione le viti dei motori non siano t
 
 ### 3. Schema di cablaggio
 
-Prova a vedere se ci sta tutto senza saldare (foto), capiamo la lunghezza dei fili (foto)
+Da aggiungere lo schema.
 
 ### 4. ESC
 Il primo passaggio per lavorare sull'ESC, è installarlo assicurandosi che i pad della batteria siano rivolti verso il retro del telaio.
@@ -204,30 +205,35 @@ Succesivamente vanno saldati i cavi dei motori.
 
 ### 5. Collegare FC
 
-Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight controller è un gioco da ragazzi. Basta utilizzare il cavetto in dotazione. 
+Sul flight controller le uniche saldature che dobbiamo fare sono relative alla ricevente e al beeper autoalimentato.
 
-Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
+Quando si salda la ricevente, io preferisco rimuovere l'antenna perché rende tutto più semplice.
+
+![Ricevente saldata](./ricevente_saldata.jpeg)
+
+Per quanto riguarda il beeper al momento saldiamo solo il cavetto. Collegheremo poi il beeper vero e prorpio successivamente.
+![Cavi del beeper](./ricevente_e_beeper_pronta.jpeg)
+
+Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight controller è un gioco da ragazzi. Basta utilizzare il cavetto in dotazione. 
 
 ![Collegare l'FC](./fc_e_esc_collegati.jpg)
 
+Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
+
+![FC Montata](./fc_montata.jpeg)
 ### 6. Check e test motori
 
+### 7. Sistema FPV 
 
-### 7. Ricevente
-
-### 8. Sistema FPV 
-
-### 9. Buzzer 
-
-### 10. Configurazione betaflight
+### 8. Configurazione betaflight
 
 Una volta completata la build, quello che rimane da fare è configurare Betaflight. Il grosso vantaggio di usare lo SpeedyBee F7 V2, è la possibilità di utilizzare l'app SpeedyBee per configurare tutto. Dunque non abbiamo bisogno del classico Betaflight Configurator.
 
 In caso di flight controller diverso, puoi fare riferimento a [questa guida](https://lucafpv.com/configurare-betaflight).
 
-## Test di volo
+<!-- ## Test di volo
 
-## PID Tuning
+## PID Tuning -->
 
 
 
