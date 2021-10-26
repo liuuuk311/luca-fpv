@@ -179,7 +179,14 @@ Prova a vedere se ci sta tutto senza saldare (foto), capiamo la lunghezza dei fi
 ### 4. ESC
 Il primo passaggio per lavorare sull'ESC, è installarlo assicurandosi che i pad della batteria siano rivolti verso il retro del telaio.
 
-![Installazion ESC](./esc_montato.jpeg)
+![Installazione ESC](./esc_montato.jpeg)
+
+Prima di saldare i cavi però, vanno tagliati della dimensione giusta. In questo passaggio è importante prendere bene le misure perchè se tagliamo i cavi troppo corti, non li protremo più usare.
+
+![Prendere le dimensioni](./preparazione_taglio_cavi_motori.jpeg)
+![Taglio dei motori](./taglio_dei_fili.jpeg)
+![Lunghezza del filo spelato](./filo_spelato.jpeg)
+
 
 Quindi dobbiamo pre-saldare ogni pad. Avremo 12 pad per i motori, 3 per ciascun motore e 2 pad per il cavo della batteria.
 
@@ -191,12 +198,9 @@ A questo punto, va saldato il condensatore e il cavo XT60. In questo passaggio, 
 
 ![Condensatore e XT60](./xt60_saldato.jpeg)
 
-Succesivamente vanno saldati i cavi dei motori. Prima di saldare i cavi però, vanno tagliati della dimensione giusta. In questo passaggio è importante prendere bene le misure perchè se tagliamo i cavi troppo corti, non li protremo più usare.
+Succesivamente vanno saldati i cavi dei motori. 
 
-![Prendere le dimensioni](./preparazione_taglio_cavi_motori.jpeg)
-
-![Taglio dei motori](./taglio_dei_fili.jpeg)
-
+![Motori saldati](./motori_saldati.jpeg)
 
 ### 5. Collegare FC
 
@@ -207,7 +211,7 @@ Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarc
 ![Collegare l'FC](./fc_e_esc_collegati.jpg)
 
 ### 6. Check e test motori
-Spiegare rotazione motori
+
 
 ### 7. Ricevente
 
