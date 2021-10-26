@@ -200,6 +200,12 @@ Succesivamente vanno saldati i cavi dei motori. Prima di saldare i cavi però, v
 
 ### 5. Collegare FC
 
+Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight controller è un gioco da ragazzi. Basta utilizzare il cavetto in dotazione. 
+
+Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
+
+![Collegare l'FC](./fc_e_esc_collegati.jpg)
+
 ### 6. Check e test motori
 Spiegare rotazione motori
 
