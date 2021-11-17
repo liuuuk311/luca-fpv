@@ -225,6 +225,17 @@ Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarc
 
 ### 7. Sistema FPV 
 
+L'installazione del sistema FPV, nel caso si utilizzi il sistema digitale DJI, è molto semplice. Infatti, il flight controller scelto, è già predisposto al digitale e ci fornisce quindi un connettore e un cavetto.
+
+Il cavetto fornito ha 6 fili, dal momento che utilizzeremo la Caddx Vista solo come VTX e non anche come ricevente, possiamo tranquillamente rimuovere il filo nero e il filo giallo.
+![Rimozione cavi Caddx Vista](./cavi_da_tagliare_caddx.jpeg)
+
+Quindi possiamo rimuovere anche il connettore più grande che è pensato per la DJI Air Unit.
+![Rimuovere connettore dal cavo](./tagliare_cavo.jpeg)
+
+Infine possiamo procedere con la saldatura dei cavi sulla Caddx Vista.
+![Saldatura Caddx Vista](./saldato_sulla_caddx.jpeg)
+
 ### 8. Configurazione betaflight
 
 Una volta completata la build, quello che rimane da fare è configurare Betaflight. Il grosso vantaggio di usare lo SpeedyBee F7 V2, è la possibilità di utilizzare l'app SpeedyBee per configurare tutto. Dunque non abbiamo bisogno del classico Betaflight Configurator.
