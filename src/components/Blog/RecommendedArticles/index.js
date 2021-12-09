@@ -21,7 +21,6 @@ const RecommendedArticles = props => {
         query {
         allMarkdownRemark(
             sort: {fields: [frontmatter___date], order: DESC}
-            filter: {frontmatter: {draft: {ne: true}}}
             ) {
           edges {
             node {

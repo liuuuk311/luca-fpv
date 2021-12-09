@@ -1,13 +1,12 @@
 ---
 title: "Come costruire un drone FPV nel 2021: La guida passo a passo"
-date: "2021-09-08T00:00:00.000Z"
+date: "2021-12-09T00:00:00.000Z"
 excerpt: 
 category:
     - Tutorial
 tags: 
     - Principianti
 featured: true
-draft: true
 ---
 <style>
     @media 
@@ -51,7 +50,7 @@ Se sei completamente nuovo al mondo FPV, prima di iniziare assicurati di aver da
 
 Se durante l'articolo trovi degli acronimi di cui non consoci il significato, fai riferimento a [questo articolo](https://lucafpv.com/bibbia-fpv).
 
-Il tempo stimato per la build completa è di XX ore, sei pronto? Bene, cominciamo!
+Il tempo stimato per la build completa è di 2 ore, sei pronto? Bene, cominciamo!
 
 ## Occorrente
 
@@ -175,7 +174,7 @@ In questo passaggio è importante fare attenzione le viti dei motori non siano t
 
 ### 3. Schema di cablaggio
 
-Da aggiungere lo schema.
+![Schema di cablaggio](./wiring.png)
 
 ### 4. ESC
 Il primo passaggio per lavorare sull'ESC, è installarlo assicurandosi che i pad della batteria siano rivolti verso il retro del telaio.
@@ -221,9 +220,9 @@ Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight con
 Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
 
 ![FC Montata](./fc_montata.jpeg)
-### 6. Check e test motori
+<!-- ### 6. Check e test motori -->
 
-### 7. Sistema FPV 
+### 6. Sistema FPV 
 
 L'installazione del sistema FPV, nel caso si utilizzi il sistema digitale DJI, è molto semplice. Infatti, il flight controller scelto, è già predisposto al digitale e ci fornisce quindi un connettore e un cavetto.
 
@@ -236,7 +235,7 @@ Quindi possiamo rimuovere anche il connettore più grande che è pensato per la 
 Infine possiamo procedere con la saldatura dei cavi sulla Caddx Vista.
 ![Saldatura Caddx Vista](./saldato_sulla_caddx.jpeg)
 
-### 8. Configurazione betaflight
+### 7. Configurazione betaflight
 
 Una volta completata la build, quello che rimane da fare è configurare Betaflight. Il grosso vantaggio di usare lo SpeedyBee F7 V2, è la possibilità di utilizzare l'app SpeedyBee per configurare tutto. Dunque non abbiamo bisogno del classico Betaflight Configurator.
 
