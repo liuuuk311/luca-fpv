@@ -1,7 +1,7 @@
 ---
 title: "Come costruire un drone FPV nel 2021: La guida passo a passo"
-date: "2021-12-09T00:00:00.000Z"
-excerpt: 
+date: "2022-01-05T00:00:00.000Z"
+excerpt: "Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione. In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h."
 category:
     - Tutorial
 tags: 
