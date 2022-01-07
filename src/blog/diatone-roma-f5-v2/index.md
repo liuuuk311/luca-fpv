@@ -1,7 +1,7 @@
 ---
 title: "Recensione: Diatone Roma F5 V2 - Il drone FPV per principianti"
-date: "2021-08-31T00:00:00.000Z"
-excerpt: Diatone Roma F5 è il miglior drone per chi inzia nel 2021, forse anche meglio dell'iFlight Nazgul. E' economico, con istruzioni chiare e ottima qualità
+date: "2022-01-07T00:00:00.000Z"
+excerpt: Diatone Roma F5 è il miglior drone per chi inzia nel 2022, forse anche meglio dell'iFlight Nazgul. E' economico, con istruzioni chiare e ottima qualità
 category:
     - Recensione
 tags: 
@@ -49,6 +49,6 @@ La v2 aggiorna anche la VTX che era forse il punto debole della v1. Infatti in p
 Le differenze per quanto riguarda il frame tra le due versioni sono tutte pensate per aumentare la resistenza del telaio. Infatti, il principale dubbio sulla v1 era la resistenza ai crash. Nella v2 troviamo bracetti più larghi e le viti aggiornate sulla parte anteriore del frame. 
 
 ## Chi lo dovrebbe comprare?
-Il Diatone Roma F5 V2 è pensato per i pricipianti, le persone che vogliono un vero drone FPV con ottimi componenti e istruzioni chiare. Questo drone si colloca nella fascia economica, ed è uno dei migliori droni FPV per pricipianti nel 2021.
+Il Diatone Roma F5 V2 è pensato per i pricipianti, le persone che vogliono un vero drone FPV con ottimi componenti e istruzioni chiare. Questo drone si colloca nella fascia economica, ed è uno dei migliori droni FPV per pricipianti nel 2022.
 
 Rispetto al iFlight Nazgul 5, altra classica scelta per i principianti, il Diatone Roma F5 V2 offre di più in rapporto qualità prezzo. 

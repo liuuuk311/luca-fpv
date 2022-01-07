@@ -57,7 +57,7 @@ Vediamo quindi nel dettaglio ogni oggetto necessario e cerchiamo di capire quali
 Questo elemento è scontato. Quello che però può essere interessante sapere è che ci sono diversi tipi di droni FPV. Un tipo per ogni specialità FPV.
 Puoi voler fare freestyle, racing oppure cinematic. Puoi aver bisogno di un drone con più durata della batteria per voli lunghi oppure massima potenza.
 
-Ecco una lista dei droni FPV più comuni nel 2021.
+Ecco una lista dei droni FPV più comuni nel 2022.
 
 <div id="drone-table">
 
@@ -93,7 +93,7 @@ Ad oggi esistono due tipi di occhiali FPV: digitali e analogici. I primi offorno
 
 La scelta del tipo di occhiali condiziona anche i droni che potremo pilotare. Con un visore digitale potremo volare con droni spesso identificati con "HD", mentre con gli occhiali anlogici non potremo usarli. Il discorso vale anche al contrario, ovvero con gli occhiali digitali non sarà possibile utilizzare un drone analogico a meno di modifiche.
 
-Ecco gli occhiali FPV che consiglio per chi parte nel 2021:
+Ecco gli occhiali FPV che consiglio per chi parte nel 2022:
 
 1. [Occhiali DJI FPV](https://amzn.to/3l4txYP) (prezzo più basso su [Banggood](https://www.banggood.com/custlink/DvGRgiSrmp)) gli unici occhiali per permettono di volare in digitale. Qualità delle immagini pazzesca.
 2. [Fatshark Attitude v6](https://www.drone24hours.com/prodotto/fatshark-attitude-v6/?D24H=lucapalonca) occhiali analogici di fascia media, marca molto affidabile

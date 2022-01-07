@@ -1,5 +1,5 @@
 ---
-title: "Come costruire un drone FPV nel 2021: La guida passo a passo"
+title: "Come costruire un drone FPV nel 2022: La guida passo a passo"
 date: "2022-01-05T00:00:00.000Z"
 excerpt: "Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione. In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h."
 category:
@@ -131,7 +131,7 @@ Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfi
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV**, la scelta migliore nel 2021 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](https://www.banggood.com/custlink/GKDdt3FyqU), [Fatshark Attitude V6](https://www.banggood.com/custlink/3DDygLLa4t) e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
+- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](https://www.banggood.com/custlink/GKDdt3FyqU), [Fatshark Attitude V6](https://www.banggood.com/custlink/3DDygLLa4t) e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
