@@ -1,6 +1,6 @@
 ---
 title: I migliori simulatori FPV per iniziare a volare nel 2021
-date: "2021-10-01T00:00:00.000Z"
+date: "2022-01-18T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
@@ -37,7 +37,7 @@ featured: true
     }
 </style>
 
-In questo articolo confronto i migliori simulatori per droni FPV. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
+In questo articolo confronto i migliori simulatori per droni FPV per PC e Mac. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 
 
 <!-- <div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div> -->
@@ -97,12 +97,27 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 
 |                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
 | :----------------------------------------------------------- | ---------- | :----: | :-------------: | :------------: | ------------------- | :--------: |
-| [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   ✔    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | 20 €       |   ✖️    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
-| [VelociDrone](http://www.velocidrone.com/)                   | 19 €       |   ✔    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
-| [DRL Racing](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) | 9 €        |   ✖️    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| [Orqa FPV.Skydive](https://store.steampowered.com/app/1278060/FPVSkyDive/) | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/) | 13 €       |   Buona    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| [VelociDrone](http://www.velocidrone.com/)                   | 19 €       |   Eccellente    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
+| [DRL Racing](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) | 9 €        |   Discreta    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
 
 </div>
+
+
+## Orqa FPV.Skydive
+
+> Simulatore gratuito con funzionalità limitate, ma una buona fisica
+
+<div class="iframe-container">
+<lite-youtube videoid="EihIDK8bVB8" params="start=38"/>
+</div>
+
+**Orqa FPV.Skydive** è il miglior simulatore FPV gratuito. Al momento ci sono solo 5 livelli, ma sembra che gli aggiornamenti siano regolari. In generale, rispetto agli altri simulatori in questa lista le mappe disponibili sono meno complesse, ma non ci si annoia.
+
+La fisica è sopra la media, specialmente la simulazione del prop wash è fatta davvero bene. L'unico svantaggio di questo simulatore è che la parte di racing è poco sviluppata e non è disponibile in multiplayer.
 
 
 ## FPV FreeRider
@@ -139,6 +154,19 @@ Sfortunatamente non è possibile cambiare nessuna impostazione relativa alla fis
 Liftoff ha semplificato molto il procedimento con il quale è possibile connettere il tuo radiocomando e ha anche introdotto la modalità Freestyle, una gara acrobatica nel quale ad ogni trick ti viene attribuito un punteggio bastato sulla perfezione di esecuzione della manovra. 
 
 
+## Uncrashed 
+
+> Considerato uno dei migliori simulatori per freestyle con un ottima grafica
+
+<div class="iframe-container">
+<lite-youtube videoid="1ct11sPC5pQ"/>
+</div>
+
+Una volta liftoff era il simulatore per eccellenza per i piloti FPV che si volevano allenare in freestyle. Ma **Uncrashed** ha cambiato le carte in tavola!
+Le mappe e i livelli presenti in questo simulatore sono davvero divertenti e perfetti per il freestyle. Un sacco di ostacoli da usare per fare tanti trick spettacolari.
+
+L'unica pecca è l'assenza di multiplayer.
+
 ## VelociDrone
 
 > Fisica molto buona, uno dei simulatori più realistici. Non la miglior grafica ma funziona bene anche su computer lenti
@@ -154,10 +182,11 @@ E' il simulatore con la miglior fisica è altamente personalizzabile. Con la pos
 
 Questo simulatore usa parti del codice del firmware di Betaflight, e in questo modo è possibile aggiustare PID and rates esttamente come se fossi su Betaflight. Il campo di vista (FOV) e l'inclinazione possono essere settate come preferisci. 
 
-La grafica non è delle migliori, ma velociDrones punta più a girare in modo fluido anche su computer portatili. Tra le funzionalità troviamo la creazione di circuiti e la possibiltà di giocare in multiplayer dove è possibile scegliere tra gare e competizioni freestyle. 
+La grafica non è delle migliori, ma velocidrone punta più a girare in modo fluido anche su computer portatili. Tra le funzionalità troviamo la creazione di circuiti e la possibiltà di giocare in multiplayer dove è possibile scegliere tra gare e competizioni freestyle. 
 
 L'unica pecca è che non è disponibile su Steam, quindi l'aggiornamento non è automatico e richiede qualche passo in più, ma questo può anche essere un vantaggio se non vuoi installare un aggiornamento. 
 
+Ad ogni modo, velocidrone è considerato il simulatore standard per tutti i piloti racing, dal momento che è possibile partecipare alle qualificazioni dei campionati Multi GP.
 
 
 ## DRL Racing
