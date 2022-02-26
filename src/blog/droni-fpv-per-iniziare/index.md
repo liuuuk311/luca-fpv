@@ -53,7 +53,7 @@ L'iFlight Nazgul5 V2 è perfetto per coloro che sono seriamente intenzionati ad 
 
 <!-- Potrebbe interessarti anche: [cose da sapere prima di comprare un drone FPV]() -->
 
-## 3. iFlight ProTek35
+## 3. GEPRC CineLog35
 
 Un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. Queste sue caratteristiche lo rendono perfetto per chi vuole usare un drone FPV per fare riprese cinematic come queste. 
 
@@ -61,16 +61,17 @@ Un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resis
 <lite-youtube videoid="dt3F3pEdACE" params="start=10"/>
 </div>
 
-Video come questi sono possibili grazie alla potenza dei motori del ProTek, che gli permettono di sollevare anche il peso di una GoPro Hero 9.
+Video come questi sono possibili grazie alla potenza dei motori del nuovo CineLog35, che gli permettono di sollevare anche il peso di una GoPro Hero 10.
 <!-- Vuoi sapere come fare video come questo? Magari potrebbe interessarti [come fare video cinematic]() -->
+Se vuoi saperne di più su questo drone leggi [questo articolo](https://lucafpv.com/nuovo-cinelog35).
 
-![iFlight Protek](./protek.jpg)
+![GEPRC CineLog35](../nuovo-cinelog35/cinelog.jpg)
 
 ### Chi lo dovrebbe comprare?
 
 Chi vuole usare questo drone per realizzare video cinematic all'aperto e all'interno. Che ha la necessità di montare una GoPro sul drone per i video in alta qualità. 
 
-> Acquista iFlight ProTek35 su [Banggood](https://www.banggood.com/custlink/KmKYgPI7sO)
+> Acquista GEPRC CineLog35 su [Drone24Hours](https://www.drone24hours.com/product/geprc-cinelog35-hd/?lang=en&D24H=lucapalonca)
 
 ## 4. Kit EMAX Tinyhawk II
 
