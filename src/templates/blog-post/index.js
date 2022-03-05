@@ -128,9 +128,9 @@ const BlogPost = ({ data, location }) => {
                             </NavigationLink>
                         ))}
                         
-                        <SubHeading>Coupon di Banggood</SubHeading>
-                        <Paragraph>Risparmia ora sui tuoi acquisti utilizzando i codici sconto</Paragraph>
-                        <Button href="https://lucafpv.com/offerte-e-coupon">Scopri tutti i Coupon</Button>
+                        <SubHeading>FPV Finder</SubHeading>
+                        <Paragraph>Confronta i prodotti FPV da più di 15 negozi online per trovare il prezzo migliore.</Paragraph>
+                        <Button href="https://fpvfinder.netlify.app/?utm_source=lucafpv&utm_medium=referral&utm_campaign=lucafpv_sidebar" target="_blank">Scopri subito</Button>
                     </QuickNavigationContainer>
                 </NavigationContainer>
                 <PostContainer>

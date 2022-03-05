@@ -1,6 +1,6 @@
 ---
-title: I migliori simulatori FPV per iniziare a volare nel 2021
-date: "2022-01-18T00:00:00.000Z"
+title: I migliori simulatori FPV per iniziare a volare nel 2022
+date: "2022-03-05T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
 category:
     - Tutorial
