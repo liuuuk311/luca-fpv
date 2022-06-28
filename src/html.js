@@ -17,7 +17,7 @@ export default function HTML(props) {
           <link rel="preconnect" href="https://tpc.googlesyndication.com/"/>
           <link rel="preconnect" href="https://pagead2.googlesyndication.com/"/>
 
-          <script defer data-ad-client="ca-pub-4566556883137005" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/>
+          <script defer data-ad-client="ca-pub-4566556883137005" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossOrigin="anonymous"/>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
