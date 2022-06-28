@@ -15,7 +15,7 @@ export const NavigationContainer = styled.div`
         padding-right: 16px;
         position: sticky;
         top: 48px;
-        width: calc(300px - 16px);
+        width: calc(550px - 16px);
         z-index: 60;
     `}
 `;
