@@ -102,7 +102,29 @@ module.exports = {
       },
     },
     `gatsby-plugin-minify`,
-    `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [
+          require(`postcss-preset-env`)({ stage: 0 }),
+          require("postcss-import"),
+          require("postcss-nested"),
+          require("postcss-discard-comments"),
+        ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        develop: true,
+        tailwind: true,
+        ignore: ["/styles/blog-post.css"],
+        purgeCSSOptions: {
+          safelist: ["ol", "ul", "lite-youtube"],
+        },
+      },
+    },
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -113,6 +135,12 @@ module.exports = {
           head: false,
           respectDNT: true,
         },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-4566556883137005`
       },
     },
     `gatsby-plugin-feed`,
