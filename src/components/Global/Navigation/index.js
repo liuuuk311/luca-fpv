@@ -67,11 +67,6 @@ const Navigation = ( ) => {
                 >
                     {}
                     <ListItem>
-                        <Link to="/offerte-e-coupon">
-                            Offerte e Coupon
-                        </Link>
-                    </ListItem>
-                    <ListItem>
                         <Link to="/tutorial">
                             Tutorial
                         </Link>

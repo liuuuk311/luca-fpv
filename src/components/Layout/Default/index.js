@@ -24,9 +24,7 @@ const Default = props => {
                 
             </Helmet>
             <Navigation/>
-            <div>
             {children}
-            </div>
             <Footer/>
         </div>
     );

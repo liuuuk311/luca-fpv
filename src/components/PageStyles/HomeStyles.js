@@ -8,10 +8,6 @@ export const TopContainer = styled.div`
     padding: 0 16px;
     width: 100%;
 
-    & > div {
-        flex-basis: 100%;
-    }
-
     ${media.medium`
         flex-direction: row;
         justify-content: space-between;
