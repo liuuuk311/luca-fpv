@@ -114,18 +114,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-purgecss`,
-      options: {
-        printRejected: true,
-        develop: true,
-        tailwind: true,
-        ignore: ["/styles/blog-post.css"],
-        purgeCSSOptions: {
-          safelist: ["ol", "ul", "lite-youtube"],
-        },
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: [
