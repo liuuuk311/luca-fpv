@@ -22,6 +22,7 @@ import  {
     Container,
     PostContainer,
     NavigationContainer,
+    AdsContainer,
     QuickNavigationContainer,
     NavigationHeading,
     NavigationLink,
@@ -30,9 +31,9 @@ import  {
     Title,
     Date,
     Post,
-    Button,
     SubHeading,
-    Paragraph
+    Paragraph,
+    Button, 
 } from '../../components/PageStyles/BlogStyles';
 
 
@@ -128,16 +129,12 @@ const BlogPost = ({ data, location }) => {
                                 {heading.text}
                             </NavigationLink>
                         ))}
-                        
-                        <SubHeading>FPV Finder</SubHeading>
-                        <Paragraph>Confronta i prodotti FPV da più di 15 negozi online per trovare il prezzo migliore.</Paragraph>
-                        <Button href="https://fpvfinder.netlify.app/?utm_source=lucafpv&utm_medium=referral&utm_campaign=lucafpv_sidebar" target="_blank">Scopri subito</Button>
                         <AdSense.Google
                             client='ca-pub-4566556883137005'
                             slot='5109167274'
                             style={{ display: 'block' }}
                             format='fluid'
-                            />
+                        />
                     </QuickNavigationContainer>
                 </NavigationContainer>
                 <PostContainer>
@@ -177,6 +174,20 @@ const BlogPost = ({ data, location }) => {
                     <ThankYou/>
                     <RecommendedArticles slug={slug}/>
                 </PostContainer>
+                <AdsContainer>
+                    <div>
+                        <SubHeading>FPV Finder</SubHeading>
+                        <Paragraph>Ho creato un sito per confrontare i prodotti FPV su più di 15 negozi online per trovare il prezzo migliore.</Paragraph>
+                        <Button href="https://fpvfinder.netlify.app/?utm_source=lucafpv&utm_medium=referral&utm_campaign=lucafpv_sidebar" target="_blank">Provalo Ora</Button>
+                    </div>
+                    <AdSense.Google
+                        client='ca-pub-4566556883137005'
+                        slot='2806584328'
+                        style={{ display: 'block' }}
+                        data-ad-format="auto"
+                        data-full-width-responsive="true"
+                    />
+                </AdsContainer>
             </Container>
             <script src="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.js" defer/>
         </Default>

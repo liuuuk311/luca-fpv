@@ -5,7 +5,7 @@ import prismTheme from '../prismTheme';
 export const Container = styled.div`
     display: flex;
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 1400px;
 `;
 
 export const NavigationContainer = styled.div`
@@ -16,7 +16,7 @@ export const NavigationContainer = styled.div`
         padding-right: 16px;
         position: sticky;
         top: 48px;
-        width: calc(300px - 16px);
+        width: calc(350px - 16px);
         z-index: 60;
     `}
 `;
@@ -27,7 +27,7 @@ export const QuickNavigationContainer = styled.div`
     ${media.large`
         display: block;
         max-height: 100vh;
-        overflow-y: auto;
+        overflow-y: hidden;
         height: 100%;
     `}
 `;
@@ -99,6 +99,19 @@ export const PostContainer = styled.div`
         padding: 24px 0;
         width: 80%;
     }
+`;
+
+export const AdsContainer = styled.div`
+    display: hidden;
+    ${media.large`
+        display: block;
+        height: 100%;
+        padding-right: 16px;
+        position: sticky;
+        top: 48px;
+        width: calc(350px - 16px);
+        z-index: 60;
+    `}
 `;
 
 export const Info = styled.div`
