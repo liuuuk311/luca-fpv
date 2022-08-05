@@ -102,7 +102,7 @@ export const PostContainer = styled.div`
 `;
 
 export const AdsContainer = styled.div`
-    display: hidden;
+    display: none;
     ${media.large`
         display: block;
         height: 100%;
