@@ -54,18 +54,17 @@ Il tempo stimato per la build completa è di 2 ore, sei pronto? Bene, cominciamo
 
 Questa build verrà fatta con i componenti specificati nella prima colonna della tabella. Tuttavia, suggerisco anche delle alternative più economiche per ogni componente. 
 
-> Prima di acquistare i componenti, guarda se sono [disponibili coupon](https://lucafpv.com/offerte-e-coupon) per questi prodotti
 
 <div id="components-table"> 
 
 
 |                 | Per questa build                                                 | Alternativa economica                      |
 |-----------------|------------------------------------------------------------------|--------------------------------------------|
-| **Telaio**      | [GepRC Mark 4 HD](https://www.banggood.com/custlink/3G3Y0ISrnd)  | [TBS Source One v4](https://www.drone24hours.com/prodotto/tbs-source-one-v4-5-pollici/) |
-| **Stack**       | Speedybee F7 V2 <br/> [Banggood](https://www.banggood.com/custlink/KvDhBS9J0P) - [D24H](https://www.drone24hours.com/prodotto/speedybee-f7-v2-fc-45a-3-6s-blheli_32-wifi-bluetooth/?D24H=lucapalonca)| Stack Mamba F405 <br/> [Banggood](https://www.banggood.com/custlink/33mYe9SWBk) - [D24H](https://www.drone24hours.com/prodotto/mamba-basic-f405-mk2-50a-bls-4-6s/?D24H=lucapalonca) |
+| **Telaio**      | [GepRC Mark 4 HD](https://www.banggood.com/custlink/3G3Y0ISrnd)  | [TBS Source One v5](https://www.drone24hours.com/prodotto/tbs-source-one-hd-5inch/?D24H=lucapalonca  ) |
+| **Stack**       | Speedybee F7 V2 <br/> [Banggood](https://www.banggood.com/custlink/KvDhBS9J0P) - [D24H](https://www.drone24hours.com/prodotto/speedybee-f7-v2-fc-45a-3-6s-blheli_32-wifi-bluetooth/?D24H=lucapalonca)| Stack MAMBA MK4 <br/> [Banggood](https://www.banggood.com/custlink/KmKWmJPVe1) - [D24H](https://www.drone24hours.com/prodotto/diatone-mamba-mk4-h743-55a-6s-32bit-128k/?D24H=lucapalonca) |
 | **Motori**      | T-Motor Velox V2 <br/> [Banggood](https://www.banggood.com/custlink/GvvR0iZcOF) - [D24H](https://www.drone24hours.com/prodotto/t-motor-v2306-v2-kv1950/?D24H=lucapalonca)   | Emax Eco II <br/> [Banggood](https://www.banggood.com/custlink/DGGdgZ9WOo) - [D24H](https://www.drone24hours.com/prodotto/emax-eco-ii-series-2207-1700kv-1900kv-2400kv/?D24H=lucapalonca)|
-| **Sistema FPV** | [Caddx Vista](https://www.banggood.com/custlink/mGDh6iZcL3)       | [Rush Tank II](https://www.banggood.com/custlink/mK3YB88WNN) + [Foxeer Predator 5](https://www.banggood.com/custlink/GGKy6SIcbU) + [Antenna](https://www.banggood.com/custlink/DKmd4Iic2y) |
-| **Ricevente**   | [TBS Crossfire Nano](https://www.drone24hours.com/prodotto/tbs-crossfire-nano-rx-se/?D24H=lucapalonca) | [R9M Mini](https://www.drone24hours.com/prodotto/frsky-r9mx-ota-sbus-long-range-900mhz-micro-rc-receiver-access/?D24H=lucapalonca) |
+| **Sistema FPV** | [Caddx Nebula Pro](https://www.banggood.com/custlink/v3GWKctPsE)       | [Rush Tank II](https://www.banggood.com/custlink/mK3YB88WNN) + [Foxeer Razor Mini](https://www.banggood.com/custlink/DvmpGpPPsW) + [Antenna](https://www.banggood.com/custlink/DKmd4Iic2y) |
+| **Ricevente**   | [TBS Crossfire Nano](https://www.drone24hours.com/prodotto/tbs-crossfire-nano-rx-se/?D24H=lucapalonca) | [Frsky XM+](https://www.banggood.com/custlink/D33CKrHHAS) |
 | **Eliche**      | [HQ Ethix S3](https://www.drone24hours.com/prodotto/ethix-s3-watermelon/?D24H=lucapalonca) | Qualsiasi elica 5"                         |
 | **Totale**      | **400 euro**                                                       | **270 euro**                               |
 
