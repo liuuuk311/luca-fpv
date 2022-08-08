@@ -5,7 +5,7 @@ excerpt: Betaflight offre diverse modalità di volo e alcune di queste sono quas
 categories:
     - Tutorial
 tags: 
-    - Principiante
+    - Principianti
     - Betaflight
 featured: false
 ---

@@ -5,7 +5,7 @@ excerpt:
 categories:
     - Tutorial
 tags: 
-    - Principiante
+    - Principianti
 featured: true
 ---
 
