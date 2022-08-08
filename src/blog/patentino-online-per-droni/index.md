@@ -29,13 +29,15 @@ Magari ti interessa: [Come prendere il patentino per il drone e quanto costa?](h
 
 I droni più diffussi che possono esser usati tranquillamente senza patentino sono: 
 
-- [DJI Mini 2](https://amzn.to/3kqafwW)
-- [DJI Tello](https://amzn.to/3BeyDIr)
+- DJI Mini 2 (Guarda su <a href="https://amzn.to/3kqafwW" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+- DJI Tello (Guarda su <a href="https://amzn.to/3BeyDIr" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+
 
 Anche i droni FPV possono esser pilotati senza patentino se pesano meno di 250 grammi. I migliori che consiglio sono:
 
-- [Beta85 Pro](https://amzn.to/3yeuwuc)
-- [Beta95X V3](https://amzn.to/3jhN4oX)
+- Beta85 Pro (Guarda su <a href="https://amzn.to/3yeuwuc" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+- Beta95X V3 (Guarda su <a href="https://amzn.to/3jhN4oX" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+
 
 ## Cosa si può fare con il patentino A1/A3?
 
