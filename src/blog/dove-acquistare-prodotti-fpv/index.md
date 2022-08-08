@@ -2,7 +2,7 @@
 title: "I migliori store dove acquistare prodotti FPV"
 date: "2022-01-07T00:00:00.000Z"
 excerpt: "Ecco la lista dei migliori ecommerce dove acquistare i prodotti FPV e dove si risparmia di più"
-category:
+categories:
     - News
 tags: 
     - Principianti

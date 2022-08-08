@@ -2,7 +2,7 @@
 title: "Recensione - iFlight Nazgul5: il miglior drone FPV economico da 5 pollici nel 2020?"
 date: "2020-03-23T00:00:00.000Z"
 excerpt: Stai cercando il primo drone da 5 pollici e non vuoi costruirlo da zero? In questa recensione vedremo se l'iFlight Nazgul5 è il miglior drone FPV pre-assemblato per cominciare a volare senza spendere troppo. 
-category:
+categories:
     - Recensione
 tags: 
     - Principianti
@@ -18,7 +18,6 @@ In alternativa, se sei hai già un'altra radio, conviene prendere la versione PN
 
 Questo drone è disponibile su <a href='https://www.banggood.com/custlink/vvKG2Z9a7B' target='_blank'>Banggood</a>, ricordati di selezionare il magazzino più vicino a te per ridurre i tempi di consenga.
 
-<!-- Per quanto riguarda gli occhiali FPV, se non ne hai ancora un paio prova a leggere questo articolo: occhiali FPV perfetti per principianti. -->
 
 ## Contenuto della confezione
 Il Nazgul5 viene spedito con le seguenti parti:
@@ -60,9 +59,6 @@ La camera a bordo è una Caddx Ratel 1200 TVL da 2,1 mm. E' presente anche il ca
 ## Motori
 Nella versione 6S il Nazgul5 monta motori XING-E 2207 1800 kV, mentre nella versione 4S i motori sono da 2750 kV.  Gli XING-E 2207 sono motori di buona qualità e risultano essere abbastanza fluidi. Le eliche incluse nella confezione sono perfette insieme a questi motori.
 
-<!-- Se hai bisgono di eliche di ricambio: iFlight Nazgul5 5140 5140 eliche a 3 pale
-In alternativa puoi prendere le HQ Prop 5x4.3x3 V1S  -->
-
 ![iFlight_Nazgul5_1](./iFlight_Nazgul5_1.jpg)
 
 ## Stack ESC, FC e VTX
@@ -71,16 +67,16 @@ Gli ESC del Nazgul5 sono da 45 A e sono dotati già di un condensatore esterno d
 
 Il connettore per la batteria LiPo è un classico XT60 con cavi da 12 AWG e passa attraverso un supporto in TPU che ospita anche il connettore per l'antenna della VTX.
 
-Il Flight Controller è una SucceX-E F4 e arriva già flashata con Betaflight 4.0.4. <!-- Consiglio subito di aggiornarla seguendo questa guida. -->
+Il Flight Controller è una SucceX-E F4 e arriva già flashata con Betaflight 4.0.4.
 Il drone arriva configurato con la rotazione delle eliche invertita. Le eliche girano verso l'esterno del frame. 
 
-La VTX è una FORCE VT5804 V2 dotata di microfono per l'audio e ha anche la funzionalità di SmartAudio. <!-- Come configurare SmartAudio in Betaflight --> L'antenna in dotazione è iFlightdoom con connettore MMCX.
+La VTX è una FORCE VT5804 V2 dotata di microfono per l'audio e ha anche la funzionalità di SmartAudio. L'antenna in dotazione è iFlightdoom con connettore MMCX.
 
 ![iFlight_Nazgul5_2](./iFlight_Nazgul5_2.jpg)
 
 ## Batterie
 
-Le batterie chiarmente non sono incluse. <!-- Come scegliere le batterie per il drone -->
+Le batterie chiarmente non sono incluse.
 
 È possibile scegliere tra un pad in silicone o un cuscinetto in schiuma forniti in dotazione per montare la batteria. Quello in silicone offre un maggior grip per mantenere il pacco batteria saldo e in sicurezza.
 

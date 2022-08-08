@@ -2,7 +2,7 @@
 title: "Tango 2 o X-Lite Pro, qual è la miglior radio compatta?"
 date: "2020-09-20T00:00:00.000Z"
 excerpt: In questa recensione confronto le due radio più popalari e conosciute per la loro portabilità. Radio compatte e con meno funzionalità, sarà questo il nuovo trend del mondo FPV? Lo scopriamo insieme in questo articolo.
-category:
+categories:
     - Recensione
 tags: 
     - Principianti
@@ -12,7 +12,7 @@ featured: false
 I controller radio più popolari e più compatti disponibili per i piloti FPV nel 2020 sono il TBS Tango 2 e Frsky X-Lite Pro. In questa recensione confronto i due e ti aiuto a decidere quale acquistare.
 
 ## Dove comprare
- <!-- CTA -->
+
 ### TBS Tango 2
 - <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca">Drone24Hours</a>, spediscono dall'Italia e molto velocemente
 - <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.team-blacksheep.com/products/prod:tbs_tango_2">TeamBlacksheep</a>, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana

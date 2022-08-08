@@ -2,14 +2,14 @@
 title: Scaricare Betaflight Configurator
 date: "2020-04-10T00:00:00.000Z"
 excerpt: Ecco dove puoi scaricare le applicazioni più comuni usate nel mondo FPV per configurare il tuo drone.
-category:
+categories:
   - Tutorial
 tags: 
   - Principianti
   - Betaflight
 featured: false
 ---
-<style>
+<style jsx>{`
     table td:nth-of-type(1) {
        min-width: 120px;
        min-height: 120px;
@@ -17,7 +17,7 @@ featured: false
     table td:nth-of-type(1) img{
        object-fit: contain;
     }
-</style>
+`}</style>
 
 
 Google ha annunciato di non terminare il supporto per tutte le loro Applicazioni di Chrome. Quindi sia Betaflight Configurator che altre applicazioni del mondo dei multi rotori hanno cominciato a rilasciare le versioni standalone. In questo articolo spiego come scaricare Betaflight Configurator.

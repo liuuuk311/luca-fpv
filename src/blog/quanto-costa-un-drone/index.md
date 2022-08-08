@@ -2,12 +2,12 @@
 title: Ecco quanto costa comprare un drone nel 2021
 date: "2021-09-25T00:00:00.000Z"
 excerpt: "Quanto costa comprare un drone nel 2021? La risposta breve è dipende, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie"
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti
 ---
-<style>
+<style jsx>{`
     #drone-table td:nth-of-type(1) {
        min-width: 120px;
        min-height: 120px;
@@ -38,7 +38,7 @@ tags:
         #drone-table td:nth-of-type(3):before { content: "Prezzo"; }
         #drone-table td:nth-of-type(4):before { content: "Utilizzo"; }
     }
-</style>
+`}</style>
 
 Quanto costa comprare un drone nel 2021? 
 > **La risposta breve è dipende**, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. 
@@ -135,7 +135,7 @@ Questo è un sistema FPV completo, nel kit è incluso il radiocomando e un ricev
 
 ![Drone FPV](./drone_fpv.png)
 
-Conosciuti anche come mini quad, questi droni sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h. A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad <!-- [https://oscarliang.com/build-a-quadcopter-beginners-tutorial-1/] -->può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
+Conosciuti anche come mini quad, questi droni sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h. A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
 
 Recentemente anche filmmakers, content creator e fotografi stanno scegliendo questa categoria di droni. Infatti avendo un drone di questo tipo dà molta più flessibilità al pilota e permette di riprendere video che sono semplicemente impossibili con altre categorie di quadricotteri.
 

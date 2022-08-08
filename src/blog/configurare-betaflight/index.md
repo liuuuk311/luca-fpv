@@ -2,7 +2,7 @@
 title: Configurare Betaflight per la prima volta
 date: "2020-04-04T00:00:00.000Z"
 excerpt: Una guida passo per passo per configurare in modo semplice il firmware Betaflight, selzionare le giuste impostazioni per il tuo quadricottero e volare per la prima volta.
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti
@@ -23,7 +23,6 @@ Per rendere questo tutorial il più semplice possibile, assumo che tu abbia comp
 - Un flight controller F3 o F4 con installato Betaflight 3.2 o versioni più recenti
 - ESC che supportano il protocollo DShot
 
-<!-- Prima di cominciare, devi [scaricare e installare Betaflight con i relativi driver](). -->
 
 > Questa guida è stata scritta usando la versione 10.6.0 di Betaflight Configurator, versioni successive potrebbero avere diverse impostazioni
 
@@ -32,7 +31,6 @@ Per rendere questo tutorial il più semplice possibile, assumo che tu abbia comp
 
 Quando compri un nuovo FC ti arriva sempre con una versione di Betaflight già installata. Quindi in realtà, non c'è bisgono di flashare il nuovo firmware a meno che tu non voglia usare l'ultima versione di Betaflight, e solitamente non è mai una cattiva idea. 
 
-<!-- In questa guida spiego [come flashare Betaflight passo per passo](https://oscarliang.com/flash-update-betaflight/). -->
 
 ------
 
@@ -52,7 +50,7 @@ Una volta collegato il drone, un nuovo disposivo seriale dovrebbe comparire nel 
 
 Quindi clicca su connetti. 
 
-Se non riesci a connetterti e sei su Windows, molto probabilmente stai avendo qualche problema con i driver, oppure il tuo FC potrebbe essere brickato.  <!-- Follow [this guide to fix flight controller driver issues](https://oscarliang.com/fc-driver-issues-flash-firmware/). Or maybe your FC is “bricked”, which can be easily [fixed as explained in this article](https://oscarliang.com/cannot-connect-to-naze32-brick-fix/).-->
+Se non riesci a connetterti e sei su Windows, molto probabilmente stai avendo qualche problema con i driver, oppure il tuo FC potrebbe essere brickato.  
 
 ![Connetti Betaflight](./connetti.png)
 

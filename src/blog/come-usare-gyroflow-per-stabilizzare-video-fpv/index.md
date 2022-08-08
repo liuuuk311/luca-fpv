@@ -2,7 +2,7 @@
 title: Come usare GyroFlow per stabilizzare video FPV
 date: "2022-04-22T00:00:00.000Z"
 excerpt: 
-category:
+categories:
     - Tutorial
 tags: 
     - Principiante
@@ -50,8 +50,6 @@ Scorri verso il basso fino a "Assets", scegli il link per il download per il tuo
 Se vuoi approfondire il funzionamento di Gyroflow, puoi leggere la [documentazione](https://docs.gyroflow.xyz/)
 
 
-<!-- ## Impostazioni della camera -->
-<!-- Da spiegare -->
 
 ## Come funziona
 

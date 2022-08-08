@@ -2,7 +2,7 @@
 title: Come tunare i PID
 date: "2020-05-02T00:00:00.000Z"
 excerpt: In questo tutorial cerco di spiegare cosa si intende con PID, quali sono gli effetti sulla stabilità e manovrabilità del drone e anche qualche consiglio su come tunare i PID. 
-category:
+categories:
     - Tutorial
 tags: 
     - Intermedio

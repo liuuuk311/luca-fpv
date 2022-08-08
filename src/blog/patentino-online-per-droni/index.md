@@ -2,7 +2,7 @@
 title: Quando è obbligatorio il patentino per il drone?
 date: "2021-09-26T00:00:00.000Z"
 excerpt: Vediamo quando serve il patentino del drone e quali sono i droni che si possono usare senza l'obbligo del patentino.
-category:
+categories:
   - News
 tags: 
   - Normative

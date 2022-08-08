@@ -2,13 +2,13 @@
 title: "Come costruire un drone FPV nel 2022: La guida passo a passo"
 date: "2022-01-05T00:00:00.000Z"
 excerpt: "Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione. In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h."
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti
 featured: true
 ---
-<style>
+<style jsx>{`
     @media 
     only screen and (min-width: 980px) {
         td {
@@ -30,16 +30,14 @@ featured: true
         #components-table td:nth-of-type(2):before { content: "Per questa build"; }
         #components-table td:nth-of-type(3):before { content: "Alternativa"; }
     }
-</style>
+`}</style>
 
 ## Per chi è pensata questa build?
 Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione.
 
 In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h. 
 
-<!-- Una volta costruito ecco quello che può fare questo drone. -->
 
-<!-- VIDEO di alcuni voli col il drone -->
 
 ## Le basi 
 Lo scopo di questo articolo è spiegare quali sono gli step necessari per costruire e configurare un drone FPV da zero. 
@@ -217,7 +215,7 @@ Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight con
 Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
 
 ![FC Montata](./fc_montata.jpeg)
-<!-- ### 6. Check e test motori -->
+
 
 ### 6. Sistema FPV 
 
@@ -238,9 +236,6 @@ Una volta completata la build, quello che rimane da fare è configurare Betaflig
 
 In caso di flight controller diverso, puoi fare riferimento a [questa guida](https://lucafpv.com/configurare-betaflight).
 
-<!-- ## Test di volo
-
-## PID Tuning -->
 
 
 

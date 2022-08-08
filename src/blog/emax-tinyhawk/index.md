@@ -2,7 +2,7 @@
 title: "Emax Tinyhawk: il drone FPV perfetto per iniziare?"
 date: "2020-09-19T00:00:00.000Z"
 excerpt: Un kit FPV economico che comprende drone, radiocomando e visore. L'Emax Tinyhawk è il drone giusto per inziare a volrare in FPV? In questa recensione vedremo quali sono i suoi vantaggi e svantaggi.
-category:
+categories:
     - Recensione
 tags: 
     - Principianti

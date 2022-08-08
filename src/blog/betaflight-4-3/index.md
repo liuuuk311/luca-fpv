@@ -2,7 +2,7 @@
 title: Betaflight 4.3 - Cosa c'è da sapere?
 date: "2022-02-05T00:00:00.000Z"
 excerpt: 
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti

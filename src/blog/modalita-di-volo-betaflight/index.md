@@ -2,7 +2,7 @@
 title: Come configurare le modalità di volo in Betaflight
 date: "2020-04-24T00:00:00.000Z"
 excerpt: Betaflight offre diverse modalità di volo e alcune di queste sono quasi indispensabili. Ecco la lista di tutte le modalità di volo, e una breve spiegazione di come attivarle.
-category:
+categories:
     - Tutorial
 tags: 
     - Principiante
@@ -24,8 +24,6 @@ Per decollare, il quadricottero deve prima essere armato. Una volta armato, i mo
 
 Puoi assegnare uno switch del tuo radiocomando in modo tale che cambiando lo stato dell'interruttore il quad si armi e disarmi. 
 
-<!-- If you have trouble arming, there can be many potential causes. In this article I will help you [troubleshoot why you can’t arm a quadcopter](https://oscarliang.com/quad-arming-issue-fix/). -->
-
 ## Angle, Horizon & Acro Mode
 
 Sia con la modalità Angle che Horizon, il quad utilizzerà l'acceleromentro e giroscopio per auto livellarsi. Queste due modalità sono le più facili da imparare per un principiante. 
@@ -34,7 +32,6 @@ Puoi comunque fare flip e roll in modalità Horizon ma non in modalità Angle pe
 
 Ad ogni modo, la modalità Acro è la "vera" modalità in cui volare sia per freestyle che racing. Anche se più difficile da imparare, consiglio fortemente di imparare a volare in Acro. 
 
-<!-- I have an article discussing [why you should be learning Acro mode](https://oscarliang.com/rate-acro-horizon-flight-mode-level/). -->
 
 > **Dove si trova la modalità Acro?**
 >
@@ -60,8 +57,6 @@ Nella sezione Configurazione hai la possibilità di tenere sempre attiva questa 
 
 Un'altra funzionalità è Anti-Gravity. Riduce l'effetto picchiata (il naso del quad che punta in basso) quando cambi rapidamente il gas. Per farlo, in pratica aumenta momenteamente il termine I quando il valore del gas cambia molto.
 
-<!-- See this article to learn more about [how PID can affect flight performance](https://oscarliang.com/quadcopter-pid-explained-tuning/). -->
-
 Come per Airmode, se hai abilitato questa funzionalità nella sezione configurazione, non la troverai nella sezione Modalità di volo.
 
 ## Blackbox Start/Erase
@@ -82,7 +77,7 @@ Puoi impostare questa funzionalità ad uno switch e il quad si armerà solo se l
 
 Una delle modalità più utili, in mia opinione. Quando crashi il quad e finisci con il quad "a testa in giù", utilizzando questa modalità potrai provare a girare il quad, senza doverlo andare a recuperare. In pratica, quello che fa è girare i motori nel verso opposto, e per funzionare devi utilizzare degli ESC che supportano il protocollo DShot. 
 
-Questa modalità è spesso chiamata anche “Turtle Mode”. <!-- Tutorial come configurare Turtle Mode -->
+Questa modalità è spesso chiamata anche “Turtle Mode”.
 
 ## VTX Pit Mode
 
@@ -102,9 +97,7 @@ Pensato principalmente per principianti, permette di volare in Acro con un limit
 
 ## Configurare le modalità
 
-Le modalità di volo in Betaflight possono essere attivate tramite gli switch del radiocomando. <!-- Come scegliere il radiocomando --> 
-
-<!-- Guida su come impostare switch in OpenTX -->
+Le modalità di volo in Betaflight possono essere attivate tramite gli switch del radiocomando. 
 
 Per semplicità, configuro tre modalità su tre switch diversi. A ogni switch, tipicamente è associato un canale ausiliare indicato con AUX. Il primo canale ausiliare AUX 1, corrisponde al canale 5; AUX 2 al canale 6 e cosi via. 
 

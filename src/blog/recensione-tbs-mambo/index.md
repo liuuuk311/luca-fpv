@@ -2,7 +2,7 @@
 title: "Recensione TBS Mambo, la miglior radio per chi inizia"
 date: "2021-10-01T00:00:00.000Z"
 excerpt: La recensione della nuova TBS Mambo, alta qualità costruttiva e prezzo molto competitivo. La nuova miglior radio per principianti.
-category:
+categories:
     - Recensione
 tags: 
     - Principianti

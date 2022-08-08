@@ -2,7 +2,7 @@
 title: Cosa significa FPV? 
 date: "2021-08-25T00:00:00.000Z"
 excerpt: Spesso si sente parlare di droni FPV oppure gare in FPV, in questo articolo spiego in modo semplice il significato di questo termine.
-category: 
+categories: 
     - Definizione
 tags: 
     - Principianti

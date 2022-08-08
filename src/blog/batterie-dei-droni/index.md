@@ -2,14 +2,14 @@
 title: Tutto quello che c'è da sapere sulle batterie dei droni
 date: "2021-08-28T00:00:00.000Z"
 excerpt: In questo articolo spiego tutto quello che c'è bisogno di sapere sulle batterie dei droni. Da quanto durano, a quali sono le migliori per il tuo drone FPV.
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti
 featured: false
 ---
 
-<style>
+<style jsx>{`
     @media 
     only screen and (min-width: 980px) {
         td {
@@ -32,7 +32,7 @@ featured: false
         #drone-table td:nth-of-type(3):before { content: "Prezzo"; }
         #drone-table td:nth-of-type(4):before { content: "Tempo di Volo"; }
     }
-</style>
+`}</style>
 
 Chi ha un drone vorrebbe poter volare senza mai dover atterrare perchè la batteria è scarica. I progressi tecnologici ci hanno dato tempi di volo che possono arrivare fino a 30 minuti con una singola carica. La necessità del tempo di volo più lungo è particolarmente evidente in coloro che sono interessati alla fotografia aerea oppure nei voli long range.
 

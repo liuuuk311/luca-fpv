@@ -2,7 +2,7 @@
 title: "Impossibile aprire la porta seriale in Betaflight: Ecco la soluzione"
 date: "2020-09-30T00:00:00.000Z"
 excerpt: In questo articolo andremo a risolvere il problema di connessione a Betaflight più comune. Se non riesci a connetterti a Betaflight perché esce il messaggio di errore "Impossibile aprire la porta seriale", questo articolo fa per te.
-category:
+categories:
     - Tutorial
 tags: 
     - Betaflight

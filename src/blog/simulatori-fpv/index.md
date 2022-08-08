@@ -2,14 +2,14 @@
 title: I migliori simulatori FPV per iniziare a volare nel 2022
 date: "2022-08-05T00:00:00.000Z"
 excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti
 featured: true
 ---
 
-<style>
+<style jsx>{`
     #radio-table td:nth-of-type(1) {
        min-width: 120px;
        min-height: 120px;
@@ -35,12 +35,11 @@ featured: true
         #sims-table td:nth-of-type(6):before { content: "Sistema Operativo"; }
         #sims-table td:nth-of-type(7):before { content: "Steam"; }
     }
-</style>
+`}</style>
 
 In questo articolo confronto i migliori simulatori per droni FPV per PC e Mac. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 
 
-<!-- <div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div> -->
 
 ## Cos'è un simulatore FPV?
 
@@ -207,7 +206,7 @@ Carino il fatto che si possa gareggiare con "fantasmi" di altri piloti che del t
 
 Quasi tutti i simulatori FPV permettono di aggiustare i rates e PID, oltre che a cambiare impostazioni relativa alla fisica. Lo scopo è quello di ottenere l'esperienza più simile al volo reale. Tuttavia queste impostazioni sono pensate prevalentemente per piloti con più esperienza.
 
-Se voli da poco tempo, è meglio lasciare tutte le impostazioni di default a meno che qualcosa non funzioni. Le uniche impostazioni che dovresti cambiare sono i rates e l'expo, che sono essenzialmente la sensibilità rispetto ai comandi dati dagli stick. <!-- Leggi questo articolo per maggiori dettagli -->
+Se voli da poco tempo, è meglio lasciare tutte le impostazioni di default a meno che qualcosa non funzioni. Le uniche impostazioni che dovresti cambiare sono i rates e l'expo, che sono essenzialmente la sensibilità rispetto ai comandi dati dagli stick.
 
 Se invece vuoi approfondire l'argomento dai un'occhiata a questi articoli su [cosa sono i rates](https://lucafpv.com/spiegazioni-rates) e [come tunare i PID](https://lucafpv.com/come-tunare-pid).
 

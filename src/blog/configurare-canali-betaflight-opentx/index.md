@@ -2,7 +2,7 @@
 title: Come configurare i canali della ricevente in Betaflight e OpenTX
 date: "2020-09-23T00:00:00.000Z"
 excerpt: Un problema molto comune è la mappatura errata dei canali in Betaflight. In questo tutorial vediamo cos'è e come funziona. Inoltre vediamo come mappare i canali in modo corretto sia in Betaflight che in OpenTX.
-category:
+categories:
     - Tutorial
 tags: 
     - Principianti

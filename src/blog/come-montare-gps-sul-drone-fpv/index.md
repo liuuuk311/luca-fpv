@@ -2,7 +2,7 @@
 title: "GPS su un drone FPV: Collegamenti e configurazione"
 date: "2021-08-26T00:00:00.000Z"
 excerpt: Come montare il modulo GPS come ad esempio il Beitian BN-220, su un drone FPV da racing? In questo articolo spiego come collegare il GPS e configurarlo in modo da utilizzare GPS Rescue su Betaflight
-category: 
+categories: 
     - Tutorial
 tags: 
     - Principianti
