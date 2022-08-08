@@ -3,7 +3,7 @@ import { colors, fonts, media } from '../../utils';
 
 export const Container = styled.div`
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 1400px;
     padding: 0 16px;
     width: calc(100% - 32px);
 `;

@@ -21,11 +21,7 @@ import {
 import  {
     Container,
     PostContainer,
-    NavigationContainer,
     AdsContainer,
-    QuickNavigationContainer,
-    NavigationHeading,
-    NavigationLink,
     ShareButtons,
     Info,
     Title,
@@ -53,41 +49,6 @@ const BlogPost = ({ data, location }) => {
         }
     } = data;
     
-    const post = useRef(null);
-
-    const [ headings, setHeadings ] = useState(null);
-
-    useEffect(() => {
-        const postDiv = post.current;
-
-        const headingsRaw = postDiv.querySelectorAll('h1, h2');
-        const headings = [...headingsRaw].map(heading => {
-            let indentLevel = 0;
-            const tagName = heading.tagName;
-
-            if(tagName === 'H3'){
-                indentLevel = 1
-            } else if(tagName === 'H4'){
-                indentLevel = 2
-            } else if(tagName === 'H5'){
-                indentLevel = 3
-            } else if(tagName === 'H6'){
-                indentLevel = 4
-            }
-
-            return {
-                text: heading.innerText, 
-                heading,
-                indentLevel
-            }
-        });
-
-        setHeadings(headings)
-    }, [])
-
-    const handleNavigationClick = element => {
-        element.scrollIntoView({behavior: "smooth", block: "start"});
-    }
 
     const getOgSlug = slug => {
         const slugSplit = slug.split('/')
@@ -115,28 +76,6 @@ const BlogPost = ({ data, location }) => {
                 <meta name="twitter:card" content="summary_large_image"/>
             </Helmet>
             <Container>
-                <NavigationContainer>
-                    <QuickNavigationContainer>
-                        <NavigationHeading>
-                            Indice
-                        </NavigationHeading>
-                        {headings && headings.map((heading, index) => (
-                            <NavigationLink
-                                onClick={() => handleNavigationClick(heading.heading)}
-                                indentLevel={heading.indentLevel}
-                                key={index}
-                            >
-                                {heading.text}
-                            </NavigationLink>
-                        ))}
-                        <AdSense.Google
-                            client='ca-pub-4566556883137005'
-                            slot='5109167274'
-                            style={{ display: 'block' }}
-                            format='fluid'
-                        />
-                    </QuickNavigationContainer>
-                </NavigationContainer>
                 <PostContainer>
                     <Info>
                         <Date>
@@ -149,7 +88,6 @@ const BlogPost = ({ data, location }) => {
                     <Post 
                         dangerouslySetInnerHTML={{ __html: `<div>${html}</div>` }}
                         as="div"
-                        ref={post}
                     />
                     <ShareButtons>
                         <TwitterShareButton
@@ -187,6 +125,12 @@ const BlogPost = ({ data, location }) => {
                         data-ad-format="auto"
                         data-full-width-responsive="true"
                     />
+                    <AdSense.Google
+                            client='ca-pub-4566556883137005'
+                            slot='5109167274'
+                            style={{ display: 'block' }}
+                            format='fluid'
+                        />
                 </AdsContainer>
             </Container>
             <script src="https://npmcdn.com/lite-youtube-embed@0.2.0/src/lite-yt-embed.js" defer/>

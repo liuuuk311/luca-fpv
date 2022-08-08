@@ -7,8 +7,8 @@ export const HomeLink = styled.div`
     a {
         color: ${colors.black};
         display: block;
-        font-size: 24px;
-        line-height: 24px;
+        font-size: 28px;
+        line-height: 28px;
         font-weight: 700;
         text-decoration: none;
     }

@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql, useStaticQuery, Link } from 'gatsby';
+import { Link } from 'gatsby';
 
 import {
     Container,
@@ -11,29 +11,7 @@ import {
     Preview
 } from './styled';
 
-const HomePostList = () => {
-
-    const data = useStaticQuery(graphql`
-    {
-      allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {featured: {eq: true}}}, limit: 10) {
-        edges {
-          node {
-            fields {
-              slug
-            }
-            frontmatter {
-              date(formatString: "DD MMMM YYYY", locale: "it")
-              title
-              excerpt
-              tags
-            }
-          }
-        }
-      }
-    }    
-    `)
-
-    const posts = data.allMarkdownRemark.edges;
+const HomePostList = ({posts}) => {
 
     return (
         <Container>

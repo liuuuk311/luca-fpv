@@ -9,15 +9,14 @@ import {
 import NavbarLinks from './NavbarLinks';
 
 const Container = styled.nav`
-  height: 10vh;
+  height: 20vh;
   display: flex;
-  background-color: #fff;
   position: relative;
   justify-content: space-between;
   margin: 0 auto;
   z-index: 2;
   align-self: center;
-  max-width: 1248px;
+  max-width: 1400px;
 
   @media (max-width: 768px) {
     position: sticky;

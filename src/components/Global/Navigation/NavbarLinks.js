@@ -41,9 +41,11 @@ const NavItem = styled(Link)`
     z-index: 6;
   }
 `
+
 const NavbarLinks = () => {
   return (
     <>
+      <NavItem to="/problemi-comuni-droni-fpv">Problemi comuni</NavItem>
       <NavItem to="/problemi-comuni-droni-fpv">Problemi comuni</NavItem>
       <NavItem to="/articoli">Articoli</NavItem>
       <NavItem to="/contattami">Contattami</NavItem>

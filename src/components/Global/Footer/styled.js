@@ -6,8 +6,7 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     margin: 24px auto 0 auto;
-    max-width: 1248px;
-    padding: 24px 16px;
+    max-width: 1400px;
     width: calc(100% - 32px);
 
     ${media.medium`
