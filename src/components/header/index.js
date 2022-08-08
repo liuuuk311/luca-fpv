@@ -23,7 +23,7 @@ const Header = () => {
   
   return (
     <nav className="dark:bg-gray-800 dark:text-gray-200 flex flex-col">
-      <div className="my-2 flex flex-row justify-between md:h-24 items-start">
+      <div className="mb-8 flex flex-row justify-between md:h-24 items-center">
         <Link to={`/`} className="hidden md:inline-block">
           <span className="text-3xl font-bold">{siteTitle}</span>
         </Link>
