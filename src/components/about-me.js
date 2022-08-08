@@ -37,7 +37,7 @@ const AboutMe = () => {
           image={Image}
           className="h-72 md:h-96 md:w-1/2 rounded-lg"
         /> */}
-        <div className="md:w-1/2 md:py-4 md:px-8 flex flex-col text-left justify-start">
+        <div className="md:w-1/2 md:py-4 flex flex-col text-left justify-start">
           <h2 className="text-3xl mb-8 font-bold dark:text-gray-200">
             Ciao!
           </h2>

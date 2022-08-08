@@ -5,7 +5,7 @@ import Tags from "../components/tags"
 
 export const PostCard = ({ post }) => {
     return (
-        <Link to="/"> 
+        <Link to={post.fields.slug}> 
             <article className="dark:bg-gray-800 rounded-lg border shadow-md pb-4">
                 {post.frontmatter.featuredImage ? (
                     <GatsbyImage

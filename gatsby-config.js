@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Luca FPV - Vola in prima persona',
+    title: 'Luca FPV',
+    tagLine: 'Vola in prima persona',
     author: 'Luca',
     description: 'Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV.',
     siteUrl: 'https://lucafpv.com',

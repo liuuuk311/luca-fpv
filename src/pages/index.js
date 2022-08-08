@@ -43,6 +43,9 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt(pruneLength: 150)
+          fields {
+            slug
+          }
           frontmatter {
             title
           }
@@ -57,6 +60,9 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt(pruneLength: 150)
+          fields {
+            slug
+          }
           frontmatter {
             title
             tags
