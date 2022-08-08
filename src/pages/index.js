@@ -38,7 +38,7 @@ export const pageQuery = graphql`
     featured_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { featured: {eq: true} } }
-      limit: 6
+      limit: 3
     ) {
       edges {
         node {
