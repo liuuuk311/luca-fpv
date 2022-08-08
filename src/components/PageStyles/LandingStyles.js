@@ -17,7 +17,7 @@ export const Heading = styled(fonts.Heading)`
 
 export const Paragraph = styled(fonts.Body)`
     color: ${colors.darkGray};
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
 `;
 

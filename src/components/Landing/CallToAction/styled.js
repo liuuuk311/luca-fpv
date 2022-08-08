@@ -6,10 +6,6 @@ export const Section = styled.section`
     text-align: center;
     margin: 0 auto;
     padding: 1em;
-    p {
-    font-size: 1.5rem;
-    font-weight: 500;
-    }
 `;
 
 export const Paragraph = styled(fonts.Body)`
