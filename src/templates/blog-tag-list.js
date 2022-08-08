@@ -38,28 +38,16 @@ export const pageQuery = graphql`
   query BlogTagQuery($skip: Int!, $limit: Int!, $tagRegex: String!) {
     recent_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { draft: {eq: false}, tags: {regex: $tagRegex} } }
+      filter: { frontmatter: { tags: {regex: $tagRegex} } }
       limit: $limit
       skip: $skip
     ) {
       edges {
         node {
           excerpt(pruneLength: 150)
-          fields {
-            slug
-          }
           frontmatter {
             title
             tags
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 450
-                  placeholder: BLURRED
-                  formats: [AUTO, WEBP]
-                  )
-              }
-            }
           }
         }
       }

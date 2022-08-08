@@ -37,53 +37,29 @@ export const pageQuery = graphql`
   query HomeQuery {
     featured_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { featured: {eq: true}, draft: {eq: false} } }
+      filter: { frontmatter: { featured: {eq: true} } }
       limit: 6
     ) {
       edges {
         node {
           excerpt(pruneLength: 150)
-          fields {
-            slug
-          }
           frontmatter {
             title
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 450
-                  placeholder: BLURRED
-                  formats: [AUTO, WEBP]
-                  )
-              }
-            }
           }
         }
       }
     }
     recent_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { featured: {eq: false}, draft: {eq: false} } }
+      filter: { frontmatter: { featured: {eq: false} } }
       limit: 6
     ) {
       edges {
         node {
           excerpt(pruneLength: 150)
-          fields {
-            slug
-          }
           frontmatter {
             title
             tags
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 450
-                  placeholder: BLURRED
-                  formats: [AUTO, WEBP]
-                  )
-              }
-            }
           }
         }
       }

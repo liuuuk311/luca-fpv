@@ -1,28 +1,28 @@
-import { graphql, useStaticQuery } from "gatsby";
-import { GatsbyImage } from "gatsby-plugin-image";
+// import { graphql, useStaticQuery } from "gatsby";
+// import { GatsbyImage } from "gatsby-plugin-image";
 import React from "react";
 
-const query = graphql`
-  query AboutMeQuery {
-    allFile(
-      filter: {
-        relativePath: { eq: "wieger-stienstra-SDWbEi94QG0-unsplash.jpg" }
-      }
-    ) {
-      edges {
-        node {
-          childImageSharp {
-            gatsbyImageData(
-              height: 650
-              placeholder: BLURRED
-              formats: [AUTO, WEBP]
-            )
-          }
-        }
-      }
-    }
-  }
-`;
+// const query = graphql`
+//   query AboutMeQuery {
+//     allFile(
+//       filter: {
+//         relativePath: { eq: "wieger-stienstra-SDWbEi94QG0-unsplash.jpg" }
+//       }
+//     ) {
+//       edges {
+//         node {
+//           childImageSharp {
+//             gatsbyImageData(
+//               height: 650
+//               placeholder: BLURRED
+//               formats: [AUTO, WEBP]
+//             )
+//           }
+//         }
+//       }
+//     }
+//   }
+// `;
 
 const AboutMe = () => {
   // const data = useStaticQuery(query);

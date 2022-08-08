@@ -36,28 +36,15 @@ export const pageQuery = graphql`
   query BlogQuery($skip: Int!, $limit: Int!) {
     recent_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { draft: {eq: false} } }
       limit: $limit
       skip: $skip
     ) {
       edges {
         node {
           excerpt(pruneLength: 150)
-          fields {
-            slug
-          }
           frontmatter {
             title
             tags
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 450
-                  placeholder: BLURRED
-                  formats: [AUTO, WEBP]
-                  )
-              }
-            }
           }
         }
       }

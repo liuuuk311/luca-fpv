@@ -23,7 +23,7 @@ const Footer = () => {
         <footer className="bg-white dark:bg-gray-800 mt-16">
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
-                    <Link to={`/`} language={context.language} className="flex items-center">
+                    <Link to={`/`} className="flex items-center">
                         {/* {image && <GatsbyImage image={image} className="h-10" />} */}
                         <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">{siteTitle}</span>
                     </Link>

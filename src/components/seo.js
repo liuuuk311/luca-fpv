@@ -17,7 +17,7 @@ const Seo = ({ title, description, image, isArticle }) => {
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
-    image: `${siteUrl}${image || defaultImage}`,
+    image: `${siteUrl}${image}`,
     url: `${siteUrl}${pathname}`,
   }
 
@@ -63,7 +63,7 @@ query SEO {
         siteMetadata {
             defaultTitle: title
             siteUrl: siteUrl
-            description: defaultDescription
+            defaultDescription: description
         }
     }
 }

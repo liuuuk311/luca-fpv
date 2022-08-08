@@ -13,16 +13,16 @@ const Post = ( {data} ) => {
   const { post, recommendations } = data
   const { frontmatter, body, excerpt } = post
 
-  const Image = frontmatter.featuredImage
-    ? frontmatter.featuredImage.publicURL
-    : ""
+  // const Image = frontmatter.featuredImage
+  //   ? frontmatter.featuredImage.publicURL
+  //   : ""
 
   return (
     <>
       <Seo
         title={frontmatter.title}
-        description={frontmatter.description ? frontmatter.description : excerpt}
-        image={Image}
+        description={frontmatter.excerpt ? frontmatter.excerpt : excerpt}
+        image={undefined}
         isArticle={true}
       />
       <div className="flex flex-row">
@@ -61,38 +61,23 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 150)
       frontmatter {
         title
-        description
+        excerpt
         categories
         tags
-        featuredImage {
-          publicURL
-        }
       }
     }
   recommendations: allMdx(
     sort: {fields: [frontmatter___date], order: DESC}
-    filter: {
-      id: {ne: $id}
-  ) {
+    filter: { id: {ne: $id} }
+  )
+  {
     edges {
       node {
         excerpt(pruneLength: 150)
-        fields {
-          slug
-        }
         frontmatter {
           title
           tags
           categories
-          featuredImage {
-            childImageSharp {
-              gatsbyImageData(
-                width: 450
-                placeholder: BLURRED
-                formats: [AUTO, WEBP]
-                )
-            }
-          }
         }
       }
     }

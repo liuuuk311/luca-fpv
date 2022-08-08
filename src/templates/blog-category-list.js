@@ -34,31 +34,19 @@ const BlogCategoryList = ({ data, pageContext }) => {
 export default BlogCategoryList
 
 export const pageQuery = graphql`
-  query BlogCategoryQuery($skip: Int!, $limit: Int!, $categoryRegex: String!, $language: String!) {
+  query BlogCategoryQuery($skip: Int!, $limit: Int!, $categoryRegex: String!) {
     recent_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { draft: {eq: false}, categories: {regex: $categoryRegex} } }
+      filter: { frontmatter: { categories: {regex: $categoryRegex} } }
       limit: $limit
       skip: $skip
     ) {
       edges {
         node {
           excerpt(pruneLength: 150)
-          fields {
-            slug
-          }
           frontmatter {
             title
             tags
-            featuredImage {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 450
-                  placeholder: BLURRED
-                  formats: [AUTO, WEBP]
-                  )
-              }
-            }
           }
         }
       }
