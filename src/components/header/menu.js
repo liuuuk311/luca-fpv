@@ -6,11 +6,11 @@ import { menuItems } from "./menu-items"
 const Menu = ({isNavOpen, setIsNavOpen}) => {
     return (
         <div>
-            <div className="hidden md:flex md:flex-row pt-2">
+            <div className="hidden md:flex md:flex-row pt-2 space-around">
               {menuItems.map(({link, label}) => {
                 return <Link 
                   to={link} 
-                  className="py-3 w-full text-base font-semibold text-center px-2">
+                  className="py-3 text-base font-semibold text-center px-3">
                     {label}
                   </Link>
             })}

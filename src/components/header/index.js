@@ -25,9 +25,9 @@ const Header = () => {
     <nav className="dark:bg-gray-800 dark:text-gray-200 flex flex-col">
       <div className="my-2 flex flex-row justify-between md:h-24 items-start">
         <Link to={`/`} className="hidden md:inline-block">
-          <span className="text-3xl font-bold md:w-32">{siteTitle}</span>
+          <span className="text-3xl font-bold">{siteTitle}</span>
         </Link>
-        <div className="flex flex-row flex-grow md:justify-end items-end p">
+        <div className="flex flex-row flex-grow md:justify-end items-end">
           <Menu isNavOpen={isNavOpen} setIsNavOpen={setIsNavOpen}/>
           <Link to={`/`} className="md:hidden mx-auto">
             <span className="text-2xl font-bold">{siteTitle}</span>
