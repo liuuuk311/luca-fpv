@@ -96,7 +96,6 @@ const WhastappShare = () => {
 }
 
 const ShareSideBar = ({image}) => {
-    const { t } = useTranslation("common");
     return (
         <div className="sticky top-8 mx-auto">
             <div className="hidden md:flex md:flex-col">

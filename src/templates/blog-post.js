@@ -35,7 +35,6 @@ const Post = ( {data} ) => {
             <div className="my-8 mb-0 leading-loose text-xl">
               <MDXRenderer>{body}</MDXRenderer>
             </div>
-            <p className="text-gray-400 dark:text-gray-500 font-thin mb-4 italic bg-gray-50 rounded-lg p-5" style={{fontSize: "0.875rem", lineHeight: "1.25rem"}}>{t('affiliate_disclosure')}</p>
             <div class="flex-grow border-t border-gray-200 dark:border-gray-600 mb-2"></div>
             <Categories categories={frontmatter.categories} />
           </article>

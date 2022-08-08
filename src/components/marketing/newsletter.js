@@ -1,4 +1,4 @@
-// import React, {useState} from "react"
+import React from "react"
 // import { useTranslation } from 'gatsby-plugin-react-i18next';
 // import addToMailchimp from 'gatsby-plugin-mailchimp'
 
@@ -43,7 +43,6 @@
 // }
 
 const NewsletterBlock = () => {
-    const { t } = useTranslation("blog")
 
     return (
         <div className="mt-8">
