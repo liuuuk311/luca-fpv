@@ -1,0 +1,263 @@
+.blog-post h2 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: 700;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.blog-post h3 {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    margin-bottom: 0.35rem;
+}
+
+.blog-post p {
+    font-size: 1.25rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+}
+
+.blog-post ul {
+    list-style-type: disc;
+    margin-top: -0.5rem;
+    margin-left: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.blog-post ol {
+    list-style-type: decimal;
+    margin-top: -0.5rem;
+    margin-left: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.blog-post img {
+    width: 100%;
+    border-radius: 0.5rem;
+}
+
+.blog-post figure {
+    margin-bottom: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.blog-post figcaption {
+    font-weight: 300;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.blog-post blockquote {
+    position: relative;
+    padding-left: 1rem;
+    border-left: 0.5rem solid #039be5;
+    font-family: 'Roboto', serif;
+    font-size: 2rem;
+    /* 24px */
+    line-height: 3rem;
+    /* 32px */
+}
+
+.blog-post blockquote p {
+    font-size: 2rem;
+    /* 24px */
+    line-height: 3rem;
+    /* 32px */
+    font-weight: 100;
+}
+
+@media 
+  only screen and (max-width: 760px),
+  (min-device-width: 768px) and (max-device-width: 1024px)  {
+    .blog-post blockquote {
+        position: relative;
+        padding-left: 0.5rem;
+        border-left: 0.25rem solid #039be5;
+        font-family: 'Roboto', serif;
+        font-size: 1.25rem;
+        line-height: 2rem;
+    }
+    
+    .blog-post blockquote p {
+        font-size: 1.25rem;
+        /* 24px */
+        line-height: 2rem;
+        /* 32px */
+        font-weight: 100;
+    }
+  }
+
+.blog-post a {
+    color: rgb(74, 154, 197);
+    font-weight: 600;
+}
+
+.blog-post p a:hover {
+    color: rgb(74, 154, 197);
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.blog-post aside {
+    padding: 1.5rem;
+    background-color: #f5f5f5;
+    border-radius: 0.5rem;
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+  /* Force table to not be like tables anymore */
+  table, thead, tbody, th, td, tr { 
+    display: block; 
+  }
+    
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr { 
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+    
+  /* tr { border: 1px solid #ccc; } */
+
+  td { 
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee; 
+    position: relative;
+    padding-left: 50%; 
+  }
+
+  td:before { 
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%; 
+    padding-right: 10px; 
+    white-space: nowrap;
+  }
+  
+}
+
+@media 
+only screen and (min-device-width: 1024px) {
+    /* Table style only on bigger screens */
+    .blog-post table {
+        border-spacing: 0;
+        border-collapse: collapse;
+        border-radius: 0.5rem;
+        border: 2px solid rgb(229 231 235);
+        overflow: hidden;
+        max-width: 800px;
+        width: 100%;
+        margin: 4rem auto;
+        position: relative;
+    }
+
+
+    .blog-post thead {
+        height: 2.5rem;
+        background: rgb(249 250 251);
+        font-size: 14px;
+        text-align: left;
+        text-transform: uppercase;
+    }
+
+    .blog-post td,
+    .blog-post th {
+        padding-left: 8px;
+    }
+
+    .blog-post tr {
+        height: 1.75rem;
+        border-top: 1px solid rgb(229 231 235);
+    }
+
+}
+.yt-lite {
+    background-color: #000;
+    position: relative;
+    display: block;
+    contain: content;
+    background-position: center center;
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
+
+.yt-lite::after {
+    content: "";
+    display: block;
+    padding-bottom: calc(100% / (16 / 9));
+}
+.yt-lite > iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* play button */
+.yt-lite > .lty-playbtn {
+    width: 70px;
+    height: 46px;
+    background-color: #212121;
+    z-index: 1;
+    opacity: 0.8;
+    border-radius: 14%; /* TODO: Consider replacing this with YT's actual svg. Eh. */
+    transition: all 0.2s cubic-bezier(0, 0, 0.2, 1);
+}
+.yt-lite:hover > .lty-playbtn {
+    background-color: #f00;
+    opacity: 1;
+}
+/* play button triangle */
+.yt-lite > .lty-playbtn:before {
+    content: '';
+    border-style: solid;
+    border-width: 11px 0 11px 19px;
+    border-color: transparent transparent transparent #fff;
+}
+
+.yt-lite > .lty-playbtn,
+.yt-lite > .lty-playbtn:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+}
+
+/* Post-click styles */
+.yt-lite.lyt-activated {
+    cursor: unset;
+}
+.yt-lite.lyt-activated::before,
+.yt-lite.lyt-activated > .lty-playbtn {
+    opacity: 0;
+    pointer-events: none;
+}
+
+tbody {
+    font-size: 0.95rem;
+}
+
+td figcaption {
+    margin: auto;
+    visibility: hidden;
+    font-size: 1px;
+    min-width: 100px;
+}
+
+tbody figure {
+    max-width: 115px;
+}
