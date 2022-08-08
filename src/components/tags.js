@@ -8,7 +8,7 @@ const Tags = ({ tags }) => {
         {tags && tags.map((tag) => (
           <Link
             to={`/${slugify(tag)}`}
-            className="px-2 font-bold uppercase hover:underline text-[#4A9AC5]"
+            className="px-2 font-bold uppercase hover:underline text-[#eda550]"
           >
             #{tag}
           </Link>
