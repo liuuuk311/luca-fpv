@@ -34,7 +34,7 @@
     "gatsby-plugin-sitemap": "^5.15.1",
     "gatsby-remark-google-analytics-track-links": "^1.0.2",
     "gatsby-remark-images": "^6.15.0",
-    "gatsby-source-filesystem": "^4.15.0",
+    "gatsby-source-filesystem": "^4.20.0",
     "gatsby-transformer-remark": "^5.15.0",
     "gatsby-transformer-sharp": "^4.15.0",
     "gbimage-bridge": "^0.2.1",

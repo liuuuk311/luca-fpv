@@ -16,13 +16,6 @@ module.exports = {
         name: 'blog',
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/data`,
-        name: 'data',
-      },
-    },
     "gatsby-plugin-preact",
     {
       resolve: `gatsby-plugin-postcss`,

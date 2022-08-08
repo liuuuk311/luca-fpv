@@ -1,3 +1,5 @@
+const { createFilePath } = require('gatsby-source-filesystem');
+
 const {
   CreateMarkdownPages,
   CreateBlogListPage,
@@ -12,7 +14,6 @@ export const createPages = async ({ actions, graphql }) => {
     {
       posts: allMdx(
         sort: { order: DESC, fields: [frontmatter___date] }
-        filter: { frontmatter: { draft: { ne: true } } }
       ) {
         edges {
           node {
@@ -21,7 +22,6 @@ export const createPages = async ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              slug
               title
               categories
               tags
@@ -59,16 +59,4 @@ export const createPages = async ({ actions, graphql }) => {
   dedupeTags(posts).forEach(({occurrences, tag}, _) => {
     CreateBlogTagListPage({tag, occurrences, postsPerPage, actions})
   });
-};
-
-
-export const onCreateNode = ({ node, actions }) => {
-  const { createNodeField } = actions;
-  if (node.internal.type === `Mdx`) {
-    createNodeField({
-      node,
-      name: `slug`,
-      value: node.frontmatter.slug,
-    });
-  }
 };
