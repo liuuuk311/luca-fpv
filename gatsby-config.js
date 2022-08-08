@@ -23,25 +23,20 @@ module.exports = {
         name: 'data',
       },
     },
+    "gatsby-plugin-preact",
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-plugin-postcss`,
       options: {
-        plugins: [
-          `gatsby-remark-relative-images`,
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 700,
-              linkImagesToOriginal: false,
-              quality: 75,
-              backgroundColor: "transparent",
-            }
-          },
-        ]
-      }
+        postCssPlugins: [
+          require(`postcss-preset-env`)({ stage: 0 }),
+          require("postcss-import"),
+          require("postcss-nested"),
+          require("postcss-discard-comments"),
+        ],
+      },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,  
+    "gatsby-plugin-image",
+    "gatsby-plugin-react-helmet",
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
@@ -101,38 +96,12 @@ module.exports = {
         }
       },
     },
-    `gatsby-plugin-minify`,
-    {
-      resolve: `gatsby-plugin-postcss`,
-      options: {
-        postCssPlugins: [
-          require(`postcss-preset-env`)({ stage: 0 }),
-          require("postcss-import"),
-          require("postcss-nested"),
-          require("postcss-discard-comments"),
-        ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        trackingIds: [
-          "UA-55771620-2", // Google Analytics / GA
-        ],
-        pluginConfig: {
-          head: false,
-          respectDNT: true,
-        },
-      },
-    },
     {
       resolve: `gatsby-plugin-google-adsense`,
       options: {
         publisherId: `ca-pub-4566556883137005`
       },
     },
-    `gatsby-plugin-feed`,
-    `gatsby-plugin-preact`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -147,15 +116,47 @@ module.exports = {
         icon: `./src/assets/propeller.png`,
       },
     },
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`,
     {
-      resolve: 'gatsby-plugin-typography',
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        pathToConfigModule: 'src/utils/typography',
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1024,
+              showCaptions: true,
+              linkImagesToOriginal: false,
+              tracedSVG: true,
+              loading: "lazy",
+            },
+          },
+        ],
       },
     },
-    `gatsby-transformer-json`,
-    `gatsby-plugin-offline`,
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-offline",
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-6YB9CW1683", // Google Analytics / GA
+        ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        develop: true,
+        tailwind: true,
+        ignore: ["/styles/blog-post.css"],
+        purgeCSSOptions: {
+          safelist: ["ol", "ul", "lite-youtube"],
+        },
+      },
+    },
   ],
 }
