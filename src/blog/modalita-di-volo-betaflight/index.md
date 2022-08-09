@@ -16,7 +16,7 @@ Se è la prima volta che usi Betaflight, potrebbe anche interessarti [come confi
 
 Non tutte le "modalità" che sono presenti nella sezione Modalità di volo in [Betaflight Configurator](https://lucafpv.com/scaricare-betaflight-configurator/), sono vere e proprie modalità. Alcune di queste sono delle funzionalità. 
 
-![Modalità di Volo](./modalita_di_volo.png)
+![Modalità di Volo](/assets/modalita-di-volo-betaflight/modalita_di_volo.png)
 
 ## Arm
 
@@ -33,13 +33,11 @@ Puoi comunque fare flip e roll in modalità Horizon ma non in modalità Angle pe
 Ad ogni modo, la modalità Acro è la "vera" modalità in cui volare sia per freestyle che racing. Anche se più difficile da imparare, consiglio fortemente di imparare a volare in Acro. 
 
 
-> **Dove si trova la modalità Acro?**
->
-> Noterai che la modalità Acro non è disponibile nella sezione modalità di volo. Questo perchè è la modalità di default, e nel momento in cui armi il tuo quad sarà automaticamente in Acro. 
->
-> **Come mai non vedo Angle e Horizon?**
->
-> Se non trovi le modalità Angle e Horizon nella sezione modalità di volo, significa che il tuo accelerometro è disabilitato. Alcuni preferiscono disabilitarlo quando volano in Acro per avere più potenza di calcolo a disposizione. Per abilitare/disabilitare l'accelerometro trovi una checkbox nella sezione Configurazione.
+**Dove si trova la modalità Acro?**
+Noterai che la modalità Acro non è disponibile nella sezione modalità di volo. Questo perchè è la modalità di default, e nel momento in cui armi il tuo quad sarà automaticamente in Acro. 
+
+**Come mai non vedo Angle e Horizon?**
+Se non trovi le modalità Angle e Horizon nella sezione modalità di volo, significa che il tuo accelerometro è disabilitato. Alcuni preferiscono disabilitarlo quando volano in Acro per avere più potenza di calcolo a disposizione. Per abilitare/disabilitare l'accelerometro trovi una checkbox nella sezione Configurazione.
 
 ## Beeper
 
@@ -103,13 +101,13 @@ Per semplicità, configuro tre modalità su tre switch diversi. A ogni switch, t
 
 In questo esempio, lo switch SF della mia radio invia segnali sul canale 5 e quindi corrisponde ad AUX 1. In questo modo, nel configurare le modalità di volo, so già a quale AUX assegnare la funzionalità che mi interessa.  
 
-![Armare con Switch](./switch_radio.jpg)
+![Armare con Switch](/assets/modalita-di-volo-betaflight/switch_radio.jpg)
 
 Impostare gli switch è forse la parte più complicata di questo processo. Ora viene la parte più semplice.
 
 Vai nella sezione Modalità di volo su Betaflight Configurator.
 
-![Nessuna modalità](./nessuna_modalita.png)
+![Nessuna modalità](/assets/modalita-di-volo-betaflight/nessuna_modalita.png)
 
 Per configurare le modalità, è meglio avere il radiocomando acceso e collegato con il modello che stai configurando.
 
@@ -117,15 +115,15 @@ Cominciamo dalla più importate, ARM. Clicca "Attiva" e seleziona l'AUX associat
 
 Ora devi scegliere in quale range di valori vuoi che venga attivata questà modalità. Per uno switch a due posizioni, puoi tranquillamente impostarlo da 1500 a 2000, come in questo caso. 
 
-![Arm](./arm.png)
+![Arm](/assets/modalita-di-volo-betaflight/arm.png)
 
 Per la turtle mode, uso uno switch a tre posizioni, quindi il range in cui voglio questa funzione attiva sarà dopo 1600 e 2000.
 
-![Turtle Mode](./turtle_mode.png)
+![Turtle Mode](/assets/modalita-di-volo-betaflight/turtle_mode.png)
 
 Per attivare il beeper del quad, utilizzo lo switch momenteno configurato su AUX 3.
 
-![Beeper](./beeper.png)
+![Beeper](/assets/modalita-di-volo-betaflight/beeper.png)
 
 ## Hai bisogno di una mano?
 

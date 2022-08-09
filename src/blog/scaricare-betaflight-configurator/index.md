@@ -11,14 +11,14 @@ featured: false
 ---
 <style jsx>{`
     table td:nth-of-type(1) {
-       min-width: 120px;
-       min-height: 120px;
+       width: 15%;
     }
     table td:nth-of-type(1) img{
        object-fit: contain;
     }
 `}</style>
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
 
 Google ha annunciato di non terminare il supporto per tutte le loro Applicazioni di Chrome. Quindi sia Betaflight Configurator che altre applicazioni del mondo dei multi rotori hanno cominciato a rilasciare le versioni standalone. In questo articolo spiego come scaricare Betaflight Configurator.
 
@@ -30,12 +30,12 @@ Betaflight Configurator e le applicazioni elencate in questo articolo sono compa
 
 | Logo                                                         | Nome                    | Download Link                                                |
 | ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ |
-| ![Betaflight Logo](./betaflight_configurator_icon.png) | Betaflight Configurator | Download da [Github](https://github.com/betaflight/betaflight-configurator/releases) |
-| ![Betaflight Logo](./blackbox_explorer_icon.png) | Blackbox Explorer       | Download da [Github](https://github.com/betaflight/blackbox-log-viewer/releases) |
-| ![Betaflight Logo](./blheli_configurator_icon.png) | BLHeli Configurator     | Download da [Github](https://github.com/blheli-configurator/blheli-configurator/releases) |
-| ![Emuflight Logo](./emuflight_configurator_icon.png) | Emuflight Configurator  | Download da [Github](https://github.com/emuflight/EmuConfigurator/releases) |
-| ![iNav Configurator](./inav_configurator_icon.jpeg) | iNav Configurator       | Download da [Github](https://github.com/iNavFlight/inav-configurator/releases) |
-| ![BLHeli_32 Suite](./BLHeli_32_configurator_icon.png) | BLHeliSuite_32          | Download da [Github](https://github.com/bitdump/BLHeli)      |
+| ![Betaflight Logo](/assets/scaricare-betaflight-configurator/betaflight_configurator_icon.png) | Betaflight Configurator | Download da <AffiliateLink href="https://github.com/betaflight/betaflight-configurator/releases" label="github.com"/> |
+| ![Betaflight Logo](/assets/scaricare-betaflight-configurator/blackbox_explorer_icon.png) | Blackbox Explorer       | Download da <AffiliateLink href="https://github.com/betaflight/blackbox-log-viewer/releases" label="github.com"/> |
+| ![Betaflight Logo](/assets/scaricare-betaflight-configurator/blheli_configurator_icon.png) | BLHeli Configurator     | Download da <AffiliateLink href="https://github.com/blheli-configurator/blheli-configurator/releases" label="github.com"/> |
+| ![Emuflight Logo](/assets/scaricare-betaflight-configurator/emuflight_configurator_icon.png) | Emuflight Configurator  | Download da <AffiliateLink href="https://github.com/emuflight/EmuConfigurator/releases" label="github.com"/> |
+| ![iNav Configurator](/assets/scaricare-betaflight-configurator/inav_configurator_icon.jpeg) | iNav Configurator       | Download da <AffiliateLink href="https://github.com/iNavFlight/inav-configurator/releases" label="github.com"/> |
+| ![BLHeli_32 Suite](/assets/scaricare-betaflight-configurator/BLHeli_32_configurator_icon.png) | BLHeliSuite_32          | Download da <AffiliateLink href="https://github.com/bitdump/BLHeli" label="github.com"/>      |
 
 - Per Windows, scarica il file con l'estensione “.exe”
 - Per MacOS, scarica il file con l'estensione “.dmg”
