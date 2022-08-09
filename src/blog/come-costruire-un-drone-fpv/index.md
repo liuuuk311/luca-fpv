@@ -128,19 +128,19 @@ Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfi
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](https://www.banggood.com/custlink/GKDdt3FyqU), [Fatshark Attitude V6](https://www.banggood.com/custlink/3DDygLLa4t) e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
+- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su <AffiliateLink href="https://amzn.to/3AzHXH2" label="Amazon.it"/>, <AffiliateLink href="https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca" label="Drone24Hours"/> che è un negozio italiano che spedisce veloce o su <AffiliateLink href="https://www.banggood.com/custlink/KG3E6OjP11" label="Banggood"/>), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: <AffiliateLink href="https://www.banggood.com/custlink/GKDdt3FyqU" label="Fatshark HDO2"/>, <AffiliateLink href="https://www.banggood.com/custlink/3DDygLLa4t" label="Fatshark Attitude V6"/> e infine <AffiliateLink href="https://www.banggood.com/custlink/mKmhPmbuCO" label="Eachine EV800D"/>.
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
 Ecco l'elenco degli strumenti essenziali per la costruzione di droni FPV. Queste sono cose che vanno acquistate una volta, e potrai usare nel futuro per altre build.
 
-- Saldatore ([acquista da Amazon](https://amzn.to/38PEojV))
-- Set di cacciaviti esadecimali ([acquista da Amazon](https://amzn.to/2X3MP8i))
-- Un piccolo cacciavite a croce ([acquista da Amazon](https://amzn.to/3E17WsT))
+- Saldatore (<AffiliateLink href="https://amzn.to/38PEojV" label="acquista da Amazon.it" />)
+- Set di cacciaviti esadecimali (<AffiliateLink href="https://amzn.to/2X3MP8i" label="acquista da Amazon.it" />)
+- Un piccolo cacciavite a croce (<AffiliateLink href="https://amzn.to/3E17WsT" label="acquista da Amazon.it" />)
 - Un paio di forbici per spellare e tagliare i fili
-- Nastro isolante ([acquista da Amazon](https://amzn.to/3E0E3sU))
-- Nastro biadesivo 3M in schiuma ([acquista da Amazon](https://amzn.to/3BXcSgW))
-- Multimetro ([acquista da Amazon](https://amzn.to/2Xcad3U))
+- Nastro isolante (<AffiliateLink href="https://amzn.to/3E0E3sU" label="acquista da Amazon.it" />)
+- Nastro biadesivo 3M in schiuma (<AffiliateLink href="https://amzn.to/3BXcSgW" label="acquista da Amazon.it" />)
+- Multimetro (<AffiliateLink href="https://amzn.to/2Xcad3U" label="acquista da Amazon.it" />)
 - Fascette
 
 ## Costruzione

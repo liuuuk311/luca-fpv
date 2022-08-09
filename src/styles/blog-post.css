@@ -62,6 +62,7 @@
     /* 24px */
     line-height: 3rem;
     /* 32px */
+    margin: 0;
 }
 
 .blog-post blockquote p {
