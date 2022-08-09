@@ -38,6 +38,7 @@ featured: false
 `}</style>
 
 import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+import AffiliateLink from "../../components/blog/affiliate-link.js"
 
 In questo aritcolo vedremo tutto ciò che c'è da sapere per caricare batterie LiPo (Lithium-Polymer) in maniera sicura.
 
@@ -111,23 +112,23 @@ Anche se molti caricano le proprie batterie in parallelo con successo, molti esp
 
 Esistono diversi carica batterie per LiPo sul mercato. Di sicuro il più famoso è l'economico IMAX B6. La qualità di questo prodotto è veramente bassa e l'interfaccia non molto intuitiva. Tuttavia nella confezione ci sono diversi accessori, tra cui il fondamentale alimentatore. 
 
-![Caricabatterie IMAX B6](./imax-b6.jpeg)
+![Caricabatterie IMAX B6](/assets/caricare-batterie-lipo/imax-b6.jpeg)
 
 Questo carica batterie può caricare batterie fino a 4S. 
 
-> Acquista l'IMAX B6 su [Amazon](https://amzn.to/3BnLxnF) | [Drone24Hours](https://www.drone24hours.com/prodotto/caricabatteria-per-bilanciamento-della-batteria-lipo-imax-b6-80w-6a-con-adattatore-di-alimentazione/?D24H=lucapalonca) | [Banggood](https://www.banggood.com/custlink/3G3YeFgj2T) 
+> Acquista l'IMAX B6 su <AffiliateLink href="https://amzn.to/3BnLxnF" label="Amazon"/> | <AffiliateLink href="https://www.drone24hours.com/prodotto/caricabatteria-per-bilanciamento-della-batteria-lipo-imax-b6-80w-6a-con-adattatore-di-alimentazione/?D24H=lucapalonca" label="Drone24Hours"/> | <AffiliateLink href="https://www.banggood.com/custlink/3G3YeFgj2T" label="Banggood"/> 
 
 Il mio carica batterie preferito è senza dubbio è l'ISDT Q6 Nano. Ne ho 4 di questi caricatori. Sono affidabili intuitivi e compatti, ma soprattutto economici. L'unico svantaggio rispetto all'IMAX B6 è che l'alimentatore viene venduto a parte oppure in kit. 
 
 L'ISDT Q6 Nano può caricare batterie fino a 6S.
 
-![Caricabatterie ISDT Q6 Nano](./isdt.jpg)
+![Caricabatterie ISDT Q6 Nano](/assets/caricare-batterie-lipo/isdt.jpg)
 
 Tuttavia acquistando l'alimentatore che consiglio, si riesce a creare un setup in cui un solo power supply alimenta 3 o 4 carica batterie, dando la possibilità di caricare fino a 4 batterie contemporanemente individualmente in maniera sicura, evitando così i rischi della ricarica in parallelo. 
 
 Trovi il mio setup di ricarica nelle storie in evidenza sul mio [profilo Instagram](https://instagram.com/iamlucafpv). 
 
-> Acquista l'[ISDT Q6 Nano](https://www.banggood.com/custlink/DmmEetBofD) + [Alimentatore](https://www.banggood.com/custlink/vmDdetgauF) oppure <br/> Kit carica batterie + Alimentatore su [Banggood](https://www.banggood.com/custlink/DDGYgH063g)
+> Acquista l'<AffiliateLink href="https://www.banggood.com/custlink/DmmEetBofD" label="ISDT Q6 Nano"/> + <AffiliateLink href="https://www.banggood.com/custlink/vmDdetgauF" label="Alimentatore"/> oppure <br/> Kit carica batterie + Alimentatore su <AffiliateLink href="https://www.banggood.com/custlink/DDGYgH063g" label="Banggood"/>
 
 ## Quanto posso tenere una LiPo carica?
 

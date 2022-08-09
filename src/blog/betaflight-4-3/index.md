@@ -11,7 +11,7 @@ featured: false
 
 L'ultima iterazione di Betaflight, la versione 4.3 è pronta all'uscita e porta diversi miglioramenti.
 
-![Betaflight Logo](./bf_logo.png)
+![Betaflight Logo](/assets/betaflight-4-3/bf_logo.png)
 
 ## Introduzione
 

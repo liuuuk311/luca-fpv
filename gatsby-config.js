@@ -17,6 +17,14 @@ module.exports = {
         name: 'blog',
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/assets/`,
+        name: `assets`,
+      },
+      __key: "images",
+    },
     "gatsby-plugin-preact",
     {
       resolve: `gatsby-plugin-postcss`,
@@ -118,11 +126,9 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1024,
-              showCaptions: true,
+              maxWidth: 720,
               linkImagesToOriginal: false,
               tracedSVG: true,
-              loading: "lazy",
             },
           },
         ],

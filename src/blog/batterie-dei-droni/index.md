@@ -101,7 +101,7 @@ La capacità della batteria si misura in mAh (milliampere-ora) ed indica la quan
 
 Questo però non si traduce direttamente in più tempo di volo. Infatti, la relazione tra mAh e durata di volo non è lineare. Questo perché con l'aumentare della capacità della batteria, aumenta anche il peso della stessa, diminuendo quindi l'efficienza del drone.
 
-![Relazione capacità della batteria vs. tempo di volo](./flight_time.png) 
+![Relazione capacità della batteria vs. tempo di volo](/assets/batterie-dei-droni/flight_time.png) 
 
 
 ## Le migliori batterie per droni FPV
@@ -117,7 +117,7 @@ Nello specifico qua consiglio le batterie per droni 5" FPV. Queste sono le march
 
 ### Economiche - GNB
 
-![GNB](./gnb.jpeg) 
+![GNB](/assets/batterie-dei-droni/gnb.jpeg) 
 
 > Banggood: <AffiliateLink href="https://www.banggood.com/custlink/KDGye5LIm2" label="4S 1300mAh"/> | <AffiliateLink href="https://www.banggood.com/custlink/vmvdBHaSDw" label="6S 1100mAh"/>
 
@@ -125,7 +125,7 @@ Se sei appena agli inizi, non ha molto senso comprare le migliori batterie poich
 
 ### Economiche - Tattu FunFly
 
-![Tattu FunFly](./funfly.jpeg) 
+![Tattu FunFly](/assets/batterie-dei-droni/funfly.jpeg) 
 
 > Amazon: <AffiliateLink href="https://amzn.to/3Bf6GQO" label="4S 1300mAh"/> | <AffiliateLink href="https://amzn.to/3yn7ZLB" label="6S 1100mAh"/> <br/>Drone24Hours (negozio italiano): <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-148-v-100c-4s1p-lipo-batteria-con-spina-xt60-per-rc-drone-fpv-racing/?D24H=lucapalonca" label="4S 1300mAh"/> | <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="6S 1100mAh"/>
 
@@ -133,7 +133,7 @@ Le Tattu FunFly, sono sviluppate da Tattu, leader nel mercato e le FunFly sono l
 
 ### Rapporto qualità prezzo - CNHL 
 
-![CNHL](./cnhl.jpeg) 
+![CNHL](/assets/batterie-dei-droni/cnhl.jpeg) 
 
 > China Hobby Line: [4S 1300mAh](https://chinahobbyline.com/shop/detail/293?utm_source=lucafpv.com) | [6S 1100mAh](https://chinahobbyline.com/shop/detail/277?utm_source=lucafpv.com)
 
@@ -141,7 +141,7 @@ Ottime batterie, l'unico svantaggio è che sono leggermente più pesanti delle a
 
 ### Top di Gamma - Tattu R-Line
 
-![Tattu R-Line](./rline.jpg) 
+![Tattu R-Line](/assets/batterie-dei-droni/rline.jpg) 
 
 > Amazon: <AffiliateLink href="https://amzn.to/2WyqyQ1" label="4S 1550mAh"/> | <AffiliateLink href="https://amzn.to/3zpySQp" label="6S 1400mAh"/> <br/>Drone24Hours: <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-r-line-version-3-0-1550mah-14-8v-120c-4s1p-lipo-battery-pack-with-xt60-plug/?D24H=lucapalonca" label="4S 1550mAh"/> | <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-r-line-version-4-0-1400mah-22-2v-130c-6s1p-xt60/?D24H=lucapalonca" label="6S 1400mAh"/>
 
