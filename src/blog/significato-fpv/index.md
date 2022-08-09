@@ -22,7 +22,7 @@ Quindi **il significato FPV, deriva dalla sensazione di esser seduti all'interno
 
 
 Ecco un esempio di cosa vede un pilota FPV.
-![Visore analogico](./analog_osd.png)
+![Visore analogico](/assets/significato-fpv/analog_osd.png)
 
 ## Il vero significato
 Finora ti ho spiegato il signifcato della parola, ma secondo me FPV significa molto altro!

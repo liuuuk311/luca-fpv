@@ -45,7 +45,7 @@ Questo parmetro va sempre aggiustato insieme ai due sopra per ottenere il giusto
 
 Questo è una scelta personale, e dipende molto dallo stile con il quale vuoi volare. Per freestyle io tendo ad usare questi:
 
-![I miei rates (lucafpv)](./lucafpv_rates.png)
+![I miei rates (lucafpv)](/assets/spiegazione-rates/lucafpv_rates.png)
 
 Ecco cosa puoi fare per trovare i tuoi rate. 
 
