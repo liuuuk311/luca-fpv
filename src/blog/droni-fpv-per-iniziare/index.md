@@ -28,6 +28,8 @@ featured: true
     }
 `}</style>
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 Stai cercando il miglior drone FPV completo per iniziare a volare nel 2022? Questa guida è quello che cerchi, ti mostrerò quali sono le alternative, spiegherò i pro e i contro dei diversi droni, considerando anche le varie fasce di prezzo, infine per ciascun drone spiegherò chi lo dovrebbe acquistare.
 
 Quando scegli il tuo primo drone FPV per iniziare, oltre a fare attenzione al prezzo del drone stesso, devi controllare cosa c'è nella scatola. 
@@ -108,9 +110,7 @@ Per quanto riguarda l'attrezzatura consigliata da acquistare insieme al Nazgul5 
 
 Passiamo ora alla categoria dei cinewhoop con il <a href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">GEPRC CineLog35</a>: un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. Queste sue caratteristiche lo rendono perfetto per chi vuole usare un drone FPV per fare riprese cinematic come queste. 
 
-<div class="iframe-container">
-<lite-youtube videoid="dt3F3pEdACE" params="start=10"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/dt3F3pEdACE?t=10"/>
 
 Video come questi sono possibili grazie alla potenza dei motori del nuovo CineLog35, che gli permettono di sollevare anche il peso di una GoPro Hero 10.
 Se vuoi saperne di più su questo drone leggi [questo articolo](https://lucafpv.com/nuovo-cinelog35).

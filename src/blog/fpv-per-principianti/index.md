@@ -9,6 +9,8 @@ tags:
 featured: true
 ---
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, puoi dare un'occhiata al mio [profilo Instagram](https://www.instagram.com/iamlucafpv/) per capire di che cosa si tratta.
 
 
@@ -48,9 +50,7 @@ Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano 
 
 Essere un pilota FPV può essere anche un lavoro. Ci sono diverse professioni. La più ambita è il pilota professionista per campionati internazionali come [DRL](https://thedroneracingleague.com/about-drl/). I piloti in questo campionato possono guadagnare fino a 100.000 dollari, per non parlare poi delle sponsorizzazioni.
 
-<div class="iframe-container">
-<lite-youtube videoid="QSZmSNL_0r8" params="start=8"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/QSZmSNL_0r8?t=8"/>
 
 Un lavoro più comune ma comunque divertente è far riprese aeree e cinematografiche con un drone FPV. In questo caso si può far parte di un agenzia o lavorare come libero profesionista.
 

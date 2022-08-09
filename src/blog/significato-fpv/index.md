@@ -9,6 +9,8 @@ tags:
 featured: false
 ---
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 Il termine FPV è un acronimo inglese che sta per **F**irst **P**erson **V**iew, in italiano potremmo tradurrlo come visuale in prima persona. 
 
 Questo termine lo si associa spesso con i droni, infatti negli ultimi anni la categoria dei droni FPV è diventata sempre più popolare, anche in Italia.
@@ -28,8 +30,8 @@ FPV significa far parte di una community di persone che sono disposte ad aiutars
 
 Il mondo FPV, è semplicemente fantastico, guarda un volo che ho fatto tempo fa per [NorthFPV](https://northfpv.com).
 
-<div class="iframe-container">
-<lite-youtube videoid="POucyxDN_NE" params="start=4"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/POucyxDN_NE?t=4"/>
+
 
 Se ne vuoi sapere di più sul mondo FPV, ti consiglio [questo articolo](https://lucafpv.com/fpv-per-principianti)

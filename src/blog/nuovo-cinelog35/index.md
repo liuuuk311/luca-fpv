@@ -9,13 +9,13 @@ tags:
 featured: true
 ---
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 I video cinematic FPV sono sempre più richiesti a livello professionale, e sempre più virali sui social! A questo proposito, mi segui già su [Instagram](https://instagram.com/iamlucafpv)?
 
 Un video cinematic che ha spopolato è quello realizzato da Jay Christensen:
 
-<div class="iframe-container">
-<lite-youtube videoid="VgS54fqKxf0" params="start=3"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/VgS54fqKxf0?t=3"/>
 
 Per realizzare questo tipo di video, è necessario utilizzare un tipo di drone FPV, chiamato cinewhoop, come appunto il nuovo [GEPRC Cinelog 35](https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca).
 

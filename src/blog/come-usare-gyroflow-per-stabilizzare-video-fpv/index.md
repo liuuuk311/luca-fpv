@@ -9,11 +9,11 @@ tags:
 featured: true
 ---
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 Qual è il segreto per fare video FPV stabili come questo?
 
-<div class="iframe-container">
-<lite-youtube videoid="VigfASabhvE" params="start=15"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/VigfASabhvE?t=15"/>
 
 La risposta è: **GyroFlow**.
 

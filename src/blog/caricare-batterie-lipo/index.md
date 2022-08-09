@@ -37,6 +37,8 @@ featured: false
     }
 `}</style>
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 In questo aritcolo vedremo tutto ciò che c'è da sapere per caricare batterie LiPo (Lithium-Polymer) in maniera sicura.
 
 ## Voltaggio e numero di celle
@@ -85,11 +87,7 @@ La velocità di ricarica consigliata per le batterie LiPo è 1C. Questo signific
 
 Alcuni produttori garantiscono velocità di ricariche più elevate fino a 5C. Tuttavia questo può essere pericoloso poiché può danneggiare la batteria e risultare in un incendio come questo.
 
-<div class="iframe-container">
-
-<lite-youtube videoid="fF9fhlr9S5s" params="start=31"/>
-
-</div>
+<YouTubeEmbed link="https://youtu.be/fF9fhlr9S5s?t=31"/>
 
 **Importante non confondere il C-Rating di scarica**, che spesso è indicato sull'etichetta della batteria, **con il C-Rating di carica**, che spesso non è indicato, proprio perché è sempre consigliato caricare ad 1C.
 

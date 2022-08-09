@@ -37,6 +37,8 @@ featured: true
     }
 `}</style>
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 In questo articolo confronto i migliori simulatori per droni FPV per PC e Mac. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 
 
@@ -108,10 +110,9 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 ## Orqa FPV.Skydive
 
 > Simulatore gratuito con funzionalità limitate, ma una buona fisica
+>
 
-<div class="iframe-container">
-<lite-youtube videoid="EihIDK8bVB8" params="start=38"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/EihIDK8bVB8?t=38"/>
 
 **Orqa FPV.Skydive** è il miglior simulatore FPV gratuito. Al momento ci sono solo 5 livelli, ma sembra che gli aggiornamenti siano regolari. In generale, rispetto agli altri simulatori in questa lista le mappe disponibili sono meno complesse, ma non ci si annoia.
 
@@ -122,9 +123,7 @@ La fisica è sopra la media, specialmente la simulazione del prop wash è fatta 
 
 > Costa poco e poche funzionalità di simulazione, va bene per principianti, ma è un po' vecchio
 
-<div class="iframe-container">
-<lite-youtube videoid="WACcq2ykgNo"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/WACcq2ykgNo"/>
 
 Questo è uno dei primi simulatori di volo pensato per droni FPV. 
 
@@ -139,9 +138,9 @@ Va bene per principianti che vogliono provare a volare in FPV, ma ha molte limit
 ## Liftoff
 
 > Un simulatore molto curato, con aggiornamenti frequenti e molti contenuti, ma richiede un buon PC da gaming 
-<div class="iframe-container">
-<lite-youtube videoid="VuPwux4hiL4" params="start=4"/>
-</div>
+
+
+<YouTubeEmbed link="https://youtu.be/VuPwux4hiL4?t=4"/>
 
 Per i piloti piu esperti, **Liftoff** è un buon simulatore. E' uno dei migliori sia in termini di grafica e che di funzioni. Il numero di contenuti è veramente impressionante, centinaia di modelli e migliaia di mappe create dalla community. Liftoff permette di cambiare componenti e impostazioni come nel mondo reale. Inoltre, è possibile aggiustare i rates e PID come se fossi su Betaflight. La fisica è migliora di aggiornamento in aggiornamento. Ingenieri aerodinamici e i migliori piloti al mondo hanno collaborato con gli sviluppatori per migliorare questo prodotto. 
 
@@ -156,9 +155,7 @@ Liftoff ha semplificato molto il procedimento con il quale è possibile connette
 
 > Considerato uno dei migliori simulatori per freestyle con un ottima grafica
 
-<div class="iframe-container">
-<lite-youtube videoid="1ct11sPC5pQ"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/1ct11sPC5pQ"/>
 
 Una volta liftoff era il simulatore per eccellenza per i piloti FPV che si volevano allenare in freestyle. Ma **Uncrashed** ha cambiato le carte in tavola!
 Le mappe e i livelli presenti in questo simulatore sono davvero divertenti e perfetti per il freestyle. Un sacco di ostacoli da usare per fare tanti trick spettacolari.
@@ -168,9 +165,8 @@ L'unica pecca è l'assenza di multiplayer.
 ## VelociDrone
 
 > Fisica molto buona, uno dei simulatori più realistici. Non la miglior grafica ma funziona bene anche su computer lenti
-<div class="iframe-container">
-<lite-youtube videoid="vIxbM5oWeRI" params="start=6"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/vIxbM5oWeRI?t=6"/>
 
 Se hai un computer vecchio oppure un portatile, dovresti provare **VelociDrone**.
 
@@ -188,9 +184,8 @@ Ad ogni modo, velocidrone è considerato il simulatore standard per tutti i pilo
 
 
 ## DRL Racing
-<div class="iframe-container">
-<lite-youtube videoid="x5NE0qUWuk4" params="start=12"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/x5NE0qUWuk4?t=12"/>
 
 **DRL (Drone Racing League)** è un simulatore interessante – nel gioco ci sono eventi online e i piloti migliori possono vincere contratti da pilota professionisti e gareggiare in eventi reali. 
 

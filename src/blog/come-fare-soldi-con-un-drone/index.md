@@ -9,6 +9,7 @@ tags:
 featured: true
 ---
 
+import YouTubeEmbed from "../../components/blog/youtube-embed.js"
 
 Hai acquistato un drone o stai pensando di farlo e vorresti guadangare qualche soldo extra oppure trasformare una passione in lavoro? In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadagnare. 
 
@@ -33,9 +34,7 @@ Come pilota FPV hai diverse strade per poter guadagnare, la scelta più comune �
 
 I droni FPV vengono utilizzati anche per gare su circuiti, e i piloti professionisti arrivano a guadagnare anche 100.000 dollari per volare con droni che arrivano anche a 200 km/h.
 
-<div class="iframe-container">
-<lite-youtube videoid="QSZmSNL_0r8" params="start=8"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/QSZmSNL_0r8?t=8"/>
 
 Vorresti sapere di più sui droni FPV? Allora inizia da [questo articolo](https://lucafpv.com/fpv-per-principianti).
 
