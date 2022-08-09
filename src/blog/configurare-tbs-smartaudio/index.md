@@ -44,7 +44,7 @@ La connessione di diversi protocolli VTX è la stessa, l'unica differenza è il 
 
 Basta collegare il pin "Telemetry" o il pin "SmartAudio" al pin TX di qualsiasi UART.
 
-![Connessione SmartAudio](./smartaudio_connessione.png)
+![Connessione SmartAudio](/assets/configurare-tbs-smartaudio/smartaudio_connessione.png)
 
 ## Configurazione in Betaflight 
 In Betaflight Configurator, vai alla scheda Porta e in Periferiche dell'UART che stai utilizzando per il controllo VTX, scegli il protocollo/dispositivo corrispondente dal menu a tendina.
@@ -54,13 +54,13 @@ In Betaflight Configurator, vai alla scheda Porta e in Periferiche dell'UART che
 
 Salvalo e FC dovrebbe ora riavviarsi.
 
-![Sezione delle porte in Betaflight](./porte.png)
+![Sezione delle porte in Betaflight](/assets/configurare-tbs-smartaudio/porte.png)
 
 Quindi vai alla scheda Configurazione e abilita la funzione OSD Betaflight. Se sei nuovo in Betaflight, ecco una guida che ti mostra [come utilizzare l'OSD di Betaflight](https://lucafpv.com/configurare-osd-betaflight/).
 
 Salva le modifiche ed il gioco è fatto, ora dovresti essere in grado di accedere all'OSD di Betaflight e vedere le tue impostazioni VTX.
 
-![Attivazione OSD](./osd_attivo.png)
+![Attivazione OSD](/assets/configurare-tbs-smartaudio/osd_attivo.png)
 
 Infine, se stai eseguendo il firmware Betaflight 4.1 o più recente, devi inserire le VTX table per la tua VTX particolare, altrimenti il controllo Smartaudio VTX non funzionerà. Il vecchio firmware Betaflight non ha bisogno di farlo e dovrebbe funzionare immediatamente.
 
@@ -70,11 +70,11 @@ Per accedere al menu OSD di Betaflight, sposta semplicemente il gas al centro e 
 
 Selezionare "Feature" nel menu OSD.
 
-![OSD - menu feature](./osd_feature.png)
+![OSD - menu feature](/assets/configurare-tbs-smartaudio/osd_feature.png)
 
 In versioni più vecchie di Betaflight veniva fatta distinzione tra "VTX SA" (per SmartAudio) e "VTX TR" (per Tramp Telemetry). Nell'ultima versione, sono indicate semplicemente con VTX. Seleziona quello che stai utilizzando.
 
-![OSD - menu VTX](./osd_vtx.png)
+![OSD - menu VTX](/assets/configurare-tbs-smartaudio/osd_vtx.png)
 
 E in questa schermata dovresti essere in grado di vedere le tue impostazioni VTX.
 

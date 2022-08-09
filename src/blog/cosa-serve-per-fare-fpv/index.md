@@ -39,6 +39,8 @@ tags:
     }
 `}</style>
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 Una cosa che crea parecchia confusione a chi si avvicina al mondo FPV, e il non sapere esattamente ciò che serve per inziare. 
 E' bene sapere che, a meno non si acquisti un kit, bisognerà acquistare separatamente tutta l'attrezzatura. 
 
@@ -61,13 +63,13 @@ Ecco una lista dei droni FPV più comuni nel 2022.
 
 <div id="drone-table">
 
-|                                                                         | Nome                                                                                                      | Prezzo | Specialità          |
-|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------|---------------------|
-| ![DJI FPV Drone](../droni-fpv-per-iniziare/dji-fpv-combo.jpeg)     | [DJI FPV Combo](https://amzn.to/3ksZQAD)                                                                  | Alto   | Cinematic           |
-| ![Iflight Nazgul v2](../droni-fpv-per-iniziare/chimera7.jpeg)      | [iFlight Chimera 7](https://www.drone24hours.com/prodotto/chimera7-6s-fpv-lr-analogico/?D24H=lucapalonca) | Alto   | Long Range          |
-| ![Diatone Roma F5 V2](../diatone-roma-f5-v2/drone.jpeg)            | [Diatone Roma F5 V2](https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca)       | Medio  | Freestyle/Cinematic |
-| ![Iflight Nazgul v2](../droni-fpv-per-iniziare/iflight-nazgul.jpg) | [iFlight Nazgul5 V2](https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca)        | Basso  | Freestyle/Cinematic |
-| ![iFlight Protek](../droni-fpv-per-iniziare/protek.jpg)            | [iFlight Protek 35](https://www.drone24hours.com/prodotto/iflight-protek35-3-5/?D24H=lucapalonca)           | Medio  | Cinematic           |
+|                                                                         | Nome              | Prezzo | Specialità          | Venditori |
+|-------------------------------------------------------------------------|-------------------|--------|---------------------|--------------------------------------------------------------------------------------------|
+| ![DJI FPV Drone](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpeg)     | DJI FPV Combo     | Alto   | Cinematic           | <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon.it" />
+| ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/chimera7.jpeg)      | iFlight Chimera 7 | Alto   | Long Range          | <AffiliateLink href="https://www.drone24hours.com/prodotto/chimera7-6s-fpv-lr-analogico/?D24H=lucapalonca" label="Drone24Hours.com" />
+| ![Diatone Roma F5 V2](../diatone-roma-f5-v2/drone.jpeg)                 | Diatone Roma F5 V2| Medio  | Freestyle/Cinematic | <AffiliateLink href="https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca" label="Drone24Hours.com" />
+| ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg) | iFlight Nazgul5 V2| Basso  | Freestyle/Cinematic | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours.com" />
+| ![iFlight Protek](/assets/droni-fpv-per-iniziare/protek.jpg)            | iFlight Protek 35 | Medio  | Cinematic           | <AffiliateLink href="https://www.drone24hours.com/prodotto/iflight-protek35-3-5/?D24H=lucapalonca" label="Drone24Hours.com" />
 
 </div>
 
@@ -79,11 +81,11 @@ A differenza dei droni giocattolo o dei droni della DJI, tipicamente nel FPV, ba
 
 I radiocomandi standard che utilizzando una frequenza di 2.4 GHz permettono di arrivare fino a circa 800 m di distanza. E' possibile estendere la distanza massima fino a diverse decine di km utilizzando un modulo esterno come Crossfire.
 
-Il miglior radiocomando per rapporto qualità prezzo è sicuramente il [RadioMaster TX16S](https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca) che accopiato con il [modulo Crossfire](https://www.drone24hours.com/prodotto/tbs-crossfire-micro-tx-v2/?D24H=lucapalonca) da sostanzialmente un range illimitato.
+Il miglior radiocomando per rapporto qualità prezzo è sicuramente il <AffiliateLink href="https://www.drone24hours.com/product/tx16s-mark-ii-radio-controller-m2/?D24H=lucapalonca" label="RadioMaster TX16S"/> che accopiato con il <AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-crossfire-micro-tx-v2/?D24H=lucapalonca" label="modulo Crossfire"/> da sostanzialmente un range illimitato. Ad ogni modo, anche il radiocomando da solo permette di avere un buon range se si sceglie la versione ELRS.
 
 Il radiocomando può essere utilizzato anche senza modulo esterno, in tal caso va acquistata una ricevente compatibile.
 
-Guarda anche [i miei consigli sui radiocomandi per il 2021](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
+Guarda anche [i miei consigli sui radiocomandi per il 2022](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
 
 ## Occhiali FPV
 
@@ -95,9 +97,9 @@ La scelta del tipo di occhiali condiziona anche i droni che potremo pilotare. Co
 
 Ecco gli occhiali FPV che consiglio per chi parte nel 2022:
 
-1. [Occhiali DJI FPV](https://amzn.to/3l4txYP) (prezzo più basso su [Banggood](https://www.banggood.com/custlink/DvGRgiSrmp)) gli unici occhiali per permettono di volare in digitale. Qualità delle immagini pazzesca.
-2. [Fatshark Attitude v6](https://www.drone24hours.com/prodotto/fatshark-attitude-v6/?D24H=lucapalonca) occhiali analogici di fascia media, marca molto affidabile
-3. [Eachine EV800D](https://www.banggood.com/custlink/GDvdg8irmh) la scelta più economica, a differenza degli altri questo è più uno schermo che dei veri e propri occhiali.
+1. <AffiliateLink label="Occhiali DJI FPV" href="https://amzn.to/3l4txYP"/> (prezzo più basso su <AffiliateLink href="https://www.banggood.com/custlink/DvGRgiSrmp" label="Banggood"/>) gli unici occhiali per permettono di volare in digitale. Qualità delle immagini pazzesca.
+2. <AffiliateLink label="Fatshark Attitude v6" href="https://www.drone24hours.com/prodotto/fatshark-attitude-v6/?D24H=lucapalonca"/> occhiali analogici di fascia media, marca molto affidabile
+3. <AffiliateLink label="Eachine EV800D" href="https://www.banggood.com/custlink/GDvdg8irmh"/> la scelta più economica, a differenza degli altri questo è più uno schermo che dei veri e propri occhiali.
 
 ## Delle batterie LiPo
 
