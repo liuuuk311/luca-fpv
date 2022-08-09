@@ -141,6 +141,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-gtag-outbound`,
+      options: {
+        trackingId: `G-6YB9CW1683`,
+      }
+    },
+    {
       resolve: `gatsby-plugin-purgecss`,
       options: {
         printRejected: true,

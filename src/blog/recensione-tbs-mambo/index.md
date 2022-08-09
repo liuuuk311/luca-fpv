@@ -9,6 +9,8 @@ tags:
 featured: true
 ---
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 La TBS Tango 2, il radiocomando di casa TBS a forma di gamepad ha fatto molto successo, ma non tutti trovano comodo quello stile di radio. Molti, sopratutto chi pilota con pollici e indici, preferisce una radio più grossa, con la forma dei radiocomandi normali.
 
 Ed è per questo che quando la TBS Mambo è stata annunciata molti erano entusiasti, la qualità di TBS in una radio da dimensioni normali!
@@ -17,7 +19,7 @@ Tuttavia non è esattamente quello che hanno ottenuto.
 
 La TBS Mambo ha come modulo interno TBS Tracer e non TBS Crossfire e questo ha sollevato qualche dubbio su questa radio.
 
-> [Acquista TBS Mambo](https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca)
+> Acquista TBS Mambo su <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="drone24hours.com"/>, un negozio italiano che spedisce molto velocemente.
 
 ## Interruttori e bottoni
 
@@ -110,7 +112,7 @@ Questo radiocomando costa circa 200 euro, è considerando il fatto che all'inter
 
 Se stai iniziando e non hai ancora un radiocomando, allora TBS Mambo è la scelta ideale per te. Tutte gli altri radiocomandi scelti dai principianti, non hanno TBS Tracer incluso. Questo significa che sarai bloccato nell'ecosistema di FrSky presumibilemente, e quindi il range tipo sarà circa 800 metri, dopo i quali il drone cadrà a terra per mancanza di segnale.
 
-Drone24Hours, per i pricinpianti a pensato a questo fantastico bundle, che incluse un radiocomando e tre ricevente, [puoi comprarlo qua](https://www.drone24hours.com/product/ethix-mambo-starter-set/?D24H=lucapalonca).
+Drone24Hours, per i pricinpianti a pensato a questo fantastico bundle, che incluse un radiocomando e tre ricevente, <AffiliateLink href="https://www.drone24hours.com/product/ethix-mambo-starter-set/?D24H=lucapalonca" label="puoi comprarlo qua"/>.
 
 Se invece hai già droni che montano TBS Crossfire e hai un modulo esterno, allora può valere la pena acquistarlo. E' un ottimo radiocomando con un alta qualità costruttiva. A questo prezzo, anche se non intendi usare il modulo TBS Tracer, non c'è molto che compete direttamente con la TBS Mambo.
 

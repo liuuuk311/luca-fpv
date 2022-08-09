@@ -39,6 +39,8 @@ featured: true
     }
 `}</style>
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 Questa guida spiega le basi delle radio che è possibile usare per pilotare un drone FPV. Oltre al prezzo, alla frequenza, ai protocolli supportati e al numero di canali, ci sono molte altre cose da considerare quando si acquista una nuova radio.
 
 Un trasmettitore radio (TX) viene utilizzato per controllare un drone a distanza. I comandi dell'utente vengono quindi ricevuti dalla ricevente (RX) che è collegato a un flight controller.
@@ -57,14 +59,14 @@ Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2022.
 
 |   	                                                                                        | Radiocomando 	        | Prezzo 	| Protocollo 	        | Venditori 	|
 |---	                                                                                        |--------------	        |--------   |------------	        |-----------	|
-| ![BetaFPV LiteRadio 2](./betafpv_literadio2.png) | BetaFPV LiteRadio 2   | 💰        | Frsky/Bayang          | <a href="https://betafpv.com/products/literadio-2-radio-transmitter" target="_blank" rel="nofollow" rel="noreferrer">BetaFPV</a><br/><a href="https://www.banggood.com/custlink/DGKdp7YZQb" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a> <br/><a href="https://www.drone24hours.com/prodotto/betafpv-literadio-2-se-frsky/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a>|
-| ![FrSKY X9 Lite](./x9_lite.png)                  | FrSKY X9 Lite         | 💰        | Frsky/Modulo esterno  | <a href="https://amzn.to/33VNN6z" target="_blank" rel="nofollow" rel="noreferrer">Amazon</a><br/><a href="https://www.banggood.com/custlink/vDGdpTyaBJ" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a><br/><a href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a>|
-| ![Taranis Q X7](./taranis_qx7.jpg)               | Taranis QX7           | 💰💰      | Frsky/Modulo esterno  | <a href="https://www.banggood.com/custlink/vGmRcqt7Zw" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a>  |
-| ![RadioMaster TX16](./radiomaster_tx16.jpg)      | RadioMaster TX16      | 💰💰      | Multi/Modulo esterno  | <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a><br/><a href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a>   |
-| ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg)      | TBS Mambo      | 💰💰      | Tracer/Modulo esterno  | <a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a>   |
-| ![Taranis X9D Plus](./taranis_x9d.png)           | Taranis X9D+          | 💰💰💰    | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a>  |
-| ![TBS Tango 2](./tango2_1.png)                   | TBS Tango 2           | 💰💰💰    | Crossfire              | <a href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" target="_blank" rel="nofollow" rel="noreferrer">TBS</a><br/><a href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a>  |
-| ![FrSky HORUS X10S](./horus_x10s.png)            | FrSky HORUS X10S      | 💰💰💰💰   | Frsky/Modulo esterno   | <a href="https://www.banggood.com/custlink/KvGdCuy6wK" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a>  |
+| ![BetaFPV LiteRadio 2](./betafpv_literadio2.png) | BetaFPV LiteRadio 2   | 💰        | Frsky/Bayang          | <AffiliateLink href="https://betafpv.com/products/literadio-2-radio-transmitter" label="BetaFPV" /><br/><AffiliateLink href="https://www.banggood.com/custlink/DGKdp7YZQb" label="Banggood" /> <br/><AffiliateLink href="https://www.drone24hours.com/prodotto/betafpv-literadio-2-se-frsky/?D24H=lucapalonca" label="Drone24Hours" />|
+| ![FrSKY X9 Lite](./x9_lite.png)                  | FrSKY X9 Lite         | 💰        | Frsky/Modulo esterno  | <AffiliateLink href="https://amzn.to/33VNN6z" label="Amazon" /><br/><AffiliateLink href="https://www.banggood.com/custlink/vDGdpTyaBJ" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="Drone24Hours" />|
+| ![Taranis Q X7](./taranis_qx7.jpg)               | Taranis QX7           | 💰💰      | Frsky/Modulo esterno  | <AffiliateLink href="https://www.banggood.com/custlink/vGmRcqt7Zw" label="Banggood" />  |
+| ![RadioMaster TX16](./radiomaster_tx16.jpg)      | RadioMaster TX16      | 💰💰      | Multi/Modulo esterno  | <AffiliateLink href="https://www.banggood.com/custlink/3KGECktftG" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" label="Drone24Hours" />   |
+| ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg)      | TBS Mambo      | 💰💰      | Tracer/Modulo esterno  | <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />   |
+| ![Taranis X9D Plus](./taranis_x9d.png)           | Taranis X9D+          | 💰💰💰    | Frsky/Modulo esterno   | <AffiliateLink href="https://www.banggood.com/custlink/GDDRCUF7IJ" label="Banggood" />  |
+| ![TBS Tango 2](./tango2_1.png)                   | TBS Tango 2           | 💰💰💰    | Crossfire              | <AffiliateLink href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" label="TBS" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="Drone24Hours" />  |
+| ![FrSky HORUS X10S](./horus_x10s.png)            | FrSky HORUS X10S      | 💰💰💰💰   | Frsky/Modulo esterno   | <AffiliateLink href="https://www.banggood.com/custlink/KvGdCuy6wK" label="Banggood" />  |
 
 
 </div>
@@ -76,7 +78,7 @@ Troppe opzioni, non sai quale scegliere? Ecco i miei consigli di seguito. Tuttav
 
 ![BetaFPV LiteRadio 2](./betafpv_literadio2.png)
 
-**BetaFPV LiteRadio 2** - Compralo su: <a href="https://betafpv.com/products/literadio-2-radio-transmitter" target="_blank" rel="nofollow" rel="noreferrer">BetaFPV</a> | <a href="https://www.banggood.com/custlink/DGKdp7YZQb" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a>
+**BetaFPV LiteRadio 2** - Compralo su: <AffiliateLink href="https://betafpv.com/products/literadio-2-radio-transmitter" label="BetaFPV" /> | <AffiliateLink href="https://www.banggood.com/custlink/DGKdp7YZQb" label="Banggood" />
 
 Questa è l'opzione più economica nell'elenco e supporta anche i simulatori FPV. È molto piccolo, quindi puoi portarlo ovunque. I limiti principali sono la mancanza di interruttori e supporta solo i protocolli Frsky D16 e D8 e nient'altro. 
 
@@ -86,7 +88,7 @@ Questa è l'opzione più economica nell'elenco e supporta anche i simulatori FPV
 
 ![RadioMaster TX16](./radiomaster_tx16.jpg)
 
-**Radiomaster TX16S** - Compralo su: <a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a> | <a href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a> (Negozio Italiano)
+**Radiomaster TX16S** - Compralo su: <AffiliateLink href="https://www.banggood.com/custlink/3KGECktftG" label="Banggood" /> | <AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" label="Drone24Hours" /> (Negozio Italiano)
 
 A mio parere, la radio più versatile e con il miglior rapporto qualità-prezzo mai realizzata deve essere la TX16S. Ha un modulo multiprotocollo all'interno che supporta quasi tutti i protocolli dell'hobby ed è anche completamente compatibile con Crossfire. I gimbals con sensore Hall di dimensioni standard offrono una gamma completa di corsa dello stick e un'eccellente precisione. Tutto questo e altro per soli 130 euro. Consiglio di acquistare anche il modulo Crossfire con questa radio.
 
@@ -96,7 +98,7 @@ A mio parere, la radio più versatile e con il miglior rapporto qualità-prezzo 
 
 ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg)
 
-**TBS Mambo** - Compralo su: <a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="nofollow" rel="noreferrer">Drone24Hours</a> (Negozio Italiano)
+**TBS Mambo** - Compralo su: <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" /> (Negozio Italiano)
 
 > Leggi la [recensione completa](https://lucafpv.com/recensione-tbs-mambo)
 
@@ -112,7 +114,7 @@ Infine è leggermente più compatto dei radiocomandi full-size, il che lo rende 
 
 ![Taranis X9D Plus](./taranis_x9d.png)
 
-**Frsky Taranis X9D+ 2019** - Compralo su: <a href="https://www.banggood.com/custlink/GDDRCUF7IJ" target="_blank" rel="nofollow" rel="noreferrer">Banggood</a>
+**Frsky Taranis X9D+ 2019** - Compralo su: <AffiliateLink href="https://www.banggood.com/custlink/GDDRCUF7IJ" label="Banggood" />
 
 Se preferisci utilizzare l'ultimo protocollo ACCESS di Frsky, questa è una buona opzione. Il Taranis X9D+ ha dominato l'hobby RC per molti anni fino a quando non è arrivato il T16 più economico. Frsky ha rinnovato il buon vecchio X9D+ con nuovo hardware e protocollo nel 2019. 
 

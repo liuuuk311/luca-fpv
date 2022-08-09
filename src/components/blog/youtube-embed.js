@@ -3,6 +3,8 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 
 const YouTubeEmbed = ({link}) => {
+    if (!link) return ""
+    
     const url = new URL(link);
 
     return (

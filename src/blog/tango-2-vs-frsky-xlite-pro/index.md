@@ -9,17 +9,19 @@ tags:
 featured: false
 ---
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 I controller radio più popolari e più compatti disponibili per i piloti FPV nel 2020 sono il TBS Tango 2 e Frsky X-Lite Pro. In questa recensione confronto i due e ti aiuto a decidere quale acquistare.
 
 ## Dove comprare
 
 ### TBS Tango 2
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca">Drone24Hours</a>, spediscono dall'Italia e molto velocemente
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.team-blacksheep.com/products/prod:tbs_tango_2">TeamBlacksheep</a>, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />, spediscono dall'Italia e molto velocemente
+- <AffiliateLink href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" label="TeamBlacksheep" />, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
 
 ### FrSky X-Lite Pro
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter">CostruzioneDroni</a>, spediscono dall'Italia ma più costoso
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.banggood.com/custlink/vm3YJ2H7JU">Banggood</a>, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
+- <AffiliateLink href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter" label="CostruzioneDroni" />, spediscono dall'Italia ma più costoso
+- <AffiliateLink href="https://www.banggood.com/custlink/vm3YJ2H7JU" label="Banggood" />, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
 
 
 ## Introduzione
@@ -130,12 +132,12 @@ Per quanto riguarda gli altri layout degli interruttori, entrambi sono in posizi
 
 ## Quale ho preferito?
 ### TBS Tango 2
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca">Drone24Hours</a>, spediscono dall'Italia e molto velocemente
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.team-blacksheep.com/products/prod:tbs_tango_2">TeamBlacksheep</a>, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />, spediscono dall'Italia e molto velocemente
+- <AffiliateLink href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" label="TeamBlacksheep" />, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
 
 ### FrSky X-Lite Pro
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter">CostruzioneDroni</a>, spediscono dall'Italia ma più costoso
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.banggood.com/custlink/vm3YJ2H7JU">Banggood</a>, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
+- <AffiliateLink href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter" label="CostruzioneDroni" />, spediscono dall'Italia ma più costoso
+- <AffiliateLink href="https://www.banggood.com/custlink/vm3YJ2H7JU" label="Banggood" />, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
 
 Quando entrambe le radio sono state configurate, ho pensato che scegliere la migliore sarebbe stato più facile, ma non è stato così.
 
