@@ -34,6 +34,8 @@ featured: false
     }
 `}</style>
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 Chi ha un drone vorrebbe poter volare senza mai dover atterrare perchè la batteria è scarica. I progressi tecnologici ci hanno dato tempi di volo che possono arrivare fino a 30 minuti con una singola carica. La necessità del tempo di volo più lungo è particolarmente evidente in coloro che sono interessati alla fotografia aerea oppure nei voli long range.
 
 Lunghi tempi di volo sono essenziali per alcune attività. Le società immobiliari, edili e di rilevamento del territorio sono in grado di sfruttare al meglio i droni che durano a lungo.
@@ -90,7 +92,7 @@ Il numero di celle collegato in serie viene indicato con la lettera S. Quindi un
 
 **La tensione della batteria è ciò che da potenza al drone**, di conseguenza maggiore la tensione e più potente sarà il drone, ma attenzione perché fondamentale scegliere la batteria adatta. 
 
-Nei droni consumer, come il [DJI Mavic Air 2S](https://amzn.to/3yq4uV1), tipicamente si utilizzano batterie 3S. Per i droni FPV invece, si parte da batterie 4S fino ad arrivare a 6S.
+Nei droni consumer, come il <AffiliateLink href="https://amzn.to/3yq4uV1" label="DJI Mavic Air 2S"/>, tipicamente si utilizzano batterie 3S. Per i droni FPV invece, si parte da batterie 4S fino ad arrivare a 6S.
 
 
 ## Capacità della batteria
@@ -117,7 +119,7 @@ Nello specifico qua consiglio le batterie per droni 5" FPV. Queste sono le march
 
 ![GNB](./gnb.jpeg) 
 
-> Banggood: [4S 1300mAh](https://www.banggood.com/custlink/KDGye5LIm2) | [6S 1100mAh](https://www.banggood.com/custlink/vmvdBHaSDw)
+> Banggood: <AffiliateLink href="https://www.banggood.com/custlink/KDGye5LIm2" label="4S 1300mAh"/> | <AffiliateLink href="https://www.banggood.com/custlink/vmvdBHaSDw" label="6S 1100mAh"/>
 
 Se sei appena agli inizi, non ha molto senso comprare le migliori batterie poiché probabilmente non avrai bisogno di tutte quelle prestazioni. E probabilmente ti schianterai molto, quindi ha senso prendere qualcosa di economico per iniziare.
 
@@ -125,7 +127,7 @@ Se sei appena agli inizi, non ha molto senso comprare le migliori batterie poich
 
 ![Tattu FunFly](./funfly.jpeg) 
 
-> Amazon: [4S 1300mAh](https://amzn.to/3Bf6GQO) | [6S 1100mAh](https://amzn.to/3yn7ZLB) <br/>Drone24Hours: [4S 1300mAh](https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-148-v-100c-4s1p-lipo-batteria-con-spina-xt60-per-rc-drone-fpv-racing/?D24H=lucapalonca) | [6S 1100mAh](https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca)
+> Amazon: <AffiliateLink href="https://amzn.to/3Bf6GQO" label="4S 1300mAh"/> | <AffiliateLink href="https://amzn.to/3yn7ZLB" label="6S 1100mAh"/> <br/>Drone24Hours (negozio italiano): <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-148-v-100c-4s1p-lipo-batteria-con-spina-xt60-per-rc-drone-fpv-racing/?D24H=lucapalonca" label="4S 1300mAh"/> | <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="6S 1100mAh"/>
 
 Le Tattu FunFly, sono sviluppate da Tattu, leader nel mercato e le FunFly sono la loro linea entry level. Personalmente sono le prime batterie che ho usato, dopo diversi anni alcune sono ancora integre. Grosso vantaggio la disponibilità su Amazon.
 
@@ -141,7 +143,7 @@ Ottime batterie, l'unico svantaggio è che sono leggermente più pesanti delle a
 
 ![Tattu R-Line](./rline.jpg) 
 
-> Amazon: [4S 1550mAh](https://amzn.to/2WyqyQ1) | [6S 1400mAh](https://amzn.to/3zpySQp) <br/>Drone24Hours: [4S 1550mAh](https://www.drone24hours.com/prodotto/tattu-r-line-version-3-0-1550mah-14-8v-120c-4s1p-lipo-battery-pack-with-xt60-plug/?D24H=lucapalonca) | [6S 1400mAh](https://www.drone24hours.com/prodotto/tattu-r-line-version-4-0-1400mah-22-2v-130c-6s1p-xt60/?D24H=lucapalonca)
+> Amazon: <AffiliateLink href="https://amzn.to/2WyqyQ1" label="4S 1550mAh"/> | <AffiliateLink href="https://amzn.to/3zpySQp" label="6S 1400mAh"/> <br/>Drone24Hours: <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-r-line-version-3-0-1550mah-14-8v-120c-4s1p-lipo-battery-pack-with-xt60-plug/?D24H=lucapalonca" label="4S 1550mAh"/> | <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-r-line-version-4-0-1400mah-22-2v-130c-6s1p-xt60/?D24H=lucapalonca" label="6S 1400mAh"/>
 
 Molti dei migliori racers usano la Tattu R-Line, che la dice lunga su una batteria.
 
