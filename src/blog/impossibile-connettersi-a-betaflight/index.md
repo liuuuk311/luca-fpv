@@ -9,6 +9,8 @@ tags:
 featured: false
 ---
 
+import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 Abbastanza spesso, una volta collegato il flight controller a Betaflight, il configuratore visualizza il seguente messaggio di errore:
 > Impossibile aprire la porta seriale
 
@@ -17,7 +19,7 @@ In realtà, il flight controller comunica con il computer tramite la porta USB m
 Infatti, il software deve pensare che sia in realtà una vecchia porta COM seriale. Questo è solo il modo in cui è possibile leggere e scrivere i chip sul controller di volo.
 
 ## Soluzione
-Questo problema può essere risolto con facilità. Devi semplicemente scaricare i driver della porta COM virtuale da <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers" rel="nofollow" rel="noreferrer" target="_blank">SiLabs</a> che sono disponibili per Windows, Linux e Mac.
+Questo problema può essere risolto con facilità. Devi semplicemente scaricare i driver della porta COM virtuale da <AffiliateLink href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers" label="SiLabs"/> che sono disponibili per Windows, Linux e Mac.
 
 Non sono necessari più di un paio di minuti per installare i driver e, se richiesto dal computer, è sufficiente riavviare il computer. Ricorda, prima di riprovare scollega il flight controller dall'USB.
 
@@ -25,11 +27,11 @@ Chiudi il configuratore, riaprilo, collega la scheda e fai clic su Connetti. Tut
 
 Per assicurarti che il controller di volo funzioni correttamente, dai un'occhiata al menu a tendina in alto a destra dello schermo e controllara a quale dispositivo Betaflight sta cercando di connettersi.
 
-![Dispositivi visti da Betaflight](./bf_dispositivi.png)
+![Dispositivi visti da Betaflight](/assets/impossibile-connettersi-a-betaflight/bf_dispositivi.png)
 
 Qua dipende da quale sistema operativo stai usando. Se usi Windows il disposivo verrà riconosciuto e comunicherà attraverso una porta COM, mentre su Mac e Linux sarà simile all'imagine sotto.
 
-![Connessione a Betaflight](./bf_connessione.png)
+![Connessione a Betaflight](/assets/impossibile-connettersi-a-betaflight/bf_connessione.png)
 
 
 ## Altre soluzioni

@@ -67,5 +67,5 @@ Volare insieme è più divertente, e anche meno noioso 😁
 
 ### Qual è l'errore più comune secondo te?
 
-Fammi sapere cosa ne pensi: [scrivimi](https://lucafpv.com/contattami) e unisciti ai gruppi Telegram: [Droni Racers Italia](https://t.me/droniracersitalia) e [Milano Droni RC FPV](https://t.me/MilanoDroniRC).
+Fammi sapere cosa ne pensi: [scrivimi](https://lucafpv.com/contattami).
 
