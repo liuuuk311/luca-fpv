@@ -55,7 +55,7 @@ Se vuoi approfondire il funzionamento di Gyroflow, puoi leggere la [documentazio
 
 Come primo step, apri GyroFlow e trascina il video che vuoi stabilizzare nel centro.
 
-![Interfaccia GyroFlow](./gyroflow.png)
+![Interfaccia GyroFlow](/assets/come-usare-gyroflow-per-stabilizzare-video-fpv/gyroflow.png)
 
 GyroFlow è sostanzialmente diviso in 3 sezioni. Da sinistra verso destra abbiamo, tutto ciò che si riferisce all'input, quindi tutte le informazioni di base sul file video come su quale telecamera è registrato, codifica, formato, risoluzione ecc.
 

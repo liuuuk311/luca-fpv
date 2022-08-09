@@ -44,7 +44,7 @@ Per evitare complicazioni inutili, vedremo punto per punto solo le impostazioni 
 
 Apri Betaflight Configurator sul tuo computer e una volta che hai collegato il flight controller al computer, il tuo FC si dovrebbe accendere. I prossimi passi sono leggermente diversi a seconda del tuo sistema operativo. 
 
-![Connetti il drone](./connetti_il_drone_con_usb.jpg)
+![Connetti il drone](/assets/configurare-betaflight/connetti_il_drone_con_usb.jpg)
 
 Una volta collegato il drone, un nuovo disposivo seriale dovrebbe comparire nel rettangolo evidenziato nella figura sotto. Ciò che c'è scritto all'interno varia a seconda sel sistema operativo, tipicamente su Windows dovrebbe apparire `COM`, mentre su Mac e Linux `/dev/tty_QUALCOSA`. 
 
@@ -52,7 +52,7 @@ Quindi clicca su connetti.
 
 Se non riesci a connetterti e sei su Windows, molto probabilmente stai avendo qualche problema con i driver, oppure il tuo FC potrebbe essere brickato.  
 
-![Connetti Betaflight](./connetti.png)
+![Connetti Betaflight](/assets/configurare-betaflight/connetti.png)
 
 ------
 
@@ -60,7 +60,7 @@ Se non riesci a connetterti e sei su Windows, molto probabilmente stai avendo qu
 
 Una volta che hai connesso il tuo FC dovresti trovarti nella schermata Setup. Da qui hai accesso alle informazioni del tuo drone e alle funzioni più basilari.
 
-![Connetti Betaflight](./setup.png)
+![Connetti Betaflight](/assets/configurare-betaflight/setup.png)
 
 1. Prima di modificare qualsiasi cosa, esegui un backup della configurazione attuale
 2. Posizione il tuo quad su una superificie piana e premi "Calibra Accelerometro" 
@@ -74,7 +74,7 @@ Se il modello 3D non si muove nella stessa direzione del tuo quad, probabilmente
 
 Nella sezione porte, è possibile configurare tutte le periferiche – dispositivi esterni collegati al flight controller tramite le UART.
 
-![Porte di Betaflight](./porte.png)
+![Porte di Betaflight](/assets/configurare-betaflight/porte.png)
 
 1. Se usi una ricevente che utilizza SBUS o IBUS, devi abilitare “RX Seriale” sulla porta UART alla quale la ricevente è collegata
 
@@ -90,7 +90,7 @@ Ricorda che il numero delle porte UART varia da FC a FC. Infine, ricorda di **no
 
 La sezione di Configurazione contiene molti delle impostazioni relative alle performance di volo del tuo drone. 
 
-![Configurazione motori e ESC](./configurazione_motori_esc.png)
+![Configurazione motori e ESC](/assets/configurare-betaflight/configurazione_motori_esc.png)
 
 1. ESC/Caratteristiche Motore
 
@@ -100,7 +100,7 @@ Disabilita sempre l'opzione “MOTOR_STOP”, altrimenti non sarai in grado di c
 
 Il resto lo puoi lasciare così.
 
-![Confgiurazione sistema](./configurazione_sistema.png)
+![Confgiurazione sistema](/assets/configurare-betaflight/configurazione_sistema.png)
 
 2. Configurazione di sistema
 
@@ -116,7 +116,7 @@ Nel cambiare questi due valori e altre impostazioni, fai sempre attenzione al "C
 
 Barometro e Magnetometro sono assolutamente opzionali e tipicamente vengo usati per avere telemetria addizionali nei modelli ad ala fissa. Se vuoi puoi anche disabilitarli.
 
-![Personalizzazione e Ricevente](./protocollo_ricevente.png)
+![Personalizzazione e Ricevente](/assets/configurare-betaflight/protocollo_ricevente.png)
 
 3. Personalizzazione – Puoi inserire il nome del modello che verrà visualizzato nell'OSD
 
@@ -124,7 +124,7 @@ Barometro e Magnetometro sono assolutamente opzionali e tipicamente vengo usati 
 
    Se utilizzi PPM, seleziona “PPM RX Input” nel menù a tendina.
 
-![Altre Impostazioni](./altro.png)
+![Altre Impostazioni](/assets/configurare-betaflight/altro.png)
 
 5. Altre Caratteristiche
 
@@ -143,7 +143,7 @@ Clicca su **salva e riavvia**.
 
 ## Ricevente
 
-![Ricevente](./ricevente.png)
+![Ricevente](/assets/configurare-betaflight/ricevente.png)
 
 In questa sezione puoi controllare se la tua ricevente funziona correttamente. 
 
@@ -162,7 +162,7 @@ Dopo esserti assicurato che i canali funzionano correttamente, dovresti controll
 
 ## Modalità di volo
 
-![Modalità di volo](./modalita_di_volo.png)
+![Modalità di volo](/assets/configurare-betaflight/modalita_di_volo.png)
 
 In questa sezione si trovano le modalità di volo e le funzionalità che è possibile attivare tramite i canali AUX del radiocomando, come ad esempio:
 
@@ -175,7 +175,7 @@ In questa sezione si trovano le modalità di volo e le funzionalità che è poss
 
 ## Motori
 
-![Motori](./motori.png)
+![Motori](/assets/configurare-betaflight/motori.png)
 
 **IMPORTANTE** Rimuovi le eliche, se non l'hai già fatto!
 
@@ -186,7 +186,7 @@ In modo delicato, alza uno slider alla volta e controlla l'ordine dei motori
 - Motore 3, posteriore sinistro
 - Motore 4, anteriore sinistro
 
-![Ordine Motori](./ordine_motori.png)
+![Ordine Motori](/assets/configurare-betaflight/ordine_motori.png)
 
 Se l'ordine è sbagliato, devi rimappare alcune risorse del tuo flight controller. 
 
@@ -205,7 +205,7 @@ Per configurare l'OSD dai un'occhiata a questo [tutorial](https://lucafpv.com/co
 
 ## Messa a punto PID
 
-![Sezione PID](./PID.png)
+![Sezione PID](/assets/configurare-betaflight/PID.png)
 
 In questa sezione, per fare il tuo primo volo non serve modificare nulla. Tipicamente i valori di default vanno bene per la maggior parte dei modelli. Con il passare del tempo conoscerai meglio il tuo mini quad e a quel punto potrai provare a modificare i valori PID. 
 
