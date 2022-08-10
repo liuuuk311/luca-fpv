@@ -13,9 +13,9 @@ const Post = ( {data} ) => {
   const { post, recommendations } = data
   const { frontmatter, body, excerpt } = post
 
-  // const Image = frontmatter.featuredImage
-  //   ? frontmatter.featuredImage.publicURL
-  //   : ""
+  const Image = frontmatter.featuredImage
+    ? frontmatter.featuredImage.publicURL
+    : ""
 
   return (
     <>
