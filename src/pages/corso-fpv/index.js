@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { CorsoFPVHero } from '../../components/landing/hero';
 import { CorsoFPVGrid } from '../../components/landing/grid';
+import { CorsoFPVFaq } from '../../components/landing/faq';
 
 const Landing = () => {
     return (
@@ -15,8 +16,9 @@ const Landing = () => {
             <CorsoFPVGrid />
             {/* <ProductBenefit/> */}
             {/* <WhyYouNeedUs/> */}
-            {/* <FrequentlyAskedQuestions/> */}
+            <CorsoFPVFaq /> 
             {/* <CallToAction/> */}
+            <script src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"></script>
         </>
     );
 }
