@@ -4,7 +4,7 @@ const FAQContainer = ({ title, children }) => {
 
     return (
         <section class="bg-white dark:bg-gray-900">
-            <div class="max-w-screen-xl px-4 pb-8 mx-auto lg:pb-24 lg:px-6 ">
+            <div class="max-w-screen-xl px-4 mx-auto lg:pb-24 lg:px-6 py-8">
                 <h2 class="mb-6 text-3xl font-extrabold text-center text-gray-900 lg:mb-8 lg:text-3xl dark:text-white">
                     {title}
                 </h2>

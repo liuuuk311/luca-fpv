@@ -17,9 +17,9 @@ const RowTextImage = ({ title, subTitle, paragraphs, cta_label, cta_link, image,
     return (
         <div className="grid gap-8 grid-cols-1 grid-row-2 md:grid-cols-2 md:grid-row-1 max-w-7xl mx-auto p-4 sm:p-6">
             <div className="my-auto">
-                <h1 className="text-2xl md:text-3xl font-bold mb-4 uppercase">{title}</h1>
+                <h1 className="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white uppercase">{title}</h1>
                 {subTitle && <h3 className="text-xl md:text-2xl font-semibold mb-2">{subTitle}</h3>}
-                {paragraphs && paragraphs.map((paragraph) => <p className="text-gray-500 dark:text-gray-400 text-lg mb-8">{paragraph}</p>)}
+                {paragraphs && paragraphs.map((paragraph) => <p className="mb-8 font-light lg:text-xl">{paragraph}</p>)}
                 {cta_link && cta_label &&
                     <Link className="text-xl font-semibold bg-[#EDA550] p-4 rounded-lg text-white inline"
                         to={cta_link}>
@@ -35,7 +35,7 @@ const RowTextImage = ({ title, subTitle, paragraphs, cta_label, cta_link, image,
 
 const Grid = ({ children }) => {
     return (
-        <section className="my-12 py-8 bg-gray-100">
+        <section className="my-12 py-8 bg-gray-50">
             {children}
         </section>
     )

@@ -2,8 +2,9 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
+import { menuItems } from "./header/menu-items"
 
-
+const footerResources = menuItems.slice(0, 3)
 const query = graphql`
   query FooterQuery {
     site {
@@ -60,19 +61,15 @@ const Footer = ({cssExtraClasses}) => {
                     <div>
                         <h3 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Risorse</h3>
                         <ul className="">
-                            {/* {footerLegal.edges.filter((el) => el.node.frontmatter.languageCode ===  context.language).map((el) => {
-                                return (
-                                <li className="mb-4">
-                                    <a
-                                        href={el.node.fields.slug}
-                                        target="_blank"
-                                        rel="noreferrer"
+                            {footerResources.map(({link, label}) => {
+                                return (<li className="mb-4">
+                                    <Link
+                                        to={link}
                                         className="text-gray-600 hover:underline dark:text-gray-400">
-                                        {el.node.frontmatter.title}
-                                    </a>
-                                </li>)
-                            }
-                            )} */}
+                                        {label}
+                                    </Link>
+                                </li>);
+                            })}
                         </ul>
                     </div>
                 </div>

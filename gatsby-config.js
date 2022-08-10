@@ -158,7 +158,7 @@ module.exports = {
         printRejected: true,
         develop: true,
         tailwind: true,
-        ignore: ["/styles/blog-post.css"],
+        ignore: ["/styles/blog-post.css", "/styles/carousel.css", "/styles/modal.css"],
         purgeCSSOptions: {
           safelist: ["ol", "ul", "lite-youtube"],
         },

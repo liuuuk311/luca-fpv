@@ -3,6 +3,9 @@ import Helmet from 'react-helmet';
 import { CorsoFPVHero } from '../../components/landing/hero';
 import { CorsoFPVGrid } from '../../components/landing/grid';
 import { CorsoFPVFaq } from '../../components/landing/faq';
+import { CorsoFPVVideo } from '../../components/landing/video';
+import { CorsoFPVTestimonials } from '../../components/landing/testimonials';
+import { CorsoFPVCallToAction } from '../../components/landing/cta';
 
 const Landing = () => {
     return (
@@ -14,11 +17,10 @@ const Landing = () => {
             </Helmet>
             <CorsoFPVHero />
             <CorsoFPVGrid />
-            {/* <ProductBenefit/> */}
-            {/* <WhyYouNeedUs/> */}
+            <CorsoFPVVideo />
+            <CorsoFPVTestimonials />
             <CorsoFPVFaq /> 
-            {/* <CallToAction/> */}
-            <script src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"></script>
+            <CorsoFPVCallToAction/>
         </>
     );
 }
