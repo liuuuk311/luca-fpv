@@ -15,12 +15,12 @@ const query = graphql`
   }
 `
 
-const Footer = () => {
+const Footer = ({cssExtraClasses}) => {
     const { site } = useStaticQuery(query)
     const { siteTitle } = site.siteMetadata
 
     return (
-        <footer className="bg-white dark:bg-gray-800 mt-16">
+        <footer className={`bg-white mt-16 ${cssExtraClasses}`}>
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
                     <Link to={`/`} className="flex items-center">
