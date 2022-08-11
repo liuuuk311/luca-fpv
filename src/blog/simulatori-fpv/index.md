@@ -96,7 +96,7 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 <div id="sims-table">
 
 |                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
-| :----------------------------------------------------------- | ---------- | :----: | :-------------: | :------------: | ------------------- | :--------: |
+| ----------------------------------------------------------- | ---------- | ---- | :------------- | ------------ | ------------------- | -------- |
 | [Orqa FPV.Skydive](https://store.steampowered.com/app/1278060/FPVSkyDive/) | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
 | [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
 | [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
