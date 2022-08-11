@@ -22,7 +22,7 @@ export const PostCard = ({ post }) => {
                         {post.frontmatter.title}
                     </h4>
                     <p className="text-base text-gray-600 md:h-32">
-                        {post.excerpt}
+                        {post.frontmatter.excerpt || post.excerpt}
                     </p>
                     <Tags tags={post.frontmatter.tags} />
                 </div>
