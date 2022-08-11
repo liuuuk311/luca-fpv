@@ -6,7 +6,7 @@ import Tags from "../components/tags"
 export const PostCard = ({ post }) => {
     return (
         <Link to={post.fields.slug}> 
-            <article className="dark:bg-gray-800 rounded-lg border shadow-md pb-4">
+            <article className="dark:bg-gray-800 rounded-lg border shadow-md pb-2">
                 {post.frontmatter.featuredImage ? (
                     <GatsbyImage
                         image={post.frontmatter.featuredImage.childImageSharp.gatsbyImageData}
@@ -21,7 +21,7 @@ export const PostCard = ({ post }) => {
                     <h4 className="font-semibold text-xl md:h-16">
                         {post.frontmatter.title}
                     </h4>
-                    <p className="text-base text-gray-600 md:h-32">
+                    <p className="text-base text-gray-600 md:h-28">
                         {post.frontmatter.excerpt || post.excerpt}
                     </p>
                     <Tags tags={post.frontmatter.tags} />

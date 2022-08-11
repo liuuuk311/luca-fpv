@@ -40,10 +40,10 @@ const AboutMe = () => {
         /> */}
         <div className="md:w-1/2 md:py-4 flex flex-col text-left justify-start">
           <h2 className="text-3xl mb-8 font-bold dark:text-gray-200">
-            Ciao!
+            Ciao, benvenuto nel mio blog!
           </h2>
           <p className="text-base text-gray-600 dark:text-gray-300 mb-4">
-            Mi chiamo Luca e sono un appassionato di droni FPV. Questa passione mi ha portato anche a creare la prima community italiana di FPV chiamata NorthFPV.
+            Mi chiamo Luca e sono un appassionato di droni FPV. Questa passione mi ha portato anche a creare <strong>la prima community italiana di FPV chiamata NorthFPV</strong>.
           </p>
           <p className="text-base text-gray-600 dark:text-gray-300 mb-4">
             Lo scopo di questo blog è aiutare principalmente chi inizia ad usare droni FPV.

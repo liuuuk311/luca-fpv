@@ -2,7 +2,7 @@ import { OutboundLink } from 'gatsby-plugin-google-gtag';
 import React, { useState } from 'react'
 import Modal from 'react-modal';
 import "../../styles/modal.css"
-import { CorsoFPVForm } from './forms';
+import { CorsoFPVForm, RisoluzioneProblemiFPVForm } from './forms';
 
 const CallToActionContainer = ({ title, content, callToAction, callToActionLink, sectionID, children }) => {
     const [modalIsOpen, setIsOpen] = useState(false);
@@ -39,21 +39,10 @@ const CallToActionContainer = ({ title, content, callToAction, callToActionLink,
                 <div className="bg-white rounded-lg text-left overflow-hidden shadow-xl sm:max-w-lg sm:w-full m-auto">
                     <div className="bg-white pt-5 pb-4 p-6 sm:pb-4">
                         <div className="sm:flex sm:items-start">
-                            <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
+                            <div className="mt-3 text-center sm:mt-0 sm:text-left">
                                 {children}
                             </div>
                         </div>
-                    </div>
-                    <div className="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
-                        <button type="button" className="w-full inline-flex uppercase justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-[#EDA550] text-base font-medium text-white  hover:bg-[#c98028] focus:outline-none sm:ml-3 sm:w-auto sm:text-sm">
-                            Prenota Ora
-                        </button>
-                        <button 
-                            onClick={() => setIsOpen(false)}
-                            type="button" 
-                            class="mt-3 w-full inline-flex justify-center rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-base font-medium text-gray-700 hover:bg-gray-50 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm">
-                            Esci
-                        </button>
                     </div>
                 </div>
             </Modal>
@@ -82,7 +71,7 @@ const RisoluzioneProblemiFPVCallToAction = () => {
         content="Ricevi il PDF con le soluzioni ai problemi più comuni nel mondo FPV, direttamente sulla tua email."
         callToAction="Scarica ora!"
         sectionID="download">
-
+        <RisoluzioneProblemiFPVForm />
     </CallToActionContainer>
 }
 
