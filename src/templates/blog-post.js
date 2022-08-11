@@ -2,7 +2,6 @@ import { graphql } from "gatsby"
 import React from "react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
-import { OutboundLink } from "gatsby-plugin-google-gtag"
 
 
 import Seo from "../components/seo"
@@ -13,6 +12,7 @@ import Tags from "../components/tags"
 
 import YouTubeEmbed from "../components/blog/youtube-embed"
 import AffiliateLink from "../components/blog/affiliate-link"
+import OutsideLink from "../components/blog/outside-link"
 
 
 const Post = ( {data} ) => {
@@ -23,7 +23,7 @@ const Post = ( {data} ) => {
     ? frontmatter.featuredImage.publicURL
     : ""
 
-  const shortcodes = { OutboundLink, YouTubeEmbed, AffiliateLink }
+  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink }
 
   return (
     <>

@@ -97,12 +97,12 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 
 |                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
 | ----------------------------------------------------------- | ---------- | ---- | :------------- | ------------ | ------------------- | -------- |
-| [Orqa FPV.Skydive](https://store.steampowered.com/app/1278060/FPVSkyDive/) | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
-| [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/) | 13 €       |   Buona    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [VelociDrone](http://www.velocidrone.com/)                   | 19 €       |   Eccellente    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
-| [DRL Racing](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) | 9 €        |   Discreta    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="Orqa FPV.Skydive" href="https://store.steampowered.com/app/1278060/FPVSkyDive"/> | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="FPV FreeRider" href="https://store.steampowered.com/app/854250/FPV_Freerider"/> | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="Liftoff" href="https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing"/> | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="Uncrashed" href="https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator"/> | 13 €       |   Buona    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="VelociDrone" href="http://www.velocidrone.com/"/>                   | 19 €       |   Eccellente    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
+| <OutsideLink label="DRL Racing" href="https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/"/> | 9 €        |   Discreta    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
 
 </div>
 
