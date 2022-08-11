@@ -1,5 +1,3 @@
-const { createFilePath } = require('gatsby-source-filesystem');
-
 const {
   CreateMarkdownPages,
   CreateBlogListPage,

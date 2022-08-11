@@ -4,6 +4,9 @@ import { slugify } from "./urls";
 async function CreateMarkdownPages({ posts, actions }) {
   posts.forEach((post, _) => {
     const id = post.node.id;
+    
+    if (post.node.frontmatter.title.length > 60) console.warn(`Post ${post.node.fields.slug} title is too long (${post.node.frontmatter.title.length})`)
+    if (!post.node.frontmatter.excerpt || post.node.frontmatter.excerpt.length > 150) console.warn(`Post ${post.node.fields.slug} description is too long`)
 
     const categoryRegex = `/${post.node.frontmatter.categories.join("|")}/i`;
     const tagRegex = `/${post.node.frontmatter.tags.join("|")}/i`;
