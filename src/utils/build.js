@@ -6,7 +6,7 @@ async function CreateMarkdownPages({ posts, actions }) {
     const id = post.node.id;
     
     if (post.node.frontmatter.title.length > 60) console.warn(`Post ${post.node.fields.slug} title is too long (${post.node.frontmatter.title.length})`)
-    if (!post.node.frontmatter.excerpt) console.error(`Post ${post.node.fields.slug} has no excerpt`)
+    if (!post.node.frontmatter.categories) console.error(`Post ${post.node.fields.slug} has no categories`)
     if (post.node.frontmatter.excerpt.length > 160) console.warn(`Post ${post.node.fields.slug} description is too long (${post.node.frontmatter.excerpt.length})`)
 
     const categoryRegex = `/${post.node.frontmatter.categories.join("|")}/i`;

@@ -1,8 +1,10 @@
+import { OutboundLink } from 'gatsby-plugin-google-gtag';
 import React, { useState } from 'react'
 import Modal from 'react-modal';
 import "../../styles/modal.css"
+import { CorsoFPVForm } from './forms';
 
-const CallToActionContainer = ({ title, content, callToAction, sectionID, children, withModal }) => {
+const CallToActionContainer = ({ title, content, callToAction, callToActionLink, sectionID, children }) => {
     const [modalIsOpen, setIsOpen] = useState(false);
 
     return (
@@ -11,14 +13,21 @@ const CallToActionContainer = ({ title, content, callToAction, sectionID, childr
                 <div className="max-w-screen-sm mx-auto text-center">
                     <h2 className="mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">{title}</h2>
                     <p className="mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">{content}</p>
-                    <button
-                        onClick={() => setIsOpen(true)}
+                    { children ? <button
+                            onClick={() => setIsOpen(true)}
+                            className="text-white bg-[#eda550] hover:bg-[#c98028] font-bold rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 focus:outline-none uppercase">
+                            {callToAction}
+                        </button>
+                    : <OutboundLink
+                        href={callToActionLink}
+                        target="_blank" rel="nofollow"
                         className="text-white bg-[#eda550] hover:bg-[#c98028] font-bold rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 focus:outline-none uppercase">
                         {callToAction}
-                    </button>
+                    </OutboundLink>
+                    }
                 </div>
             </div>
-            {withModal && <Modal
+            {children && <Modal
                 isOpen={modalIsOpen}
                 onRequestClose={() => setIsOpen(false)}
                 shouldCloseOnOverlayClick={true}
@@ -62,7 +71,7 @@ const CorsoFPVCallToAction = () => {
         content="Prenota subito il tuo posto per l'unico corso FPV in Italia. Una volta inseriti i dati, verrai contattato dal nostro team per ulteriori dettagli."
         callToAction="Prenota ora!"
         sectionID="iscriviti">
-
+            <CorsoFPVForm />
     </CallToActionContainer>
 }
 
@@ -82,7 +91,9 @@ const OfferteCallToAction = () => {
         title="Entra ora nel canale delle offerte!"
         content="Inizia subito a risparmiare su tantissimi oggetti FPV. Da flight controller a droni completi!"
         callToAction="Entra ora!"
-        sectionID="unisciti"/>
+        sectionID="unisciti"
+        callToActionLink="https://t.me/fpv_coupons"
+    />
 }
 
 export {
