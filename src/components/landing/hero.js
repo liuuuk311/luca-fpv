@@ -19,7 +19,7 @@ const Hero = ({ title, subTitle, paragraphs, cta_label, cta_link, image, altText
               {cta_label}
             </Link>}
         </div>
-        <div className="md:w-1/2 h-72 md:h-96 md:py-0 py-8" style={cssBgSVGstyle}>
+        <div className="md:w-1/2 h-64 md:h-96 md:py-0 py-8" style={cssBgSVGstyle}>
           {!cssBgSVGstyle ? <GatsbyImage
             image={image}
             className="rounded-lg"
