@@ -97,7 +97,7 @@ const WhastappShare = () => {
 
 const ShareSideBar = ({image}) => {
     return (
-        <div className="sticky top-8 mx-auto">
+        <div className="sticky top-8 mx-0 w-1/4">
             <div className="hidden md:flex md:flex-col">
                 <span className="uppercase w-full text-center font-semibold dark:text-gray-300 mb-2">Condividi</span>
                 <FacebookShare />
