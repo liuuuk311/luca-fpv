@@ -7,6 +7,9 @@ import PostGrid from "../components/post-grid"
 import { Hero } from "../components/landing/hero"
 
 const IndexPage = ({data}) => {
+  const img = data.me
+  ? data.me.edges[0].node.childImageSharp.gatsbyImageData
+  : "";
 
   return (
     <>
@@ -22,6 +25,8 @@ const IndexPage = ({data}) => {
           "Lo scopo di questo blog è aiutare principalmente chi inizia ad usare droni FPV. Nel corso degli anni ho potuto aiutare diverse migliaia di persone, facendole diventare piloti migliori.",
         ]}
         extraCssClasses="px-0 sm:px-0"
+        image={img}
+        altText="Foto di @iamlucafpv"
       />
       <PostGrid 
         title={"Per chi inizia"} 
@@ -42,6 +47,15 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query HomeQuery {
+    me: allFile(filter: {relativePath: {eq: "me.jpg"}}) {
+      edges {
+        node {
+          childImageSharp {
+            gatsbyImageData(height: 650, placeholder: BLURRED, formats: [AUTO, WEBP])
+          }
+        }
+      }
+    }
     starting_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { featured: {eq: true}, categories: {in: "Principianti"} } }
