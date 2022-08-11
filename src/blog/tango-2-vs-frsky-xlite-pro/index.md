@@ -1,7 +1,7 @@
 ---
 title: "Tango 2 o X-Lite Pro, qual è la miglior radio compatta?"
 date: "2020-09-20T00:00:00.000Z"
-excerpt: In questa recensione confronto le due radio più popalari e conosciute per la loro portabilità. Radio compatte e con meno funzionalità, sarà questo il nuovo trend del mondo FPV? Lo scopriamo insieme in questo articolo.
+excerpt: Un confronto tra due delle radio più popolari consociute per le loro dimensioni ridotte. Vediamo insieme i pro e i contro di ciascuna.
 categories:
     - Recensione
 tags: 

@@ -3,9 +3,10 @@ title: Ecco tutto quello che serve per fare FPV
 date: "2021-09-08T00:00:00.000Z"
 excerpt: La lista di tutte le cose che servono per iniziare a volare in FPV. Molte persone sottovalutano le cose che servono, ecco perché in questo articolo spiego tutto.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+    - Guide Acquisto 
+tags: 
+    - Attrezzatura FPV
 ---
 <style jsx>{`
     #drone-table td:nth-of-type(1) {

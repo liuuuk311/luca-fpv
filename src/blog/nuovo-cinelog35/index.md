@@ -1,11 +1,13 @@
 ---
 title: "Nuovo Cinelog35: il drone FPV perfetto per il cinematic"
 date: "2022-02-26T00:00:00.000Z"
-excerpt: Il Cinelog35 è il nuovo drone FPV per cinematic di GEPRC, con dimensioni contentue ma in grado di fare riprese magnifiche anche con una GoPro 10
+excerpt: Il Cinelog35 è il nuovo drone FPV per cinematic di GEPRC, con dimensioni contentue ma in grado di sollevare anche con una GoPro 10
 categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Cinewhoop
+    - HD
 featured: true
 ---
 

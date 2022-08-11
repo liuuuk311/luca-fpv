@@ -3,10 +3,10 @@ title: Scaricare Betaflight Configurator
 date: "2020-04-10T00:00:00.000Z"
 excerpt: Ecco dove puoi scaricare le applicazioni più comuni usate nel mondo FPV per configurare il tuo drone.
 categories:
-  - Tutorial
+    - Software
+    - Principianti
 tags: 
-  - Principianti
-  - Betaflight
+    - Betaflight
 featured: false
 ---
 <style jsx>{`

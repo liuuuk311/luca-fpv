@@ -3,9 +3,10 @@ title: Configurare l'OSD in Betaflight
 date: "2020-04-11T00:00:00.000Z"
 excerpt: In questo articolo spiego cosa puoi fare con l'OSD di Betaflight e come configurarlo per mostrare informazioni importanti realtive al volo.
 categories:
-    - Tutorial
+    - Principianti
 tags: 
     - Betaflight
+    - Configurazione
 featured: false
 ---
 

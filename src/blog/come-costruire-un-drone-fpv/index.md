@@ -3,9 +3,9 @@ title: "Come costruire un drone FPV nel 2022: La guida passo a passo"
 date: "2022-01-05T00:00:00.000Z"
 excerpt: "Se non hanno mai costruito un drone FPV prima, questa guida è per te. Ecco come costuire un drone FPV in modo facile"
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Build Completa
 featured: true
 ---
 <style jsx>{`

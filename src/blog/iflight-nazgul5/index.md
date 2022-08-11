@@ -4,8 +4,11 @@ date: "2021-03-23T00:00:00.000Z"
 excerpt: Stai cercando il primo drone da 5 pollici e non vuoi costruirlo da zero? In questa recensione vedremo se l'iFlight Nazgul5 è il drone adatto a te.
 categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Droni FPV
+    - Freestyle
+    - Cinematic
 featured: false
 ---
 

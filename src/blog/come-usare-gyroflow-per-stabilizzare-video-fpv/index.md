@@ -3,9 +3,10 @@ title: Come usare GyroFlow per stabilizzare video FPV
 date: "2022-04-22T00:00:00.000Z"
 excerpt: In questa guida spiego come stabilizzare i tuoi video FPV per avere video fluidi
 categories:
-    - Tutorial
+    - Intermedio
 tags: 
-    - Principianti
+    - Stabilizzazione Video
+    - Video Editing
 featured: true
 ---
 

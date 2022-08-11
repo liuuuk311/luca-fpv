@@ -1,11 +1,11 @@
 ---
 title: Cosa sono RC Rate, RC Expo e Super Rate di Betaflight?
 date: "2020-09-05T00:00:00.000Z"
-excerpt: In questo tutorial spiego cosa sono RC Rate, RC Expo e Super Rate di Betaflight. Inoltre spiego come questi parametri influenzano le performance di un drone, e condivido qualche consiglio su come trovare i tuoi rates ideali.
+excerpt: Ecco cosa sono RC Rate, RC Expo e Super Rate di Betaflight e come questi parametri influenzano le performance di un drone.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Rates
 featured: false
 ---
 

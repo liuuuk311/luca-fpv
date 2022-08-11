@@ -14,6 +14,14 @@ const BlogList = ({ data, pageContext }) => {
             <div className="flex flex-row">
                 <section>
                     <PostGrid
+                        title={"Recensioni"}
+                        posts={data.recensioni.edges}
+                    />
+                    <PostGrid
+                        title={"Software e configurazioni"}
+                        posts={data.software.edges}
+                    />
+                    <PostGrid
                         title={"Articoli Recenti"}
                         posts={data.recent_posts.edges}
                     />
@@ -27,11 +35,49 @@ const BlogList = ({ data, pageContext }) => {
 export default BlogList
 
 export const pageQuery = graphql`
-  query BlogQuery($skip: Int!, $limit: Int!) {
+  query BlogQuery($skip: Int!, $skipFeatured: Int!, $limit: Int!) {
     recent_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
       limit: $limit
       skip: $skip
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 150)
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            tags
+          }
+        }
+      }
+    }
+    recensioni: allMdx(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { categories: {in: "Recensione"} } }
+      limit: 3
+      skip: $skipFeatured
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 150)
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            tags
+          }
+        }
+      }
+    }
+    software: allMdx(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { categories: {in: "Software"} } }
+      limit: $limit
+      skip: $skipFeatured
     ) {
       edges {
         node {

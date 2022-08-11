@@ -1,12 +1,12 @@
 ---
 title: Come configurare i canali in Betaflight e su OpenTX
 date: "2020-09-23T00:00:00.000Z"
-excerpt: Un problema molto comune è la mappatura errata dei canali in Betaflight. In questo tutorial vediamo cos'è e come funziona. Inoltre vediamo come mappare i canali in modo corretto sia in Betaflight che in OpenTX.
+excerpt: Cos'è la mappatura errata dei canali in Betaflight e come mappare i canali in modo corretto sia in Betaflight che in OpenTX.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
     - Betaflight
+    - Open TX
 featured: true
 ---
 

@@ -3,9 +3,11 @@ title: Ecco come caricare le batterie LiPo
 date: "2021-08-30T00:00:00.000Z"
 excerpt: Caricare le batterie LiPo può essere difficile e pericoloso, ecco come caricarle in tutta sicurezza passo per passo.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Lipo
+    - Sicurezza
+    - Voltaggi
 featured: false
 ---
 

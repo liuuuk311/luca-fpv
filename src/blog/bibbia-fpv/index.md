@@ -1,11 +1,11 @@
 ---
 title: La Bibbia dell'FPV
 date: "2020-03-23T00:00:00.000Z"
-excerpt: Hai o vorresti un drone FPV ma ti scoraggiano tutti gli acronimi? Non sai qual è il voltaggio giusto per la tua batteria? Ogni pilota, prima di volare deve leggere almeno una volta questo articolo.
+excerpt: Ecco la lista degli acronimi principali che ogni pilota FPV dovrebbe sapere.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Definizioni
 featured: false
 ---
 

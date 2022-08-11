@@ -1,11 +1,12 @@
 ---
 title: Tutto quello che c'è da sapere sulle batterie dei droni
 date: "2021-08-28T00:00:00.000Z"
-excerpt: In questo articolo spiego tutto quello che c'è bisogno di sapere sulle batterie dei droni. Da quanto durano, a quali sono le migliori per il tuo drone FPV.
+excerpt: Ecco tutto quello che c'è bisogno di sapere sulle batterie dei droni. Da quanto durano, a quali sono le migliori per il tuo drone FPV.
 categories:
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Durata della batteria
+    - Lipo
 featured: false
 ---
 

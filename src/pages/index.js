@@ -24,8 +24,8 @@ const IndexPage = ({data}) => {
         extraCssClasses="px-0 sm:px-0"
       />
       <PostGrid 
-        title={"Da non perdere"} 
-        posts={data.featured_posts.edges} 
+        title={"Per chi inizia"} 
+        posts={data.starting_posts.edges} 
       /> 
       <PostGrid 
         title={"Articoli Recenti"} 
@@ -42,9 +42,9 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query HomeQuery {
-    featured_posts: allMdx(
+    starting_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { featured: {eq: true} } }
+      filter: { frontmatter: { featured: {eq: true}, categories: {in: "Principianti"} } }
       limit: 3
     ) {
       edges {
