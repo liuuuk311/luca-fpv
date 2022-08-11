@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 
 import Seo from "../components/seo"
 import PostGrid from "../components/post-grid"
-import AboutMe from "../components/about-me"
+import { Hero } from "../components/landing/hero"
 
 const IndexPage = ({data}) => {
 
@@ -15,7 +15,14 @@ const IndexPage = ({data}) => {
         <title>Luca FPV - Vola in prima persona</title>
         <meta name="description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
     </Helmet>
-      <AboutMe />
+      <Hero 
+        title="Ciao, benvenuto nel mio blog!"
+        paragraphs={[
+          "Mi chiamo Luca e sono un appassionato di droni FPV. Questa passione mi ha portato anche a creare la prima community italiana di FPV chiamata NorthFPV.",
+          "Lo scopo di questo blog è aiutare principalmente chi inizia ad usare droni FPV. Nel corso degli anni ho potuto aiutare diverse migliaia di persone, facendole diventare piloti migliori.",
+        ]}
+        extraCssClasses="px-0 sm:px-0"
+      />
       <PostGrid 
         title={"Da non perdere"} 
         posts={data.featured_posts.edges} 
