@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, puoi dare un'occhiata al mio [profilo Instagram](https://www.instagram.com/iamlucafpv/) per capire di che cosa si tratta.
 

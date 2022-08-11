@@ -18,7 +18,7 @@ featured: false
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Google ha annunciato di non terminare il supporto per tutte le loro Applicazioni di Chrome. Quindi sia Betaflight Configurator che altre applicazioni del mondo dei multi rotori hanno cominciato a rilasciare le versioni standalone. In questo articolo spiego come scaricare Betaflight Configurator.
 

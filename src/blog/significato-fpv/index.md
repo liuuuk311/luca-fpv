@@ -9,7 +9,7 @@ tags:
 featured: false
 ---
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 
 Il termine FPV è un acronimo inglese che sta per **F**irst **P**erson **V**iew, in italiano potremmo tradurrlo come visuale in prima persona. 
 

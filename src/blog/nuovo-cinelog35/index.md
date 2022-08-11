@@ -9,8 +9,8 @@ tags:
 featured: true
 ---
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
+
 
 I video cinematic FPV sono sempre più richiesti a livello professionale, e sempre più virali sui social! A questo proposito, mi segui già su [Instagram](https://instagram.com/iamlucafpv)?
 

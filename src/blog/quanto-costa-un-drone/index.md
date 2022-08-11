@@ -40,7 +40,7 @@ tags:
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Quanto costa comprare un drone nel 2021? 
 > **La risposta breve è dipende**, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. 

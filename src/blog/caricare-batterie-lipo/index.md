@@ -37,8 +37,8 @@ featured: false
     }
 `}</style>
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
+
 
 In questo aritcolo vedremo tutto ciò che c'è da sapere per caricare batterie LiPo (Lithium-Polymer) in maniera sicura.
 

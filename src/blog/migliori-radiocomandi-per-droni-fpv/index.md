@@ -39,7 +39,7 @@ featured: true
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Questa guida spiega le basi delle radio che è possibile usare per pilotare un drone FPV. Oltre al prezzo, alla frequenza, ai protocolli supportati e al numero di canali, ci sono molte altre cose da considerare quando si acquista una nuova radio.
 

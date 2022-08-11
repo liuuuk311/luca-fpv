@@ -32,7 +32,7 @@ featured: true
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 ## Per chi è pensata questa build?
 Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione.

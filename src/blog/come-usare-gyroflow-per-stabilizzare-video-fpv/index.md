@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
 
 Qual è il segreto per fare video FPV stabili come questo?
 

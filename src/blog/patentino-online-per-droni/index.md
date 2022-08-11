@@ -10,7 +10,7 @@ tags:
   - Enac
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Negli ultimi anni abbiamo assistito a una crescita esponenziale dell’uso del drone. Giustamente, col maggior numero di persone che utilizzano questi velivoli è cresciuta la necessità di creare nelle norme e restrizioni. 
 

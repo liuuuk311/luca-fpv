@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Come montare il modulo GPS sul tuo nuovo modello? In questa guida ti mostrerò come impostare e configurare il GPS su un **drone FPV** per volare senza più preoccuparti di un possibile failsafe.
 

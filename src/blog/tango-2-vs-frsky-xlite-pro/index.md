@@ -9,7 +9,7 @@ tags:
 featured: false
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 I controller radio più popolari e più compatti disponibili per i piloti FPV nel 2020 sono il TBS Tango 2 e Frsky X-Lite Pro. In questa recensione confronto i due e ti aiuto a decidere quale acquistare.
 

@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 In questa review vedremo se l'Emax Tinyhawk è il drone perfetto per entrare nel mondo FPV. Il suo prezzo è molto competitivo, e con la possibilità di acquistare il bundle con radiocomando e visore, lo rendono uno dei kit più popolari tra le persone che vogliono iniziare a volare in FPV.
 

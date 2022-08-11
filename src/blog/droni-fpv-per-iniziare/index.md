@@ -28,8 +28,8 @@ featured: true
     }
 `}</style>
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
+
 
 Stai cercando il miglior drone FPV completo per iniziare a volare nel 2022? Questa guida è quello che cerchi, ti mostrerò quali sono le alternative, spiegherò i pro e i contro dei diversi droni, considerando anche le varie fasce di prezzo, infine per ciascun drone spiegherò chi lo dovrebbe acquistare.
 

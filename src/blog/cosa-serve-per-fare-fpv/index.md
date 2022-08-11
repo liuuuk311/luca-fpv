@@ -39,7 +39,7 @@ tags:
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Una cosa che crea parecchia confusione a chi si avvicina al mondo FPV, e il non sapere esattamente ciò che serve per inziare. 
 E' bene sapere che, a meno non si acquisti un kit, bisognerà acquistare separatamente tutta l'attrezzatura. 

@@ -85,10 +85,10 @@ module.exports = {
                 };
               });
 
-            var pages = allSitePage.edges.map(({ node }) => {
+            var pages = allSitePage.nodes.map(({ path }) => {
               return {
-                url: site.siteMetadata.siteUrl + node.path,
-                path: node.path,
+                url: site.siteMetadata.siteUrl + path,
+                path: path,
               };
             });
             return posts.concat(pages);
@@ -145,12 +145,6 @@ module.exports = {
           "G-6YB9CW1683", // Google Analytics / GA
         ],
       },
-    },
-    {
-      resolve: `gatsby-plugin-gtag-outbound`,
-      options: {
-        trackingId: `G-6YB9CW1683`,
-      }
     },
     {
       resolve: `gatsby-plugin-purgecss`,

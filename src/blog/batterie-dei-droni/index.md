@@ -34,7 +34,7 @@ featured: false
     }
 `}</style>
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Chi ha un drone vorrebbe poter volare senza mai dover atterrare perchè la batteria è scarica. I progressi tecnologici ci hanno dato tempi di volo che possono arrivare fino a 30 minuti con una singola carica. La necessità del tempo di volo più lungo è particolarmente evidente in coloro che sono interessati alla fotografia aerea oppure nei voli long range.
 

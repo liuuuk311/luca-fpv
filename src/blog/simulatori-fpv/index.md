@@ -36,8 +36,8 @@ featured: true
     }
 `}</style>
 
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
+
 
 In questo articolo confronto i migliori simulatori per droni FPV per PC e Mac. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 

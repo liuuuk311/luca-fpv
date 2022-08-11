@@ -8,8 +8,8 @@ tags:
     - Principianti
 featured: true
 ---
-import AffiliateLink from "../../components/blog/affiliate-link.js"
-import YouTubeEmbed from "../../components/blog/youtube-embed.js"
+
+
 
 Hai acquistato un drone o stai pensando di farlo e vorresti guadangare qualche soldo extra oppure trasformare una passione in lavoro? In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadagnare. 
 

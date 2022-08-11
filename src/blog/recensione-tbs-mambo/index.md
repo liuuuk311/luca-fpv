@@ -9,7 +9,7 @@ tags:
 featured: true
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 La TBS Tango 2, il radiocomando di casa TBS a forma di gamepad ha fatto molto successo, ma non tutti trovano comodo quello stile di radio. Molti, sopratutto chi pilota con pollici e indici, preferisce una radio più grossa, con la forma dei radiocomandi normali.
 

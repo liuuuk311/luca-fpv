@@ -9,7 +9,7 @@ tags:
 featured: false
 ---
 
-import AffiliateLink from "../../components/blog/affiliate-link.js"
+
 
 Abbastanza spesso, una volta collegato il flight controller a Betaflight, il configuratore visualizza il seguente messaggio di errore:
 > Impossibile aprire la porta seriale
