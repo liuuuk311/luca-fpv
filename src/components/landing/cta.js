@@ -69,6 +69,17 @@ const CorsoFPVCallToAction = () => {
 }
 
 
+const RisoluzioneProblemiFPVCallToAction = () => {
+    return <CallToActionContainer
+        title="Scarica ora la tua guida gratuita"
+        content="Inserisci il tuo nome e la tua email per ricevere il PDF con le soluzioni ai problemi più comuni nel mondo FPV."
+        callToAction="Scarica ora!"
+        sectionID="download">
+
+    </CallToActionContainer>
+}
+
 export {
     CorsoFPVCallToAction,
+    RisoluzioneProblemiFPVCallToAction,
 }

@@ -18,7 +18,7 @@ const Pagination = ({currentPage, numPages, customSlug}) => {
             <div className="mx-auto">
                 {Array.from({ length: numPages }, (_, i) => (
                 <Link 
-                    className={`mx-1 py-1 px-3 rounded-full text-sm font-semibold dark:text-gray-300 ${i + 1 === currentPage ? "hover:bg-sky-600 bg-sky-700 text-white font-bold" : ""}`} 
+                    className={`mx-1 py-1 px-3 rounded-full text-sm font-semibold dark:text-gray-300 ${i + 1 === currentPage ? "bg-[#eda550] hover:bg-[#c98028] text-white font-bold" : ""}`} 
                     key={`pagination-number${i + 1}`} 
                     to={`/${slug}/${i === 0 ? "" : i + 1}`}
                     >

@@ -3,6 +3,8 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { RisoluzioneProblemiFPVHero } from '../../components/landing/hero';
 import { RisoluzioneProblemiFPVGrid } from '../../components/landing/grid';
+import { RisoluzioneProblemiFPVSocialProof } from '../../components/landing/social-proof';
+import { RisoluzioneProblemiFPVCallToAction } from '../../components/landing/cta';
 
 const Landing = () => {
     return (
@@ -13,9 +15,8 @@ const Landing = () => {
             </Helmet>
             <RisoluzioneProblemiFPVHero />
             <RisoluzioneProblemiFPVGrid />
-            {/* <ProductBenefit/> */}
-            {/* <ProductFeature/> */}
-            {/* <CallToAction/> */}
+            <RisoluzioneProblemiFPVSocialProof />  
+            <RisoluzioneProblemiFPVCallToAction />
         </>
     );
 }

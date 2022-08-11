@@ -22,7 +22,7 @@ const IndexPage = ({data}) => {
       /> 
       <PostGrid 
         title={"Articoli Recenti"} 
-        cta_label={"Leggi tutti gli articoli"} 
+        cta_label={"Tutti gli articoli"} 
         cta_link={"/articoli"}
         posts={data.recent_posts.edges} 
       />
@@ -48,6 +48,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            tags
           }
         }
       }

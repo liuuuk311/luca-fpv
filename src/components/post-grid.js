@@ -18,10 +18,10 @@ export const PostCard = ({ post }) => {
                     ""
                 )}
                 <div className="p-4">
-                    <h4 className="font-semibold text-xl md:h-14">
+                    <h4 className="font-semibold text-xl md:h-16">
                         {post.frontmatter.title}
                     </h4>
-                    <p className="text-base text-gray-600 md:h-24">
+                    <p className="text-base text-gray-600 md:h-32">
                         {post.excerpt}
                     </p>
                     <Tags tags={post.frontmatter.tags} />
@@ -44,7 +44,7 @@ const PostGrid = ({ title, posts, cta_link, cta_label }) => {
       {cta_link && cta_label &&
       <div className="flex flex-row justify-end">
         <Link
-          className="bg-sky-700 text-white rounded-lg p-4 text-base uppercase font-semibold hover:bg-sky-600"
+          className="text-white bg-[#eda550] hover:bg-[#c98028] font-bold rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 focus:outline-none uppercase"
           to={cta_link}>
           {cta_label}
         </Link>

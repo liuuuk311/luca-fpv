@@ -102,7 +102,7 @@ const ShareSideBar = ({image}) => {
                 <span className="uppercase w-full text-center font-semibold dark:text-gray-300 mb-2">Condividi</span>
                 <FacebookShare />
                 <TwitterShare />
-                <PinterestShare image={image}/>
+                {image && <PinterestShare image={image}/>}
                 <WhastappShare />
             </div>
         </div>)

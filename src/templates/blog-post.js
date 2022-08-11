@@ -45,7 +45,6 @@ const Post = ( {data} ) => {
       <div className="w-full">
         <ReadNext posts={recommendations.edges} currentTags={frontmatter.tags} currentCategories={frontmatter.categories} />
       </div>
-      
     </>
   )
 }
