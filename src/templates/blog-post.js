@@ -2,6 +2,7 @@ import { graphql } from "gatsby"
 import React from "react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
+import AdSense from 'react-adsense';
 
 
 import Seo from "../components/seo"
@@ -49,7 +50,25 @@ const Post = ( {data} ) => {
             <Categories categories={frontmatter.categories} />
           </article>
         <div className="hidden md:flex flex-col pl-8 justify-start">
+          <div className="mb-8 h-96">
+            <AdSense.Google
+                client='ca-pub-4566556883137005'
+                slot='2806584328'
+                style={{ display: 'block' }}
+                data-ad-format="auto"
+                data-full-width-responsive="true"
+            />
+          </div>
+          <div className="my-8 h-96">
+            <AdSense.Google
+                client='ca-pub-4566556883137005'
+                slot='5109167274'
+                style={{ display: 'block' }}
+                format='fluid'
+            />
+          </div>
           <Share image={Image}/>
+          <div className="sticky top-64 my-8"></div>
         </div>
       </div>
       <div className="w-full">
