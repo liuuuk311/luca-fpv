@@ -1,7 +1,7 @@
 ---
 title: I migliori radiocomandi per droni FPV nel 2022
 date: "2022-01-07T00:00:00.000Z"
-excerpt: Quali sono i migliori radiocomandi per pilotare droni FPV? In questa guida spiego quali radiocomandi dovresti pensare di comprare se vuoi iniziare a volare nel 2022.
+excerpt: Ecco quali sono i migliori radiocomandi per droni FPV nel 2022. In questo articolo spiego qual è il radiocomando giusto per te
 categories: 
     - Tutorial
 tags: 

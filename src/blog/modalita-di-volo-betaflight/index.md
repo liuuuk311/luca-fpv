@@ -1,7 +1,7 @@
 ---
 title: Come configurare le modalità di volo in Betaflight
 date: "2020-04-24T00:00:00.000Z"
-excerpt: Betaflight offre diverse modalità di volo e alcune di queste sono quasi indispensabili. Ecco la lista di tutte le modalità di volo, e una breve spiegazione di come attivarle.
+excerpt: Betaflight ha diverse modalità di volo e alcune sono indispensabili. Ecco la lista di tutte le modalità di volo, e una breve spiegazione di come attivarle.
 categories:
     - Tutorial
 tags: 

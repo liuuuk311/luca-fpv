@@ -1,7 +1,7 @@
 ---
 title: Come fare soldi con un drone
 date: "2021-08-26T00:00:00.000Z"
-excerpt: Hai acquistato un drone o stai pensando di farlo e vorresti guadangare qualche soldo extra oppure trasformare una passione in lavoro? In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadagnare. 
+excerpt: In questo articolo spiego alcuni dei modi in cui io sono riuscito a guadangare soldi con i droni FPV
 categories:
     - Tutorial
 tags: 

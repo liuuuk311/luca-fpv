@@ -1,7 +1,7 @@
 ---
 title: Configurare l'OSD in Betaflight
 date: "2020-04-11T00:00:00.000Z"
-excerpt: L'OSD permette di sovrappore al video FPV informazioni importanti realtive al volo, come ad esempio il voltaggio della batteria, il tempo di volo e molto altro. In questo articolo spiego cosa puoi fare con l'OSD di Betaflight e come configurarlo.
+excerpt: In questo articolo spiego cosa puoi fare con l'OSD di Betaflight e come configurarlo per mostrare informazioni importanti realtive al volo.
 categories:
     - Tutorial
 tags: 

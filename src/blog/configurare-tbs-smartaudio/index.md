@@ -1,7 +1,7 @@
 ---
 title: Come configurare TBS SmartAudio in Betaflight
 date: "2020-09-29T00:00:00.000Z"
-excerpt: In questo tutorial spiego come configurare il protocollo SmartAudio sulle VTX compatibili per poterle controllare attraverso l'OSD di Betaflight. Inoltre descrivo anche il corretto collegamento tra la VTX e il flight controller per avere lo SmartAudio funzionante.
+excerpt: In questo tutorial spiego come configurare il protocollo SmartAudio sulle VTX compatibili per poterle controllare attraverso l'OSD di Betaflight.
 categories:
     - Tutorial
 tags: 

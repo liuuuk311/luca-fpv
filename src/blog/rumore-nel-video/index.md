@@ -1,7 +1,7 @@
 ---
 title: "Risoluzione dei problemi video FPV"
 date: "2020-09-07T00:00:00.000Z"
-excerpt: Alcuni suggerimenti su come risolvere i problemi e le migliori pratiche da seguire per evitare problemi con i video FPV. L'interferenza e il rumore nel tuo feed video FPV possono essere un problema difficile da risolvere, vediamo quali sono le migliori soluzioni.
+excerpt: Ecco alcuni suggerimenti su come risolvere i problemi e le migliori pratiche da seguire per evitare problemi con i video FPV.
 categories:
     - Tutorial
 tags: 

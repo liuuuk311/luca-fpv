@@ -1,8 +1,7 @@
 ---
 title: "BumbleBee HD V2: il drone FPV digitale per volo cinematic"
 date: "2020-09-24T00:00:00.000Z"
-excerpt: In questa recensione vedremo se l'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic. Vedremo inoltre quali sono i vantaggi e gli svantaggi di questa nuova versione. 
-categories:
+excerpt: L'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic? 
     - Recensione
 tags: 
     - Principianti

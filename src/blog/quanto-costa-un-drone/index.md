@@ -1,7 +1,7 @@
 ---
-title: Ecco quanto costa comprare un drone nel 2021
-date: "2021-09-25T00:00:00.000Z"
-excerpt: "Quanto costa comprare un drone nel 2021? La risposta breve è dipende, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie"
+title: Ecco quanto costa comprare un drone nel 2022
+date: "2022-09-25T00:00:00.000Z"
+excerpt: "Quanto costa comprare un drone nel 2022? In questo articolo vediamo il prezzo dei droni suddiviso per le diverse categorie"
 categories:
     - Tutorial
 tags: 
