@@ -21,6 +21,7 @@ export const createPages = async ({ actions, graphql }) => {
             }
             frontmatter {
               title
+              excerpt
               categories
               tags
             }
