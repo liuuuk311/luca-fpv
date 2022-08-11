@@ -1,6 +1,7 @@
 // import { graphql, useStaticQuery } from "gatsby";
 // import { GatsbyImage } from "gatsby-plugin-image";
 import React from "react";
+import { Link } from "gatsby";
 
 // const query = graphql`
 //   query AboutMeQuery {
@@ -48,7 +49,7 @@ const AboutMe = () => {
             Lo scopo di questo blog è aiutare principalmente chi inizia ad usare droni FPV.
           </p>
           <p className="text-base text-gray-600 dark:text-gray-300 mb-4">
-            Nel corso degli anni ho potuto aiutare diverse migliaia di persone, facendole diventare piloti migliori. Se non trovi quello di cui hai bisogno, contattami.
+            Nel corso degli anni ho potuto aiutare diverse migliaia di persone, facendole diventare piloti migliori. Se non trovi quello di cui hai bisogno, <Link to="/contattami">contattami</Link>.
           </p>
         </div>
       </div>

@@ -46,18 +46,18 @@ module.exports = {
         query: `
         {
           site {
-          siteMetadata {
-            siteUrl
+            siteMetadata {
+              siteUrl
+            }
           }
-        }
-        allSitePage(filter: {isCreatedByStatefulCreatePages: {eq: true}}) {
-          edges {
-            node {
+          allSitePage(
+            filter: {pluginCreator: {nodeAPIs: {in: "createPagesStatefully"}}}
+          ) {
+            nodes {
               path
             }
           }
-        }
-          allMarkdownRemark(
+          allMdx(
             sort: {fields: [frontmatter___date], order: DESC}
             limit: 1000
           ) {
@@ -75,8 +75,8 @@ module.exports = {
         }`,
         resolveSiteUrl: ({site}) => site.siteMetadata.siteUrl,
         resolvePagePath: (page) => page.path, 
-        resolvePages: ({ site, allMarkdownRemark, allSitePage }) => {
-          var posts = allMarkdownRemark.edges
+        resolvePages: ({ site, allMdx, allSitePage }) => {
+          var posts = allMdx.edges
               .map(({ node }) => {
                 return {
                   url: site.siteMetadata.siteUrl + node.fields.slug,
