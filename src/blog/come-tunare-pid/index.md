@@ -1,11 +1,11 @@
 ---
-title: Come tunare i PID
+title: "Come tunare i PID: La guida definitiva"
 date: "2020-05-02T00:00:00.000Z"
-excerpt: In questo tutorial cerco di spiegare cosa si intende con PID, quali sono gli effetti sulla stabilità e manovrabilità del drone e anche qualche consiglio su come tunare i PID. 
-category:
-    - Tutorial
-tags: 
+excerpt: In questo tutorial spiego cosa si intende con PID, quali sono gli effetti sulla stabilità e manovrabilità del drone e anche spiego come tunare i PID. 
+categories:
     - Intermedio
+tags: 
+    - PID Tuning
 featured: true
 ---
 
@@ -17,7 +17,7 @@ La maggior parte dei configuratori di quad come Betaflight e KISS permettono di 
 
 Lo scopo del sistema di controllo PID è quello di correggere l'**errore**, ovvero la differenza tra il **valore misurato** dal giroscopio e il **setpoint**, ovvero la velocità di rotazione che si desidera. L'errore può essere minimizzato aggiustando i controlli di input ad ogni iterazione, e di conseguenza cambierà la velocità dei motori. 
 
-![Sistema di controllo PID](./sistema_pid.png)
+![Sistema di controllo PID](/assets/come-tunare-pid/sistema_pid.png)
 
 Ci sono tre valori in un controllore PID, nella figura sono indicati come K<sub>P</sub>, K<sub>I</sub> e K<sub>D</sub>. Per semplicità chiamiamoli, termine P, termine I e termine D. 
 

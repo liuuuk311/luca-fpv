@@ -1,24 +1,29 @@
 ---
 title: "BumbleBee HD V2: il drone FPV digitale per volo cinematic"
 date: "2020-09-24T00:00:00.000Z"
-excerpt: In questa recensione vedremo se l'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic. Vedremo inoltre quali sono i vantaggi e gli svantaggi di questa nuova versione. 
-category:
+excerpt: L'iFlight BumbleBee V2 in versione digitale, compatibile con il sistema DJI FPV, è il drone perfetto per cominciare a fare video cinematic? 
+categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Cinewhoop
+    - HD
 featured: false
 ---
-Un tipico Cinewhoop è un micro quad da 3" con duct che è abbastanza potente da montare una GoPro. I cinewhoop sono un ottimo strumento per fare filmati cinematografici. Sono lenti ma stabili e possono volare intorno a persone e proprietà in modo relativamente sicuro. Con la stabilizzazione Hypersmooth di GoPro (o utilizzando Reelsteady), puoi ottenere filmati molto fluidi.
+
+
+
+Un tipico Cinewhoop è un micro quad da 3" con duct che è abbastanza potente da montare una GoPro. I cinewhoop sono un ottimo strumento per fare filmati cinematografici. Sono lenti ma stabili e possono volare intorno a persone e proprietà in modo relativamente sicuro. Con la stabilizzazione Hypersmooth di GoPro (oppure utilizzando software come Reelsteady o [Gyroflow](https://lucafpv.com/come-usare-gyroflow-per-stabilizzare-video-fpv)), puoi ottenere filmati molto fluidi.
 
 Volare con un cinewhoop è abbastanza diverso da un drone FPV freestyle da 5", il rapporto peso/potenza è molto più basso e per volare normalmente terrai il gas al 40-50%, il che non ti lascia molto spazio per la correzione. E passerai un po' di tempo per imparare a controllarlo senza problemi e mantenere un'altitudine stabile.
 
 Il BumbleBee HD V2 é il drone giusto per chi vuole cominciare a fare video molto fluidi, magari vicino a persone e ad ostacoli. 
 
-Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" rel="noreferrer" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" rel="noreferrer" target="_blank">Versione 6S</a>)
+Se vuoi risparmiare conviene comprarlo su Banggood (<AffiliateLink href="https://www.banggood.com/custlink/GDmdWU0HQe" label="Versione 4S" /> | <AffiliateLink href="https://www.banggood.com/custlink/vv3hcU4Woh" label="Versione 6S" />)
 
 > Non sai che differenza c'è tra 4S e 6S? Allora prova a dare un'occhiata [qua](https://lucafpv.com/bibbia-fpv/)
 
-![BumbleBee V2 HD](./bumblebee_v2_1.png)
+![BumbleBee V2 HD](/assets/bumblebee-v2-hd/bumblebee_v2_1.png)
 
 ## Vantaggi
 IFlight ha una buona reputazione, e anche in questo caso non si smentisce. Questa nuova versione del BumbleBee, aggiunge diversi vantaggi rispetto alla versione precedente. Innanzitutto, hanno migliorato il design dei duct (la parte che protegge le elice), in questo modo il drone risulta più silenzioso. IFlight spedisce il BumbleBee V2 **già configurato** con dei tuining. Questo in particolare si traduce in un volo più stabile soprattutto quando si vola a bassa quota e vicino a persone ed oggetti.
@@ -62,8 +67,8 @@ Chiaramente non è un drone economico, ma per lavori professionali ci vuole qual
 
 ### Dove comprarlo?
 
-Se vuoi risparmiare conviene comprarlo su Banggood (<a href="https://www.banggood.com/custlink/GDmdWU0HQe" rel="nofollow" rel="noreferrer" target="_blank">Versione 4S</a> | <a href="https://www.banggood.com/custlink/vv3hcU4Woh" rel="nofollow" rel="noreferrer" target="_blank">Versione 6S</a>)
+Se vuoi risparmiare conviene comprarlo su Banggood (<AffiliateLink href="https://www.banggood.com/custlink/GDmdWU0HQe" label="Versione 4S"/> | <AffiliateLink href="https://www.banggood.com/custlink/vv3hcU4Woh" label="Versione 6S"/>)
 
-Molto conveniente per chi vuole passare al digitale, un bundle che include il <a href="https://www.banggood.com/custlink/v3DhrMeHsZ" rel="nofollow" rel="noreferrer" target="_blank">BumbleBee HD V2 e gli occhiali DJI</a> ad un prezzo molto vantaggioso. 
+Molto conveniente per chi vuole passare al digitale, un bundle che include il <AffiliateLink href="https://www.banggood.com/custlink/v3DhrMeHsZ" label="BumbleBee HD V2 e gli occhiali DJI"/> ad un prezzo molto vantaggioso. 
 
-Ti consiglio vivamente di comprare anche il <a href="https://www.banggood.com/custlink/3Dvdp2gtsa" rel="nofollow" rel="noreferrer" target="_blank">mount per la GoPro</a>, perché purtroppo non è incluso. 
+Ti consiglio vivamente di comprare anche il <AffiliateLink href="https://www.banggood.com/custlink/3Dvdp2gtsa" label="mount per GoPro"/>, perché purtroppo non è incluso. 

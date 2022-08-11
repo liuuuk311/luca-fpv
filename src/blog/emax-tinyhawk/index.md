@@ -1,16 +1,21 @@
 ---
 title: "Emax Tinyhawk: il drone FPV perfetto per iniziare?"
 date: "2020-09-19T00:00:00.000Z"
-excerpt: Un kit FPV economico che comprende drone, radiocomando e visore. L'Emax Tinyhawk è il drone giusto per inziare a volrare in FPV? In questa recensione vedremo quali sono i suoi vantaggi e svantaggi.
-category:
+excerpt: Un kit FPV economico che comprende drone, radiocomando e visore, vediamo se vale la pena comprarlo come primo drone
+categories:
     - Recensione
+    - Guide Acquisto
 tags: 
-    - Principianti
+    - Primo Drone
+    - Micro Drone
 featured: true
 ---
+
+
+
 In questa review vedremo se l'Emax Tinyhawk è il drone perfetto per entrare nel mondo FPV. Il suo prezzo è molto competitivo, e con la possibilità di acquistare il bundle con radiocomando e visore, lo rendono uno dei kit più popolari tra le persone che vogliono iniziare a volare in FPV.
 
-![Emax Tinyhawk](./tinyhawk_3.png)
+![Emax Tinyhawk](/assets/emax-tinyhawk/tinyhawk_3.png)
 
 
 ## Vantaggi
@@ -20,7 +25,7 @@ Continuando con i vantaggi, il fatto che è molto piccolo, permette di volare an
 
 A livello di sicurezza, il frame ripara bene le eliche rendendo praticamente impossibile ferire qualcuno. Ad ogni modo, dovresti sempre prestare la massima attenzione quando voli. 
 
-![Emax Tinyhawk](./tinyhawk_1.png)
+![Emax Tinyhawk](/assets/emax-tinyhawk/tinyhawk_1.png)
 
 Infine, grazie al suo peso ridotto risulta **molto resistente**. Se cade, ritona in volo senza problemi. La batteria in dotazione è di 450 mAh e si riesce a volare 4 minuti circa, a seconda dello stile di volo.
 
@@ -46,7 +51,7 @@ Le caratteristiche di questo piccolo drone pronto all'uso non sono niente male.
 
 ## Cosa c'è nella scatola
 
-![Emax Tinyhawk - Contentuto della Scatola](./tinyhawk_2.png)
+![Emax Tinyhawk - Contentuto della Scatola](/assets/emax-tinyhawk/tinyhawk_2.png)
 
 - Il drone (ovviamente)
 - Una valigetta niente male, stile fibra di carbonio
@@ -73,6 +78,6 @@ Se non ti è chiaro qualche termine in questa recensione, allora ti consiglio di
 
 ### Dove comprarlo?
 
-Se vuoi risparmiare conviene comprarlo su <a href="https://www.banggood.com/custlink/Dv3Yrz4CHs" rel="nofollow" rel="noreferrer" target="_blank">Banggood</a>, ma ricordati di selezionare il magazzino più vicino, per accorciare i tempi di consegna.
+Se vuoi risparmiare conviene comprarlo su <AffiliateLink href="https://www.banggood.com/custlink/Dv3Yrz4CHs" label="Banggood"/>, ma ricordati di selezionare il magazzino più vicino, per accorciare i tempi di consegna.
 
-Ti consiglio vivamente di comprare anche delle batterie extra (<a href="https://amzn.to/3iL30xn" rel="nofollow" rel="noreferrer" target="_blank">Amazon</a> | <a href="https://www.banggood.com/custlink/vmGEpM4CWs" rel="nofollow" rel="noreferrer" target="_blank">Banggood</a>), per volare molto di più.
+Ti consiglio vivamente di comprare anche delle batterie extra (<AffiliateLink href="https://amzn.to/3iL30xn" label="Amazon"/> | <AffiliateLink href="https://www.banggood.com/custlink/vmGEpM4CWs" label="Banggood"/>), per volare molto di più.

@@ -1,11 +1,11 @@
 ---
 title: Cosa sono RC Rate, RC Expo e Super Rate di Betaflight?
 date: "2020-09-05T00:00:00.000Z"
-excerpt: In questo tutorial spiego cosa sono RC Rate, RC Expo e Super Rate di Betaflight. Inoltre spiego come questi parametri influenzano le performance di un drone, e condivido qualche consiglio su come trovare i tuoi rates ideali.
-category:
-    - Tutorial
-tags: 
+excerpt: Ecco cosa sono RC Rate, RC Expo e Super Rate di Betaflight e come questi parametri influenzano le performance di un drone.
+categories:
     - Principianti
+tags: 
+    - Rates
 featured: false
 ---
 
@@ -13,7 +13,7 @@ Queste funzionalità sono nella sezione di PID tuning di Betaflight, se sei inte
 
 ## In breve
 
-<!-- La verisione 4 di Betaflight ha introdotto la possibilità di confiugare i rate in diversi modi, per approfonidire leggi questo articolo. -->Questo ariticolo spiega i rates di Betaflight classici. La combinazione di  RC Rate e Super Rate determina quanto veloce il drone può girare (Massima Velocità Angolare), e viene misurata in gradi al secondo. Expo cambia la sensibilità al centro degli stick. Cambiando il Super Rate cambia la velocità massima angolare, ma anche la sensibilità al centro dello stick, viene modificata. 
+Questo ariticolo spiega i rates di Betaflight classici. La combinazione di  RC Rate e Super Rate determina quanto veloce il drone può girare (Massima Velocità Angolare), e viene misurata in gradi al secondo. Expo cambia la sensibilità al centro degli stick. Cambiando il Super Rate cambia la velocità massima angolare, ma anche la sensibilità al centro dello stick, viene modificata. 
 
 Non sono stato chiarissimo? Ora provo a spiegarlo più nel dettaglio.
 
@@ -45,7 +45,7 @@ Questo parmetro va sempre aggiustato insieme ai due sopra per ottenere il giusto
 
 Questo è una scelta personale, e dipende molto dallo stile con il quale vuoi volare. Per freestyle io tendo ad usare questi:
 
-![I miei rates (lucafpv)](./lucafpv_rates.png)
+![I miei rates (lucafpv)](/assets/spiegazione-rates/lucafpv_rates.png)
 
 Ecco cosa puoi fare per trovare i tuoi rate. 
 

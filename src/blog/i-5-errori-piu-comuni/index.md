@@ -2,10 +2,10 @@
 title: I 5 errori più comuni da principianti
 date: "2020-04-18T00:00:00.000Z"
 excerpt: Ecco una lista di quelli che penso siano gli errori più comuni che un principiante possa fare quando comincia in questo hobby.
-category: 
-    - Tutorial
-tags: 
+categories: 
     - Principianti
+tags: 
+    - Errori Comuni
 featured: false
 ---
 
@@ -67,5 +67,5 @@ Volare insieme è più divertente, e anche meno noioso 😁
 
 ### Qual è l'errore più comune secondo te?
 
-Fammi sapere cosa ne pensi: [scrivimi](https://lucafpv.com/contattami) e unisciti ai gruppi Telegram: [Droni Racers Italia](https://t.me/droniracersitalia) e [Milano Droni RC FPV](https://t.me/MilanoDroniRC).
+Fammi sapere cosa ne pensi: [scrivimi](https://lucafpv.com/contattami).
 

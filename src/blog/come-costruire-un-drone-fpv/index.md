@@ -1,14 +1,15 @@
 ---
 title: "Come costruire un drone FPV nel 2022: La guida passo a passo"
 date: "2022-01-05T00:00:00.000Z"
-excerpt: "Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione. In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h."
-category:
-    - Tutorial
-tags: 
+excerpt: "Se non hanno mai costruito un drone FPV prima, questa guida è per te. Ecco come costuire un drone FPV in modo facile"
+categories:
     - Principianti
+    - Guide Acquisto 
+tags: 
+    - Build Completa
 featured: true
 ---
-<style>
+<style jsx>{`
     @media 
     only screen and (min-width: 980px) {
         td {
@@ -30,16 +31,16 @@ featured: true
         #components-table td:nth-of-type(2):before { content: "Per questa build"; }
         #components-table td:nth-of-type(3):before { content: "Alternativa"; }
     }
-</style>
+`}</style>
+
+
 
 ## Per chi è pensata questa build?
 Questa guida è stata pensata per le persone che non hanno mai costruito un drone FPV prima. I componenti sono stati scelti per minimizzare il numero di saldature e facilitare la configurazione.
 
 In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h. 
 
-<!-- Una volta costruito ecco quello che può fare questo drone. -->
 
-<!-- VIDEO di alcuni voli col il drone -->
 
 ## Le basi 
 Lo scopo di questo articolo è spiegare quali sono gli step necessari per costruire e configurare un drone FPV da zero. 
@@ -60,12 +61,12 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 
 |                 | Per questa build                                                 | Alternativa economica                      |
 |-----------------|------------------------------------------------------------------|--------------------------------------------|
-| **Telaio**      | [GepRC Mark 4 HD](https://www.banggood.com/custlink/3G3Y0ISrnd)  | [TBS Source One v5](https://www.drone24hours.com/prodotto/tbs-source-one-hd-5inch/?D24H=lucapalonca  ) |
-| **Stack**       | Speedybee F7 V2 <br/> [Banggood](https://www.banggood.com/custlink/KvDhBS9J0P) - [D24H](https://www.drone24hours.com/prodotto/speedybee-f7-v2-fc-45a-3-6s-blheli_32-wifi-bluetooth/?D24H=lucapalonca)| Stack MAMBA MK4 <br/> [Banggood](https://www.banggood.com/custlink/KmKWmJPVe1) - [D24H](https://www.drone24hours.com/prodotto/diatone-mamba-mk4-h743-55a-6s-32bit-128k/?D24H=lucapalonca) |
-| **Motori**      | T-Motor Velox V2 <br/> [Banggood](https://www.banggood.com/custlink/GvvR0iZcOF) - [D24H](https://www.drone24hours.com/prodotto/t-motor-v2306-v2-kv1950/?D24H=lucapalonca)   | Emax Eco II <br/> [Banggood](https://www.banggood.com/custlink/DGGdgZ9WOo) - [D24H](https://www.drone24hours.com/prodotto/emax-eco-ii-series-2207-1700kv-1900kv-2400kv/?D24H=lucapalonca)|
-| **Sistema FPV** | [Caddx Nebula Pro](https://www.banggood.com/custlink/v3GWKctPsE)       | [Rush Tank II](https://www.banggood.com/custlink/mK3YB88WNN) + [Foxeer Razor Mini](https://www.banggood.com/custlink/DvmpGpPPsW) + [Antenna](https://www.banggood.com/custlink/DKmd4Iic2y) |
-| **Ricevente**   | [TBS Crossfire Nano](https://www.drone24hours.com/prodotto/tbs-crossfire-nano-rx-se/?D24H=lucapalonca) | [Frsky XM+](https://www.banggood.com/custlink/D33CKrHHAS) |
-| **Eliche**      | [HQ Ethix S3](https://www.drone24hours.com/prodotto/ethix-s3-watermelon/?D24H=lucapalonca) | Qualsiasi elica 5"                         |
+| **Telaio**      | <AffiliateLink href="https://www.banggood.com/custlink/3G3Y0ISrnd" label="GepRC Mark 4 HD"/>  | <AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-source-one-hd-5inch/?D24H=lucapalonca" label="TBS Source One v5"/> |
+| **Stack**       | Speedybee F7 V2 <br/> <AffiliateLink href="https://www.banggood.com/custlink/KvDhBS9J0P" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/speedybee-f7-v2-fc-45a-3-6s-blheli_32-wifi-bluetooth/?D24H=lucapalonca" label="D24H"/>| Stack MAMBA MK4 <br/> <AffiliateLink href="https://www.banggood.com/custlink/KmKWmJPVe1" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/diatone-mamba-mk4-h743-55a-6s-32bit-128k/?D24H=lucapalonca" label="D24H"/> |
+| **Motori**      | T-Motor Velox V2 <br/> <AffiliateLink href="https://www.banggood.com/custlink/GvvR0iZcOF" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/t-motor-v2306-v2-kv1950/?D24H=lucapalonca" label="D24H"/>   | Emax Eco II <br/> <AffiliateLink href="https://www.banggood.com/custlink/DGGdgZ9WOo" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-eco-ii-series-2207-1700kv-1900kv-2400kv/?D24H=lucapalonca" label="D24H"/>|
+| **Sistema FPV** | <AffiliateLink href="https://www.banggood.com/custlink/v3GWKctPsE" label="Caddx Nebula Pro"/>       | <AffiliateLink href="https://www.banggood.com/custlink/mK3YB88WNN" label="Rush Tank II"/> + <AffiliateLink href="https://www.banggood.com/custlink/DvmpGpPPsW" label="Foxeer Razor Mini"/> + [Antenna](https://www.banggood.com/custlink/DKmd4Iic2y) |
+| **Ricevente**   | <AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-crossfire-nano-rx-se/?D24H=lucapalonca" label="TBS Crossfire Nano"/> | <AffiliateLink href="https://www.banggood.com/custlink/D33CKrHHAS" label="Frsky XM+"/> |
+| **Eliche**      |  <AffiliateLink href="https://www.drone24hours.com/prodotto/ethix-s3-watermelon/?D24H=lucapalonca" label="Ethix S3"/> | Qualsiasi elica 5"                         |
 | **Totale**      | **400 euro**                                                       | **270 euro**                               |
 
 
@@ -73,7 +74,7 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 
 La grossa differenza in prezzo tra le due build è dovuta principalmente al fatto che questa sarà una build digitale. Tuttavia, spiegherò anche come costruire la versione analogica.
 
-![Tutto l'occorrente](./occorrente.jpeg)
+![Tutto l'occorrente](/assets/come-costruire-un-drone-fpv/occorrente.jpeg)
 
 
 ## Telaio
@@ -83,7 +84,7 @@ Guardando il telaio è chiaro che GepRC è aggiornato con le pratiche di tendenz
 
 Le istruzioni di montaggio sono semplici e chiare. Una valida alternativa più economica è il TBS Source One V4.
 
-![Il Telaio](./pezzi_del_frame_dall'alto.jpeg)
+![Il Telaio](/assets/come-costruire-un-drone-fpv/pezzi_del_frame_dall'alto.jpeg)
 
 ## Stack: FC e ESC
 Il vantaggio di uno stack è che Flight Controller ed ESC sono pensati per funzionare insieme, quindi questo tipo di setup richiede poche saldature rispetto ad altre configurazioni.
@@ -92,7 +93,7 @@ Ho selezionato Speedybee F7 V2 perché ha tante funzionalità utili per un princ
 
 È importante scegliere un FC con un BEC dedicato (uscita 9V) per DJI Air Unit e Vista. Sebbene sia possibile alimentare Vista direttamente dalla batteria LiPo, è meno probabile che la si danneggi a causa dei picchi di tensione quando si utilizza un BEC. E lo Speedybee F7 V2 ce l'ha.
 
-![Stack](./stack.jpeg)
+![Stack](/assets/come-costruire-un-drone-fpv/stack.jpeg)
 
 ## Motori
 
@@ -111,7 +112,7 @@ Nel mondo DJI ci sono due opzioni VTX: la DJI Air Unit full size e Caddx Vista. 
 
 Per le camere, ci sono diverse opzioni. A parte la Nebula da cui consiglio di rimaner lontani, le altre sono tutte opzioni valide. In questo caso io uso una Vista con la camera originale della DJI.
 
-![Sistema FPV digitale](./caddx_vista.jpeg)
+![Sistema FPV digitale](/assets/come-costruire-un-drone-fpv/caddx_vista.jpeg)
 
 ## Ricevente
 
@@ -121,26 +122,26 @@ Al momento, consiglio TBS Crossfire per le sue prestazioni, affidabilità e faci
 
 Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfire TX che si collega sul retro del radiocomando.
 
-![Ricevente TBS crossfire](./rx.jpeg)
+![Ricevente TBS crossfire](/assets/come-costruire-un-drone-fpv/rx.jpeg)
 
 ## Altro occorrente
 
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su [Amazon](https://amzn.to/3AzHXH2), [Drone24Hours](https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca) o [Banggood](https://www.banggood.com/custlink/KG3E6OjP11)), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: [Fatshark HDO2](https://www.banggood.com/custlink/GKDdt3FyqU), [Fatshark Attitude V6](https://www.banggood.com/custlink/3DDygLLa4t) e infine [Eachine EV800D](https://www.banggood.com/custlink/mKmhPmbuCO).
+- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su <AffiliateLink href="https://amzn.to/3AzHXH2" label="Amazon.it"/>, <AffiliateLink href="https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca" label="Drone24Hours"/> che è un negozio italiano che spedisce veloce o su <AffiliateLink href="https://www.banggood.com/custlink/KG3E6OjP11" label="Banggood"/>), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: <AffiliateLink href="https://www.banggood.com/custlink/GKDdt3FyqU" label="Fatshark HDO2"/>, <AffiliateLink href="https://www.banggood.com/custlink/3DDygLLa4t" label="Fatshark Attitude V6"/> e infine <AffiliateLink href="https://www.banggood.com/custlink/mKmhPmbuCO" label="Eachine EV800D"/>.
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
 Ecco l'elenco degli strumenti essenziali per la costruzione di droni FPV. Queste sono cose che vanno acquistate una volta, e potrai usare nel futuro per altre build.
 
-- Saldatore ([acquista da Amazon](https://amzn.to/38PEojV))
-- Set di cacciaviti esadecimali ([acquista da Amazon](https://amzn.to/2X3MP8i))
-- Un piccolo cacciavite a croce ([acquista da Amazon](https://amzn.to/3E17WsT))
+- Saldatore (<AffiliateLink href="https://amzn.to/38PEojV" label="acquista da Amazon.it" />)
+- Set di cacciaviti esadecimali (<AffiliateLink href="https://amzn.to/2X3MP8i" label="acquista da Amazon.it" />)
+- Un piccolo cacciavite a croce (<AffiliateLink href="https://amzn.to/3E17WsT" label="acquista da Amazon.it" />)
 - Un paio di forbici per spellare e tagliare i fili
-- Nastro isolante ([acquista da Amazon](https://amzn.to/3E0E3sU))
-- Nastro biadesivo 3M in schiuma ([acquista da Amazon](https://amzn.to/3BXcSgW))
-- Multimetro ([acquista da Amazon](https://amzn.to/2Xcad3U))
+- Nastro isolante (<AffiliateLink href="https://amzn.to/3E0E3sU" label="acquista da Amazon.it" />)
+- Nastro biadesivo 3M in schiuma (<AffiliateLink href="https://amzn.to/3BXcSgW" label="acquista da Amazon.it" />)
+- Multimetro (<AffiliateLink href="https://amzn.to/2Xcad3U" label="acquista da Amazon.it" />)
 - Fascette
 
 ## Costruzione
@@ -151,53 +152,53 @@ Vediamo tutti i passaggi per costruire il proprio drone FPV.
 
 Il primo passo, è montare gli standoff, ovvero i distanziali in allumnio. Il Mark4 ha standoff di due dimensioni, prima vanno usati quelli più lunghi.
 
-![Frame con gli standoff](./frame_con_standoff.jpeg)
+![Frame con gli standoff](/assets/come-costruire-un-drone-fpv/frame_con_standoff.jpeg)
 
 A questo punto, si passa al posizionamento dei braccetti sul frame. Sopra ogni coppia di braccetti, va aggiunto un pezzo di fibra di carbonio per aumentare la rigidità, sopra i quali fanno montati gli standoff più corti.
 
-![Frame con i braccetti](./braccetti_del_frame.jpeg)
+![Frame con i braccetti](/assets/come-costruire-un-drone-fpv/braccetti_del_frame.jpeg)
 
 A questo punto, montanto il top plate, ovvero la parte superiore, abbiamo il frame completo. 
 
-![Frame montato](./frame_montato.jpeg)
+![Frame montato](/assets/come-costruire-un-drone-fpv/frame_montato.jpeg)
 
 ### 2. Installazione Motori 
 
 Ora si procede col montare i motori sul frame. Per tenere le cose più ordinate, ho attorcigliato i cavi motori.
 
-![Motore](./motore.jpeg)
+![Motore](/assets/come-costruire-un-drone-fpv/motore.jpeg)
 
 In questo passaggio è importante fare attenzione le viti dei motori non siano troppo lunghe. Se dovessero toccare la bobina dei motori, si rischia di bruciare i motori.
 
 ### 3. Schema di cablaggio
 
-![Schema di cablaggio](./wiring.png)
+![Schema di cablaggio](/assets/come-costruire-un-drone-fpv/wiring.png)
 
 ### 4. ESC
 Il primo passaggio per lavorare sull'ESC, è installarlo assicurandosi che i pad della batteria siano rivolti verso il retro del telaio.
 
-![Installazione ESC](./esc_montato.jpeg)
+![Installazione ESC](/assets/come-costruire-un-drone-fpv/esc_montato.jpeg)
 
 Prima di saldare i cavi però, vanno tagliati della dimensione giusta. In questo passaggio è importante prendere bene le misure perchè se tagliamo i cavi troppo corti, non li protremo più usare.
 
-![Prendere le dimensioni](./preparazione_taglio_cavi_motori.jpeg)
-![Taglio dei motori](./taglio_dei_fili.jpeg)
-![Lunghezza del filo spelato](./filo_spelato.jpeg)
+![Prendere le dimensioni](/assets/come-costruire-un-drone-fpv/preparazione_taglio_cavi_motori.jpeg)
+![Taglio dei motori](/assets/come-costruire-un-drone-fpv/taglio_dei_fili.jpeg)
+![Lunghezza del filo spelato](/assets/come-costruire-un-drone-fpv/filo_spelato.jpeg)
 
 
 Quindi dobbiamo pre-saldare ogni pad. Avremo 12 pad per i motori, 3 per ciascun motore e 2 pad per il cavo della batteria.
 
 > Per evitare di creare cortocircuiti, conviene mettere del nastro isolante sui componenti che vogliamo proteggere
 
-![Pre saldatura](./presaldatura.jpeg)
+![Pre saldatura](/assets/come-costruire-un-drone-fpv/presaldatura.jpeg)
 
 A questo punto, va saldato il condensatore e il cavo XT60. In questo passaggio, è molto importante controllare più volte il verso sia del codensatore, che del cavo della batteria. Per riconoscere il lato negativo del condensatore basta individuare la banda grigia con il segno meno.
 
-![Condensatore e XT60](./xt60_saldato.jpeg)
+![Condensatore e XT60](/assets/come-costruire-un-drone-fpv/xt60_saldato.jpeg)
 
 Succesivamente vanno saldati i cavi dei motori. 
 
-![Motori saldati](./motori_saldati.jpeg)
+![Motori saldati](/assets/come-costruire-un-drone-fpv/motori_saldati.jpeg)
 
 ### 5. Collegare FC
 
@@ -205,32 +206,32 @@ Sul flight controller le uniche saldature che dobbiamo fare sono relative alla r
 
 Quando si salda la ricevente, io preferisco rimuovere l'antenna perché rende tutto più semplice.
 
-![Ricevente saldata](./ricevente_saldata.jpeg)
+![Ricevente saldata](/assets/come-costruire-un-drone-fpv/ricevente_saldata.jpeg)
 
 Per quanto riguarda il beeper al momento saldiamo solo il cavetto. Collegheremo poi il beeper vero e prorpio successivamente.
-![Cavi del beeper](./ricevente_e_beeper_pronta.jpeg)
+![Cavi del beeper](/assets/come-costruire-un-drone-fpv/ricevente_e_beeper_pronta.jpeg)
 
 Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight controller è un gioco da ragazzi. Basta utilizzare il cavetto in dotazione. 
 
-![Collegare l'FC](./fc_e_esc_collegati.jpg)
+![Collegare l'FC](/assets/come-costruire-un-drone-fpv/fc_e_esc_collegati.jpg)
 
 Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
 
-![FC Montata](./fc_montata.jpeg)
-<!-- ### 6. Check e test motori -->
+![FC Montata](/assets/come-costruire-un-drone-fpv/fc_montata.jpeg)
+
 
 ### 6. Sistema FPV 
 
 L'installazione del sistema FPV, nel caso si utilizzi il sistema digitale DJI, è molto semplice. Infatti, il flight controller scelto, è già predisposto al digitale e ci fornisce quindi un connettore e un cavetto.
 
 Il cavetto fornito ha 6 fili, dal momento che utilizzeremo la Caddx Vista solo come VTX e non anche come ricevente, possiamo tranquillamente rimuovere il filo nero e il filo giallo.
-![Rimozione cavi Caddx Vista](./cavi_da_tagliare_caddx.jpeg)
+![Rimozione cavi Caddx Vista](/assets/come-costruire-un-drone-fpv/cavi_da_tagliare_caddx.jpeg)
 
 Quindi possiamo rimuovere anche il connettore più grande che è pensato per la DJI Air Unit.
-![Rimuovere connettore dal cavo](./tagliare_cavo.jpeg)
+![Rimuovere connettore dal cavo](/assets/come-costruire-un-drone-fpv/tagliare_cavo.jpeg)
 
 Infine possiamo procedere con la saldatura dei cavi sulla Caddx Vista.
-![Saldatura Caddx Vista](./saldato_sulla_caddx.jpeg)
+![Saldatura Caddx Vista](/assets/come-costruire-un-drone-fpv/saldato_sulla_caddx.jpeg)
 
 ### 7. Configurazione betaflight
 
@@ -238,9 +239,6 @@ Una volta completata la build, quello che rimane da fare è configurare Betaflig
 
 In caso di flight controller diverso, puoi fare riferimento a [questa guida](https://lucafpv.com/configurare-betaflight).
 
-<!-- ## Test di volo
-
-## PID Tuning -->
 
 
 

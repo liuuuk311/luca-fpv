@@ -2,12 +2,14 @@
 title: Cosa significa FPV? 
 date: "2021-08-25T00:00:00.000Z"
 excerpt: Spesso si sente parlare di droni FPV oppure gare in FPV, in questo articolo spiego in modo semplice il significato di questo termine.
-category: 
-    - Definizione
-tags: 
+categories:
     - Principianti
+tags: 
+    - Definizioni
 featured: false
 ---
+
+
 
 Il termine FPV è un acronimo inglese che sta per **F**irst **P**erson **V**iew, in italiano potremmo tradurrlo come visuale in prima persona. 
 
@@ -20,7 +22,7 @@ Quindi **il significato FPV, deriva dalla sensazione di esser seduti all'interno
 
 
 Ecco un esempio di cosa vede un pilota FPV.
-![Visore analogico](./analog_osd.png)
+![Visore analogico](/assets/significato-fpv/analog_osd.png)
 
 ## Il vero significato
 Finora ti ho spiegato il signifcato della parola, ma secondo me FPV significa molto altro!
@@ -28,8 +30,8 @@ FPV significa far parte di una community di persone che sono disposte ad aiutars
 
 Il mondo FPV, è semplicemente fantastico, guarda un volo che ho fatto tempo fa per [NorthFPV](https://northfpv.com).
 
-<div class="iframe-container">
-<lite-youtube videoid="POucyxDN_NE" params="start=4"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/POucyxDN_NE?t=4"/>
+
 
 Se ne vuoi sapere di più sul mondo FPV, ti consiglio [questo articolo](https://lucafpv.com/fpv-per-principianti)

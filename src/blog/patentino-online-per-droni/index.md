@@ -2,13 +2,14 @@
 title: Quando è obbligatorio il patentino per il drone?
 date: "2021-09-26T00:00:00.000Z"
 excerpt: Vediamo quando serve il patentino del drone e quali sono i droni che si possono usare senza l'obbligo del patentino.
-category:
-  - News
-tags: 
+categories:
   - Normative
+tags: 
   - Patentino
   - Enac
 ---
+
+
 
 Negli ultimi anni abbiamo assistito a una crescita esponenziale dell’uso del drone. Giustamente, col maggior numero di persone che utilizzano questi velivoli è cresciuta la necessità di creare nelle norme e restrizioni. 
 
@@ -29,14 +30,14 @@ Magari ti interessa: [Come prendere il patentino per il drone e quanto costa?](h
 
 I droni più diffussi che possono esser usati tranquillamente senza patentino sono: 
 
-- DJI Mini 2 (Guarda su <a href="https://amzn.to/3kqafwW" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
-- DJI Tello (Guarda su <a href="https://amzn.to/3BeyDIr" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+- DJI Mini 2 (Guarda su <AffiliateLink href="https://amzn.to/3kqafwW" label="amazon.it"/>)
+- DJI Tello (Guarda su <AffiliateLink href="https://amzn.to/3BeyDIr" label="amazon.it"/>)
 
 
 Anche i droni FPV possono esser pilotati senza patentino se pesano meno di 250 grammi. I migliori che consiglio sono:
 
-- Beta85 Pro (Guarda su <a href="https://amzn.to/3yeuwuc" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
-- Beta95X V3 (Guarda su <a href="https://amzn.to/3jhN4oX" target="_blank" rel="noopener nofollow noreferrer">amazon.it</a>)
+- Beta85 Pro (Guarda su <AffiliateLink href="https://amzn.to/3yeuwuc" label="amazon.it"/>)
+- Beta95X V3 (Guarda su <AffiliateLink href="https://amzn.to/3jhN4oX" label="amazon.it"/>)
 
 
 ## Cosa si può fare con il patentino A1/A3?

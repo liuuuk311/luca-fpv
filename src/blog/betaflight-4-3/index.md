@@ -1,17 +1,18 @@
 ---
 title: Betaflight 4.3 - Cosa c'è da sapere?
 date: "2022-02-05T00:00:00.000Z"
-excerpt: 
-category:
-    - Tutorial
+excerpt: Ecco le nuove funzionalità di Betaflight 4.3, come funzionano e a cosa servono.
+categories:
+    - Software
 tags: 
-    - Principianti
+    - Betaflight
+    - Configuratore
 featured: false
 ---
 
 L'ultima iterazione di Betaflight, la versione 4.3 è pronta all'uscita e porta diversi miglioramenti.
 
-![Betaflight Logo](./bf_logo.png)
+![Betaflight Logo](/assets/betaflight-4-3/bf_logo.png)
 
 ## Introduzione
 

@@ -2,7 +2,7 @@
 title: Leggi sul Volo 
 date: "2020-03-21T00:00:00.000Z"
 excerpt: Quali sono le norme che regolamentano il volo di droni? Il patentino per droni è obbligatorio? Quali sono i limiti a cui sono sottoposti i piloti? 
-category:
+categories:
   - News
 tags: 
   - Normative
@@ -22,13 +22,13 @@ I droni regolamentati da questa normativa sono i SAPR (Sistemi Aeromobile a pilo
 
 ### Sicurezza
 
-Chiaramente, il pilota è la persona responsabile in caso di eventuali danni. Quindi bisogna sempre volare in posti adatti minimizzando il rischio di danneggiare persone o cose. Mantenere una distanza di almeno 50 m da persone e cose e 150 metri da folle e aree edificate. Meglio volare in un bando, oppure in un campo. <!-- Come scegliere la perfetta location -->
+Chiaramente, il pilota è la persona responsabile in caso di eventuali danni. Quindi bisogna sempre volare in posti adatti minimizzando il rischio di danneggiare persone o cose. Mantenere una distanza di almeno 50 m da persone e cose e 150 metri da folle e aree edificate. Meglio volare in un bando, oppure in un campo.
 
 Oltre a queste limitazioni dettate anche dal buon senso, devi tenere una distanza minima di 5 km dagli aeroporti, e rispettare la quota massima di 120 m. Devi poter vedere, evitare e farti vedere dagli aeromobili. E’ vietato il volo nelle zone regolamentate attive e nelle zone proibite.
 
 Infine rispetta i regolamenti e i divieti locali, le istruzioni delle forze dell’ordine e delle autorità.
 
-Ricordati che le eliche possono causare ferite profonde e se maltrattate le batterie LiPo possono esplodere. Controlla sempre il tuo drone prima di volare! <!-- Checklist prima del volo -->
+Ricordati che le eliche possono causare ferite profonde e se maltrattate le batterie LiPo possono esplodere. Controlla sempre il tuo drone prima di volare!
 
 ## Devo registrare il mio drone?
 

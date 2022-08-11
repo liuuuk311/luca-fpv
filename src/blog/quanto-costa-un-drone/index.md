@@ -1,13 +1,14 @@
 ---
-title: Ecco quanto costa comprare un drone nel 2021
-date: "2021-09-25T00:00:00.000Z"
-excerpt: "Quanto costa comprare un drone nel 2021? La risposta breve è dipende, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie"
-category:
-    - Tutorial
+title: Ecco quanto costa comprare un drone nel 2022
+date: "2022-09-25T00:00:00.000Z"
+excerpt: "Quanto costa comprare un drone nel 2022? In questo articolo vediamo il prezzo dei droni suddiviso per le diverse categorie"
+categories:
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Costi
+    - Droni FPV
 ---
-<style>
+<style jsx>{`
     #drone-table td:nth-of-type(1) {
        min-width: 120px;
        min-height: 120px;
@@ -38,7 +39,9 @@ tags:
         #drone-table td:nth-of-type(3):before { content: "Prezzo"; }
         #drone-table td:nth-of-type(4):before { content: "Utilizzo"; }
     }
-</style>
+`}</style>
+
+
 
 Quanto costa comprare un drone nel 2021? 
 > **La risposta breve è dipende**, infatti esistono diversi tipi droni, ognuno dei quali ha una fascia di prezzo diversa. 
@@ -50,11 +53,11 @@ Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie, dalla pi�
 
 |   	                                                                                                                  | Categoria 	                                    | Prezzo 	            | Utilizzo                                          |
 |---	                                                                                                                  |--------------	                                |----------------       |------------------------------------------------   |
-| <a href="#toy">![Droni giocattolo](./drone_giocattolo.png)</a>    | <a href="#toy">Droni giocattolo</a>             | da 20 a 200 euro      | Imparare a volare senza telecamera                |
-| <a href="#fpv-micro">![Micro drone FPV](./micro_fpv.png)</a>      | <a href="#micro-fpv">Micro droni FPV</a>        | da 50 a 200 euro      | Gare al chiuso<br/> FPV cinematic                 |
+| <a href="#toy">![Droni giocattolo](/assets/quanto-costa-un-drone/drone_giocattolo.png)</a>    | <a href="#toy">Droni giocattolo</a>             | da 20 a 200 euro      | Imparare a volare senza telecamera                |
+| <a href="#fpv-micro">![Micro drone FPV](/assets/quanto-costa-un-drone/micro_fpv.png)</a>      | <a href="#micro-fpv">Micro droni FPV</a>        | da 50 a 200 euro      | Gare al chiuso<br/> FPV cinematic                 |
 | <a href="#fpv">![Drone FPV Economico](../emax-tinyhawk/tinyhawk_3.png)</a>    | <a href="#fpv">Droni FPV economici</a>          | da 100 a 200 euro     | Imparare a volare con telecamera                  |
-| <a href="#fpv-pro">![Drone FPV Professionale](./drone_fpv.png)</a>| <a href="#fpv-pro">Droni FPV professionali</a>  | da 300 a 600 euro     | FPV cinematic<br/> Gare FPV<br/> Freestyle        |
-| <a href="#fotografia">![Drone da fotografia](./mavic.png)</a>     | <a href="#fotografia">Droni da fotografia</a>   | a partire da 500 euro | Foto aeree<br/> Video making<br/> Cinema          |
+| <a href="#fpv-pro">![Drone FPV Professionale](/assets/quanto-costa-un-drone/drone_fpv.png)</a>| <a href="#fpv-pro">Droni FPV professionali</a>  | da 300 a 600 euro     | FPV cinematic<br/> Gare FPV<br/> Freestyle        |
+| <a href="#fotografia">![Drone da fotografia](/assets/quanto-costa-un-drone/mavic.png)</a>     | <a href="#fotografia">Droni da fotografia</a>   | a partire da 500 euro | Foto aeree<br/> Video making<br/> Cinema          |
 
 </div>
 
@@ -78,7 +81,7 @@ I droni giocattolo sono forse i più comuni nel mercato. Possono costare anche s
 
 </div>
 
-![Micro drone](./drone_giocattolo.png)
+![Micro drone](/assets/quanto-costa-un-drone/drone_giocattolo.png)
 
 Sono perfetti per un principiante che vuole imparare a controllare un drone utilizzando un radiocomando. Ci sono centinaia di tipi di droni giocattoli di marchi come Hubsan, Eachine, Syma e Cheerson.
 
@@ -86,8 +89,8 @@ Alcuni di questi droni possono avere anche una telecamera di bassa qualità, la 
 
 ### Esempi
 
-* <a href="https://www.banggood.com/custlink/33vYc11JIc" target="_blank" rel="nofollow" rel="noreferrer">Eachine E010</a>
-* <a href="https://www.banggood.com/custlink/DmmYJwTc8j" target="_blank" rel="nofollow" rel="noreferrer">Hubsan X4</a>
+* <AffiliateLink href="https://www.banggood.com/custlink/33vYc11JIc" label="Eachine E010"/>
+* <AffiliateLink href="https://www.banggood.com/custlink/DmmYJwTc8j" label="Hubsan X4"/>
 
 L'Hubsan X4 è uscito qualche anno fa, e rimane uno dei migliori micro brushed per principianti.
 
@@ -101,7 +104,7 @@ Questi sono diventati i micro quadricotteri più usati nell’hobby, sia per pri
 
 </div>
 
-![Micro drone FPV](./micro_fpv.png)
+![Micro drone FPV](/assets/quanto-costa-un-drone/micro_fpv.png)
 
 Questi micro droni dotati di equipaggiamento FPV, quindi sono più sofisiticati della precedente categoria. A bordo hanno installato riceventi comuni, che sono compatibili con la maggior parte dei radiocomandi che è possibile utilizzare anche per altre categorie di quadricotteri.
 > [Come scegliere il radiocomando ideale](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
@@ -109,7 +112,7 @@ Questi micro droni dotati di equipaggiamento FPV, quindi sono più sofisiticati 
 Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard di tutti gli occhiali FPV. 
 
 **Suggerimenti**
-* <a href="https://amzn.to/2SbtgFv" target="_blank" rel="nofollow" rel="noreferrer">BetaFPV 65s</a>
+* <AffiliateLink href="https://amzn.to/2SbtgFv" label="BetaFPV 65s"/>
 
 ---
 
@@ -121,7 +124,7 @@ Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard 
 
 ![Drone FPV economico](../emax-tinyhawk/tinyhawk_3.png)
 
-Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<a href="https://amzn.to/34a8Pyv" target="_blank" rel="nofollow" rel="noreferrer">Emax TinyHawk 2</a> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
+Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<AffiliateLink href="https://amzn.to/34a8Pyv" label="Emax TinyHawk 2"/> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
 
 Questo è un sistema FPV completo, nel kit è incluso il radiocomando e un ricevitore video che permette di vedere in tempo reale il segnale video. È un modo relativamente economico per entrare nel mondo FPV e cominciare a volare, inoltre è ottimo per principianti.
 
@@ -133,9 +136,9 @@ Questo è un sistema FPV completo, nel kit è incluso il radiocomando e un ricev
 
 </div>
 
-![Drone FPV](./drone_fpv.png)
+![Drone FPV](/assets/quanto-costa-un-drone/drone_fpv.png)
 
-Conosciuti anche come mini quad, questi droni sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h. A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad <!-- [https://oscarliang.com/build-a-quadcopter-beginners-tutorial-1/] -->può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
+Conosciuti anche come mini quad, questi droni sono progettati per essere veloci, controllabili e resistenti. Hanno una diagonale tra i 200 e 250 mm e riescono a raggiungere tranquillamente 200 km/h. A differenza di semplici quadricotteri giocattolo, la costruzione di un mini quad può essere più complessa. I droni da gara sono equipaggiati con una telecamera che permette al pilota di vedere - in prima persona (FPV) - ciò che vede il drone
 
 Recentemente anche filmmakers, content creator e fotografi stanno scegliendo questa categoria di droni. Infatti avendo un drone di questo tipo dà molta più flessibilità al pilota e permette di riprendere video che sono semplicemente impossibili con altre categorie di quadricotteri.
 
@@ -161,8 +164,8 @@ Se non ti piace l’idea di costruirti il tuo drone e vuoi volare immediatamente
 
 ### Scelte più comuni
 
-* <a href="https://www.banggood.com/custlink/vDKEW1wrsV" target="_blank" rel="nofollow" rel="noreferrer">iFlight Nazgul5</a> - leggi la [recensione](https://lucafpv.com/iflight-nazgul5)
-* <a href="https://amzn.to/3zdqCTA" target="_blank" rel="nofollow" rel="noreferrer">DJI FPV</a>
+* <AffiliateLink href="https://www.banggood.com/custlink/vDKEW1wrsV" label="iFlight Nazgul5"/> - leggi la [recensione](https://lucafpv.com/iflight-nazgul5)
+* <AffiliateLink href="https://amzn.to/3zdqCTA" label="DJI FPV"/>
 
 ### Dimensioni dei Quad
 
@@ -183,7 +186,7 @@ I droni da gara sono divisi in categorie, queste dimensioni, classificano i quad
 
 </div>
 
-![Drone da fotografia](./mavic.png)
+![Drone da fotografia](/assets/quanto-costa-un-drone/mavic.png)
 
 I droni da fotografia sono usati principalmente per fare filmati e fotografie professionali ad alta risoluzione. Sono preassemblati è sono i droni più costosi, sono forniti di fotocamere ad alta risoluzione, GPS integrato e sistema di navigazione autonoma e molte altre tecnologie sofisticate, come ad esempio il riconoscimento di ostacoli. L’azienda leader nel settore è sicuramente DJI, ma esistono altri marchi conosciuti come GoPro, Xiaomi, Walkera e altri.
 
@@ -197,7 +200,7 @@ I droni da fotografia sono usati principalmente per fare filmati e fotografie pr
 
 ### Esempi
 
-* <a href="https://amzn.to/3l0B3T6" target="_blank" rel="nofollow" rel="noreferrer">DJI Mavic Mini</a>
-* <a href="https://amzn.to/3n3IbzN" target="_blank" rel="nofollow" rel="noreferrer">DJI Mavic Pro</a>
-* <a href="https://amzn.to/2SceHSk" target="_blank" rel="nofollow" rel="noreferrer">DJI Phantom 4</a>
-* <a href="https://amzn.to/36frCuR" target="_blank" rel="nofollow" rel="noreferrer">Xiaomi MI Drone</a>
+* <AffiliateLink href="https://amzn.to/3l0B3T6" label="DJI Mavic Mini"/>
+* <AffiliateLink href="https://amzn.to/3n3IbzN" label="DJI Mavic Pro"/>
+* <AffiliateLink href="https://amzn.to/2SceHSk" label="DJI Phantom 4"/>
+* <AffiliateLink href="https://amzn.to/36frCuR" label="Xiaomi MI Drone"/>

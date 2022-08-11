@@ -1,17 +1,17 @@
 ---
 title: La Bibbia dell'FPV
 date: "2020-03-23T00:00:00.000Z"
-excerpt: Hai o vorresti un drone FPV ma ti scoraggiano tutti gli acronimi? Non sai qual è il voltaggio giusto per la tua batteria? Ogni pilota, prima di volare deve leggere almeno una volta questo articolo.
-category:
-    - Tutorial
-tags: 
+excerpt: Ecco la lista degli acronimi principali che ogni pilota FPV dovrebbe sapere.
+categories:
     - Principianti
+tags: 
+    - Definizioni
 featured: false
 ---
 
 Seguendo queste linee guida capirai in fretta come funziona il mondo FPV e le tue abilità da pilota cresceranno rapidamenti. La cosa più importante è che seguendo queste regole ti divertirai in fretta e molto più spesso. 
 
-Prima di arrivare alla lista, vorrei premettere che questo elenco riduce solo la possibilità di guasti tecnici, smarrimento e distruzione del velivolo, o peggio della possibilità di ferire qualcuno. Non viene tentuta in considerazione la stupidità del pilota. <!-- Esempio di comportamento stupido, consiglio di non fare FPV in quel caso -->
+Prima di arrivare alla lista, vorrei premettere che questo elenco riduce solo la possibilità di guasti tecnici, smarrimento e distruzione del velivolo, o peggio della possibilità di ferire qualcuno. Non viene tentuta in considerazione la stupidità del pilota. 
 
 Se invece vuoi avere un esperienza positiva nel mondo FPV, allora continua a leggere.  
 
@@ -81,7 +81,6 @@ Il guadagno di un antenna di misura i dbi. Più il guadagno è alto e maggiore s
 
 Per la maggior parte dei quad con sistemi FPV è sufficiente avere un'antenna omnidirezionale da 3dbi sul ricevitore video, accoppiata ad una VTX di buona qualità con un'antenna omnidirezionale da 3dbi.
 
-<!-- Ecco una lista delle migliori VTX sul mercato. --> <!-- Se invece sei in dubbio su quale antenna sia meglio per le tue esigenze ecco questo articolo che spero ti possa aiutare. -->
 
 ## Protocolli e Frequenze
 

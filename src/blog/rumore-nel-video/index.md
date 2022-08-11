@@ -1,11 +1,13 @@
 ---
 title: "Risoluzione dei problemi video FPV"
 date: "2020-09-07T00:00:00.000Z"
-excerpt: Alcuni suggerimenti su come risolvere i problemi e le migliori pratiche da seguire per evitare problemi con i video FPV. L'interferenza e il rumore nel tuo feed video FPV possono essere un problema difficile da risolvere, vediamo quali sono le migliori soluzioni.
-category:
-    - Tutorial
+excerpt: Ecco alcuni suggerimenti su come risolvere i problemi e le migliori pratiche da seguire per evitare problemi con i video FPV.
+categories:
+    - Principianti
 tags: 
-    - Risoluzione Problemi
+    - Errori Comuni
+    - Rumore Video
+    - VTX
 featured: true
 ---
 
@@ -65,7 +67,7 @@ Questo è il motivo per cui è buona norma collegare la massa della VTX e camera
 
 Molti collegano il sistema FPV come mostrato nella seguente figura. 
 
-![Connessione errata del sistema FPV](./cam_vtx_connessione_sbagliata.png)
+![Connessione errata del sistema FPV](/assets/rumore-nel-video/cam_vtx_connessione_sbagliata.png)
 
 * La camera alimentata dalla VTX tramite l'uscita 5V e massa sempre dalla VTX, semplicemente perché la VTX lo permette
 * La VTX ha l'ingresso video e massa connessi all'uscita video e alla massa dell'OSD
@@ -75,7 +77,7 @@ Non rimane altro da collegare e sembra tutto pronto, tuttavia questa non è la c
 
 Per avere una connessione ideale, la massa della camera dovrebbe esser collegata alla massa dell'OSD, come mostrato in figura. Questo collegamento aggiuntivo ha molti benefici. 
 
-![Corretta connessione del sistema FPV](./cam_vtx_corretta_connessione.png)
+![Corretta connessione del sistema FPV](/assets/rumore-nel-video/cam_vtx_corretta_connessione.png)
 
 **La regola generale** è il segnale video e la massa della camera devono esser connesse entrambe all'ingresso video e massa dell'OSD. Il segnale video e la massa della VTX vanno collegate entrambe all'uscita video e massa dell'OSD.
 

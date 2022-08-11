@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Luca FPV - Vola in prima persona',
+    title: 'Luca FPV',
+    tagLine: 'Vola in prima persona',
     author: 'Luca',
     description: 'Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV.',
     siteUrl: 'https://lucafpv.com',
@@ -19,29 +20,25 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/data`,
-        name: 'data',
+        path: `${__dirname}/static/assets/`,
+        name: `assets`,
+      },
+      __key: "images",
+    },
+    "gatsby-plugin-preact",
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [
+          require(`postcss-preset-env`)({ stage: 0 }),
+          require("postcss-import"),
+          require("postcss-nested"),
+          require("postcss-discard-comments"),
+        ],
       },
     },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-remark-relative-images`,
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 700,
-              linkImagesToOriginal: false,
-              quality: 75,
-              backgroundColor: "transparent",
-            }
-          },
-        ]
-      }
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,  
+    "gatsby-plugin-image",
+    "gatsby-plugin-react-helmet",
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
@@ -49,18 +46,18 @@ module.exports = {
         query: `
         {
           site {
-          siteMetadata {
-            siteUrl
+            siteMetadata {
+              siteUrl
+            }
           }
-        }
-        allSitePage(filter: {isCreatedByStatefulCreatePages: {eq: true}}) {
-          edges {
-            node {
+          allSitePage(
+            filter: {pluginCreator: {nodeAPIs: {in: "createPagesStatefully"}}}
+          ) {
+            nodes {
               path
             }
           }
-        }
-          allMarkdownRemark(
+          allMdx(
             sort: {fields: [frontmatter___date], order: DESC}
             limit: 1000
           ) {
@@ -78,8 +75,8 @@ module.exports = {
         }`,
         resolveSiteUrl: ({site}) => site.siteMetadata.siteUrl,
         resolvePagePath: (page) => page.path, 
-        resolvePages: ({ site, allMarkdownRemark, allSitePage }) => {
-          var posts = allMarkdownRemark.edges
+        resolvePages: ({ site, allMdx, allSitePage }) => {
+          var posts = allMdx.edges
               .map(({ node }) => {
                 return {
                   url: site.siteMetadata.siteUrl + node.fields.slug,
@@ -88,10 +85,10 @@ module.exports = {
                 };
               });
 
-            var pages = allSitePage.edges.map(({ node }) => {
+            var pages = allSitePage.nodes.map(({ path }) => {
               return {
-                url: site.siteMetadata.siteUrl + node.path,
-                path: node.path,
+                url: site.siteMetadata.siteUrl + path,
+                path: path,
               };
             });
             return posts.concat(pages);
@@ -101,38 +98,12 @@ module.exports = {
         }
       },
     },
-    `gatsby-plugin-minify`,
-    {
-      resolve: `gatsby-plugin-postcss`,
-      options: {
-        postCssPlugins: [
-          require(`postcss-preset-env`)({ stage: 0 }),
-          require("postcss-import"),
-          require("postcss-nested"),
-          require("postcss-discard-comments"),
-        ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        trackingIds: [
-          "UA-55771620-2", // Google Analytics / GA
-        ],
-        pluginConfig: {
-          head: false,
-          respectDNT: true,
-        },
-      },
-    },
     {
       resolve: `gatsby-plugin-google-adsense`,
       options: {
         publisherId: `ca-pub-4566556883137005`
       },
     },
-    `gatsby-plugin-feed`,
-    `gatsby-plugin-preact`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -147,15 +118,45 @@ module.exports = {
         icon: `./src/assets/propeller.png`,
       },
     },
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`,
     {
-      resolve: 'gatsby-plugin-typography',
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        pathToConfigModule: 'src/utils/typography',
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 720,
+              linkImagesToOriginal: false,
+              tracedSVG: true,
+            },
+          },
+        ],
       },
     },
-    `gatsby-transformer-json`,
-    `gatsby-plugin-offline`,
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-offline",
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-6YB9CW1683", // Google Analytics / GA
+        ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        develop: true,
+        tailwind: true,
+        ignore: ["/styles/blog-post.css", "/styles/carousel.css", "/styles/modal.css"],
+        purgeCSSOptions: {
+          safelist: ["ol", "ul", "lite-youtube"],
+        },
+      },
+    },
   ],
 }

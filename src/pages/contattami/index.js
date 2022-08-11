@@ -1,54 +1,44 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import { EmailField, MessageArea, NameField } from '../../components/inputs';
 
-import {
-    Default
-} from '../../components';
 
-import {
-    Container,
-    Heading,
-    Paragraph,
-    InputGroup,
-    Field,
-    Label,
-    Button,
-    Textarea
-} from '../../components/PageStyles/ContactStyles';
-
-const Contact = ({ location }) => {
+const Contact = () => {
     return (
-        <Default
-            location={location}
-        >
+        <>
             <Helmet>
                 <title>Contattami - Luca FPV</title>
-                <meta name="description" content="Contatta Luca"/>
+                <meta name="description" content="Contatta Luca" />
             </Helmet>
-            <Container>
-                <Heading>
-                    Scrivimi!
-                </Heading>
-                <Paragraph>
-                    Se vuoi collaborare, farmi una domanda oppure semplicemente salutarmi, riempi il form 👇
-                </Paragraph>
+            <div className="flex flex-col max-w-2xl mx-auto mt-12">
+                <div className="mb-8">
+                    <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">
+                        Contattami
+                    </h1>
+                    <p className="font-light text-gray-500 md:text-lg lg:text-xl dark:text-gray-400 mb-4">
+                        Se hai un dubbio, cerco di aiutarti. Ti basta riempiere il form 👇
+                        </p>
+                    <p className="font-light text-gray-500 md:text-lg lg:text-xl dark:text-gray-400 mb-8">
+                        Se non rispondo subito e hai fretta, ti conviene seguirmi e scrivermi su 
+                        <a href="https://instagram.com/iamlucafpv/" target="_blank" rel="noopener nofollow noreferrer">
+                            Instagram
+                        </a>
+                    </p>
+                </div>
                 <form action="https://getform.io/f/16416a86-7a7c-4646-817a-3e0c45a40ae5" method="POST">
-                    <InputGroup>
-                        <Label htmlFor="name">Nome</Label>
-                        <Field name="name" id="name" type="text" required/>
-                    </InputGroup>
-                    <InputGroup>
-                        <Label htmlFor="email">Email</Label>
-                        <Field name="email" id="email" type="email" required/>
-                    </InputGroup>
-                    <InputGroup>
-                        <Label htmlFor="message">Messaggio</Label>
-                        <Textarea name="message" required></Textarea>
-                    </InputGroup>
-                    <Button type="submit">Invia!</Button>
+                    <NameField id="name" name="name"/>
+                    <EmailField id="email" name="email"/>
+                    <MessageArea id="message" name="message"/>
+                    <div>
+                        <button
+                            type="submit"
+                            className="text-white bg-[#eda550] hover:bg-[#c98028] font-bold rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 focus:outline-none uppercase">
+                            Invia
+                        </button>
+                    </div>
                 </form>
-            </Container>
-        </Default>
+            </div>
+        </>
     );
 }
 

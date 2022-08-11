@@ -1,23 +1,26 @@
 ---
 title: "Nuovo Cinelog35: il drone FPV perfetto per il cinematic"
 date: "2022-02-26T00:00:00.000Z"
-excerpt: Il Cinelog35 è il nuovo drone FPV per cinematic di GEPRC, con dimensioni contentue ma in grado di fare riprese magnifiche anche con una GoPro 10
-category:
+excerpt: Il Cinelog35 è il nuovo drone FPV per cinematic di GEPRC, con dimensioni contentue ma in grado di sollevare anche con una GoPro 10
+categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Cinewhoop
+    - HD
 featured: true
 ---
+
+
+
 
 I video cinematic FPV sono sempre più richiesti a livello professionale, e sempre più virali sui social! A questo proposito, mi segui già su [Instagram](https://instagram.com/iamlucafpv)?
 
 Un video cinematic che ha spopolato è quello realizzato da Jay Christensen:
 
-<div class="iframe-container">
-<lite-youtube videoid="VgS54fqKxf0" params="start=3"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/VgS54fqKxf0?t=3"/>
 
-Per realizzare questo tipo di video, è necessario utilizzare un tipo di drone FPV, chiamato cinewhoop, come appunto il nuovo [GEPRC Cinelog 35](https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca).
+Per realizzare questo tipo di video, è necessario utilizzare un tipo di drone FPV, chiamato cinewhoop, come appunto il nuovo <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="GEPRC Cinelog 35" />.
 
 ## Cos'è un cinewhoop?
 
@@ -29,7 +32,7 @@ Qualche anno fa, i duct erano stati introdotti principalmente per aumentare le p
 
 Ultimamente si sono affermati di più i cinewhoop con configurazione pusher, ovvero con i motori montati a testa in giù. Questo fa in modo che il flusso d'aria generato dalle eliche non sia disturbato e si ottengano performance decisamente migliori, come nel caso di questo Cinelog 35.
 
-![Cinelog35](./cinelog.jpeg)
+![Cinelog35](/assets/nuovo-cinelog35/cinelog.jpeg)
 
 ## Cosa c'è nella scatola?
 
@@ -63,27 +66,27 @@ Questo drone riesce tranquillamente a sollevare il peso di una GoPro Hero 10, e 
 
 Naturalmente se si impiegano camere più leggere come le versioni naked, la Caddx Peanut o anche i 56 grammi della nuova DJI Action 2, ne beneficerà l'autonomia di volo che comunque è già buona, in particolare per la versione 6S del CineLog 35.
 
-![Camere Cinelog35](./cinelog_cameras.png)
+![Camere Cinelog35](/assets/nuovo-cinelog35/cinelog_cameras.png)
 
 ## Tempi di volo
 
 |                                                                                                      | Batteria             | Senza Camera    | GoPro Hero 8 Naked | GoPro Hero 10  |
 |------------------------------------------------------------------------------------------------------|----------------------|-----------------|--------------------|----------------|
-| [Cinelog 35 Digitale](https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca)      | LiPo 4S 1100mah 110C | 8 min e 30 sec  | 7 min e 30 sec     | 5 min          |
-| [Cinelog 35 Analogico](https://www.drone24hours.com/product/geprc-cinelog35-analog/?D24H=lucapalonca) | LiPo 6S 1100mah 60C  | 11 min e 30 sec | 8 min e 20 sec     | 7 min e 30 sec |
+| <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Cinelog 35 Digitale" />      | LiPo 4S 1100mah 110C | 8 min e 30 sec  | 7 min e 30 sec     | 5 min          |
+| <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-analog/?D24H=lucapalonca" label="Cinelog 35 Analogico" /> | LiPo 6S 1100mah 60C  | 11 min e 30 sec | 8 min e 20 sec     | 7 min e 30 sec |
 
 
 ## Specifiche tecniche
 
 Il CineLog 35 ha una diagonale di 14,2cm con un telaio in carbonio e con motori brushless 2004. I motori con le eliche Gemfan tripala D90-3, come dicevamo prima, sono in configurazione pusher per migliorare le performace di volo. Il flight controller è una F722-45A-AIO, con un ESC con firmware BLheli_S da 45A che per un drone di queste dimensioni è più che sufficiente. 
 
-Per quanto riguarda il peso, il drone pesa meno di 250g senza batteria e senza camera. Tuttavia, aggiungendo una batteria leggera e l'utilizzo di una camera leggera come ad esempio la [Caddx Peanut](https://www.drone24hours.com/prodotto/caddx-peanut-action-camera/?D24H=lucapalonca), sarà semplice superare il peso di 250g.
+Per quanto riguarda il peso, il drone pesa meno di 250g senza batteria e senza camera. Tuttavia, aggiungendo una batteria leggera e l'utilizzo di una camera leggera come ad esempio la <AffiliateLink href="https://www.drone24hours.com/prodotto/caddx-peanut-action-camera/?D24H=lucapalonca" label="Caddx Peanut" />, sarà semplice superare il peso di 250g.
 
-![Peso del Cinelog 35](./peso.png)
+![Peso del Cinelog 35](/assets/nuovo-cinelog35/peso.png)
 
 Entrambe le versioni possono essere acquistate senza RX (in questo caso quella digitale è utilizzabile con il radiocomando DJI FPV) oppure con R-XRS FrSky o con il Crossfire Nano TBS. Per quanto riguarda la ricevente, chiaramente la scelta dipende dal vostro radiocomando e dal vostro modulo di trasmissione, io consiglio sempre la TBS Nano.
 
-![Cinelog 35](./cinelog35_2.jpeg)
+![Cinelog 35](/assets/nuovo-cinelog35/cinelog35_2.jpeg)
 
 
 ## Dove comprarlo?
@@ -91,7 +94,5 @@ Entrambe le versioni possono essere acquistate senza RX (in questo caso quella d
 Personalmente consiglio sempre di acquistarlo su store italiani, in questo modo supportiamo realtà locali e abbiamo i nostri prodotti in pochissimo tempo.
 
 Un negozio con il quale mi trovo davvero bene è Drone24Hours. Se vuoi supporatre gratuitamente il mio lavoro puoi usare questi link:
-- [Versione analogica](https://www.drone24hours.com/prodotto/geprc-cinelog35-analogico/?D24H=lucapalonca)
-- [Versione digitale](https://www.drone24hours.com/prodotto/geprc-cinelog35-hd/?D24H=lucapalonca)
-
-
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/geprc-cinelog35-analogico/?D24H=lucapalonca" label="Versione analogica" />
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/geprc-cinelog35-hd/?D24H=lucapalonca" label="Versione digitale" />

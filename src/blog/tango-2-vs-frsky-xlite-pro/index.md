@@ -1,25 +1,28 @@
 ---
 title: "Tango 2 o X-Lite Pro, qual è la miglior radio compatta?"
 date: "2020-09-20T00:00:00.000Z"
-excerpt: In questa recensione confronto le due radio più popalari e conosciute per la loro portabilità. Radio compatte e con meno funzionalità, sarà questo il nuovo trend del mondo FPV? Lo scopriamo insieme in questo articolo.
-category:
+excerpt: Un confronto tra due delle radio più popolari consociute per le loro dimensioni ridotte. Vediamo insieme i pro e i contro di ciascuna.
+categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Radiocomando
 featured: false
 ---
+
+
 
 I controller radio più popolari e più compatti disponibili per i piloti FPV nel 2020 sono il TBS Tango 2 e Frsky X-Lite Pro. In questa recensione confronto i due e ti aiuto a decidere quale acquistare.
 
 ## Dove comprare
- <!-- CTA -->
+
 ### TBS Tango 2
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca">Drone24Hours</a>, spediscono dall'Italia e molto velocemente
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.team-blacksheep.com/products/prod:tbs_tango_2">TeamBlacksheep</a>, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />, spediscono dall'Italia e molto velocemente
+- <AffiliateLink href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" label="TeamBlacksheep" />, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
 
 ### FrSky X-Lite Pro
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter">CostruzioneDroni</a>, spediscono dall'Italia ma più costoso
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.banggood.com/custlink/vm3YJ2H7JU">Banggood</a>, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
+- <AffiliateLink href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter" label="CostruzioneDroni" />, spediscono dall'Italia ma più costoso
+- <AffiliateLink href="https://www.banggood.com/custlink/vm3YJ2H7JU" label="Banggood" />, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
 
 
 ## Introduzione
@@ -42,7 +45,7 @@ Con X-Lite, la configurazione del ricevitore R9 (sia R9MM che R9 Mini) è stata 
 
 Per il TBS Nano RX, ho semplicemente collegato come indicato nel diagramma e collegato al trasmettitore senza nemmeno dover premere il tasting di binding. Questa caratteristica è perfetta in quanto non serve smontare il drone e consente di risparmiare molto tempo.
 
-![TBS Tango 2](./tango2_1.png)
+![TBS Tango 2](/assets/tango-2-vs-frsky-xlite-pro/tango2_1.png)
 
 ## Navigazione nei menu
 Tuttavia, un aspetto più veloce con l'X-Lite è stata la navigazione nei menu del trasmettitore.
@@ -51,7 +54,7 @@ Per quanto riguarda il menu stesso, entrambi i trasmettitori hanno essenzialment
 
 Dopo essermi abituato alla rotella di scorrimento sul Tango 2, sono stato in grado di velocizzare la navigazione attraverso i menu, ma ho avuto errori di click più coerenti con la rotella di scorrimento rispetto al joystick.
 
-![FrSky X-Lite Pro](./xlite_1.png)
+![FrSky X-Lite Pro](/assets/tango-2-vs-frsky-xlite-pro/xlite_1.png)
 
 
 ## Moduli esterni
@@ -92,7 +95,7 @@ Se non ti piacciono le scelte di interruttori sul Tango, potresti trovare X-Lite
 
 L'X-Lite utilizza anche un giroscopio che puoi persino assegnare a un canale nel caso in cui ne avessi bisogno (come un volante), ma principalmente consente solo allo schermo di illuminarsi quando si solleva il telecomando, una caratteristica elegante.
 
-![FrSky X-Lite Pro](./xlite_2.png)
+![FrSky X-Lite Pro](/assets/tango-2-vs-frsky-xlite-pro/xlite_2.png)
 
 
 ## Cinghia per il collo
@@ -117,7 +120,7 @@ Per quanto riguarda il Tango II, che è più robusto, avevo le mie due dita into
 
 Per quanto riguarda un pincher, mi è stato detto (e provato) che il Tango II è il telecomando preferito per pizzicare e l'X lite è molto più difficile per chi cerca di pizzicare.
 
-![TBS Tango 2](./tango2_2.png)
+![TBS Tango 2](/assets/tango-2-vs-frsky-xlite-pro/tango2_2.png)
 
 
 ## Posizionamento dei pulsanti
@@ -130,12 +133,12 @@ Per quanto riguarda gli altri layout degli interruttori, entrambi sono in posizi
 
 ## Quale ho preferito?
 ### TBS Tango 2
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca">Drone24Hours</a>, spediscono dall'Italia e molto velocemente
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.team-blacksheep.com/products/prod:tbs_tango_2">TeamBlacksheep</a>, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/radiocomando-tbs-tango-2-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />, spediscono dall'Italia e molto velocemente
+- <AffiliateLink href="https://www.team-blacksheep.com/products/prod:tbs_tango_2" label="TeamBlacksheep" />, spediscono da Hong Kong quindi oltre la spedizione va pagata la dogana
 
 ### FrSky X-Lite Pro
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter">CostruzioneDroni</a>, spediscono dall'Italia ma più costoso
-- <a target="_blank" rel="nofollow" rel="noreferrer" href="https://www.banggood.com/custlink/vm3YJ2H7JU">Banggood</a>, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
+- <AffiliateLink href="https://www.costruzionedroni.it/frsky-taranis-x-lite-s-24ghz-access-24ch-rc-transmitter" label="CostruzioneDroni" />, spediscono dall'Italia ma più costoso
+- <AffiliateLink href="https://www.banggood.com/custlink/vm3YJ2H7JU" label="Banggood" />, spedizione più lenta (scegli il magazzino più vicino) ma si risparmia
 
 Quando entrambe le radio sono state configurate, ho pensato che scegliere la migliore sarebbe stato più facile, ma non è stato così.
 

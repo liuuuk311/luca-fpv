@@ -1,18 +1,17 @@
 ---
 title: I migliori simulatori FPV per iniziare a volare nel 2022
 date: "2022-08-05T00:00:00.000Z"
-excerpt: L'inverno e le brutte giornate si avvcinano, bisogna prepararsi a volare in casa. In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
-category:
-    - Tutorial
-tags: 
+excerpt: In questo articolo confronto i migliori simulatori per droni FPV. Un buon modo per esercitarsi sia in gare che in freestyle con droni FPV.
+categories:
     - Principianti
+tags: 
+    - Simulatori
 featured: true
 ---
 
-<style>
+<style jsx>{`
     #radio-table td:nth-of-type(1) {
-       min-width: 120px;
-       min-height: 120px;
+       width: 25%;
     }
     td:nth-of-type(1) img {
        object-fit: contain;
@@ -35,12 +34,14 @@ featured: true
         #sims-table td:nth-of-type(6):before { content: "Sistema Operativo"; }
         #sims-table td:nth-of-type(7):before { content: "Steam"; }
     }
-</style>
+`}</style>
+
+
+
 
 In questo articolo confronto i migliori simulatori per droni FPV per PC e Mac. I simulatori di droni esistono da un paio di decenni, ma solo recentemente hanno iniziato ad esser sufficientemente realistici per esercitarsi sia in gare che in freestyle con droni FPV. 
 
 
-<!-- <div class="container" ><a class="btn btn-discord" href="https://discord.gg/7ccZu2w" rel="nofollow" target="_blank">UNISCITI ORA!</a></div> -->
 
 ## Cos'è un simulatore FPV?
 
@@ -62,17 +63,17 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 
 <div id="radio-table">
 
-|                                                              | Radiocomando                                                | USB?                       |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------ |
-| ![RadioMaster TX16](../migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) | <strong>RadioMaster TX16</strong><br/><a href="https://www.banggood.com/custlink/3KGECktftG" target="_blank" rel="noopener nofollow noreferrer">Compra su Banggood.com</a><br/><a href="https://www.drone24hours.com/prodotto/tx16s-mark-ii-radio-controller-m2/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">Compra su Drone24Hours.com</a>                                                   | ✔                                         |
-| ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg) | <strong>TBS Mambo</strong><br/><a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">Compra su Drone24Hours.com</a><br/><a href="https://www.rhobbyfpv.it/prodotto/ethix-mambo-tbs-tracer-radiocomando-2-4ghz/?ref=iamlucafpv" target="_blank" rel="noopener nofollow noreferrer">Compra su rhobbyfpv.it</a>                                                     | ✔                                         |
-| ![FrSky Taranis X9 Lite](../migliori-radiocomandi-per-droni-fpv/x9_lite.png) | <strong>FrSky Taranis X9 Lite</strong><br/><a href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">Compra su Drone24Hours.com</a><br/><a href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" target="_blank" rel="noopener nofollow noreferrer">Compra su rhobbyfpv.it</a>                                                | ✔                                         |
+|                                                                                       | Radiocomando           | USB?      | Venditori |
+| ------------------------------------------------------------ -------------------------| ---------------------- | --------- |---------------------|
+| ![RadioMaster TX16](/assets/migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) |RadioMaster TX16 Mark 2 | ✔         | <AffiliateLink href="https://www.banggood.com/custlink/GG3cK5PIoI" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" label="Drone24Hours" /> |
+| ![TBS Mambo](/assets/recensione-tbs-mambo/mambo_gimbal.jpeg)                          | TBS Mambo              | ✔         | <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/ethix-mambo-tbs-tracer-radiocomando-2-4ghz/?ref=iamlucafpv" label="RhobbyFPV" />  |
+| ![FrSky Taranis X9 Lite](/assets/migliori-radiocomandi-per-droni-fpv/x9_lite.png)     | FrSky Taranis X9 Lite  | ✔         | <AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="Drone24Hours" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="RhobbyFPV" /> |
 
 </div>
 
 Scegliere un radiocomando che supporta direttamente i simulatori FPV tramite cavo USB è molto più comodo. Ricorda inoltre che il radiocomando è una delle poce cose su cui investire facendo un buon acquisto, perché idealmente lo vorrai utilizzerai con tutti i tuoi quad.
 
-Al momento, i migliore radiocomando economico è l'<a href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">FrSky Taranis X9 Lite</a>. Mentre il migliore per chi inizia è la <a href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" target="_blank" rel="noopener nofollow noreferrer">TBS Mambo</a> che è molto valido e lo potrai usare più a lungo. Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
+Al momento, i migliore radiocomando economico è l'<AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="FrSky Taranis X9 Lite" />. Mentre il migliore per chi inizia è la <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="TBS Mambo" /> che è molto valido e lo potrai usare più a lungo. Il grosso vantaggio è che funzionano semplicemente connettendo il cavo USB e i principali sistemi operativi li supportano come Joystick.
 
 
 
@@ -95,13 +96,13 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 <div id="sims-table">
 
 |                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
-| :----------------------------------------------------------- | ---------- | :----: | :-------------: | :------------: | ------------------- | :--------: |
-| [Orqa FPV.Skydive](https://store.steampowered.com/app/1278060/FPVSkyDive/) | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/) | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
-| [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/) | 13 €       |   Buona    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
-| [VelociDrone](http://www.velocidrone.com/)                   | 19 €       |   Eccellente    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
-| [DRL Racing](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) | 9 €        |   Discreta    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| ----------------------------------------------------------- | ---------- | ---- | :------------- | ------------ | ------------------- | -------- |
+| <OutsideLink label="Orqa FPV.Skydive" href="https://store.steampowered.com/app/1278060/FPVSkyDive"/> | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="FPV FreeRider" href="https://store.steampowered.com/app/854250/FPV_Freerider"/> | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="Liftoff" href="https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing"/> | 20 €       |   Buona    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="Uncrashed" href="https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator"/> | 13 €       |   Buona    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
+| <OutsideLink label="VelociDrone" href="http://www.velocidrone.com/"/>                   | 19 €       |   Eccellente    |        ✔        |       ✔        | Windows, Mac, Linux |     ✖️      |
+| <OutsideLink label="DRL Racing" href="https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/"/> | 9 €        |   Discreta    |        ✔        |       ✔        | Windows, Mac, Linux |     ✔      |
 
 </div>
 
@@ -109,10 +110,9 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 ## Orqa FPV.Skydive
 
 > Simulatore gratuito con funzionalità limitate, ma una buona fisica
+>
 
-<div class="iframe-container">
-<lite-youtube videoid="EihIDK8bVB8" params="start=38"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/EihIDK8bVB8?t=38"/>
 
 **Orqa FPV.Skydive** è il miglior simulatore FPV gratuito. Al momento ci sono solo 5 livelli, ma sembra che gli aggiornamenti siano regolari. In generale, rispetto agli altri simulatori in questa lista le mappe disponibili sono meno complesse, ma non ci si annoia.
 
@@ -123,9 +123,7 @@ La fisica è sopra la media, specialmente la simulazione del prop wash è fatta 
 
 > Costa poco e poche funzionalità di simulazione, va bene per principianti, ma è un po' vecchio
 
-<div class="iframe-container">
-<lite-youtube videoid="WACcq2ykgNo"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/WACcq2ykgNo"/>
 
 Questo è uno dei primi simulatori di volo pensato per droni FPV. 
 
@@ -140,9 +138,9 @@ Va bene per principianti che vogliono provare a volare in FPV, ma ha molte limit
 ## Liftoff
 
 > Un simulatore molto curato, con aggiornamenti frequenti e molti contenuti, ma richiede un buon PC da gaming 
-<div class="iframe-container">
-<lite-youtube videoid="VuPwux4hiL4" params="start=4"/>
-</div>
+
+
+<YouTubeEmbed link="https://youtu.be/VuPwux4hiL4?t=4"/>
 
 Per i piloti piu esperti, **Liftoff** è un buon simulatore. E' uno dei migliori sia in termini di grafica e che di funzioni. Il numero di contenuti è veramente impressionante, centinaia di modelli e migliaia di mappe create dalla community. Liftoff permette di cambiare componenti e impostazioni come nel mondo reale. Inoltre, è possibile aggiustare i rates e PID come se fossi su Betaflight. La fisica è migliora di aggiornamento in aggiornamento. Ingenieri aerodinamici e i migliori piloti al mondo hanno collaborato con gli sviluppatori per migliorare questo prodotto. 
 
@@ -157,9 +155,7 @@ Liftoff ha semplificato molto il procedimento con il quale è possibile connette
 
 > Considerato uno dei migliori simulatori per freestyle con un ottima grafica
 
-<div class="iframe-container">
-<lite-youtube videoid="1ct11sPC5pQ"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/1ct11sPC5pQ"/>
 
 Una volta liftoff era il simulatore per eccellenza per i piloti FPV che si volevano allenare in freestyle. Ma **Uncrashed** ha cambiato le carte in tavola!
 Le mappe e i livelli presenti in questo simulatore sono davvero divertenti e perfetti per il freestyle. Un sacco di ostacoli da usare per fare tanti trick spettacolari.
@@ -169,9 +165,8 @@ L'unica pecca è l'assenza di multiplayer.
 ## VelociDrone
 
 > Fisica molto buona, uno dei simulatori più realistici. Non la miglior grafica ma funziona bene anche su computer lenti
-<div class="iframe-container">
-<lite-youtube videoid="vIxbM5oWeRI" params="start=6"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/vIxbM5oWeRI?t=6"/>
 
 Se hai un computer vecchio oppure un portatile, dovresti provare **VelociDrone**.
 
@@ -189,9 +184,8 @@ Ad ogni modo, velocidrone è considerato il simulatore standard per tutti i pilo
 
 
 ## DRL Racing
-<div class="iframe-container">
-<lite-youtube videoid="x5NE0qUWuk4" params="start=12"/>
-</div>
+
+<YouTubeEmbed link="https://youtu.be/x5NE0qUWuk4?t=12"/>
 
 **DRL (Drone Racing League)** è un simulatore interessante – nel gioco ci sono eventi online e i piloti migliori possono vincere contratti da pilota professionisti e gareggiare in eventi reali. 
 
@@ -207,7 +201,7 @@ Carino il fatto che si possa gareggiare con "fantasmi" di altri piloti che del t
 
 Quasi tutti i simulatori FPV permettono di aggiustare i rates e PID, oltre che a cambiare impostazioni relativa alla fisica. Lo scopo è quello di ottenere l'esperienza più simile al volo reale. Tuttavia queste impostazioni sono pensate prevalentemente per piloti con più esperienza.
 
-Se voli da poco tempo, è meglio lasciare tutte le impostazioni di default a meno che qualcosa non funzioni. Le uniche impostazioni che dovresti cambiare sono i rates e l'expo, che sono essenzialmente la sensibilità rispetto ai comandi dati dagli stick. <!-- Leggi questo articolo per maggiori dettagli -->
+Se voli da poco tempo, è meglio lasciare tutte le impostazioni di default a meno che qualcosa non funzioni. Le uniche impostazioni che dovresti cambiare sono i rates e l'expo, che sono essenzialmente la sensibilità rispetto ai comandi dati dagli stick.
 
 Se invece vuoi approfondire l'argomento dai un'occhiata a questi articoli su [cosa sono i rates](https://lucafpv.com/spiegazioni-rates) e [come tunare i PID](https://lucafpv.com/come-tunare-pid).
 

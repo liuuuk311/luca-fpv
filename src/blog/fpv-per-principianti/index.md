@@ -2,12 +2,14 @@
 title: FPV per Principianti
 date: "2021-08-26T00:00:00.000Z"
 excerpt: Cos’è un drone FPV? Come iniziare, quanto costa? In questo articolo spiego tutto quello che c'è da sapere sui droni FPV
-category: 
+categories: 
     - Tutorial
 tags: 
     - Principianti
 featured: true
 ---
+
+
 
 Quindi hai sentito parlare di droni da gara oppure droni FPV e ti sei chiesto come poter cominciare a farne volare uno? Se non hai mai sentito nessuno di questi due termini, puoi dare un'occhiata al mio [profilo Instagram](https://www.instagram.com/iamlucafpv/) per capire di che cosa si tratta.
 
@@ -29,7 +31,6 @@ Non importa se sei un pilota oppure uno spettatore ad una gara di droni, vedere 
 
 FPV è l’acronimo di **F**irst **P**erson **V**iew ovvero, visione in prima persona. In pratica significa equipaggiare il drone con una telecamera in modo tale che tu possa vedere le stesse cose che vede il drone mentre lo piloti. È come se fossi seduto in cabina di pilotaggio, volando come un vero pilota, con la differenza che sei fermo a terra.
 
-<!--[FOTO di un pilota con gli occhiali e un drone che vola] -->
 
 Volare in FPV è un esperienza unica, la più surreale che tu possa mai provare. Puoi spostarti liberamente e andare ovunque tu voglia nello spazio tridimensionale, quindi puoi eseguire qualsiasi tipo di manovra che riesci ad immaginare.
 
@@ -49,9 +50,7 @@ Le comunità di piloti FPV sono tra le più amichevoli e gentili. Tutti cercano 
 
 Essere un pilota FPV può essere anche un lavoro. Ci sono diverse professioni. La più ambita è il pilota professionista per campionati internazionali come [DRL](https://thedroneracingleague.com/about-drl/). I piloti in questo campionato possono guadagnare fino a 100.000 dollari, per non parlare poi delle sponsorizzazioni.
 
-<div class="iframe-container">
-<lite-youtube videoid="QSZmSNL_0r8" params="start=8"/>
-</div>
+<YouTubeEmbed link="https://youtu.be/QSZmSNL_0r8?t=8"/>
 
 Un lavoro più comune ma comunque divertente è far riprese aeree e cinematografiche con un drone FPV. In questo caso si può far parte di un agenzia o lavorare come libero profesionista.
 
@@ -70,7 +69,7 @@ Ecco alcuni [tipi di drone](https://lucafpv.com/quanto-costa-un-drone) che si tr
 ### Cos’è un Multirotore?
 
 La parola Multirotore (o Multicopter) copre qualsiasi elicottero con più di un motore o elica principale. Ad esempio, un tricottero ha 3 motori (anche chiamati rotori), un quadricottero ne ha 4 e così via. Tutti questi velivoli sono comunque considerati multirotore.
-<!-- Tutti i tipi di multirotore [https://oscarliang.com/types-of-multicopter/] -->
+
 
 ### Cos’è un Mini Quad?
 
@@ -95,7 +94,7 @@ Se vuoi avere un'idea più chiara di quanto costano i droni, ti suggerisco [ques
 
 ### Costruirlo da zero o comprare un preassemblato?
 
-Se costruire un quadricottero da zero ti sembra troppo difficile, ci sono diversi modelli preassemblati adatti per un principiante, ecco una [lista dei migliori droni per cominciare](https://lucafpv.com/droni-fpv-per-iniziare).<!--[https://oscarliang.com/build-racing-drone-fpv-quadcopter/#rtf] -->.
+Se costruire un quadricottero da zero ti sembra troppo difficile, ci sono diversi modelli preassemblati adatti per un principiante, ecco una [lista dei migliori droni per cominciare](https://lucafpv.com/droni-fpv-per-iniziare).
 
 Tuttavia, la maggior parte dei piloti esperti consiglia di costruire il primo drone. La costruzione è parte integrante di questo hobby, senza considerare che una volta finito l’assemblaggio avrai una conoscenza approfondita delle componenti del tuo drone. Questo ti aiuterà molto nel momento in cui dovrai ripararlo, o sostituire alcune parti. Che tu voglia comprare un drone preassemblato oppure lo voglia costruire da solo, dovresti comunque creare sempre una lista di ciò che vorresti acquistare, e condividerla con qualcuno con più esperienza. Puoi condividerla sui gruppi Facebook e Telegram specializzati. Se invece non hai ancora idea di cosa comprare, ma vorresti iniziare a volare in FPV, entra in questi gruppi e chiedi consigli ai membri.
 
@@ -115,25 +114,23 @@ La dimensioni di un mini quad è determinata dalla dimensione massima delle elic
 
 ## Parti ed Equipaggiamento
 
-<!-- [Immagine di un drone per indicare le componenti] -->
-
 Un quadricottero FPV è composto dalle seguenti parti:
 
-* Telaio <!-- – come scegliere il telaio di un mini quad [https://oscarliang.com/mini-quad-frame-basics/] -->
-* 4 Motori <!-- – come scegliere i motori di un mini quad [https://oscarliang.com/quadcopter-motor-propeller/] -->
-* 4 Eliche <!-- – come scegliere le eliche [https://oscarliang.com/choose-propellers-mini-quad/] -->
-* 4 ESC <!-- – come scegliere gli ESC [https://oscarliang.com/choose-esc-racing-drones/] -->
-* Flight Controller (FC) <!-- – come scegliere un flight controller [https://oscarliang.com/best-flight-controller-quad-hex-copter/] -->
-* Batteria <!-- – come scegliere una batteria LiPo [https://oscarliang.com/lipo-battery-guide/] -->
-* Telecamera FPV <!--[–  come scegliere una telecamera FPV https://oscarliang.com/best-fpv-camera-quadcopter/] -->
+* Telaio
+* 4 Motori
+* 4 Eliche
+* 4 ESC
+* Flight Controller (FC)
+* Batteria
+* Telecamera FPV
 
 Inoltre, per poter volare servono anche questi oggetti:
 
-* Radiocomando (TX) e ricevente (RX) <!-- – come scegliere un radio comando [https://oscarliang.com/choose-rc-transmitter-quadcopter/] -->
-* Video trasmittente (VTX) <!-- – come scegliere una VTX [https://oscarliang.com/choose-video-transmitter-fpv-mini-quad/] -->
-* Antenne FPV <!-- – come scegliere una antenna FPV [https://oscarliang.com/best-fpv-antenna/] -->
-* Occhiali o monitor FPV <!-- – come scegliere gli occhiali FPV [https://oscarliang.com/fpv-goggles-review-fatshark-skyzone/] -->
-* Caricatore di LiPo <!-- –  come scegliere un caricatore di LiPo [https://oscarliang.com/choose-lipo-battery-charger-power-supply/]-->
+* Radiocomando (TX) e ricevente (RX) 
+* Video trasmittente (VTX)
+* Antenne FPV
+* Occhiali o monitor FPV 
+* Caricatore di LiPo 
 
 Se decidi di cominciare a costruire un tuo drone, ti serviranno alcuni strumenti del tipo:
 
@@ -144,13 +141,12 @@ Se decidi di cominciare a costruire un tuo drone, ti serviranno alcuni strumenti
 * Fascette
 * Nastro isolante
 
-Poi ci sono un sacco di altri strumenti utili <!-- [https://oscarliang.com/tool-spare-multirotors-quadcopter-equipment/]--> che rendono la costruzione e la riparazione di un drone, un gioco da ragazzi.
+Poi ci sono un sacco di altri strumenti utili che rendono la costruzione e la riparazione di un drone, un gioco da ragazzi.
 
 ### Scelta delle parti
 
 Questo può essere difficile, soprattutto se stai costruendo il tuo primo drone. Se non sei sicuro di cosa comprare, è sempre meglio scegliere le opzioni più popolari, di modo che sia sempre materiale disponibile online e persone pronte ad aiutarti.
 
-<!--Se ti interessa, puoi guardare la lista delle cose che utilizzo per volare, di modo da avere un’idea.-->
 
 ## Elettronica
 
@@ -192,12 +188,10 @@ Anche se la maggior parte delle VTX e VRX (occhiali e monitor FPV) vengono vendu
 
 Ci vuole del tempo per passare da volare in un simulatore a un vero mini quad. Ma non ti preoccupare, ci vorrà solo un paio di giorni. Una volta che riesci a controllare il mini quad, non potrai più farne a meno.
 
-<!-- [Riferimenti ad altri articoli: consigli, motivazione e altro]-->
-
 ### Non volare in modalità Auto-Level
 
 Se vuoi volare droni come il DJI Mavic, o altri droni che volano con l’aiuto del GPS, la modalità auto-level è perfetta. Ma se vuoi entrare nel mondo dei droni da gara e fare manovre acrobatiche, devi imparare a volare in modalità acro.
-<!--Questo articolo spiega le differenze tra modalità acro e modalità auto-level [https://oscarliang.com/rate-acro-horizon-flight-mode-level/]-->
+
 
 La modalità acro può sembrare difficile all’inizio, ma una volta che hai imparato, sei libero di controllare il quad esattamente come vuoi tu. La modalità auto-level è come camminare con un paio di stampelle, ottime se non riesci a stare in equilibrio da solo, ma la vedo dura usarle per correre! Una volta che hai imparato a volare in acro, la modalità auto-level ti sembrerà una limitazione, e inoltre, la modalità auto-level spesso ti insegna cattive abitudini.
 
@@ -205,9 +199,9 @@ Quando stai imparando a volare nel simulatore, dovresti anche cominciare a ricer
 
 ## Come allenarsi senza un simulatore?
 
-Se pensi che usare un simulatore sia noioso oppure hai un computer non abbastanza potente, potresti considerare di imparare a volare utilizzando modelli più piccoli, i così detti tiny whoops <!-- [https://oscarliang.com/best-tiny-whoop/] -->.
+Se pensi che usare un simulatore sia noioso oppure hai un computer non abbastanza potente, potresti considerare di imparare a volare utilizzando modelli più piccoli, i così detti tiny whoops.
 
-<!-- Puoi anche leggere questo articolo su (come scegliere il tuo primo drone giocattolo)[https://oscarliang.com/best-quadcopter-for-beginners-tips-to-start-out/].-->
+
 
 Cominciare con un micro quad non è consigliabile dato che i simulatori stanno diventando sempre più accurati. Per non parlare del fatto che i micro quad volano in modo diverso dei quad più grandi e potenti, come ad esempio un 5’’.
 
@@ -233,7 +227,3 @@ La sicurezza dovrebbe essere sempre la priorità.Ricorda che i mini quad da gara
 * Disconnetti subito la batteria dopo aver raccolto il drone
 * Non provare a prendere un drone mentre vola
 * Non usare una batteria danneggiata
-
-<!--Ti consiglio questo articolo per approfondire la sicurezza volando in FPV  [http://intofpv.com/t-safety-first-and-foremost]-->.
-
-<!-- FAQ -->

@@ -1,11 +1,10 @@
 ---
 title: Come prendere il patentino per il drone e quanto costa?
 date: "2021-09-26T00:00:00.000Z"
-excerpt: Vediamo come prendere il patentino A1/A3 per volare con i droni, quanto costa e come ci prepara all'esame.
-category:
-  - News
-tags: 
+excerpt: Ecco come prendere il patentino A1/A3 per volare con i droni, quanto costa e come ci prepara all'esame
+categories:
   - Normative
+tags: 
   - Patentino
   - Enac
 ---
