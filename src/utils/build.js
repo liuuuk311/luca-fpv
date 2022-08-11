@@ -50,7 +50,7 @@ async function CreateBlogCategoryListPage({
 }) {
   const numPages = Math.ceil(occurrences / postsPerPage);
   let categoryRegex = `/${category}/i`;
-  let categorySlug = slugify(category);
+  let categorySlug = `categoria/${slugify(category)}`;
 
   Array.from({ length: numPages }).forEach((_, i) => {
     actions.createPage({
@@ -77,7 +77,7 @@ async function CreateBlogTagListPage({
 }) {
   const numPages = Math.ceil(occurrences / postsPerPage);
   let tagRegex = `/${tag}/i`;
-  let tagSlug = slugify(tag)
+  let tagSlug = `tag/${slugify(tag)}`;
 
   Array.from({ length: numPages }).forEach((_, i) => {
     actions.createPage({

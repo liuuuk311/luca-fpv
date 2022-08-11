@@ -7,7 +7,7 @@ const Tags = ({ tags }) => {
       <div className="divide-x-2 border-neutral-800 -ml-2">
         {tags && tags.map((tag) => (
           <Link
-            to={`/${slugify(tag)}`}
+            to={`/tag/${slugify(tag)}`}
             className="px-2 font-bold uppercase hover:underline text-[#eda550] inline-block text-sm"
           >
             #{tag}

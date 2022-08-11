@@ -10,7 +10,7 @@ const Categories = ({ categories }) => {
       <div className="divide-x-2 border-neutral-800 -ml-2">
         {categories.map((category) => (
           <Link
-            to={`/${slugify(category)}`}
+            to={`/categoria/${slugify(category)}`}
             className="px-2 font-bold hover:underline"
           >
             {category}

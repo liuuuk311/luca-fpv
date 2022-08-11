@@ -56,7 +56,7 @@ export const pageQuery = graphql`
     }
     recensioni: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { categories: {in: "Recensione"} } }
+      filter: { frontmatter: { categories: {in: "Guide Acquisto"} } }
       limit: 3
       skip: $skipFeatured
     ) {
@@ -76,7 +76,7 @@ export const pageQuery = graphql`
     software: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { categories: {in: "Software"} } }
-      limit: $limit
+      limit: 3
       skip: $skipFeatured
     ) {
       edges {
