@@ -1,5 +1,5 @@
 ---
-title: "Impossibile aprire la porta seriale in Betaflight: Ecco la soluzione"
+title: "Betaflight: Impossibile aprire la porta seriale - Soluzione"
 date: "2020-09-30T00:00:00.000Z"
 excerpt: In questo articolo andremo a risolvere il problema di connessione a Betaflight più comune.
 categories:
