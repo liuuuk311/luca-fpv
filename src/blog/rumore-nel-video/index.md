@@ -3,9 +3,11 @@ title: "Risoluzione dei problemi video FPV"
 date: "2020-09-07T00:00:00.000Z"
 excerpt: Ecco alcuni suggerimenti su come risolvere i problemi e le migliori pratiche da seguire per evitare problemi con i video FPV.
 categories:
-    - Tutorial
+    - Principianti
 tags: 
-    - Risoluzione Problemi
+    - Errori Comuni
+    - Rumore Video
+    - VTX
 featured: true
 ---
 

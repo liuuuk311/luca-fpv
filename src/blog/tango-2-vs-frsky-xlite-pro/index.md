@@ -4,8 +4,9 @@ date: "2020-09-20T00:00:00.000Z"
 excerpt: Un confronto tra due delle radio più popolari consociute per le loro dimensioni ridotte. Vediamo insieme i pro e i contro di ciascuna.
 categories:
     - Recensione
+    - Guide Acquisto 
 tags: 
-    - Principianti
+    - Radiocomando
 featured: false
 ---
 

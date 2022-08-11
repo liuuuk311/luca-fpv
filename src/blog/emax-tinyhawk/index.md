@@ -4,8 +4,10 @@ date: "2020-09-19T00:00:00.000Z"
 excerpt: Un kit FPV economico che comprende drone, radiocomando e visore, vediamo se vale la pena comprarlo come primo drone
 categories:
     - Recensione
+    - Guide Acquisto
 tags: 
-    - Principianti
+    - Primo Drone
+    - Micro Drone
 featured: true
 ---
 

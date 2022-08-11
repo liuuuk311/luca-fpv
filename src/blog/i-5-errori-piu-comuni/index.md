@@ -3,9 +3,9 @@ title: I 5 errori più comuni da principianti
 date: "2020-04-18T00:00:00.000Z"
 excerpt: Ecco una lista di quelli che penso siano gli errori più comuni che un principiante possa fare quando comincia in questo hobby.
 categories: 
-    - Tutorial
-tags: 
     - Principianti
+tags: 
+    - Errori Comuni
 featured: false
 ---
 
