@@ -1,6 +1,8 @@
 
 import React from 'react';
 import Helmet from 'react-helmet';
+import { OfferteHero } from '../../components/landing/hero';
+import { OfferteCallToAction } from '../../components/landing/cta';
 
 const Landing = () => {
     return (
@@ -9,7 +11,8 @@ const Landing = () => {
                 <title>Offerte</title>
                 <meta name="description" content=""/>
             </Helmet>
-            <p>TODO</p>
+            <OfferteHero />
+            <OfferteCallToAction />
         </>
     );
 }

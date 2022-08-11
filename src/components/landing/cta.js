@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Modal from 'react-modal';
 import "../../styles/modal.css"
 
-const CallToActionContainer = ({ title, content, callToAction, sectionID, children }) => {
+const CallToActionContainer = ({ title, content, callToAction, sectionID, children, withModal }) => {
     const [modalIsOpen, setIsOpen] = useState(false);
 
     return (
@@ -18,7 +18,7 @@ const CallToActionContainer = ({ title, content, callToAction, sectionID, childr
                     </button>
                 </div>
             </div>
-            <Modal
+            {withModal && <Modal
                 isOpen={modalIsOpen}
                 onRequestClose={() => setIsOpen(false)}
                 shouldCloseOnOverlayClick={true}
@@ -31,10 +31,7 @@ const CallToActionContainer = ({ title, content, callToAction, sectionID, childr
                     <div className="bg-white pt-5 pb-4 p-6 sm:pb-4">
                         <div className="sm:flex sm:items-start">
                             <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
-                                <h3 className="text-lg leading-6 font-medium text-gray-900" id="modal-title">Deactivate account</h3>
-                                <div className="mt-2">
-                                    <p className="text-sm text-gray-500">Are you sure you want to deactivate your account? All of your data will be permanently removed. This action cannot be undone.</p>
-                                </div>
+                                {children}
                             </div>
                         </div>
                     </div>
@@ -50,7 +47,8 @@ const CallToActionContainer = ({ title, content, callToAction, sectionID, childr
                         </button>
                     </div>
                 </div>
-            </Modal>    
+            </Modal>
+            }  
         </section>
     )
 }
@@ -79,7 +77,16 @@ const RisoluzioneProblemiFPVCallToAction = () => {
     </CallToActionContainer>
 }
 
+const OfferteCallToAction = () => {
+    return <CallToActionContainer
+        title="Entra ora nel canale delle offerte!"
+        content="Inizia subito a risparmiare su tantissimi oggetti FPV. Da flight controller a droni completi!"
+        callToAction="Entra ora!"
+        sectionID="unisciti"/>
+}
+
 export {
     CorsoFPVCallToAction,
     RisoluzioneProblemiFPVCallToAction,
+    OfferteCallToAction,
 }

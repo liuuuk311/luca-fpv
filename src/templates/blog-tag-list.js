@@ -2,10 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Seo from "../components/seo"
-import PostList from "../components/post-list"
-import NewsletterBlock from "../components/marketing/newsletter"
+import PostGrid from "../components/post-grid"
 import Pagination from "../components/pagination"
-import TelegramBlock from "../components/marketing/telegram"
 
 const BlogCategoryList = ({ data, pageContext }) => {
 
@@ -15,18 +13,14 @@ const BlogCategoryList = ({ data, pageContext }) => {
         <>
             <Seo />
             <div className="flex flex-row">
-                <section className="md:w-4/6 ">
-                    <PostList
+                <section>
+                    <PostGrid
                         title={`#${tag}`}
                         titleCss={"uppercase"}
                         posts={data.recent_posts.edges}
                     />
                     <Pagination currentPage={currentPage} numPages={numPages} customSlug={tagSlug} />
                 </section>
-                <div className="hidden md:flex flex-col pl-8 w-2/6 py-24">
-                    <TelegramBlock />
-                    <NewsletterBlock />
-                </div>
             </div>
         </>
     )

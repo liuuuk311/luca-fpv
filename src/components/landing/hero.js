@@ -71,7 +71,16 @@ const RisoluzioneProblemiFPVHero = () => {
     backgroundUrl="/assets/problemi-comuni/main-photo.svg" />
 }
 
+const OfferteHero = () => {
+  return <Hero 
+    title="Offerte e coupon per prodotti FPV ti aspettano!"
+    paragraph="Entra nel canale telegram per non perdere nessuna delle offerte curamente selezionate per te!"
+    cta_label="Unisciti subito"
+    cta_link="#download"/>
+}
+
 export {
   CorsoFPVHero,
   RisoluzioneProblemiFPVHero,
+  OfferteHero,
 }
