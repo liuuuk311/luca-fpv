@@ -2,7 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { CorsoFPVHero } from '../../components/landing/hero';
 import { CorsoFPVGrid } from '../../components/landing/grid';
-import { CorsoFPVFaq } from '../../components/landing/faq';
+import { CorsoFPVFaq, CorsoFPVProgramma } from '../../components/landing/faq';
 import { CorsoFPVVideo } from '../../components/landing/video';
 import { CorsoFPVTestimonials } from '../../components/landing/testimonials';
 import { CorsoFPVCallToAction } from '../../components/landing/cta';
@@ -17,6 +17,7 @@ const Landing = () => {
             </Helmet>
             <CorsoFPVHero />
             <CorsoFPVGrid />
+            <CorsoFPVProgramma />
             <CorsoFPVVideo />
             <CorsoFPVTestimonials />
             <CorsoFPVFaq /> 
