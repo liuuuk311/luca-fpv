@@ -49,8 +49,8 @@ const Post = ( {data} ) => {
             <div class="flex-grow border-t border-gray-200 dark:border-gray-600 mb-2"></div>
             <Categories categories={frontmatter.categories} />
           </article>
-        <div className="hidden md:flex flex-col pl-8 justify-start w-96">
-          <div className="mb-8 h-96 bg-red-500">
+        <div className="hidden md:flex flex-col pl-8 justify-start md:w-2/6">
+          <div className="mb-8 h-96">
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='2806584328'
@@ -59,7 +59,7 @@ const Post = ( {data} ) => {
                 data-full-width-responsive="true"
             />
           </div>
-          <div className="my-8 h-96 w-full bg-red-500">
+          <div className="my-8 h-96 w-full">
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='5109167274'
