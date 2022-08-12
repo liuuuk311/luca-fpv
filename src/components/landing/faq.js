@@ -95,8 +95,7 @@ const CorsoFPVProgramma = () => {
                     "4. Curve Strette: Controllo del drone a velocità sostenuta in curva",
                     "5. Atterraggio: Procedura di atterraggio in sicurezza e disarmo",
                     "6. Thorottle Control: Gestione del gas e controllo dell'altitudine",
-                    "7. Manovre acrobatiche 1: Esecuzione del Roll Spin, Pitch Spin e Powerloop",
-                    "8. Manovre acrobatiche 2: Esecuzione dello Split S"
+                    "7. Manovre acrobatiche: Esecuzione del Roll Spin, Pitch Spin, Powerloop e  Split S",
                 ]}
             />
             <Faq 
