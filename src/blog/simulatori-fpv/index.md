@@ -24,6 +24,11 @@ featured: true
         Label the data on mobile view
         
         */
+        #radio-table td:nth-of-type(1){
+            background-color: #fff;
+            padding: 0;
+            width: 100%;
+        }
         #radio-table td:nth-of-type(2):before { content: "Radiocomando"; }
         #radio-table td:nth-of-type(3):before { content: "USB?"; }
 
@@ -95,7 +100,7 @@ Di seguito riporto alcuni dei simulatori di volo più famosi, progettati apposit
 
 <div id="sims-table">
 
-|                                                              | **Prezzo** | Fisica | **Multiplayer** | **Crea Piste** | Sistema Operativo   | **Steam?** |
+|                                                              | **Prezzo** | **Fisica** | **Multiplayer** | **Crea Piste** | **Sistema Operativo**   | **Steam?** |
 | ----------------------------------------------------------- | ---------- | ---- | :------------- | ------------ | ------------------- | -------- |
 | <OutsideLink label="Orqa FPV.Skydive" href="https://store.steampowered.com/app/1278060/FPVSkyDive"/> | Gratis        |   Sopra la media    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
 | <OutsideLink label="FPV FreeRider" href="https://store.steampowered.com/app/854250/FPV_Freerider"/> | 5 €        |   Discreta    |        ✖️        |       ✖️        | Windows, Mac, Linux |     ✔      |
