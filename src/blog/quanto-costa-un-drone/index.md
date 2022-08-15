@@ -55,7 +55,7 @@ Quindi vediamo il prezzo dei droni suddiviso per le diverse categorie, dalla pi�
 |---	                                                                                                                  |--------------	                                |----------------       |------------------------------------------------   |
 | <a href="#toy">![Droni giocattolo](/assets/quanto-costa-un-drone/drone_giocattolo.png)</a>    | <a href="#toy">Droni giocattolo</a>             | da 20 a 200 euro      | Imparare a volare senza telecamera                |
 | <a href="#fpv-micro">![Micro drone FPV](/assets/quanto-costa-un-drone/micro_fpv.png)</a>      | <a href="#micro-fpv">Micro droni FPV</a>        | da 50 a 200 euro      | Gare al chiuso<br/> FPV cinematic                 |
-| <a href="#fpv">![Drone FPV Economico](../emax-tinyhawk/tinyhawk_3.png)</a>    | <a href="#fpv">Droni FPV economici</a>          | da 100 a 200 euro     | Imparare a volare con telecamera                  |
+| <a href="#fpv">![Drone FPV Economico](/assets/emax-tinyhawk/tinyhawk_3.png)</a>    | <a href="#fpv">Droni FPV economici</a>          | da 100 a 200 euro     | Imparare a volare con telecamera                  |
 | <a href="#fpv-pro">![Drone FPV Professionale](/assets/quanto-costa-un-drone/drone_fpv.png)</a>| <a href="#fpv-pro">Droni FPV professionali</a>  | da 300 a 600 euro     | FPV cinematic<br/> Gare FPV<br/> Freestyle        |
 | <a href="#fotografia">![Drone da fotografia](/assets/quanto-costa-un-drone/mavic.png)</a>     | <a href="#fotografia">Droni da fotografia</a>   | a partire da 500 euro | Foto aeree<br/> Video making<br/> Cinema          |
 
@@ -122,7 +122,7 @@ Inoltre il segnale video viene trasmesso a 5.8 GHz che è la frequenza standard 
 
 </div>
 
-![Drone FPV economico](../emax-tinyhawk/tinyhawk_3.png)
+![Drone FPV economico](/assets/emax-tinyhawk/tinyhawk_3.png)
 
 Puoi costruire il tuo quadricottero e configurare da solo il tuo sistema FPV, ma se non hai la conoscenza necessaria in elettronica, ci sono anche delle soluzioni economiche. i cosiddetti droni FPV “plug and play”. Un esempio potrebbe essere l'<AffiliateLink href="https://amzn.to/34a8Pyv" label="Emax TinyHawk 2"/> - leggi la [recensione](https://lucafpv.com/emax-tinyhawk).
 

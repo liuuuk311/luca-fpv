@@ -68,7 +68,7 @@ Ecco una lista dei droni FPV più comuni nel 2022.
 |-------------------------------------------------------------------------|-------------------|--------|---------------------|--------------------------------------------------------------------------------------------|
 | ![DJI FPV Drone](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpeg)     | DJI FPV Combo     | Alto   | Cinematic           | <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon.it" />
 | ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/chimera7.jpeg)      | iFlight Chimera 7 | Alto   | Long Range          | <AffiliateLink href="https://www.drone24hours.com/prodotto/chimera7-6s-fpv-lr-analogico/?D24H=lucapalonca" label="Drone24Hours.com" />
-| ![Diatone Roma F5 V2](../diatone-roma-f5-v2/drone.jpeg)                 | Diatone Roma F5 V2| Medio  | Freestyle/Cinematic | <AffiliateLink href="https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca" label="Drone24Hours.com" />
+| ![Diatone Roma F5 V2](/assets/diatone-roma-f5-v2/drone.jpeg)                 | Diatone Roma F5 V2| Medio  | Freestyle/Cinematic | <AffiliateLink href="https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca" label="Drone24Hours.com" />
 | ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg) | iFlight Nazgul5 V2| Basso  | Freestyle/Cinematic | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours.com" />
 | ![iFlight Protek](/assets/droni-fpv-per-iniziare/protek.jpg)            | iFlight Protek 35 | Medio  | Cinematic           | <AffiliateLink href="https://www.drone24hours.com/prodotto/iflight-protek35-3-5/?D24H=lucapalonca" label="Drone24Hours.com" />
 

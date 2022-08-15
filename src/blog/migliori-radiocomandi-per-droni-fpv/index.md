@@ -21,8 +21,7 @@ featured: true
     @media 
     only screen and (min-width: 980px) {
         td:nth-of-type(3) {
-            padding-left: 0;
-            padding-right: 0;
+            padding: 0;
         }
     }
     @media 
@@ -32,7 +31,10 @@ featured: true
         Label the data on mobile view
         
         */
-
+        #radio-table td:nth-of-type(1) {
+            padding: 0;
+            background: #fff;
+        }
         #radio-table td:nth-of-type(2):before { content: "Radiocomando"; }
         #radio-table td:nth-of-type(3):before { content: "Prezzo"; }
         #radio-table td:nth-of-type(4):before { content: "Protocollo"; }
@@ -63,7 +65,7 @@ Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2022.
 | ![BetaFPV LiteRadio 2](/assets/migliori-radiocomandi-per-droni-fpv/betafpv_literadio2.png) | BetaFPV LiteRadio 2   | 💰        | Frsky/ELRS/Bayang        | <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/betafpv-literadio-2-se-radiocomando-fpv/?ref=iamlucafpv" label="RhobbyFPV" /> <br/><AffiliateLink href="https://www.drone24hours.com/prodotto/betafpv-radio-literadio-3/?D24H=lucapalonca" label="Drone24Hours" />|
 | ![FrSKY X9 Lite](/assets/migliori-radiocomandi-per-droni-fpv/x9_lite.png)                  | FrSKY X9 Lite         | 💰        | Frsky/Modulo esterno     | <AffiliateLink href="https://www.banggood.com/custlink/vDGdpTyaBJ" label="Banggood" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="RhobbyFPV" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="Drone24Hours" />|
 | ![RadioMaster TX16 Mark 2](/assets/migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg)| RadioMaster TX16 Mark 2  | 💰💰  | Multi/ELRS/Modulo esterno| <AffiliateLink href="https://www.banggood.com/custlink/GG3cK5PIoI" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" label="Drone24Hours" />   |
-| ![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg)                                    | TBS Mambo             | 💰💰      | Tracer/Modulo esterno    | <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/ethix-mambo-tbs-tracer-radiocomando-2-4ghz/?ref=iamlucafpv" label="RhobbyFPV" /><br/><AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />   |
+| ![TBS Mambo](/assets/recensione-tbs-mambo/mambo_gimbal.jpeg)                                    | TBS Mambo             | 💰💰      | Tracer/Modulo esterno    | <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/ethix-mambo-tbs-tracer-radiocomando-2-4ghz/?ref=iamlucafpv" label="RhobbyFPV" /><br/><AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" />   |
 | ![Radiomaster Zorro](/assets/migliori-radiocomandi-per-droni-fpv/RadioMaster-Zorro-2.jpeg) | RadioMaster Zorro     | 💰💰      | Multi/ELRS/Modulo esterno| <AffiliateLink href="https://www.banggood.com/custlink/KKDJDFHi9z" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-zorro/?D24H=lucapalonca" label="Drone24hours"/>  |
 | ![TBS Tango 2](/assets/migliori-radiocomandi-per-droni-fpv/tango2_1.png)                   | TBS Tango 2           | 💰💰💰    | Crossfire                | <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/tbs-tango-2-pro-v3-radiocomando-900mhz-868mhz/?ref=iamlucafpv" label="RhobbyFPV" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="Drone24Hours" />  |
 
@@ -101,7 +103,7 @@ La vecchia versione ha un modulo multiprotocollo all'interno che supporta quasi 
 
 ## Per i principianti
 
-![TBS Mambo](../recensione-tbs-mambo/mambo_gimbal.jpeg)
+![TBS Mambo](/assets/recensione-tbs-mambo/mambo_gimbal.jpeg)
 
 **TBS Mambo** - Compralo su: <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" /> (Negozio Italiano)
 
