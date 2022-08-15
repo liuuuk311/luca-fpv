@@ -1,4 +1,4 @@
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import React from "react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
@@ -24,7 +24,7 @@ const Post = ( {data} ) => {
     ? frontmatter.featuredImage.publicURL
     : ""
 
-  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink }
+  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link }
 
   return (
     <>

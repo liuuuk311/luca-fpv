@@ -12,8 +12,12 @@ featured: true
 
 <style jsx>{`
     
-    .suggestions-table td:nth-of-type(1) {
+    td:nth-of-type(1) {
         font-weight: 600;
+    }
+
+    #summary-table td:nth-of-type(1){
+        width: 25%;
     }
     @media 
     only screen and (max-width: 760px),
@@ -22,8 +26,16 @@ featured: true
         Label the data on mobile view
         
         */
-        .suggestions-table td:nth-of-type(1) { padding-left: 0 !important; }
-        .suggestions-table td { padding-left: 33% !important; }
+        #summary-table td:nth-of-type(1){
+            background-color: #fff;
+            padding: 0;
+        }
+        #summary-table td:nth-of-type(2):before { content: "Nome" }
+        #summary-table td:nth-of-type(3):before { content: "Kit completo" }
+        #summary-table td:nth-of-type(4):before { content: "Prezzo" }
+        #summary-table td:nth-of-type(5):before { content: "Venditori" }
+
+
         .suggestions-table td:nth-of-type(2):before { content: "Economico"; }
         .suggestions-table td:nth-of-type(3):before { content: "Professionale"; }
     }
@@ -36,35 +48,65 @@ Stai cercando il miglior drone FPV completo per iniziare a volare nel 2022? Ques
 
 Quando scegli il tuo primo drone FPV per iniziare, oltre a fare attenzione al prezzo del drone stesso, devi controllare cosa c'è nella scatola. 
 
-Infatti, una cosa che lascia stupita molte persone che iniziano, è che quando compri un drone FPV, riceverai solo il drone. Niente batterie, niente radiocomando, e niente occhiali. In pratica un pezzo di carbonio con dell'elettronica che non potrai usare. 
-
-Quindi, quando si parla di drone FPV "completo", si intende un drone pronto al volo, con tutti i suoi componenti, ma senza l'attrezzatura tipica del pilota FPV (come occhiali, radiocomando ecc).
+Infatti, una cosa che lascia stupite molte persone che iniziano, è che quando compri un drone FPV, riceverai solo il drone. Niente batterie, niente radiocomando, e niente occhiali. In pratica un pezzo di carbonio con dell'elettronica che non potrai usare. Questo se non si compra un kit, come quello che mostrerò in questa guida!
 
 
-Ad ogni modo, per ciascuno dei seguenti droni, consiglierò anche un radiocomando e un paio di occhiali compatibili, per rendere il tuo setup il più completo possibile.
+<div id="summary-table">
+
+|                                                                              | Nome                                        | Kit Completo | Prezzo    | Venditori                                                                                                                                                                                                                                   |
+|------------------------------------------------------------------------------|---------------------------------------------|--------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpg)     | <Link to="#dji-fpv">DJI FPV</Link>          | ✔            | 💰💰💰💰   | <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon" />                                                                                                                                                            |
+| ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg)      | <Link to="#nazgul">iFlight Nazgul V2</Link> | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> <br/> <AffiliateLink  href="https://www.banggood.com/custlink/DmmE4FSA7g"   label="Banggood" />          |
+| ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Drone24Hours  " />         |
+
+</div>
+
+Quindi, quando si parla di drone FPV "completo", si intende un drone pronto al volo, con tutti i suoi componenti, ma senza l'attrezzatura tipica del pilota FPV (come occhiali, radiocomando ecc). Questi "droni FPV completi" sui siti specializzati vengono chiamati RTF, ovvero Ready To Fly e quindi da intendersi pronti al volo. 
+
+Secondo me, <strong>il termine RTF è fuorviante, perché in realtà a questi droni manca un componente: la ricevente.</strong>. I droni FPV completi vengono chimati BNF, ovvero Bind and Fly. Questi droni richiedono solo la procedura di bind con il radiocomando del pilota. 
 
 
-## 1. DJI FPV Drone Combo
+Ad ogni modo, in questo articolo presenterò diverse alternative, alcune complete di tutto quello che serve. Per i droni FPV RTF o BNF in questa lista, consiglierò anche un radiocomando e un paio di occhiali compatibili, per rendere il tuo setup il più completo possibile.
 
-Questa è la scelta per coloro che non vogliono perdere tempo ad imparare. Se vuoi qualcosa di pronto al volo, senza dover configuare niente il <AffiliateLink href="https://amzn.to/3ksZQAD" label="DJI FPV Drone" /> è per te.
+
+<div id="dji-fpv">
+
+## 1. Kit Completo Veramente Pronto Al Volo
+
+</div>
+
+Questa è la scelta per coloro che non vogliono perdere tempo ad imparare. Se vuoi qualcosa di veramente pronto al volo, senza dover configuare niente il <AffiliateLink href="https://amzn.to/3ksZQAD" label="DJI FPV Drone" /> è per te.
 
 È comunque una scelta molto controversa per i puristi dell'FPV, ma personalmente trovo che questo drone sia adatto a chi vuole volare in FPV una volta ogni tanto, senza fare manovre rischiose, e magari postare qualche video su Intagram o YouTube. 
 
-![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpeg)
+![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpg)
 
 A primo impatto il costo di circa 1300 euro può spaventare. Ma all'interno della confezione ci sono molte cose.
 Prima di tutto, oltre il drone riceviamo il visore (DJI Goggles), che se acquistati separatamente costano circa 600 euro. Poi abbiamo anche il radiocomando e una batteria. Quindi acquistando questo kit, siamo già pronti per volare, senza dover comprare ulteriori accessori.
 
-### Chi lo dovrebbe comprare?
+Gli occhiali possono essere usati anche con altri droni FPV che utilizzano il sistema digitale DJI.
+
+### Chi dovrebbe comprare il DJI FPV?
 
 Il DJI FPV Drone è perfetto per chiunque abbia già volato con un drone DJI, ma voglia provare a volare in modalità FPV con un drone capace di arrivare anche a 140 km/h. Questo kit è ideale anche per tutti coloro che non vogliono spendere troppo tempo a capire come installare e configuare il proprio drone.
 
-> Acquista il DJI FPV Drone combo su <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon.it" />
+Tuttavia, se pensi di volare forte, fare freestyle e non hai paura di schiantare il tuo drone, allora in questo caso il DJI FPV Drone non è adatto a te. Infatti non è semplice fare manutenzione e riparazioni su questo drone. Ci sono alcuni pezzi di ricambio ufficiali ma non tutti i componenti sono disponibili.
 
-Spesso lo paragono ad un iPhone, bello e semplice da usare ma con pochissima personalizzazione. Se invece preferisci avere piú possibilità di smanettare allora continua a leggere.
+Spesso paragono il DJI FPV ad un iPhone, bello e semplice da usare ma con pochissima personalizzazione. Se invece preferisci avere piú possibilità di smanettare allora continua a leggere.
+
+### Dove comprare il DJI FPV?
+
+Non tutti i negozi online specializzati in FPV hanno in stock questo drone, questo perché, come dicevo prima, i puristi di questo hobby non lo considerano un vero e proprio drone FPV. 
+
+Ad ogni modo, essendo prodotto da DJI ha il vantaggio di essere disponibile su <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon" />.
 
 
-## 2. iFlight Nazgul5 V2
+
+<div id="nazgul">
+
+## 2. Drone FPV da Freestyle e Cinematic
+
+</div>
 
 L'<AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="iFlight Nazgul5 V2" /> è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro.
 
@@ -83,14 +125,9 @@ Per quanto riguarda la ricevente, ci sono diverse opzioni. Sicuramente la più e
 
 L'iFlight Nazgul5 V2 è perfetto per coloro che sono seriamente intenzionati ad entrare nel mondo FPV, per passione o per lavoro ([come guadangare con un drone](https://lucafpv.com/come-fare-soldi-con-un-drone)). Ideale per chiunque non ha paura di imparare cose nuove.
 
-> Acquista l'iFlight Nazgul5 V2 su <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> | <AffiliateLink href="https://www.banggood.com/custlink/DmmE4FSA7g" label="Banggood" />
+### Dove acquistare il Nazgul5?
 
-### Alternative al Nazgul5
-
-In caso questo drone non dovesse essere disponibile ecco due alternative sulla stessa fascia di prezzo che vanno bene per chi inizia e vuole fare video mozzafiato. 
-
-- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="Nazgul Evoque" /> (che sarebbe la versione successiva al Nazgul5 e più adatta a video cinematic) 
-- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="DIATONE Roma F5" />
+L'iFlight Nazgul5 V2 è disponibile sia su <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> che anche su <AffiliateLink href="https://www.banggood.com/custlink/DmmE4FSA7g" label="Banggood" />. Entrambi store affidabili. Il primo, ha magazzini in Italia, quindi i tempi di spedizioni sono molto veloci. Mentre il secondo offre prezzi più competitivi a scapito di tempi di spedizioni più lunghi.
 
 ### Attrezzatura consigliata per il Nazgul5
 
@@ -100,17 +137,35 @@ Per quanto riguarda l'attrezzatura consigliata da acquistare insieme al Nazgul5 
 
 |              | **Economico**   | **Professionale** |
 |--------------|-----------------|-------------------|
-| Radiocomando | Taranis X9 Lite<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="Compra su drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="Compra su rhobbyfpv.it" /> | TBS Tango 2 PRO<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="Compra su drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/tbs-tango-2-pro-v3-radiocomando-900mhz-868mhz/?ref=iamlucafpv" label="Compra su rhobbyfpv.it" />   |
-| Occhiali FPV | Eachine EV800<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/eachine-ev800-occhiali-5-8g-40ch/?D24H=lucapalonca" label="Compra su drone24hours.com" />   | Skyzone SKY04X<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/occhiali-skyzone-sky04x-v2-oled/?D24H=lucapalonca" label="Compra su drone24hours.com" />    |
-| Batterie     | Tattu FunFly<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="Compra su drone24hours.com" />    | GNB<br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/gnb-lipo-1300mah-6s-120c-xt60/?ref=iamlucafpv" label="Compra su rhobbyfpv.it" />      |
+| Radiocomando | Taranis X9 Lite<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="rhobbyfpv.it" /> | TBS Tango 2 PRO<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/tbs-tango-2-pro-v3-radiocomando-900mhz-868mhz/?ref=iamlucafpv" label="rhobbyfpv.it" />   |
+| Occhiali FPV | Eachine EV800<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/eachine-ev800-occhiali-5-8g-40ch/?D24H=lucapalonca" label="drone24hours.com" />   | Skyzone SKY04X<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/occhiali-skyzone-sky04x-v2-oled/?D24H=lucapalonca" label="drone24hours.com" />    |
+| Batterie     | Tattu FunFly<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="drone24hours.com" />    | GNB<br/>Disponibile su<br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/gnb-lipo-1300mah-6s-120c-xt60/?ref=iamlucafpv" label="rhobbyfpv.it" />      |
 | **Totale**   | **250 euro**        | **870 euro**          |
 
 </div>
 
+<strong>Nota che:</strong> per la versione economica va acquistata la versione con ricevente FrSky, mentre per il setup professionale va acquistata la ricevente TBS Nano. 
 
-## 3. GEPRC CineLog35
 
-Passiamo ora alla categoria dei cinewhoop con il <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="GEPRC CineLog35" />: un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. Queste sue caratteristiche lo rendono perfetto per chi vuole usare un drone FPV per fare riprese cinematic come queste. 
+### Alternative al Nazgul5
+
+In caso questo drone non dovesse essere disponibile ecco due alternative sulla stessa fascia di prezzo che vanno bene per chi inizia e vuole fare video mozzafiato. 
+
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="Nazgul Evoque" /> (che sarebbe la versione successiva al Nazgul5 e più adatta a video cinematic) 
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="DIATONE Roma F5" />
+
+
+<div id="cinelog">
+
+## 3. Un Drone FPV Piccolo Per Video Cinematic
+
+</div>
+
+Passiamo ora alla categoria dei cinewhoop con il <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="GEPRC CineLog35" />: un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. 
+
+Il fatto che sia compatto lo rende molto comodo da portare in giro e fare ripese mozza fiato.
+
+Queste sue caratteristiche lo rendono perfetto per chi vuole usare un drone FPV per fare riprese cinematic come queste. 
 
 <YouTubeEmbed link="https://youtu.be/dt3F3pEdACE?t=10"/>
 
@@ -119,11 +174,13 @@ Se vuoi saperne di più su questo drone leggi [questo articolo](https://lucafpv.
 
 ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)
 
-### Chi dovrebbe comprare il GEPRC CineLog35?
+### Chi dovrebbe comprare il CineLog35?
 
 Questo drone è perfetto per chi vuole realizzare video cinematic all'aperto e all'interno. Che ha la necessità di montare una GoPro sul drone per i video in alta qualità. Inoltre, se pensi di volare vicino a persone e cose, questo è decisamente per te.
 
-> Acquista GEPRC CineLog35 su <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="drone24hours.com" />
+### Dove acquistare il CineLog35?
+
+Io consiglio di acquistarlo su <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="drone24hours.com" /> un sito italiano che spedisce molto velocemente.
 
 
 ## 4. Kit EMAX Tinyhawk II

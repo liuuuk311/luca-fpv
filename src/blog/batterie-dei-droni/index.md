@@ -29,6 +29,11 @@ featured: false
         
         */
 
+        td:nth-of-type(1){
+            padding: 0;
+            background: #fff;
+        }
+
         #drone-table td:nth-of-type(2):before { content: "Categoria"; }
         #drone-table td:nth-of-type(3):before { content: "Prezzo"; }
         #drone-table td:nth-of-type(4):before { content: "Tempo di Volo"; }
@@ -59,10 +64,10 @@ Tipicamente, 20 minuti è il tempo di volo dei droni più comuni. Tuttavia, quan
 
 |   	                                                                                                                  | Categoria 	                                    | Prezzo 	            | Tempo di volo                                          |
 |---	                                                                                                                  |--------------	                                |----------------       |------------------------------------------------   |
-| ![Droni giocattolo](../quanto-costa-un-drone/drone_giocattolo.png)    | Droni giocattolo             | da 20 a 200 euro      | meno di 5 minuti                |
-| ![Drone FPV](../quanto-costa-un-drone/drone_fpv.png)| Droni FPV  | da 300 a 600 euro     | meno di 7 minuti |
-| ![Drone FPV Long Range](../batterie-dei-droni/fpv-long-range.jpeg)    | Droni FPV - Long Range   | a partire da 400 euro | circa 20 minuti          |
-| ![Drone da fotografia](../quanto-costa-un-drone/mavic.png)     | Droni da fotografia   | a partire da 500 euro | più di 20 minuti          |
+| ![Droni giocattolo](/assets/quanto-costa-un-drone/drone_giocattolo.png)    | Droni giocattolo             | da 20 a 200 euro      | meno di 5 minuti                |
+| ![Drone FPV](/assets/quanto-costa-un-drone/drone_fpv.png)| Droni FPV  | da 300 a 600 euro     | meno di 7 minuti |
+| ![Drone FPV Long Range](/assets/batterie-dei-droni/fpv-long-range.jpeg)    | Droni FPV - Long Range   | a partire da 400 euro | circa 20 minuti          |
+| ![Drone da fotografia](/assets/quanto-costa-un-drone/mavic.png)     | Droni da fotografia   | a partire da 500 euro | più di 20 minuti          |
 
 </div>
 
