@@ -38,7 +38,6 @@ module.exports = {
       },
     },
     "gatsby-plugin-image",
-    "gatsby-plugin-react-helmet",
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
@@ -137,6 +136,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-plugin-catch-links",
+    "gatsby-plugin-minify",
     "gatsby-plugin-offline",
     {
       resolve: `gatsby-plugin-google-gtag`,

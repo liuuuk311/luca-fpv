@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Helmet from 'react-helmet';
 
 import Seo from "../components/seo"
 import PostGrid from "../components/post-grid"
@@ -13,11 +12,6 @@ const IndexPage = ({data}) => {
 
   return (
     <>
-      <Seo/>
-      <Helmet>
-        <title>Luca FPV - Vola in prima persona</title>
-        <meta name="description" content="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."/>
-    </Helmet>
       <Hero 
         title="Ciao, benvenuto nel mio blog!"
         paragraphs={[
@@ -44,6 +38,12 @@ const IndexPage = ({data}) => {
 
 export default IndexPage
 
+export const Head = () => (
+  <Seo 
+    title="Luca FPV - Vola in prima persona" 
+    description="Articoli utili su Droni, Quadricotteri, Mini Quad, Elettronica e Software. Guide, tutorial e recensioni sul mondo FPV. Il punto di riferimento per i piloti Itaiani FPV."
+  />
+)
 
 export const pageQuery = graphql`
   query HomeQuery {

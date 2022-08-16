@@ -10,23 +10,24 @@ const BlogCategoryList = ({ data, pageContext }) => {
     const { currentPage, numPages, tag, tagSlug } = pageContext
 
     return (
-        <>
-            <Seo />
-            <div className="flex flex-row">
-                <section>
-                    <PostGrid
-                        title={`#${tag}`}
-                        titleCss={"uppercase"}
-                        posts={data.recent_posts.edges}
-                    />
-                    <Pagination currentPage={currentPage} numPages={numPages} customSlug={tagSlug} />
-                </section>
-            </div>
-        </>
+      <div className="flex flex-row">
+          <section>
+              <PostGrid
+                  title={`#${tag}`}
+                  titleCss={"uppercase"}
+                  posts={data.recent_posts.edges}
+              />
+              <Pagination currentPage={currentPage} numPages={numPages} customSlug={tagSlug} />
+          </section>
+      </div>
     )
 }
 
 export default BlogCategoryList
+
+export const Head = () => (
+  <Seo />
+)
 
 export const pageQuery = graphql`
   query BlogTagQuery($skip: Int!, $limit: Int!, $tagRegex: String!) {

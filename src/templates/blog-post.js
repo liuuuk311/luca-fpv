@@ -18,24 +18,13 @@ import OutsideLink from "../components/blog/outside-link"
 
 const Post = ( {data} ) => {
   const { post, recommendations } = data
-  const { frontmatter, body, excerpt } = post
-
-  const Image = frontmatter.featuredImage
-    ? frontmatter.featuredImage.publicURL
-    : ""
+  const { frontmatter, body } = post
 
   const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link }
 
   return (
     <>
-      <Seo
-        title={frontmatter.title}
-        description={frontmatter.excerpt ? frontmatter.excerpt : excerpt}
-        image={undefined}
-        isArticle={true}
-      />
-      <div className="flex flex-row">
-          
+      <div className="flex flex-row">    
           <article className="blog-post md:w-4/6">
             <header className="my-6">
               <h1 className="text-4xl md:text-6xl font-bold mb-4">{frontmatter.title}</h1>
@@ -67,7 +56,7 @@ const Post = ( {data} ) => {
                 format='fluid'
             />
           </div>
-          <Share image={Image}/>
+          <Share />
           <div className="sticky top-64 my-8"></div>
         </div>
       </div>
@@ -80,6 +69,15 @@ const Post = ( {data} ) => {
 
 
 export default Post
+
+export const Head = ({data}) => (
+  <Seo
+    title={data.post.frontmatter.title}
+    description={data.post.frontmatter.excerpt}
+    image={undefined}
+    isArticle={true}
+  />
+)
 
 export const pageQuery = graphql`
   query BlogPostQuery($id: String!) {

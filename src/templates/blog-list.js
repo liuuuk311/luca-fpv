@@ -7,32 +7,33 @@ import Pagination from "../components/pagination"
 
 const BlogList = ({ data, pageContext }) => {
 
-    const { currentPage, numPages } = pageContext
-    return (
-        <>
-            <Seo/>
-            <div className="flex flex-row">
-                <section>
-                    <PostGrid
-                        title={"Recensioni"}
-                        posts={data.recensioni.edges}
-                    />
-                    <PostGrid
-                        title={"Software e configurazioni"}
-                        posts={data.software.edges}
-                    />
-                    <PostGrid
-                        title={"Articoli Recenti"}
-                        posts={data.recent_posts.edges}
-                    />
-                    <Pagination currentPage={currentPage} numPages={numPages} />
-                </section>
-            </div>
-        </>
-    )
+  const { currentPage, numPages } = pageContext
+  return (
+    <div className="flex flex-row">
+      <section>
+        <PostGrid
+          title={"Recensioni"}
+          posts={data.recensioni.edges}
+        />
+        <PostGrid
+          title={"Software e configurazioni"}
+          posts={data.software.edges}
+        />
+        <PostGrid
+          title={"Articoli Recenti"}
+          posts={data.recent_posts.edges}
+        />
+        <Pagination currentPage={currentPage} numPages={numPages} />
+      </section>
+    </div>
+  )
 }
 
 export default BlogList
+
+export const Head = () => (
+  <Seo />
+)
 
 export const pageQuery = graphql`
   query BlogQuery($skip: Int!, $skipFeatured: Int!, $limit: Int!) {

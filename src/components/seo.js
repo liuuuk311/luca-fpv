@@ -1,12 +1,11 @@
 import React from "react"
 
-import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
 
 const Seo = ({ title, description, image, isArticle }) => {
   const { pathname } = useLocation()
-  const { site } = useStaticQuery(query)
+  const { site, defaultImage } = useStaticQuery(query)
 
   const {
     defaultTitle,
@@ -17,14 +16,15 @@ const Seo = ({ title, description, image, isArticle }) => {
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
-    image: `${siteUrl}${image}`,
+    image: `${siteUrl}${image || defaultImage.edges[0].node.publicURL}`,
     url: `${siteUrl}${pathname}`,
   }
 
 
   return (
-    <Helmet title={seo.title}>
+    <>
       <html lang={"it"} />
+      <title>{seo.title}</title>
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -49,7 +49,7 @@ const Seo = ({ title, description, image, isArticle }) => {
       )}
 
       {seo.image && <meta name="twitter:image" content={seo.image} />}
-    </Helmet>
+    </>
   )
 }
 
@@ -65,6 +65,13 @@ query SEO {
             siteUrl: siteUrl
             defaultDescription: description
         }
+    }
+    defaultImage: allFile(filter: {relativePath: {eq: "default_image.png"}}) {
+      edges {
+        node {
+          publicURL
+        }
+      }
     }
 }
 `

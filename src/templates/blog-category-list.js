@@ -7,25 +7,26 @@ import Pagination from "../components/pagination"
 
 const BlogCategoryList = ({ data, pageContext }) => {
 
-    const { currentPage, numPages, category, categorySlug } = pageContext
+  const { currentPage, numPages, category, categorySlug } = pageContext
 
-    return (
-        <>
-            <Seo />
-            <div className="flex flex-row">
-                <section>
-                    <PostGrid
-                        title={category}
-                        posts={data.recent_posts.edges}
-                    />
-                    <Pagination currentPage={currentPage} numPages={numPages} customSlug={categorySlug} />
-                </section>
-            </div>
-        </>
-    )
+  return (
+    <div className="flex flex-row">
+      <section>
+        <PostGrid
+          title={category}
+          posts={data.recent_posts.edges}
+        />
+        <Pagination currentPage={currentPage} numPages={numPages} customSlug={categorySlug} />
+      </section>
+    </div>
+  )
 }
 
 export default BlogCategoryList
+
+export const Head = () => (
+  <Seo />
+)
 
 export const pageQuery = graphql`
   query BlogCategoryQuery($skip: Int!, $limit: Int!, $categoryRegex: String!) {

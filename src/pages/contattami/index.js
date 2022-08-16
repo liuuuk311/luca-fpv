@@ -1,15 +1,11 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+import Seo from "../../components/seo"
 import { EmailField, MessageArea, NameField } from '../../components/inputs';
 
 
 const Contact = () => {
     return (
         <>
-            <Helmet>
-                <title>Contattami - Luca FPV</title>
-                <meta name="description" content="Contatta Luca" />
-            </Helmet>
             <div className="flex flex-col max-w-2xl mx-auto mt-12">
                 <div className="mb-8">
                     <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">
@@ -43,3 +39,10 @@ const Contact = () => {
 }
 
 export default Contact;
+
+export const Head = () => (
+    <Seo 
+      title="Contattami - Luca FPV" 
+      description="Contatta Luca"
+    />
+  )

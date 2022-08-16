@@ -1,5 +1,5 @@
 import React from 'react';
-import Helmet from 'react-helmet';
+import Seo from "../../components/seo"
 import { CorsoFPVHero } from '../../components/landing/hero';
 import { CorsoFPVGrid } from '../../components/landing/grid';
 import { CorsoFPVFaq, CorsoFPVProgramma } from '../../components/landing/faq';
@@ -10,11 +10,6 @@ import { CorsoFPVCallToAction } from '../../components/landing/cta';
 const Landing = () => {
     return (
         <>
-            <Helmet>
-                <title>Corso FPV</title>
-                <meta name="description" 
-                content="Cinema e la comunicazione fanno sempre maggior uso di droni FPV, tuttavia la difficoltà di pilotaggio di questi droni, crea una barriera all'ingresso che questo corso FPV cerca di abbattere."/>
-            </Helmet>
             <CorsoFPVHero />
             <CorsoFPVGrid />
             <CorsoFPVProgramma />
@@ -28,3 +23,10 @@ const Landing = () => {
 
 
 export default Landing;
+
+export const Head = () => (
+    <Seo 
+      title="Corso FPV - Luca FPV" 
+      description="Cinema e la comunicazione fanno sempre maggior uso di droni FPV, tuttavia la difficoltà di pilotaggio di questi droni, crea una barriera all'ingresso che questo corso FPV cerca di abbattere."
+    />
+  )
