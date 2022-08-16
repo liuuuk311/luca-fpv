@@ -1,5 +1,5 @@
 ---
-title: I droni FPV perfetti per iniziare nel 2022
+title: "Droni FPV Per Principianti: Quale scegliere nel 2022"
 date: "2022-08-06T00:00:00.000Z"
 excerpt: Ecco la lista dei migliori droni FPV completi per chi inizia. Vediamo i pro e i contro di tutte le migliori alternative nel 2022
 categories:
@@ -131,15 +131,17 @@ L'iFlight Nazgul5 V2 è disponibile sia su <AffiliateLink href="https://www.dron
 
 ### Attrezzatura consigliata per il Nazgul5
 
+Dal momento che **acquistando il Nazgul5 riceveremo SOLO il drone, suggersico anche l'attrezzatura compatibile con questo drone**.
+
 Per quanto riguarda l'attrezzatura consigliata da acquistare insieme al Nazgul5 (o ad una delle sue alternative) suggerisco cose diverse a seconda del budget. Considera che in ogni caso, avrai bisogno anche di un carica lipo, come il <AffiliateLink href="https://www.drone24hours.com/prodotto/toolkitrc-q4ac/?D24H=lucapalonca" label="ToolkitRC Q4AC" />.
 
 <div class="suggestions-table">
 
 |              | **Economico**   | **Professionale** |
 |--------------|-----------------|-------------------|
-| Radiocomando | Taranis X9 Lite<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="rhobbyfpv.it" /> | TBS Tango 2 PRO<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="drone24hours.com" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/tbs-tango-2-pro-v3-radiocomando-900mhz-868mhz/?ref=iamlucafpv" label="rhobbyfpv.it" />   |
-| Occhiali FPV | Eachine EV800<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/eachine-ev800-occhiali-5-8g-40ch/?D24H=lucapalonca" label="drone24hours.com" />   | Skyzone SKY04X<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/occhiali-skyzone-sky04x-v2-oled/?D24H=lucapalonca" label="drone24hours.com" />    |
-| Batterie     | Tattu FunFly<br/>Disponibile su<br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="drone24hours.com" />    | GNB<br/>Disponibile su<br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/gnb-lipo-1300mah-6s-120c-xt60/?ref=iamlucafpv" label="rhobbyfpv.it" />      |
+| Radiocomando | Taranis X9 Lite<br/>Disponibile su: <AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="D24H" /> e su <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="RhobbyFPV" /> | TBS Tango 2 PRO<br/>Disponibile su: <AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-tango-2-pro/?D24H=lucapalonca" label="D24H" /> e su <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/tbs-tango-2-pro-v3-radiocomando-900mhz-868mhz/?ref=iamlucafpv" label="RhobbyFPV" />   |
+| Occhiali FPV | Eachine EV800<br/>Disponibile su: <AffiliateLink href="https://www.drone24hours.com/prodotto/eachine-ev800-occhiali-5-8g-40ch/?D24H=lucapalonca" label="D24H" />   | Skyzone SKY04X<br/>Disponibile su: <AffiliateLink href="https://www.drone24hours.com/prodotto/occhiali-skyzone-sky04x-v2-oled/?D24H=lucapalonca" label="D24H" />    |
+| Batterie     | Tattu FunFly<br/>Disponibile su: <AffiliateLink href="https://www.drone24hours.com/prodotto/tattu-funfly-1300mah-6s1p-100c-lipo/?D24H=lucapalonca" label="D24H" />    | GNB<br/>Disponibile su: <AffiliateLink href="https://www.rhobbyfpv.it/prodotto/gnb-lipo-1300mah-6s-120c-xt60/?ref=iamlucafpv" label="RhobbyFPV" />      |
 | **Totale**   | **250 euro**        | **870 euro**          |
 
 </div>
