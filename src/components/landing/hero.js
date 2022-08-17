@@ -54,7 +54,7 @@ const CorsoFPVHero = () => {
   return <Hero
     title="Diventa un pilota di droni FPV"
     subTitle="La seconda edizione dell'unico corso FPV in Italia."
-    paragraphs={["Il corso FPVAcademy è organizzato in collaborazione tra NorthFPV (di cui sono co-fondatore) e Flyan, parte di ItalDrone.",]}
+    paragraphs={["Il corso FPVAcademy è organizzato in collaborazione tra NorthFPV (di cui sono co-fondatore) e Flyan, base Lombardia di Italdron Academy.",]}
     cta_label="Iscriviti Ora"
     cta_link="#iscriviti"
     image={img}
