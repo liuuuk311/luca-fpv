@@ -58,6 +58,7 @@ Infatti, una cosa che lascia stupite molte persone che iniziano, è che quando c
 | ![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpg)     | <Link to="#dji-fpv">DJI FPV</Link>          | ✔            | 💰💰💰💰   | <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon" />                                                                                                                                                            |
 | ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg)      | <Link to="#nazgul">iFlight Nazgul V2</Link> | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> <br/> <AffiliateLink  href="https://www.banggood.com/custlink/DmmE4FSA7g"   label="Banggood" />          |
 | ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Drone24Hours  " />         |
+| ![Kit Emax TinyHawk II](/assets/droni-fpv-per-iniziare/emax-kit.jpeg)        | <Link to="#tinyhawk">Kit Emax TinyHawk II</Link>  | ✔      | 💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-tinyhawk-ii-freestyle-rtf/?D24H=lucapalonca" label="Drone24Hours  " />         |
 
 </div>
 
@@ -184,10 +185,17 @@ Questo drone è perfetto per chi vuole realizzare video cinematic all'aperto e a
 
 Io consiglio di acquistarlo su <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="drone24hours.com" /> un sito italiano che spedisce molto velocemente.
 
+<div id="tinyhawk">
 
 ## 4. Kit EMAX Tinyhawk II
 
-Se vuoi partire subito kit EMAX Tinyhawk II è quello che ti serve. All'interno di questo kit hai tutto ciò che ti serve per volare in FPV. Il kit comprende il drone, che è ideale per chi inizia date le sue dimensioni. Un ottimo radiocomando, che può esser sfurttato anche per altri droni successivamente. Un visore di bassa fascia, che è ideale per tenere i costi contenuti. Un paio di batterie e il caricabatterie. 
+</div>
+
+Se vuoi partire subito kit EMAX Tinyhawk II è quello che ti serve. All'interno di questo kit hai tutto ciò che ti serve per volare in FPV. Il kit comprende il drone, che è ideale per chi inizia date le sue dimensioni. Un ottimo radiocomando, che può esser sfurttato anche per altri droni successivamente. 
+
+Tuttavia, il visore è di bassa fascia, che è ideale per tenere i costi contenuti. Se poi ti piace l'hobby, sono sicuro che il visore sarà la prima cosa che cambi. 
+
+Oltre a questo, nel kit sono incluse un paio di batterie e il caricabatterie. 
 
 ![Kit EMAX Tinyhawk II](/assets/droni-fpv-per-iniziare/emax-kit.jpeg)
 
@@ -195,9 +203,8 @@ A differenza delle opzioni precedenti, questo kit, per meno di 500 euro offre tu
 
 ### Chi dovrebbe comprare il Kit EMAX Tinyhawk II?
 
-Questo kit è ideale per chiunque voglia l'ebrezza di un drone FPV e non è interessato inizialmente a montare una GoPro per registrare video. E' pensato soprattutto per chi non vuole passare troppo tempo a scegliere diversi prodotti e cercare di capire se sono compatibili l'uno con l'altro.
+Questo kit disponibile su <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-tinyhawk-ii-freestyle-rtf/?D24H=lucapalonca" label="drone24hours.com" /> è ideale per chiunque voglia l'ebrezza di un drone FPV e non è interessato inizialmente a montare una GoPro per registrare video. E' pensato soprattutto per chi non vuole passare troppo tempo a scegliere diversi prodotti e cercare di capire se sono compatibili l'uno con l'altro.
 
-> Acquista il Kit EMAX Tinyhawk II su  <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-tinyhawk-ii-freestyle-rtf/?D24H=lucapalonca" label="drone24hours.com" />
 
 ## 5. Drone FPV autocostruito
 
