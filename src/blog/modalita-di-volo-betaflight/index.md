@@ -6,8 +6,9 @@ categories:
     - Software
     - Principianti
 tags: 
-    - Betaflight
     - Configurazione
+    - Betaflight
+    - Radiocomando
 featured: false
 ---
 
@@ -15,7 +16,9 @@ In questo tutorial spiego le diverse modalità di volo disponibili in Betaflight
 
 Se è la prima volta che usi Betaflight, potrebbe anche interessarti [come configurare Betaflight per il primo volo](https://lucafpv.con/configurare-betaflight/).
 
-Non tutte le "modalità" che sono presenti nella sezione Modalità di volo in [Betaflight Configurator](https://lucafpv.com/scaricare-betaflight-configurator/), sono vere e proprie modalità. Alcune di queste sono delle funzionalità. 
+Se invece, vuoi configurare le modalità di volo Betaflight nello stesso modo in cui le configuro io, dai un occhiata all'articolo su come configurare [tutte le modalità di volo su un canale AUX](https://lucafpv.com/tutte-le-modalita-di-betaflight-su-un-canale-aux).
+
+Non tutte le "modalità" che sono presenti nella sezione Modalità di volo in Betaflight Configurator, sono vere e proprie modalità. Alcune di queste sono delle funzionalità. 
 
 ![Modalità di Volo](/assets/modalita-di-volo-betaflight/modalita_di_volo.png)
 
@@ -96,6 +99,8 @@ Pensato principalmente per principianti, permette di volare in Acro con un limit
 
 ## Configurare le modalità
 
+**Nota: quello che segue è come configuravo il mio vecchio radiocomando. Ora ti consiglio di seguire la mia** [nuova guida per configurare il radiocomando](https://lucafpv.com/tutte-le-modalita-di-betaflight-su-un-canale-aux).
+
 Le modalità di volo in Betaflight possono essere attivate tramite gli switch del radiocomando. 
 
 Per semplicità, configuro tre modalità su tre switch diversi. A ogni switch, tipicamente è associato un canale ausiliare indicato con AUX. Il primo canale ausiliare AUX 1, corrisponde al canale 5; AUX 2 al canale 6 e cosi via. 
@@ -128,5 +133,4 @@ Per attivare il beeper del quad, utilizzo lo switch momenteno configurato su AUX
 
 ## Hai bisogno di una mano?
 
-Se hai domande oppure non riesci a configurare qualcosa, [scrivimi](https://lucafpv.com/contattami) e unisciti ai gruppi Telegram: [Droni Racers Italia](https://t.me/droniracersitalia) e [Milano Droni RC FPV](https://t.me/MilanoDroniRC).
-
+Se hai domande oppure non riesci a configurare qualcosa, [scrivimi](https://lucafpv.com/contattami) oppure unisciti al <OutsideLink href="https://t.me/northfpv_community" label="gruppo Telegram NorthFPV"/>, la community che ho creato.

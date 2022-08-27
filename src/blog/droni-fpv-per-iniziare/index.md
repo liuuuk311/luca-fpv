@@ -1,5 +1,5 @@
 ---
-title: "Droni FPV Per Principianti: Quale scegliere nel 2022"
+title: "Droni FPV per chi Inizia: Quale scegliere nel 2022"
 date: "2022-08-06T00:00:00.000Z"
 excerpt: Ecco la lista dei migliori droni FPV completi per chi inizia. Vediamo i pro e i contro di tutte le migliori alternative nel 2022
 categories:
