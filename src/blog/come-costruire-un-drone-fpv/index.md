@@ -47,7 +47,7 @@ Lo scopo di questo articolo è spiegare quali sono gli step necessari per costru
 
 Se sei completamente nuovo al mondo FPV, prima di iniziare assicurati di aver dato una lettura veloce a questo articolo: [FPV per principianti](https://lucafpv.com/fpv-per-principianti)
 
-Se durante l'articolo trovi degli acronimi di cui non consoci il significato, fai riferimento a [questo articolo](https://lucafpv.com/bibbia-fpv).
+Se durante la lettura dell'articolo trovi degli acronimi di cui non consoci il significato, fai riferimento a [questo articolo](https://lucafpv.com/bibbia-fpv).
 
 Il tempo stimato per la build completa è di 2 ore, sei pronto? Bene, cominciamo!
 
@@ -89,9 +89,9 @@ Le istruzioni di montaggio sono semplici e chiare. Una valida alternativa più e
 ## Stack: FC e ESC
 Il vantaggio di uno stack è che Flight Controller ed ESC sono pensati per funzionare insieme, quindi questo tipo di setup richiede poche saldature rispetto ad altre configurazioni.
 
-Ho selezionato Speedybee F7 V2 perché ha tante funzionalità utili per un principiante, ha il Bluetooth integrato in modo da poter configurare Betaflight dal tuo telefono. Questo è molto utile sia quando si è in giro a volare, che soprattutto quando lo si configura a casa, evitando tutti i gratta capo per installare i giusti driver di Betaflight. Infine, un'altro vantaggio per cui ho deciso di scegliere questo stack è il fatto che sia  plug and play con DJI Air Unit.
+Ho selezionato Speedybee F7 V2 perché ha tante funzionalità utili per un principiante, ha il Bluetooth integrato in modo da poter configurare Betaflight dal tuo telefono. Questo è molto utile sia quando si è in giro a volare, che soprattutto quando lo si configura a casa, evitando tutti i gratta capo per installare i giusti driver di Betaflight. Infine, un altro vantaggio per cui ho deciso di scegliere questo stack è il fatto che sia  plug and play con DJI Air Unit.
 
-È importante scegliere un FC con un BEC dedicato (uscita 9V) per DJI Air Unit e Vista. Sebbene sia possibile alimentare Vista direttamente dalla batteria LiPo, è meno probabile che la si danneggi a causa dei picchi di tensione quando si utilizza un BEC. E lo Speedybee F7 V2 ce l'ha.
+È importante scegliere un FC con un BEC dedicato (uscita 9V) per DJI Air Unit e Caddx Vista. Sebbene sia possibile alimentare la Caddx Vista direttamente dalla batteria LiPo, è meno probabile che la si danneggi a causa dei picchi di tensione quando si utilizza un BEC, di cui lo Speedybee F7 V2 è provvisto.
 
 ![Stack](/assets/come-costruire-un-drone-fpv/stack.jpeg)
 
@@ -99,18 +99,18 @@ Ho selezionato Speedybee F7 V2 perché ha tante funzionalità utili per un princ
 
 La scelta dei motori per un drone FPV di 5" è relativamente semplice. I motori di questi tempi si comportano in modo molto simile, la differenza principale di solito è la qualità costruttiva. Per una build come questa, le dimensioni del motore come 2306, 2207, 2208 sono tutte buone opzioni.
 
-Bisogna prestare attenzione al numero di KV del motore. Normalmente i KV si scelgo sulla base del tipo di batteria che si andrà ad utilizzare. 
+Bisogna prestare attenzione al numero di KV del motore. Normalmente i KV si scelgono sulla base del tipo di batteria che si andrà ad utilizzare. 
 
 Nel caso di una batteria 4S, le scelte più comuni sono tra i 2300 KV e i 2600 KV. Per le batterie si tende ad usare motori tra i 1700 KV e i 1900 KV. 
 
 Se non sai quale batteria scegliere, consiglio di partire direttamente con le 6S. Si ha più potenza, quindi risulta più facile evitare crash all'ultimo secondo. 
 
 ## Sistema FPV
-Per i principianti consiglio sempre di usare il sistema DJI FPV, insieme agli occhiali DJI. Il motivo è semplice, facilità di utilizzo e performance strabilianti senza dover smanettare molto.
+Per i principianti consiglio sempre di usare il sistema DJI FPV, insieme agli occhiali DJI. Il motivo è semplice: facilità di utilizzo e performance strabilianti senza dover smanettare molto.
 
-Nel mondo DJI ci sono due opzioni VTX: la DJI Air Unit full size e Caddx Vista. Tuttavia, DJI ha annunciato nel marzo 2021 che non verrà più prodotta l'Air Unit, quindi la Vista sarà l'unica opzione rimasta.
+Nel mondo DJI ci sono due opzioni VTX: la DJI Air Unit full size e Caddx Vista. Tuttavia, DJI ha annunciato nel marzo 2021 che non verrà più prodotta l'Air Unit, quindi la  Caddx Vista sarà l'unica opzione rimasta.
 
-Per le camere, ci sono diverse opzioni. A parte la Nebula da cui consiglio di rimaner lontani, le altre sono tutte opzioni valide. In questo caso io uso una Vista con la camera originale della DJI.
+Per le camere, ci sono diverse opzioni. A parte la Nebula da cui consiglio di rimaner lontani, le altre sono tutte opzioni valide. In questo caso io uso una Caddx Vista con la camera originale della DJI.
 
 ![Sistema FPV digitale](/assets/come-costruire-un-drone-fpv/caddx_vista.jpeg)
 
@@ -129,7 +129,7 @@ Per utilizzare la ricevente Crossfire Nano, dovrai anche avere un modulo Crossfi
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su <AffiliateLink href="https://amzn.to/3AzHXH2" label="Amazon.it"/>, <AffiliateLink href="https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca" label="Drone24Hours"/> che è un negozio italiano che spedisce veloce o su <AffiliateLink href="https://www.banggood.com/custlink/KG3E6OjP11" label="Banggood"/>), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, *le migliori scelte analogiche* in ordine di prezzo decrescente sono: <AffiliateLink href="https://www.banggood.com/custlink/GKDdt3FyqU" label="Fatshark HDO2"/>, <AffiliateLink href="https://www.banggood.com/custlink/3DDygLLa4t" label="Fatshark Attitude V6"/> e infine <AffiliateLink href="https://www.banggood.com/custlink/mKmhPmbuCO" label="Eachine EV800D"/>.
+- **Degli occhiali FPV**, la scelta migliore nel 2022 sono sicuramente gli occhiali DJI FPV (comprali su <AffiliateLink href="https://amzn.to/3AzHXH2" label="Amazon.it"/>, <AffiliateLink href="https://www.drone24hours.com/product/occhiali-dji-fpv-v2?D24H=lucapalonca" label="Drone24Hours"/> che è un negozio italiano che spedisce veloce o su <AffiliateLink href="https://www.banggood.com/custlink/KG3E6OjP11" label="Banggood"/>), sia la versione V1 che V2 vanno bene. <br/> Per chi vuole spendere meno, le migliori scelte analogiche in ordine di prezzo decrescente sono: <AffiliateLink href="https://www.banggood.com/custlink/GKDdt3FyqU" label="Fatshark HDO2"/>, <AffiliateLink href="https://www.banggood.com/custlink/3DDygLLa4t" label="Fatshark Attitude V6"/> e infine <AffiliateLink href="https://www.banggood.com/custlink/mKmhPmbuCO" label="Eachine EV800D"/>.
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
@@ -196,7 +196,7 @@ A questo punto, va saldato il condensatore e il cavo XT60. In questo passaggio, 
 
 ![Condensatore e XT60](/assets/come-costruire-un-drone-fpv/xt60_saldato.jpeg)
 
-Succesivamente vanno saldati i cavi dei motori. 
+Successivamente vanno saldati i cavi dei motori. 
 
 ![Motori saldati](/assets/come-costruire-un-drone-fpv/motori_saldati.jpeg)
 
