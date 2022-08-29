@@ -11,6 +11,29 @@ tags:
     - Antenne
 featured: false
 ---
+<style jsx>{`
+    @media 
+    only screen and (min-width: 980px) {
+        td {
+            width: 170px
+        }
+        td:nth-of-type(1){
+            padding-right: 0;
+            width: 175px;
+        }
+    }
+    @media 
+    only screen and (max-width: 760px),
+    (min-device-width: 768px) and (max-device-width: 1024px)  {
+        /*
+        Label the data on mobile view
+        
+        */
+
+        #stock-table td:nth-of-type(2):before { content: "Distanza accettabile"; }
+        #stock-table td:nth-of-type(3):before { content: "Distanza massima"; }
+    }
+`}</style>
 
 Molti piloti FPV sono passati al digitale da tempo, fino a poco tempo fa, DJI era l'unica alternativa per chi volesse volare in digitale. Fin dall'uscita della prima versione degli occhiali di DJI, i famosi DJI Goggles V1, diversi marche hanno iniziato a produrre antenne altamente performanti per questi occhiali.
 
@@ -33,6 +56,7 @@ Sempre sulla pagina DJI è possibile vedere che le antenne sono pubblicizzate pe
 
 Ad ogni modo vediamo quali sono  le distanze massime raggiungibili per il sistema FPV di DJI con le antenne originali.
 
+<div id="stock-table">
 
 | Potenza (e Bitrate)| Distanza accettabile     | Distanza Massima |
 |-------------------|---------------------------|------------------|
@@ -40,6 +64,8 @@ Ad ogni modo vediamo quali sono  le distanze massime raggiungibili per il sistem
 | 25 mW (25 Mbps)   | 3,2 Km (0,5 Mbps, 43 ms)  | 5,1 Km           |
 | 1200 mW (50 Mbps) | 9,1 Km (4,8 Mbps, 38 ms)  | 9,1 Km           |
 | 1200 mW (25 Mbps) | 13,3 Km (0,7 Mbps, 44 ms) | 13,3 Km          |
+
+</div>
 
 Come possiamo vedere, molto di più quanto pubblicizzato da DJI sul loro sito. Ma ora vediamo se cambiando le antenne è possibile fare di meglio. 
 
