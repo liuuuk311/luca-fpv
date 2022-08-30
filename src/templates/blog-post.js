@@ -28,7 +28,7 @@ const Post = ( {data} ) => {
           <article className="blog-post md:w-4/6">
             <header className="my-6">
               <h1 className="text-4xl md:text-6xl font-bold mb-4">{frontmatter.title}</h1>
-              {/* <Tags tags={frontmatter.tags}/> */}
+              <Tags tags={frontmatter.tags}/>
             </header>
             <div className="my-8 mb-0 leading-loose text-xl">
             <MDXProvider components={shortcodes}>

@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
     </div>
   ) :
     (
-      <div className="max-w-7xl mx-auto p-4 sm:p-6">
+      <div className="max-w-7xl flex flex-col mx-auto p-4 sm:p-6">
         <Header />
         <main>{children}</main>
         <Footer />
