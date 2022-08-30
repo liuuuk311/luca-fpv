@@ -1,5 +1,5 @@
 ---
-title: "Confronto tra le antenne per gli occhiali DJI: Quali sono le migliori?"
+title: "Antenne per gli occhiali DJI: Quali sono le migliori?"
 date: "2022-08-28T00:00:00.000Z"
 excerpt: "Un confronto tra le antenne dispoibili sul mercato per chi vola in digitale con gli occhiali DJI"
 categories:

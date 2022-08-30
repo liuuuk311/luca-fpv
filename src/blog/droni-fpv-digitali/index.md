@@ -1,7 +1,7 @@
 ---
 title: "Droni FPV completi in HD: Quale scegliere nel 2022"
 date: "2022-08-30T00:00:00.000Z"
-excerpt: Ecco la lista dei migliori droni FPV completi per chi vuole avere il miglior video negli occhiali. Vediamo i pro e i contro di tutte le migliori alternative nel 2022
+excerpt: La lista dei migliori droni FPV completi e compatibili con il sistema DJI FPV. Vediamo i pro e i contro di tutte le migliori alternative nel 2022
 categories:
     - Principianti
     - Guide Acquisto 
