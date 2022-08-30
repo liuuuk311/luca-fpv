@@ -2,7 +2,7 @@ import { graphql, Link } from "gatsby"
 import React from "react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { MDXProvider } from '@mdx-js/react'
-// import AdSense from 'react-adsense';
+import AdSense from 'react-adsense';
 
 
 import Seo from "../components/seo"
@@ -28,7 +28,7 @@ const Post = ( {data} ) => {
           <article className="blog-post md:w-4/6">
             <header className="my-6">
               <h1 className="text-4xl md:text-6xl font-bold mb-4">{frontmatter.title}</h1>
-              <Tags tags={frontmatter.tags}/>
+              {/* <Tags tags={frontmatter.tags}/> */}
             </header>
             <div className="my-8 mb-0 leading-loose text-xl">
             <MDXProvider components={shortcodes}>
@@ -39,7 +39,7 @@ const Post = ( {data} ) => {
             <Categories categories={frontmatter.categories} />
           </article>
         <div className="hidden md:flex flex-col pl-8 justify-start md:w-2/6">
-          {/* <div className="mb-8 h-96">
+          <div className="mb-8 h-96">
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='2806584328'
@@ -55,7 +55,7 @@ const Post = ( {data} ) => {
                 style={{ display: 'block' }}
                 format='fluid'
             />
-          </div> */}
+          </div>
           <Share />
           <div className="sticky top-64 my-8"></div>
         </div>
