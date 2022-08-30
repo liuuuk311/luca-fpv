@@ -29,6 +29,7 @@ featured: true
         #summary-table td:nth-of-type(1){
             background-color: #fff;
             padding: 0;
+            width: 100%;
         }
         #summary-table td:nth-of-type(2):before { content: "Nome" }
         #summary-table td:nth-of-type(3):before { content: "Kit completo" }
