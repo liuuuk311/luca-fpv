@@ -10,7 +10,7 @@ const Tags = ({ tags }) => {
             to={`/tag/${slugify(tag)}`}
             className="px-2 font-bold uppercase hover:underline text-[#eda550] inline-block text-sm"
           >
-            #{tag}
+            &#35;{tag}
           </Link>
         ))}
       </div>
