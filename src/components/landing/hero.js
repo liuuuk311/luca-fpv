@@ -8,7 +8,7 @@ const Hero = ({ title, subTitle, paragraphs, cta_label, cta_link, image, altText
     : null
   return (
     <section className={`mb-4`}>
-      <div className={`flex flex-col md:flex-row gap-8 max-w-7xl mx-auto p-4 sm:p-6  ${extraCssClasses ? extraCssClasses : ""}`}>
+      <div className={`flex flex-col md:flex-row gap-8  ${extraCssClasses ? extraCssClasses : ""}`}>
         <div className="md:w-1/2 my-auto">
           <h1 className="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">{title}</h1>
           {subTitle && <h3 className="max-w-2xl mb-2 font-semi text-gray-600 lg:mb-4 md:text-xl lg:text-2xl dark:text-gray-400">{subTitle}</h3>}

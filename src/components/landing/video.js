@@ -5,7 +5,7 @@ const TextAndVideo = ({title, paragraphs, videoUrl}) => {
 
     return (
         <section className="my-12 py-8">
-            <div className="flex gap-8 flex-col md:flex-row max-w-7xl mx-auto p-4 sm:p-6 items-center">
+            <div className="flex gap-8 flex-col md:flex-row">
                 <div className="md:w-1/2">
                     <h1 className="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white uppercase">{title}</h1>
                     {paragraphs && paragraphs.map((paragraph) => <p className="mb-8 font-light lg:text-xl">{paragraph}</p>)}

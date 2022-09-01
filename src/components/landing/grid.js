@@ -15,7 +15,7 @@ const RowTextImage = ({ title, subTitle, paragraphs, cta_label, cta_link, image,
 
     const imgPositionClasses = imageFirst ? "md:row-start-1 md:col-start-1" : "md:row-start-1 md:col-start-2"
     return (
-        <div className="grid gap-8 grid-cols-1 grid-row-2 md:grid-cols-2 md:grid-row-1 max-w-7xl mx-auto p-4 sm:p-6">
+        <div className="grid gap-8 grid-cols-1 grid-row-2 md:grid-cols-2 md:grid-row-1">
             <div className="my-auto">
                 <h1 className="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white uppercase">{title}</h1>
                 {subTitle && <h3 className="text-xl md:text-2xl font-semibold mb-2">{subTitle}</h3>}
@@ -35,7 +35,7 @@ const RowTextImage = ({ title, subTitle, paragraphs, cta_label, cta_link, image,
 
 const Grid = ({ children }) => {
     return (
-        <section className="my-12 py-8 bg-gray-50">
+        <section className="my-12 py-8">
             {children}
         </section>
     )

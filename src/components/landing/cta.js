@@ -8,7 +8,7 @@ const CallToActionContainer = ({ title, content, callToAction, callToActionLink,
     const [modalIsOpen, setIsOpen] = useState(false);
 
     return (
-        <section className="bg-gray-50 dark:bg-gray-800" id={sectionID}>
+        <section className="" id={sectionID}>
             <div className="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
                 <div className="max-w-screen-sm mx-auto text-center">
                     <h2 className="mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">{title}</h2>

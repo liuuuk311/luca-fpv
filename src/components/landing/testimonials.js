@@ -25,7 +25,7 @@ const TestimonialQuote = ({ quote, name, details }) => {
 const TestimonialsContainer = ({ title, subtitle, children }) => {
 
     return (
-        <section class="bg-gray-50 dark:bg-gray-800">
+        <section class="">
             <div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-24 lg:px-6">
                 <div class="mx-auto max-w-screen-sm">
                     <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{title}</h2>

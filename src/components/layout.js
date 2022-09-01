@@ -5,20 +5,26 @@ import Footer from "./footer"
 import { isLayoutFullScreen } from "../utils/landing"
 
 const Layout = ({ children }) => {
-  return isLayoutFullScreen(children.props.uri) ? (
-    <div>
-        <Header cssExtraClasses="max-w-7xl mx-auto p-4 sm:p-6"/>
-        <main>{children}</main>
-        <Footer cssExtraClasses="max-w-7xl mx-auto p-4 sm:p-6"/>
-    </div>
-  ) :
-    (
+  return (
       <div className="max-w-7xl flex flex-col mx-auto p-4 sm:p-6">
         <Header />
         <main>{children}</main>
         <Footer />
       </div>
-      )
+  )
 }
 
-export default Layout
+const LandingLayout = ({children}) => {
+  return (
+    <div>
+        <Header cssExtraClasses="max-w-7xl mx-auto p-4 sm:p-6"/>
+        <main>{children}</main>
+        <Footer cssExtraClasses="max-w-7xl mx-auto p-4 sm:p-6"/>
+    </div>
+  )
+}
+
+export {
+  Layout,
+  LandingLayout,
+}
