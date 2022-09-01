@@ -45,10 +45,10 @@ const Post = ( {data} ) => {
             <SupportAfterArticle />
           </article>
         <div className="hidden md:flex flex-col pl-8 justify-start md:w-2/6">
-          <div className="mb-8 h-96">
+          <div className="mb-8">
               <Author image={img} />
           </div>
-          <div className="my-8 h-96 w-full">
+          <div className="my-8 h-72 w-full">
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='5109167274'
@@ -57,7 +57,7 @@ const Post = ( {data} ) => {
             />
           </div>
           <Share />
-          <div className="sticky top-70 my-8">
+          <div className="sticky top-72 my-8">
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='2806584328'
