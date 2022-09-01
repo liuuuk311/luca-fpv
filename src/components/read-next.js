@@ -10,7 +10,7 @@ const ReadNext = ({ posts, currentTags, currentCategories }) => {
   });
   return (
     <div className="my-8">
-      <h3 className="text-4xl font-bold mb-4 dark:text-gray-200">
+      <h3 className="text-3xl font-bold mb-4 dark:text-gray-200">
         Articoli simili
       </h3>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -10,17 +10,22 @@ import ReadNext from "../components/read-next"
 import Share from "../components/share"
 import Categories from "../components/categories"
 import Tags from "../components/tags"
+import Author from "../components/author"
 
 import YouTubeEmbed from "../components/blog/youtube-embed"
 import AffiliateLink from "../components/blog/affiliate-link"
 import OutsideLink from "../components/blog/outside-link"
-
+import { SupportAfterArticle, Support } from "../components/marketing/banners";
 
 const Post = ( {data} ) => {
-  const { post, recommendations } = data
+  const { post, recommendations, me } = data
   const { frontmatter, body } = post
 
-  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link }
+  const img = me
+        ? me.edges[0].node.childImageSharp.gatsbyImageData
+        : "";
+
+  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support }
 
   return (
     <>
@@ -35,18 +40,13 @@ const Post = ( {data} ) => {
               <MDXRenderer>{body}</MDXRenderer>
             </MDXProvider>
             </div>
-            <div class="flex-grow border-t border-gray-200 dark:border-gray-600 mb-2"></div>
+            <div class="flex-grow border-t border-gray-200 dark:border-gray-600 my-3"></div>
             <Categories categories={frontmatter.categories} />
+            <SupportAfterArticle />
           </article>
         <div className="hidden md:flex flex-col pl-8 justify-start md:w-2/6">
           <div className="mb-8 h-96">
-            <AdSense.Google
-                client='ca-pub-4566556883137005'
-                slot='2806584328'
-                style={{ display: 'block' }}
-                data-ad-format="auto"
-                data-full-width-responsive="true"
-            />
+              <Author image={img} />
           </div>
           <div className="my-8 h-96 w-full">
             <AdSense.Google
@@ -57,11 +57,20 @@ const Post = ( {data} ) => {
             />
           </div>
           <Share />
-          <div className="sticky top-64 my-8"></div>
+          <div className="sticky top-70 my-8">
+            <AdSense.Google
+                client='ca-pub-4566556883137005'
+                slot='2806584328'
+                style={{ display: 'block' }}
+                data-ad-format="auto"
+                data-full-width-responsive="true"
+            />
+          </div>
         </div>
       </div>
-      <div className="w-full">
+      <div className="md:w-4/6">
         <ReadNext posts={recommendations.edges} currentTags={frontmatter.tags} currentCategories={frontmatter.categories} />
+        <Author image={img} extraCssClasses={"md:hidden"} />
       </div>
     </>
   )
@@ -106,6 +115,15 @@ export const pageQuery = graphql`
           title
           tags
           categories
+        }
+      }
+    }
+  }
+  me: allFile(filter: {relativePath: {eq: "me.jpg"}}) {
+    edges {
+      node {
+        childImageSharp {
+          gatsbyImageData(height: 650, placeholder: BLURRED, formats: [AUTO, WEBP])
         }
       }
     }
