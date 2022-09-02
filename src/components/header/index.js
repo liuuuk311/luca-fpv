@@ -3,6 +3,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 
 import { menuItems } from "./menu-items"
 import Menu from "./menu"
+import OutsideLink from "../../components/blog/outside-link"
 
 
 const query = graphql`
@@ -29,6 +30,12 @@ const Header = ({cssExtraClasses}) => {
         </Link>
         <div className="flex flex-row flex-grow md:justify-end items-end">
           <Menu isNavOpen={isNavOpen} setIsNavOpen={setIsNavOpen}/>
+          <OutsideLink 
+                href="https://buymeacoffee.com/iamlucafpv"             
+                extraCssClasses="hidden md:inline flex items-center justify-center rounded-md border bg-[#eda550] px-4 py-3 text-sm font-bold shadow-sm uppercase"
+                extraStyle={{color: "white"}} 
+                label="Supporta ora!"
+            />
           <Link to={`/`} className="md:hidden mx-auto">
             <span className="text-2xl font-bold">{siteTitle}</span>
           </Link>
