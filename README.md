@@ -1,6 +1,5 @@
 # Luca FPV 
 
-The website is built with [Gatsby](https://www.gatsbyjs.org/) and it is deployed on [Netlify](https://www.netlify.com/).
+My Blog about FPV drones. The website is live at [lucafpv.com](https://lucafpv.com) (the posts are in italian 🇮🇹)
 
-To install Gatsby follow this [tutorial](https://www.gatsbyjs.org/docs/quick-start/).
-
+This website is built with GatsbyJS a static site geneartor, using React and TailwindCSS.
