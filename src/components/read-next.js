@@ -9,7 +9,7 @@ const ReadNext = ({ posts, currentTags, currentCategories }) => {
     currentCategories,
   });
 
-  if (recommendations.length == 0) return <div></div>
+  if (recommendations.length === 0) return <div></div>
 
   return (
     <div className="my-8">
