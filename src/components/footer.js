@@ -21,7 +21,7 @@ const Footer = ({cssExtraClasses}) => {
     const { siteTitle } = site.siteMetadata
 
     return (
-        <footer className={`bg-white mt-16 ${cssExtraClasses}`}>
+        <footer className={`bg-white mt-16 ${cssExtraClasses ? cssExtraClasses : ''}`}>
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
                     <Link to={`/`} className="flex items-center">

@@ -6,15 +6,16 @@ import { RisoluzioneProblemiFPVHero } from '../../components/landing/hero';
 import { RisoluzioneProblemiFPVGrid } from '../../components/landing/grid';
 import { RisoluzioneProblemiFPVSocialProof } from '../../components/landing/social-proof';
 import { RisoluzioneProblemiFPVCallToAction } from '../../components/landing/cta';
+import { Layout } from '../../components/layout';
 
 const Landing = () => {
     return (
-        <>
+        <Layout>
             <RisoluzioneProblemiFPVHero />
             <RisoluzioneProblemiFPVGrid />
             <RisoluzioneProblemiFPVSocialProof />  
             <RisoluzioneProblemiFPVCallToAction />
-        </>
+        </Layout>
     );
 }
 

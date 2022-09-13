@@ -1,11 +1,12 @@
 import React from 'react';
 import Seo from "../../components/seo"
 import { EmailField, MessageArea, NameField } from '../../components/inputs';
+import { LandingLayout } from '../../components/layout';
 
 
 const Contact = () => {
     return (
-        <>
+        <LandingLayout>
             <div className="flex flex-col max-w-2xl mx-auto mt-12">
                 <div className="mb-8">
                     <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">
@@ -34,7 +35,7 @@ const Contact = () => {
                     </div>
                 </form>
             </div>
-        </>
+        </LandingLayout>
     );
 }
 

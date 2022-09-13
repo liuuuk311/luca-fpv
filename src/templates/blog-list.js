@@ -4,12 +4,13 @@ import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import PostGrid from "../components/post-grid"
 import Pagination from "../components/pagination"
+import { Layout } from "../components/layout"
 
 const BlogList = ({ data, pageContext }) => {
 
   const { currentPage, numPages } = pageContext
   return (
-    <div className="flex flex-row">
+    <Layout>
       <section>
         <PostGrid
           title={"Recensioni"}
@@ -25,7 +26,7 @@ const BlogList = ({ data, pageContext }) => {
         />
         <Pagination currentPage={currentPage} numPages={numPages} />
       </section>
-    </div>
+    </Layout>
   )
 }
 

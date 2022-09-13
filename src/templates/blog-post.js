@@ -17,6 +17,7 @@ import AffiliateLink from "../components/blog/affiliate-link"
 import OutsideLink from "../components/blog/outside-link"
 import NewsletterCard from "../components/marketing/newsletter";
 import { SupportAfterArticle, Support } from "../components/marketing/banners";
+import { Layout } from "../components/layout";
 
 const Post = ( {data} ) => {
   const { post, recommendations, me } = data
@@ -29,7 +30,7 @@ const Post = ( {data} ) => {
   const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support }
 
   return (
-    <>
+    <Layout>
       <div className="flex flex-row">    
           <article className="blog-post md:w-4/6">
             <header className="my-6">
@@ -75,7 +76,7 @@ const Post = ( {data} ) => {
         <Author image={img} extraCssClasses={"md:hidden"} />
         <NewsletterCard extraCssClasses={"md:hidden"} />
       </div>
-    </>
+    </Layout>
   )
 }
 

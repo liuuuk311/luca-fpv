@@ -6,10 +6,11 @@ import { CorsoFPVFaq, CorsoFPVProgramma } from '../../components/landing/faq';
 import { CorsoFPVVideo } from '../../components/landing/video';
 import { CorsoFPVTestimonials } from '../../components/landing/testimonials';
 import { CorsoFPVCallToAction } from '../../components/landing/cta';
+import { LandingLayout, Layout } from '../../components/layout';
 
 const Landing = () => {
     return (
-        <>
+        <Layout>
             <CorsoFPVHero />
             <CorsoFPVGrid />
             <CorsoFPVProgramma />
@@ -17,7 +18,7 @@ const Landing = () => {
             <CorsoFPVTestimonials />
             <CorsoFPVFaq /> 
             <CorsoFPVCallToAction/>
-        </>
+        </Layout>
     );
 }
 

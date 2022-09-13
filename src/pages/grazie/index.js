@@ -1,9 +1,10 @@
 import React from 'react';
+import { LandingLayout } from '../../components/layout';
 import Seo from "../../components/seo"
 
 const ThankYou = () => {
     return (
-        <>
+        <LandingLayout>
         <div className="my-8 h-96 text-center flex flex-col justify-center px-4">
             <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">
                 Controlla la tua email 📩
@@ -12,7 +13,7 @@ const ThankYou = () => {
                 A breve riceverai una email con ulteriori istruzioni 🥳
             </p>
         </div>
-        </>
+        </LandingLayout>
     );
 }
 

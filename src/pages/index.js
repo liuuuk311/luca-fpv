@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import PostGrid from "../components/post-grid"
 import { Hero } from "../components/landing/hero"
+import { Layout } from "../components/layout"
 
 const IndexPage = ({data}) => {
   const img = data.me
@@ -11,7 +12,7 @@ const IndexPage = ({data}) => {
   : "";
 
   return (
-    <>
+    <Layout>
       <Hero 
         title="Ciao, benvenuto nel mio blog!"
         paragraphs={[
@@ -32,7 +33,7 @@ const IndexPage = ({data}) => {
         cta_link={"/articoli"}
         posts={data.recent_posts.edges} 
       />
-    </>
+    </Layout>
   )
 }
 

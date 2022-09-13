@@ -23,7 +23,7 @@ const Header = ({cssExtraClasses}) => {
   const [isNavOpen, setIsNavOpen] = useState(false);
   
   return (
-    <nav className={`flex flex-col ${cssExtraClasses}`}>
+    <nav className={`flex flex-col ${cssExtraClasses ? cssExtraClasses : ''}`}>
       <div className="mb-8 flex flex-row justify-between md:h-24 items-center">
         <Link to={`/`} className="hidden md:inline-block">
           <span className="text-3xl font-bold">{siteTitle}</span>
