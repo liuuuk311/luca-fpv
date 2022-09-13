@@ -59,7 +59,7 @@ export const pageQuery = graphql`
     starting_posts: allMdx(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { featured: {eq: true}, categories: {in: "Principianti"} } }
-      limit: 3
+      limit: 6
     ) {
       edges {
         node {

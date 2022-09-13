@@ -79,7 +79,36 @@ const RisoluzioneProblemiFPVForm = () => {
     )
 }
 
+const NewsletterForm = () => {
+    return (
+        <div className="flex flex-col max-w-2xl mx-auto mt-6">
+        <div className="mb-2">
+            <h1 className="mb-2 text-4xl font-extrabold leading-none tracking-tight dark:text-white">
+                Newsletter FPV
+            </h1>
+            <h3 className="mb-4 text-2xl font-semibold  dark:text-white">
+                Inizia a ricevere consigli e sconti
+            </h3>
+            <p className="font-light text-gray-500 md:text-lg dark:text-gray-400 mb-4">
+                Riceverai al massimo 2 email al mese, con consigli utili e sconti o offerte degli migliori negozi FPV, consegnati direttamente nella tua inbox.
+            </p>
+        </div>
+        <form action="https://lucafpv.us19.list-manage.com/subscribe/post?u=1f9157c09ec4bcd2a7ea723d5&amp;id=d68f59b417" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
+            <NameField id="mce-FNAME" name="FNAME"/>
+            <EmailField id="mce-EMAIL" name="EMAIL"/>
+            <input type="checkbox" value="1" name="group[13000][2]" id="mce-group[13000]-13000-0" style={{display: "none"}} checked/>
+            <div className="mt-4 py-3 sm:flex sm:flex-row-reverse">
+                <button type="submit" className="w-full inline-flex uppercase justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-[#EDA550] text-base font-medium text-white  hover:bg-[#c98028] focus:outline-none sm:ml-3 sm:w-auto sm:text-sm">
+                    Iscriviti Ora
+                </button>
+            </div>
+        </form>
+    </div>
+    )
+}
+
 export {
     CorsoFPVForm,
     RisoluzioneProblemiFPVForm,
+    NewsletterForm,
 }

@@ -15,6 +15,7 @@ import Author from "../components/author"
 import YouTubeEmbed from "../components/blog/youtube-embed"
 import AffiliateLink from "../components/blog/affiliate-link"
 import OutsideLink from "../components/blog/outside-link"
+import NewsletterCard from "../components/marketing/newsletter";
 import { SupportAfterArticle, Support } from "../components/marketing/banners";
 
 const Post = ( {data} ) => {
@@ -45,16 +46,11 @@ const Post = ( {data} ) => {
             <SupportAfterArticle />
           </article>
         <div className="hidden md:flex flex-col pl-8 justify-start md:w-2/6">
-          <div className="mb-8">
+          <div className="mb-4">
               <Author image={img} />
           </div>
           <div className="my-8 h-72 w-full">
-            <AdSense.Google
-                client='ca-pub-4566556883137005'
-                slot='5109167274'
-                style={{ display: 'block' }}
-                format='fluid'
-            />
+            <NewsletterCard />
           </div>
           <Share />
           <div className="sticky top-72 my-8">
@@ -65,12 +61,19 @@ const Post = ( {data} ) => {
                 data-ad-format="auto"
                 data-full-width-responsive="true"
             />
+            <AdSense.Google
+                client='ca-pub-4566556883137005'
+                slot='5109167274'
+                style={{ display: 'block' }}
+                format='fluid'
+            />
           </div>
         </div>
       </div>
-      <div className="md:w-4/6">
+      <div className="md:w-4/6 flex flex-col gap-4">
         <ReadNext posts={recommendations.edges} currentTags={frontmatter.tags} currentCategories={frontmatter.categories} />
         <Author image={img} extraCssClasses={"md:hidden"} />
+        <NewsletterCard extraCssClasses={"md:hidden"} />
       </div>
     </>
   )

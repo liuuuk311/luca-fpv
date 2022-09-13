@@ -2,8 +2,6 @@ import React from "react"
 import Header from "./header"
 import Footer from "./footer"
 
-import { isLayoutFullScreen } from "../utils/landing"
-
 const Layout = ({ children }) => {
   return (
       <div className="max-w-7xl flex flex-col mx-auto p-4 sm:p-6">

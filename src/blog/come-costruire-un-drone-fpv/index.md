@@ -77,6 +77,8 @@ La grossa differenza in prezzo tra le due build è dovuta principalmente al fatt
 ![Tutto l'occorrente](/assets/come-costruire-un-drone-fpv/occorrente.jpeg)
 
 
+<Support />
+
 ## Telaio
 Come telaio ho scelto il GepRC Mark 4 HD, nella versione da 5". Perfetta per chi inizia, con sufficiente spazio per installare tutto il necessario.
 
@@ -200,6 +202,8 @@ Successivamente vanno saldati i cavi dei motori.
 
 ![Motori saldati](/assets/come-costruire-un-drone-fpv/motori_saldati.jpeg)
 
+<Support />
+
 ### 5. Collegare FC
 
 Sul flight controller le uniche saldature che dobbiamo fare sono relative alla ricevente e al beeper autoalimentato.
@@ -218,6 +222,7 @@ Con gli stack, ovvero FC ed ESC dello stesso produttore, collegare il flight con
 Per quanto riguarda i dadi che fissano il flight controller, dobbiamo assicurarci che non siano troppo stretti, altrimenti andiamo ad annullare l'effetto dei gommini anti vibrazioni.
 
 ![FC Montata](/assets/come-costruire-un-drone-fpv/fc_montata.jpeg)
+
 
 
 ### 6. Sistema FPV 

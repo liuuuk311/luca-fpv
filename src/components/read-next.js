@@ -8,6 +8,9 @@ const ReadNext = ({ posts, currentTags, currentCategories }) => {
     currentTags,
     currentCategories,
   });
+
+  if (recommendations.length == 0) return <div></div>
+
   return (
     <div className="my-8">
       <h3 className="text-3xl font-bold mb-4 dark:text-gray-200">
