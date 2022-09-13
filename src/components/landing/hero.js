@@ -66,7 +66,7 @@ const RisoluzioneProblemiFPVHero = () => {
   return <Hero
     title="Torna a volare con il tuo drone FPV!"
     paragraphs={["La prima guida in Italiano per risolvere i problemi che puoi avere dopo aver costruito un drone FPV.",]}
-    cta_label="Scarica gratuitamente"
+    cta_label="Scarica ora"
     cta_link="#download"
     backgroundUrl="/assets/problemi-comuni/main-photo.svg" />
 }

@@ -67,11 +67,12 @@ const CorsoFPVCallToAction = () => {
 
 const RisoluzioneProblemiFPVCallToAction = () => {
     return <CallToActionContainer
-        title="Scarica ora la tua guida gratuita"
-        content="Ricevi il PDF con le soluzioni ai problemi più comuni nel mondo FPV, direttamente sulla tua email."
+        title="Scarica ora la tua guida in PDF"
+        content="Ricevi immediatamente il PDF con le soluzioni ai problemi più comuni nel mondo FPV, che ha già aiutato più di 400 piloti"
         callToAction="Scarica ora!"
+        callToActionLink="https://www.buymeacoffee.com/iamlucafpv/e/90046"
         sectionID="download">
-        <RisoluzioneProblemiFPVForm />
+        {/* <RisoluzioneProblemiFPVForm /> */}
     </CallToActionContainer>
 }
 
