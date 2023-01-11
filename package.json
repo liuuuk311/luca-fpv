@@ -33,7 +33,7 @@
     "gatsby-plugin-sitemap": "^5.15.1",
     "gatsby-remark-images": "^6.15.0",
     "gatsby-source-filesystem": "^4.20.0",
-    "gatsby-transformer-remark": "^5.15.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^4.15.0",
     "gbimage-bridge": "^0.2.2",
     "postcss": "^8.4.14",
