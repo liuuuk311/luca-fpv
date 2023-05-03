@@ -52,6 +52,6 @@ La v2 aggiorna anche la VTX che era forse il punto debole della v1. Infatti in p
 Le differenze per quanto riguarda il frame tra le due versioni sono tutte pensate per aumentare la resistenza del telaio. Infatti, il principale dubbio sulla v1 era la resistenza ai crash. Nella v2 troviamo bracetti più larghi e le viti aggiornate sulla parte anteriore del frame. 
 
 ## Chi lo dovrebbe comprare?
-Il Diatone Roma F5 V2 è pensato per i pricipianti, le persone che vogliono un vero drone FPV con ottimi componenti e istruzioni chiare. Questo drone si colloca nella fascia economica, ed è uno dei migliori droni FPV per pricipianti nel 2022.
+Il Diatone Roma F5 V2 è pensato per i pricipianti, le persone che vogliono un vero drone FPV con ottimi componenti e istruzioni chiare. Questo drone si colloca nella fascia economica, ed è uno dei migliori droni FPV per pricipianti nel 2023.
 
 Rispetto al iFlight Nazgul 5, altra classica scelta per i principianti, il Diatone Roma F5 V2 offre di più in rapporto qualità prezzo. 

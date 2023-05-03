@@ -1,5 +1,5 @@
 ---
-title: "Come costruire un drone FPV economico nel 2022"
+title: "Come costruire un drone FPV economico nel 2023"
 date: "2022-09-13T00:00:00.000Z"
 excerpt: "Se non hanno mai costruito un drone FPV prima, questa guida è per te. Ecco come costuire un drone FPV senza spendere troppo"
 categories:

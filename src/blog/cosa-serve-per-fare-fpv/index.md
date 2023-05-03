@@ -60,7 +60,7 @@ Vediamo quindi nel dettaglio ogni oggetto necessario e cerchiamo di capire quali
 Questo elemento è scontato. Quello che però può essere interessante sapere è che ci sono diversi tipi di droni FPV. Un tipo per ogni specialità FPV.
 Puoi voler fare freestyle, racing oppure cinematic. Puoi aver bisogno di un drone con più durata della batteria per voli lunghi oppure massima potenza.
 
-Ecco una lista dei droni FPV più comuni nel 2022.
+Ecco una lista dei droni FPV più comuni nel 2023.
 
 <div id="drone-table">
 
@@ -86,7 +86,7 @@ Il miglior radiocomando per rapporto qualità prezzo è sicuramente il <Affiliat
 
 Il radiocomando può essere utilizzato anche senza modulo esterno, in tal caso va acquistata una ricevente compatibile.
 
-Guarda anche [i miei consigli sui radiocomandi per il 2022](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
+Guarda anche [i miei consigli sui radiocomandi per il 2023](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv)
 
 ## Occhiali FPV
 
@@ -96,7 +96,7 @@ Ad oggi esistono due tipi di occhiali FPV: digitali e analogici. I primi offorno
 
 La scelta del tipo di occhiali condiziona anche i droni che potremo pilotare. Con un visore digitale potremo volare con droni spesso identificati con "HD", mentre con gli occhiali anlogici non potremo usarli. Il discorso vale anche al contrario, ovvero con gli occhiali digitali non sarà possibile utilizzare un drone analogico a meno di modifiche.
 
-Ecco gli occhiali FPV che consiglio per chi parte nel 2022:
+Ecco gli occhiali FPV che consiglio per chi parte nel 2023:
 
 1. <AffiliateLink label="Occhiali DJI FPV" href="https://amzn.to/3l4txYP"/> (prezzo più basso su <AffiliateLink href="https://www.banggood.com/custlink/DvGRgiSrmp" label="Banggood"/>) gli unici occhiali per permettono di volare in digitale. Qualità delle immagini pazzesca.
 2. <AffiliateLink label="Fatshark Attitude v6" href="https://www.drone24hours.com/prodotto/fatshark-attitude-v6/?D24H=lucapalonca"/> occhiali analogici di fascia media, marca molto affidabile

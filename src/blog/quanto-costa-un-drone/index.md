@@ -1,7 +1,7 @@
 ---
-title: Ecco quanto costa comprare un drone nel 2022
+title: Ecco quanto costa comprare un drone nel 2023
 date: "2022-08-25T00:00:00.000Z"
-excerpt: "Quanto costa comprare un drone nel 2022? In questo articolo vediamo il prezzo dei droni suddiviso per le diverse categorie"
+excerpt: "Quanto costa comprare un drone nel 2023? In questo articolo vediamo il prezzo dei droni suddiviso per le diverse categorie"
 categories:
     - Guide Acquisto 
 tags: 

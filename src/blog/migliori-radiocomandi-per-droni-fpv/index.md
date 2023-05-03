@@ -1,7 +1,7 @@
 ---
-title: I migliori radiocomandi per droni FPV nel 2022
+title: I migliori radiocomandi per droni FPV nel 2023
 date: "2022-01-07T00:00:00.000Z"
-excerpt: Ecco quali sono i migliori radiocomandi per droni FPV nel 2022. In questo articolo spiego qual è il radiocomando giusto per te
+excerpt: Ecco quali sono i migliori radiocomandi per droni FPV nel 2023. In questo articolo spiego qual è il radiocomando giusto per te
 categories: 
     - Principianti
     - Guide Acquisto 
@@ -55,7 +55,7 @@ Il radiocomando dovrebbe essere uno dei primissimi articoli da acquistare quando
 A differenza di molti altri componenti e accessori che hanno maggiori probabilità di rompersi o diventare obsoleti, una buona radio ti seguirà per molti anni, quindi va bene investire un po' di più su una decente.
 
 ## I miei consigli
-Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2022.
+Ecco una lista dei migliori radiocomandi disponibili sul mercato nel 2023.
 
 <div id="radio-table">
 
