@@ -1,8 +1,7 @@
-import React from "react";
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import React from "react";
 
-
-const YouTubeEmbed = ({link}) => {
+const YouTubeEmbed = ({link, caption}) => {
     if (!link) return ""
     
     const url = new URL(link);
@@ -20,6 +19,7 @@ const YouTubeEmbed = ({link}) => {
                 playerClass="lty-playbtn"
                 wrapperClass="yt-lite h-fit"
                 />
+            {caption && <p className="text-center">{ caption }</p>}
         </div>
     )
 }
