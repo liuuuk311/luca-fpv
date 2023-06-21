@@ -51,6 +51,10 @@ Se durante la lettura dell'articolo trovi degli acronimi di cui non consoci il s
 
 Il tempo stimato per la build completa è di 2 ore, sei pronto? Bene, cominciamo!
 
+
+<FPVfinderBanner />
+
+
 ## Occorrente
 
 Questa build verrà fatta con i componenti specificati nella prima colonna della tabella. Tuttavia, suggerisco anche delle alternative più economiche per ogni componente. 

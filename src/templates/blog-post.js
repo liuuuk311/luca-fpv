@@ -1,23 +1,22 @@
-import { graphql, Link } from "gatsby"
-import React from "react"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import { MDXProvider } from '@mdx-js/react'
+import { FPVfinderBanner, Support, SupportAfterArticle } from "../components/marketing/banners";
+import { Link, graphql } from "gatsby"
+
 import AdSense from 'react-adsense';
-
-
-import Seo from "../components/seo"
-import ReadNext from "../components/read-next"
-import Share from "../components/share"
-import Categories from "../components/categories"
-import Tags from "../components/tags"
-import Author from "../components/author"
-
-import YouTubeEmbed from "../components/blog/youtube-embed"
 import AffiliateLink from "../components/blog/affiliate-link"
-import OutsideLink from "../components/blog/outside-link"
-import NewsletterCard from "../components/marketing/newsletter";
-import { SupportAfterArticle, Support } from "../components/marketing/banners";
+import Author from "../components/author"
+import Categories from "../components/categories"
+import { FPVfinderAds } from "../components/marketing/ads";
 import { Layout } from "../components/layout";
+import { MDXProvider } from '@mdx-js/react'
+import { MDXRenderer } from "gatsby-plugin-mdx"
+import NewsletterCard from "../components/marketing/newsletter";
+import OutsideLink from "../components/blog/outside-link"
+import React from "react"
+import ReadNext from "../components/read-next"
+import Seo from "../components/seo"
+import Share from "../components/share"
+import Tags from "../components/tags"
+import YouTubeEmbed from "../components/blog/youtube-embed"
 
 const Post = ( {data} ) => {
   const { post, recommendations, me } = data
@@ -27,7 +26,7 @@ const Post = ( {data} ) => {
         ? me.edges[0].node.childImageSharp.gatsbyImageData
         : "";
 
-  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support }
+  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support, FPVfinderBanner }
 
   return (
     <Layout>
@@ -55,6 +54,7 @@ const Post = ( {data} ) => {
           </div>
           <Share />
           <div className="sticky top-72 my-8">
+            <FPVfinderAds />
             <AdSense.Google
                 client='ca-pub-4566556883137005'
                 slot='2806584328'

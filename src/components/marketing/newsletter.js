@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+
 import Modal from 'react-modal';
 import { NewsletterForm } from "../landing/forms";
 
@@ -9,7 +10,7 @@ const NewsletterCard = ({extraCssClasses}) => {
         <div class={`w-full max-w-sm bg-white rounded-lg border shadow-sm dark:bg-gray-800 dark:border-gray-700 ${extraCssClasses ? extraCssClasses : ''}`}>
             <div class="flex flex-col items-start p-5">
                 <h5 class="mb-1 text-lg font-bold text-gray-900 dark:text-white">Newsletter FPV</h5>
-                <p class="text-sm text-gray-500 dark:text-gray-400">
+                <p class="text-md text-gray-500 dark:text-gray-400">
                     Riceverai al massimo 2 email al mese con consigli utili, sconti e offerte degli migliori negozi FPV che condivido solo con gli iscritti! 
                 </p>
                 <div class="flex mt-2 space-x-6 sm:justify-center">

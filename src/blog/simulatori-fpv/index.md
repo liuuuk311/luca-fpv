@@ -56,6 +56,8 @@ Usare un simulatore è il modo perfetto per migliorare le tue abilità. Sia che 
 
 Se sei un principiante, ecco un articolo da cui puoi inziare per [entrare nel mondo dell'FPV](https://lucafpv.com/fpv-per-principianti/).
 
+<FPVfinderBanner />
+
 ## Radiocomandi
 
 Per utilizzare questi simulatori devi avere un radiocomando compatibile.
@@ -70,7 +72,7 @@ Ecco una lista dei radio comandi più comuni in questo hobby, alcuni sono dirett
 
 |                                                                                       | Radiocomando           | USB?      | Venditori |
 | ------------------------------------------------------------ -------------------------| ---------------------- | --------- |---------------------|
-| ![RadioMaster TX16](/assets/migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) |RadioMaster TX16 Mark 2 | ✔         | <AffiliateLink href="https://www.banggood.com/custlink/GG3cK5PIoI" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/radiomaster-tx16s-16ch-2-4ghz/?D24H=lucapalonca" label="Drone24Hours" /> |
+| ![RadioMaster TX16](/assets/migliori-radiocomandi-per-droni-fpv/radiomaster_tx16.jpg) |RadioMaster TX16 Mark 2 | ✔         | <AffiliateLink href="https://www.banggood.com/custlink/GG3cK5PIoI" label="Banggood" /><br/><AffiliateLink href="https://www.drone24hours.com/prodotto/tx16s-mark-ii-radio-controller-m2/?D24H=lucapalonca" label="Drone24Hours" /> |
 | ![TBS Mambo](/assets/recensione-tbs-mambo/mambo_gimbal.jpeg)                          | TBS Mambo              | ✔         | <AffiliateLink href="https://drone24hours.com/product/ethix-mambo-controller-per-drone-radio-fpv-rc/?D24H=lucapalonca" label="Drone24Hours" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/ethix-mambo-tbs-tracer-radiocomando-2-4ghz/?ref=iamlucafpv" label="RhobbyFPV" />  |
 | ![FrSky Taranis X9 Lite](/assets/migliori-radiocomandi-per-droni-fpv/x9_lite.png)     | FrSky Taranis X9 Lite  | ✔         | <AffiliateLink href="https://www.drone24hours.com/prodotto/frsky-taranis-x9-lite-2-4ghz-24ch-accesso-accst-d16-mode2/?D24H=lucapalonca" label="Drone24Hours" /><br/><AffiliateLink href="https://www.rhobbyfpv.it/prodotto/frsky-taranis-x9-lite-radiocomando-2-4ghz-fcc/?ref=iamlucafpv" label="RhobbyFPV" /> |
 

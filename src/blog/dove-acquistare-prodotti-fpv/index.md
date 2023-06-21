@@ -15,7 +15,7 @@ Quando si tratta di acquistare prodotti FPV ci sono molte alternative disponibil
 
 ## I prezzi più bassi
 
-Se vuoi per trovare i prezzi più economici per un prodotto, sapere sempre in quale negozio è dispobile allora devi usare <OutsideLink label="FPV Finder" href="https://fpvfinderv2.netlify.app/?utm_source=lucafpv&utm_medium=referral&utm_campaign=lucafpv" />.
+Se vuoi per trovare i prezzi più economici per un prodotto, sapere sempre in quale negozio è dispobile allora devi usare <OutsideLink label="FPV Finder" href="https://fpvfinder.lucafpv.com/?utm_source=lucafpv&utm_medium=referral&utm_campaign=lucafpv" />.
 
 **FPV Finder è un comparatore di prezzi** che permette di trovare velocemente i migliori prodotti FPV da circa 15 negozi online, e capire immediatamente in quale store il prodotto è disponibile e quale ecommerce offre il prezzo migliore. Inoltre offre una panoramica dei tempi e costi di spedizione di ciascun negozio per avere un'idea completa del costo finale.
 

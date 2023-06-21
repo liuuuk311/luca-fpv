@@ -109,4 +109,15 @@ const Support = ({ customLabel, customText }) => {
   );
 };
 
-export { SupportAfterArticle, Support };
+const FPVfinderBanner = () => {
+  return (
+    <a href="https://fpvfinder.lucafpv.com/">
+      <h2 className="sr-only">Risparmia tempo e denaro con FPVfinder</h2>
+      <p className="sr-only">Cerca i tuoi prodotti FPV preferiti su più di 20 negozi in un singolo click</p>
+      <img className="hidden md:inline-block" src="/assets/FPVfinder1000x200.png" />
+      <img className="inline-block md:hidden" src="/assets/FPVfinder1000x400.png" />
+    </a>
+  )
+}
+
+export { SupportAfterArticle, Support, FPVfinderBanner };

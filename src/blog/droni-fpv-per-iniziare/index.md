@@ -49,17 +49,20 @@ Stai cercando il miglior drone FPV completo per iniziare a volare nel 2023? Ques
 
 Quando scegli il tuo primo drone FPV per iniziare, oltre a fare attenzione al prezzo del drone stesso, devi controllare cosa c'è nella scatola. 
 
+<FPVfinderBanner />
+
 Infatti, una cosa che lascia stupite molte persone che iniziano, è che quando compri un drone FPV, riceverai solo il drone. Niente batterie, niente radiocomando, e niente occhiali. In pratica un pezzo di carbonio con dell'elettronica che non potrai usare. Questo se non si compra un kit, come quello che mostrerò in questa guida!
+
 
 
 <div id="summary-table">
 
 |                                                                              | Nome                                        | Kit Completo | Prezzo    | Venditori                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------|---------------------------------------------|--------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpg)     | <Link to="#dji-fpv">DJI FPV</Link>          | ✔            | 💰💰💰💰   | <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon" />                                                                                                                                                            |
+| ![DJI Avata](/assets/droni-fpv-per-iniziare/dji-avata-combo.jpg)     | <Link to="#dji-avata">DJI Avata combo</Link>          | ✔            | 💰💰💰💰   | <AffiliateLink href="https://www.drone-fpv-racer.com/en/dji-avata-and-dji-fpv-v2-fly-smart-combo-10001.html?aff=75" label="DroneFPVRacer" /><br/><AffiliateLink href="https://amzn.to/3p79vTP" label="Amazon" />                                                                                                                                                            |
 | ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg)      | <Link to="#nazgul">iFlight Nazgul V2</Link> | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> <br/> <AffiliateLink  href="https://www.banggood.com/custlink/DmmE4FSA7g"   label="Banggood" />          |
-| ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Drone24Hours  " />         |
-| ![Kit Emax TinyHawk II](/assets/droni-fpv-per-iniziare/emax-kit.jpeg)        | <Link to="#tinyhawk">Kit Emax TinyHawk II</Link>  | ✔      | 💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-tinyhawk-ii-freestyle-rtf/?D24H=lucapalonca" label="Drone24Hours  " />         |
+| ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Drone24Hours" />         |
+| ![Kit Emax](/assets/droni-fpv-per-iniziare/emax-kit.jpeg)        | <Link to="#tinyhawk">Kit Emax TinyHawk II</Link>  | ✔      | 💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-ez-pilot-pro/?D24H=lucapalonca" label="Drone24Hours" />         |
 
 </div>
 
@@ -77,30 +80,30 @@ Ad ogni modo, in questo articolo presenterò diverse alternative, alcune complet
 
 </div>
 
-Questa è la scelta per coloro che non vogliono perdere tempo ad imparare. Se vuoi qualcosa di veramente pronto al volo, senza dover configuare niente il <AffiliateLink href="https://amzn.to/3ksZQAD" label="DJI FPV Drone" /> è per te.
+Questa è la scelta per coloro che non vogliono perdere tempo ad imparare. Se vuoi qualcosa di veramente pronto al volo, senza dover configuare niente il <AffiliateLink href="https://www.drone-fpv-racer.com/en/dji-avata-and-dji-fpv-v2-fly-smart-combo-10001.html?aff=75" label="DJI Avata Kit" /> è per te.
 
 È comunque una scelta molto controversa per i puristi dell'FPV, ma personalmente trovo che questo drone sia adatto a chi vuole volare in FPV una volta ogni tanto, senza fare manovre rischiose, e magari postare qualche video su Intagram o YouTube. 
 
-![DJI FPV Drone Combo](/assets/droni-fpv-per-iniziare/dji-fpv-combo.jpg)
+![DJI Avata](/assets/droni-fpv-per-iniziare/dji-avata-combo.jpg) 
 
-A primo impatto il costo di circa 1300 euro può spaventare. Ma all'interno della confezione ci sono molte cose.
-Prima di tutto, oltre il drone riceviamo il visore (DJI Goggles), che se acquistati separatamente costano circa 600 euro. Poi abbiamo anche il radiocomando e una batteria. Quindi acquistando questo kit, siamo già pronti per volare, senza dover comprare ulteriori accessori.
+A primo impatto il costo di circa 1300 euro può spaventare. Ma all'interno della confezione ci sono molte cose. Ma è spesso in offerta sia su Amazon che su DroneFPVRacer. Ma per non perdere queste offerte ti consiglio di usare [FPVfinder](https://fpvfinder.lucafpv.com)
+Prima di tutto, oltre il drone riceviamo il visore (DJI Goggles 2), che se acquistati separatamente costano circa 800 euro. Poi abbiamo anche il radiocomando e una o due batteria a seconda del pacchetto che si seglie. Quindi acquistando questo kit, siamo già pronti per volare, senza dover comprare ulteriori accessori.
 
 Gli occhiali possono essere usati anche con altri droni FPV che utilizzano il sistema digitale DJI.
 
-### Chi dovrebbe comprare il DJI FPV?
+### Chi dovrebbe comprare il DJI Avata?
 
-Il DJI FPV Drone è perfetto per chiunque abbia già volato con un drone DJI, ma voglia provare a volare in modalità FPV con un drone capace di arrivare anche a 140 km/h. Questo kit è ideale anche per tutti coloro che non vogliono spendere troppo tempo a capire come installare e configuare il proprio drone.
+Il DJI Avata è perfetto per chiunque abbia già volato con un drone DJI, ma voglia provare a volare in modalità FPV e fare riprese cinamatiche, magari vicino a persone e cose. Questo kit è ideale anche per tutti coloro che non vogliono spendere troppo tempo a capire come installare e configuare il proprio drone.
 
-Tuttavia, se pensi di voler entrare a far parte dell'hobby ed essere un vero pilota FPV, fare freestyle e non hai paura di schiantare il tuo drone, allora in questo caso il DJI FPV Drone non è adatto a te (quindi continua a leggere per trovare il drone adatto a te). Infatti non è semplice fare manutenzione e riparazioni su questo drone. Ci sono alcuni pezzi di ricambio ufficiali ma non tutti i componenti sono disponibili. 
+Tuttavia, se pensi di voler entrare a far parte dell'hobby ed essere un vero pilota FPV, fare freestyle e non hai paura di schiantare il tuo drone, allora in questo caso il DJI Avata non è adatto a te (quindi continua a leggere per trovare il drone adatto a te). Infatti non è semplice fare manutenzione e riparazioni su questo drone. Ci sono alcuni pezzi di ricambio ufficiali ma non tutti i componenti sono disponibili. 
 
-Spesso paragono il DJI FPV ad un iPhone, bello e semplice da usare ma con pochissima personalizzazione. Se invece preferisci avere piú possibilità di smanettare allora continua a leggere.
+Spesso paragono il DJI Avata ad un iPhone, bello e semplice da usare ma con pochissima personalizzazione. Se invece preferisci avere piú possibilità di smanettare allora continua a leggere.
 
-### Dove comprare il DJI FPV?
+### Dove comprare il DJI Avata?
 
 Non tutti i negozi online specializzati in FPV hanno in stock questo drone, questo perché, come dicevo prima, i puristi di questo hobby non lo considerano un vero e proprio drone FPV. 
 
-Ad ogni modo, essendo prodotto da DJI ha il vantaggio di essere disponibile su <AffiliateLink href="https://amzn.to/3ksZQAD" label="Amazon" />.
+Ad ogni modo, essendo prodotto da DJI ha il vantaggio di essere disponibile su <AffiliateLink href="https://www.drone-fpv-racer.com/en/dji-avata-and-dji-fpv-v2-fly-smart-combo-10001.html?aff=75" label="DroneFPVRacer" /> e su <AffiliateLink href="https://amzn.to/3p79vTP" label="Amazon" />.
 
 
 
@@ -204,7 +207,7 @@ A differenza delle opzioni precedenti, questo kit, per meno di 500 euro offre tu
 
 ### Chi dovrebbe comprare il Kit EMAX Tinyhawk II?
 
-Questo kit disponibile su <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-tinyhawk-ii-freestyle-rtf/?D24H=lucapalonca" label="drone24hours.com" /> è ideale per chiunque voglia provare l'ebrezza di volare con un drone FPV e non è interessato inizialmente a montare una GoPro per registrare video. È pensato soprattutto per chi non vuole passare troppo tempo a scegliere diversi prodotti e cercare di capire se sono compatibili l'uno con l'altro.
+Questo kit disponibile su <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-ez-pilot-pro/?D24H=lucapalonca" label="drone24hours.com" />, un negozio italiano che spedisce molto veloce, è ideale per chiunque voglia provare l'ebrezza di volare con un drone FPV e non è interessato inizialmente a montare una GoPro per registrare video. È pensato soprattutto per chi non vuole passare troppo tempo a scegliere diversi prodotti e cercare di capire se sono compatibili l'uno con l'altro.
 
 
 ## 5. Drone FPV autocostruito
