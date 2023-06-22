@@ -40,6 +40,10 @@ Questa guida è stata pensata per le persone che non hanno mai costruito un dron
 
 In questo articolo spiego quindi come costruire un drone capace di arrivare fino 5km di distanza, e capace di andare fino a 160 km/h. 
 
+In <a href="#components-table">questa tabella</a> trovi tutti i componenti che ho usato in questa build, in ogni caso ti consiglio di usare anche [FPVfinder](https://fpvfinder.lucafpv.com), che è uno strumento gratuito per comparare i prezzi dei componenti FPV e trovare in quale negozio online conviene comprare.
+
+<FPVfinderBanner />
+
 
 
 ## Le basi 
@@ -51,8 +55,6 @@ Se durante la lettura dell'articolo trovi degli acronimi di cui non consoci il s
 
 Il tempo stimato per la build completa è di 2 ore, sei pronto? Bene, cominciamo!
 
-
-<FPVfinderBanner />
 
 
 ## Occorrente
@@ -76,7 +78,7 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 
 </div>
 
-La grossa differenza in prezzo tra le due build è dovuta principalmente al fatto che questa sarà una build digitale. Tuttavia, spiegherò anche come costruire la versione analogica.
+La grossa differenza in prezzo tra le due build è dovuta principalmente al fatto che questa sarà una build digitale. Tuttavia, spiegherò anche come costruire la versione analogica. Mentre se ti interessa la guida alla build economica ho scritto [un articolo dedicato a quello](https://lucafpv.com/costruire-un-drone-fpv-economico).
 
 ![Tutto l'occorrente](/assets/come-costruire-un-drone-fpv/occorrente.jpeg)
 
