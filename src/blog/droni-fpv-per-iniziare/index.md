@@ -60,8 +60,8 @@ Infatti, una cosa che lascia stupite molte persone che iniziano, è che quando c
 |                                                                              | Nome                                        | Kit Completo | Prezzo    | Venditori                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------|---------------------------------------------|--------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![DJI Avata](/assets/droni-fpv-per-iniziare/dji-avata-combo.jpg)     | <Link to="#dji-avata">DJI Avata combo</Link>          | ✔            | 💰💰💰💰   | <AffiliateLink href="https://www.drone-fpv-racer.com/en/dji-avata-and-dji-fpv-v2-fly-smart-combo-10001.html?aff=75" label="DroneFPVRacer" /><br/><AffiliateLink href="https://amzn.to/3p79vTP" label="Amazon" />                                                                                                                                                            |
-| ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg)      | <Link to="#nazgul">iFlight Nazgul V2</Link> | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> <br/> <AffiliateLink  href="https://www.banggood.com/custlink/DmmE4FSA7g"   label="Banggood" />          |
-| ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="Drone24Hours" />         |
+| ![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/F5D-V2-analog-1.png)      | <Link to="#nazgul">iFlight Nazgul Evoque V2</Link> | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5-v2-6s/?D24H=lucapalonca" label="Drone24Hours" /> <br/> <AffiliateLink  href="https://www.banggood.com/custlink/DmmE4FSA7g"   label="Banggood" />          |
+| ![GEPRC CineLog35](/assets/nuovo-cinelog35/cinelog.jpeg)                     | <Link to="#cinelog">GEPRC CineLog35</Link>  | ✖️           | 💰💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/geprc-cinelog-35-v2-3-5-analogico/?D24H=lucapalonca" label="Drone24Hours" />         |
 | ![Kit Emax](/assets/droni-fpv-per-iniziare/emax-kit.jpeg)        | <Link to="#tinyhawk">Kit Emax TinyHawk II</Link>  | ✔      | 💰       | <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-ez-pilot-pro/?D24H=lucapalonca" label="Drone24Hours" />         |
 
 </div>
@@ -113,26 +113,34 @@ Ad ogni modo, essendo prodotto da DJI ha il vantaggio di essere disponibile su <
 
 </div>
 
-L'<AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="iFlight Nazgul5 V2" /> è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro.
+L'<AffiliateLink href="ttps://www.drone24hours.com/prodotto/nazgul-evoque-f5-v2-6s/?D24H=lucapalonca" label="Nazgul Evoque F5 V2" /> è un vero e proprio drone FPV. Veloce e resistente, regge tranquillamente il peso di una GoPro.
 
 Ma perché è importante che regga il peso di una GoPro? Perché la GoPro, o una action camera simile, sarà la videocamera che riprenderà i video pazzeschi che farai con questo drone. Infatti, la camera FPV, quella più piccola ha una qualità molto inferiore e seppur in grado di registrare, nessuno posterebbe quelle riprese.
 
-Il prezzo del iFlight Nazgul5 V2 si aggira intorno ai 300 euro. Ma per questo prezzo riceveremo solo il drone. Niente visore, niente radiocomando e niente batterie.
+Il prezzo del Nazgul Evoque F5 V2 si aggira intorno ai 400 euro. Ma per questo prezzo riceveremo solo il drone. Niente visore, niente radiocomando e niente batterie.
+
+Il Nazgul Evoque F5 V2 6S è un drone FPV che spicca tra i migliori per chi è alle prime armi con il volo in FPV, ma offre prestazioni eccezionali anche per i piloti più esperti. Una delle caratteristiche che lo rende unico sono i motori XING2, noti per la loro potenza e durata. Questi motori sono costruiti con tecnologia unibell, albero in lega di titanio robusto e campana in alluminio 7075 resistente agli urti, garantendo prestazioni di alto livello.
+
+Il telaio più recente del Nazgul Evoque è progettato per massimizzare la protezione dei componenti elettronici. Riduce la contaminazione da sporco e umidità che potrebbe accumularsi sul controller di volo o sugli ESC, evitando guasti o cortocircuiti. Inoltre, il flusso d'aria strategico mantiene i componenti freschi e puliti senza compromettere il peso o le prestazioni. Con pannelli laterali illuminati e parti protettive in TPU a 360 gradi, il tuo drone sarà sempre al sicuro.
+
+![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/F5D-V2-analog-1.png)
 
 
-![Iflight Nazgul v2](/assets/droni-fpv-per-iniziare/iflight-nazgul.jpg)
+Un'altra caratteristica che distingue il Nazgul Evoque è la spina della batteria protetta con filtro antiscintilla, che protegge i connettori XT60 da picchi di tensione o corrente rapidi, prevenendo danni ai dispositivi elettronici.
 
-Di questo drone online ci sono diverse versioni, io consiglio sempre la versione 6S, anche per i principianti. In questo modo spenderai meno soldi nel tempo. 
+Le specifiche di questo drone sono impressionanti, con un controllore di volo BLITZ Mini F722, un ESC BLITZ Mini E55 4-IN-1 2-6S 55A ESC e una potente trasmissione video BLITZ Whoop 1.6W VTX. Con un peso di soli 445 grammi e una velocità massima di 190 km/h in modalità manuale, il Nazgul Evoque è un'opzione ideale per chi desidera sperimentare il volo in FPV.
+
+In sintesi, se stai cercando un drone FPV che offra una combinazione eccezionale di facilità d'uso, durata e prestazioni di alto livello, il Nazgul Evoque F5 V2 6S è sicuramente uno dei migliori sul mercato. Con le sue caratteristiche avanzate e la protezione dei componenti elettronici, è un investimento ideale per chiunque sia appassionato di volo FPV.
 
 Per quanto riguarda la ricevente, ci sono diverse opzioni. Sicuramente la più economica è una ricevente FrSky che è compatibile con tutti i radiocomandi FrSky. Ad ogni modo, il mio consiglio è di prendere la versione con la ricevente.
 
-### Chi dovrebbe comprare il Nazgul5?
+### Chi dovrebbe comprare l'Evoque?
 
-L'iFlight Nazgul5 V2 è perfetto per coloro che sono seriamente intenzionati ad entrare nel mondo FPV, per passione o per lavoro ([come guadagnare con un drone](https://lucafpv.com/come-fare-soldi-con-un-drone)). Ideale per chiunque non ha paura di imparare cose nuove.
+L'iFlight Evoque F5 V2 è perfetto per coloro che sono seriamente intenzionati ad entrare nel mondo FPV, per passione o per lavoro ([come guadagnare con un drone](https://lucafpv.com/come-fare-soldi-con-un-drone)). Ideale per chiunque non ha paura di imparare cose nuove.
 
-### Dove acquistare il Nazgul5?
+### Dove acquistare l'Evoque?
 
-L'iFlight Nazgul5 V2 è disponibile sia su <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul5-v2-4s-6s-bnf/?D24H=lucapalonca" label="Drone24Hours" /> che anche su <AffiliateLink href="https://www.banggood.com/custlink/DmmE4FSA7g" label="Banggood" />: entrambi store affidabili. Il primo, ha magazzini in Italia, quindi i tempi di spedizioni sono molto veloci. Mentre il secondo offre prezzi più competitivi a scapito di tempi di spedizione più lunghi.
+L'iFlight Nazgul5 V2 è disponibile sia su <AffiliateLink href="ttps://www.drone24hours.com/prodotto/nazgul-evoque-f5-v2-6s/?D24H=lucapalonca" label="Drone24Hours" />. Drone24hours, ha magazzini in Italia, quindi i tempi di spedizioni sono molto veloci.
 
 ### Attrezzatura consigliata per il Nazgul5
 
@@ -158,8 +166,7 @@ Per quanto riguarda l'attrezzatura consigliata da acquistare insieme al Nazgul5 
 
 In caso questo drone non dovesse essere disponibile ecco due alternative sulla stessa fascia di prezzo che vanno bene per chi inizia e vuole fare video mozzafiato. 
 
-- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="Nazgul Evoque" /> (che sarebbe la versione successiva al Nazgul5 e più adatta a video cinematic) 
-- <AffiliateLink href="https://www.drone24hours.com/prodotto/nazgul-evoque-f5d-bnf-deadcat-6s/?D24H=lucapalonca" label="DIATONE Roma F5" />
+- <AffiliateLink href="https://www.drone24hours.com/prodotto/diatone-roma-f5-v2-6s/?D24H=lucapalonca" label="DIATONE Roma F5" />
 
 
 <div id="cinelog">
@@ -168,7 +175,7 @@ In caso questo drone non dovesse essere disponibile ecco due alternative sulla s
 
 </div>
 
-Passiamo ora alla categoria dei cinewhoop con il <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="GEPRC CineLog35" />: un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. 
+Passiamo ora alla categoria dei cinewhoop con il <AffiliateLink href="https://www.drone24hours.com/prodotto/geprc-cinelog-35-v2-3-5-analogico/?D24H=lucapalonca" label="GEPRC CineLog35" />: un drone veloce e compatto. Costruito in fibra di carbonio incredibilmente resistente, le eliche da 3,5 pollici sono protette da plastica, ideale per il volo all'interno. 
 
 Il fatto che sia compatto lo rende molto comodo da portare in giro e fare ripese mozzafiato.
 
@@ -187,7 +194,7 @@ Questo drone è perfetto per chi vuole realizzare video cinematic all'aperto e a
 
 ### Dove acquistare il CineLog35?
 
-Io consiglio di acquistarlo su <AffiliateLink href="https://www.drone24hours.com/product/geprc-cinelog35-hd/?D24H=lucapalonca" label="drone24hours.com" /> un sito italiano che spedisce molto velocemente.
+Io consiglio di acquistarlo su <AffiliateLink href="https://www.drone24hours.com/prodotto/geprc-cinelog-35-v2-3-5-analogico/?D24H=lucapalonca" label="drone24hours.com" /> un sito italiano che spedisce molto velocemente.
 
 <div id="tinyhawk">
 
