@@ -17,6 +17,7 @@ import Seo from "../components/seo"
 import Share from "../components/share"
 import Tags from "../components/tags"
 import YouTubeEmbed from "../components/blog/youtube-embed"
+import FPVfinderLink from "../components/blog/fpvfinder-link"
 
 const Post = ( {data} ) => {
   const { post, recommendations, me } = data
@@ -26,7 +27,7 @@ const Post = ( {data} ) => {
         ? me.edges[0].node.childImageSharp.gatsbyImageData
         : "";
 
-  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support, FPVfinderBanner }
+  const shortcodes = { OutsideLink, YouTubeEmbed, AffiliateLink, Link, Support, FPVfinderBanner, FPVfinderLink }
 
   return (
     <Layout>

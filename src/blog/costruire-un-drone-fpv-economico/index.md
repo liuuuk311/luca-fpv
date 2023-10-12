@@ -62,13 +62,14 @@ Questa build verrà fatta con i componenti specificati nella prima colonna della
 <div id="components-table"> 
 
 
+
 |                 | Per questa build                                                 | Alternativa                      |
 |-----------------|------------------------------------------------------------------|--------------------------------------------|
-| **Telaio**      | <AffiliateLink href="https://www.banggood.com/custlink/GKDrCdNEBd" label="Clone Apex"/>  | <AffiliateLink href="https://www.drone24hours.com/prodotto/tbs-source-one-hd-5inch/?D24H=lucapalonca" label="TBS Source One v5"/> |
-| **Stack**       | Stack MAMBA MK2 <br/> <AffiliateLink href="https://www.banggood.com/custlink/Km3cWhsE6r" label="Banggood"/> - <AffiliateLink href="https://www.drone-fpv-racer.com/en/diatone-mamba-f405-mk2-f50-4-6s-stack-6722.html?aff=75" label="DFR"/>| Nessuna alternativa |
-| **Motori**      | T-Motor Velox V2 <br/> <AffiliateLink href="https://www.banggood.com/custlink/GvvR0iZcOF" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/t-motor-v2306-v2-kv1950/?D24H=lucapalonca" label="D24H"/>   | Emax Eco II <br/> <AffiliateLink href="https://www.banggood.com/custlink/DGGdgZ9WOo" label="Banggood"/> - <AffiliateLink href="https://www.drone24hours.com/prodotto/emax-eco-ii-series-2207-1700kv-1900kv-2400kv/?D24H=lucapalonca" label="D24H"/> - <AffiliateLink label="DFR" href="https://www.drone-fpv-racer.com/en/emax-eco-ii-series-2207-1700kv-brushless-motor-6908.html?aff=75"/>|
-| **Sistema FPV** | <AffiliateLink href="https://www.banggood.com/custlink/G3KcrynY46" label="Eachine TX805S"/> + <AffiliateLink href="https://www.banggood.com/custlink/DvmpGpPPsW" label="Foxeer Razor Mini"/> + <AffiliateLink href="https://www.drone-fpv-racer.com/en/cp5-rp-sma-120mm-antenna-rhcp-by-truerc-9670.html?aff=75" label="Antenna" />     | <AffiliateLink href="https://www.banggood.com/custlink/DKmpcRAy6n" label="Eachine TX805"/> + <AffiliateLink href="https://www.banggood.com/custlink/DvmpGpPPsW" label="Foxeer Razor Mini"/> + <AffiliateLink href="https://www.drone-fpv-racer.com/en/cp5-rp-sma-120mm-antenna-rhcp-by-truerc-9670.html?aff=75" label="Antenna"/> |
-| **Ricevente**   | <AffiliateLink href="https://www.banggood.com/custlink/D33CKrHHAS" label="Frsky XM+"/> | <AffiliateLink href="https://www.banggood.com/custlink/vDGpyLAboE" label="Ricevente ELRS"/> |
+| **Telaio**      | <AffiliateLink href="https://www.banggood.com/custlink/GKDrCdNEBd" label="Clone Apex"/>  | <FPVfinderLink name="TBS Source One V5" label="TBS Source One V5"/> |
+| **Stack**       | <FPVfinderLink name="SpeedyBee F405 V3 BLS 50A 30x30 Stack" label="SpeedyBee F405 Stack"/> | <FPVfinderLink name="Stack MAMBA MK2" label="Stack MAMBA MK2"/> |
+| **Motori**      | <FPVfinderLink name="T-Motor Velox V2 2207" label="T-Motor Velox V2"/> | <FPVfinderLink name="Emax Eco II 2207" label="Emax Eco II"/> |
+| **Sistema FPV** | <AffiliateLink href="https://www.banggood.com/custlink/G3KcrynY46" label="Eachine TX805S"/> + <FPVfinderLink name="Foxeer Razer" label="Foxeer Razer"/> + <AffiliateLink href="https://www.drone-fpv-racer.com/en/cp5-rp-sma-120mm-antenna-rhcp-by-truerc-9670.html?aff=75" label="Antenna" />     | <AffiliateLink href="https://www.banggood.com/custlink/DKmpcRAy6n" label="Eachine TX805"/> + <FPVfinderLink name="Foxeer Razer" label="Foxeer Razer"/> + <AffiliateLink href="https://www.drone-fpv-racer.com/en/cp5-rp-sma-120mm-antenna-rhcp-by-truerc-9670.html?aff=75" label="Antenna"/> |
+| **Ricevente**   | <FPVfinderLink name="Frsky XM+" label="Frsky XM+"/> | <FPVfinderLink name="ExpressLRS ELRS" label="Ricevente ELRS"/> |
 | **Eliche**      | <AffiliateLink href="https://www.drone-fpv-racer.com/en/hqprop-ethix-s3-5x31x3-pc-2x-cw-2xccw-4060.html?aff=75" label="Ethix S3"/> | Qualsiasi elica 5"                         |
 | **Totale**      | **Circa 220 euro**                                                       | **Circa 240 euro**                               |
 
@@ -89,14 +90,14 @@ La scelta di questo telaio è per dure ragioni, il prezzo (mi è costato meno di
 
 Sia chiaro, da questo telaio non ci si può aspettare una qualità alla pari del frame orginale. Però penso che sia un buon compromesso per chi non vuole spendere più di 100 euro su un frame.
 
-Le istruzioni di montaggio sono semplici e chiare. Una valida alternativa dal prezzo simile è il <AffiliateLink label="TBS Source One V5" href="https://www.drone-fpv-racer.com/en/tbs-source-one-5-frame-v5-9847.html?aff=75" />.
+Le istruzioni di montaggio sono semplici e chiare. Una valida alternativa dal prezzo simile è il <FPVfinderLink name="TBS Source One V5" label="TBS Source One V5"/>.
 
 ![Il Telaio](/assets/costruire-un-drone-fpv-economico/pezzi_del_frame_dall'alto.jpg)
 
 ## Stack: FC e ESC
 Il vantaggio di uno stack è che Flight Controller ed ESC sono pensati per funzionare insieme, quindi questo tipo di setup richiede poche saldature rispetto ad altre configurazioni.
 
-Ho selezionato l'<AffiliateLink label="F405 MK2 di Mamba" href="https://www.banggood.com/custlink/Km3cWhsE6r"/> perché è una scelta economica con le funzionalità standard. Va spesso in offerta e si riesce ad aquistare spesso sotto i 100 euro. Se non vuoi aspettare i lunghi tempi di spedizione di Banggond ti consiglio di acquistarlo su <AffiliateLink href="https://www.drone-fpv-racer.com/en/diatone-mamba-f405-mk2-f50-4-6s-stack-6722.html?aff=75" label="Drone FPV Racer" />.
+Ho selezionato l'F405 MK2 di Mamba perché è una scelta economica con le funzionalità standard. Va spesso in offerta e si riesce ad aquistare spesso sotto i 100 euro. Se non vuoi aspettare i lunghi tempi di spedizione di Banggond ti consiglio di guardare su <FPVfinderLink name="Stack MAMBA MK2" label="FPVfinder"/> e vedere su quale store è disponibile. 
 
 ![Stack](/assets/costruire-un-drone-fpv-economico/stack.jpg)
 
@@ -110,7 +111,7 @@ Nel caso di una batteria 4S, le scelte più comuni sono tra i 2300 KV e i 2600 K
 
 Se non sai quale batteria scegliere, consiglio di partire direttamente con le 6S. Si ha più potenza, quindi risulta più facile evitare crash all'ultimo secondo. 
 
-Per questa build ho scelto dei motori T-motor, che sono un'ottima marca, famosi per la loro qualità costruittiva. Tuttavia, dal momento che questa è la build economica, ho optato per i Velox V2, la linea economica di T-Motor. I T-Motor Velox V2 li puoi acquistare su <AffiliateLink href="https://www.banggood.com/custlink/GvvR0iZcOF" label="Banggood"/>, <AffiliateLink href="https://www.drone24hours.com/prodotto/t-motor-v2306-v2-kv1950/?D24H=lucapalonca" label="Drone24Hours"/> oppure su <AffiliateLink label="Drone FPV Racer" href="https://www.drone-fpv-racer.com/en/t-motor-velox-v2306-v2-1950kv-7115.html?aff=75" />. Un'altra alternativa economica sono gli <AffiliateLink label="Emax ECO II" href="https://www.drone-fpv-racer.com/en/emax-eco-ii-series-2207-1700kv-brushless-motor-6908.html?aff=75"/>.
+Per questa build ho scelto dei motori T-motor, che sono un'ottima marca, famosi per la loro qualità costruittiva. Tuttavia, dal momento che questa è la build economica, ho optato per i Velox V2, la linea economica di T-Motor. I T-Motor Velox V2 li puoi cercare su <FPVfinderLink name="T-Motor Velox V2 2207" label="FPVfinder"/>. Un'altra alternativa economica sono gli <FPVfinderLink name="Emax Eco II 2207" label="Emax Eco II"/>.
 
 ## Sistema FPV
 Per chi vuole costruire un drone FPV spendendo poco la scelta è facile, bisogna usare un sistema analogico. 
@@ -125,7 +126,7 @@ Per questa build economica, tra camera, VTX e antenna ho speso circa 60 euro.
 
 Se hai già un radiocomando, assicurati di scegliere una ricevente compatibile col tuo radiocomando.
 
-Al momento la scelta più economica per una ricevente è sicuramente la <AffiliateLink href="https://www.banggood.com/custlink/D33CKrHHAS" label="Frsky XM+"/>, questa ricevente ha poche funzionalità e la distanza massima a cui riesce a ricevere segnali non è il massimo. 
+Al momento la scelta più economica per una ricevente è sicuramente la <FPVfinderLink name="Frsky XM+" label="Frsky XM+"/>, questa ricevente ha poche funzionalità e la distanza massima a cui riesce a ricevere segnali non è il massimo. 
 
 Una alternativa potrebbe essere anche utilizzare [Express LRS](https://lucafpv.com/expresslrs), sempre che il tuo radiocomando supporti questo protocollo (oppure che tu abbia comprato il modulo trasmittente).
 
@@ -134,7 +135,7 @@ Una alternativa potrebbe essere anche utilizzare [Express LRS](https://lucafpv.c
 Per poi poter pilotare il drone che costruirai avrai bisogno del classico equipaggiamento di un pilota FPV. 
 
 - **Un radiocomando**, quello che consiglio al momento è il RadioMaster TX16S con possibilmente il modulo crossfire. Se vuoi dare un'occhiata anche alle possibili alternative, leggi [quali sono i migliori radiocomandi](https://lucafpv.com/migliori-radiocomandi-per-droni-fpv).
-- **Degli occhiali FPV** per chi vuole spendere meno, le migliori scelte analogiche in ordine di prezzo decrescente sono: <AffiliateLink href="https://www.banggood.com/custlink/GKDdt3FyqU" label="Fatshark HDO2"/>, <AffiliateLink href="https://www.banggood.com/custlink/3DDygLLa4t" label="Fatshark Attitude V6"/> e infine <AffiliateLink href="https://www.banggood.com/custlink/mKmhPmbuCO" label="Eachine EV800D"/>.
+- **Degli occhiali FPV** per chi vuole spendere meno, le migliori scelte analogiche in ordine di prezzo decrescente sono: <FPVfinderLink name="Fatshark HDO2" label="Fatshark HDO2"/>, <FPVfinderLink name="Fatshark Attitude V6" label="Fatshark Attitude V6"/> e infine <FPVfinderLink name="Eachine EV800D" label="Eachine EV800D"/>.
 - **Delle batterie LiPo**, per questa build userò delle CNHL da 6S. E non dimenticare di comprare un carica LiPo. 
 
 ## Attrezzi
