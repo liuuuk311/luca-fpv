@@ -65,6 +65,9 @@ const Footer = ({cssExtraClasses}) => {
                 <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© {new Date().getFullYear()} {" "}
                     <Link to={`/`} target="_blank" className="hover:underline">{siteTitle}</Link>. All Rights Reserved.
                 </span>
+                <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
+                    Written, designed & developed by <Link to={`https://lucapalonca.com/`} target="_blank" className="hover:underline">Luca Palonca</Link>. 
+                </span>
             </div>
         </footer>
     )
